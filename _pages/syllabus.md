@@ -37,13 +37,7 @@ Suggested supplement (optional): Grace M. Giesel, [Mastering Professional Respon
 
 ### Grading
 
-Your grade will be based on three mid-term quizzes (10% each) and a final examination (70%). 
-
-The midterm quizzes and final exam will consist of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). 
-
-You will take the quizzes online outside of class by the due dates indicated in the Schedule & Assignments portion of the syllabus. The quizzes will be open book/open notes. 
-
-You will take the final exam during the Fall term exam period. You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. 
+Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. 
 
 ### Class Preparation, Attenance, & Participation 
 
