@@ -100,10 +100,10 @@
 	margin-bottom: 3rem;
 }
 
-.casebook-title {
+.casebook-title h1 {
     color: $theme-color;
     font-family: $heading-font; 
-    font-size: $title-size;
+    font-size: 1.5rem;
     line-height: $line-height;
     font-weight: $medium-weight;
     font-style: normal;
@@ -111,10 +111,10 @@
 	margin-bottom: 0;
 }
 
-.casebook-subtitle {
+.casebook-chapter h1 {
     color: $theme-color;
     font-family: $heading-font; 
-    font-size: $h1;
+    font-size: 2.25rem;
     line-height: $line-height;
     font-weight: $normal-weight;
     font-style: normal;
