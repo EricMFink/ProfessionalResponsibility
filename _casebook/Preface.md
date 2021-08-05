@@ -7,10 +7,6 @@ permalink: /Casebook/Preface/
   
 ---
 
-# Professional Responsibility An Open Source Casebook
-
-## Brian L. Frye 
-
 _It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards_
 
 — Roscoe Pound, What is a Profession—the Rise of the Legal Profession in Antiquity, 19 Notre Dame L. Rev. 203 (1944).
