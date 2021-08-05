@@ -202,50 +202,53 @@
     text-align: center;
 }
 
-/* Casebook MRPC, Cases, & Statutes */
+/* Casebook Primary Legal Authorities (Cases, Statutes, MRPC, Restatement) */
 
-.mrpc {
+.statute {
 	background-color: $light-grey;
 	padding: 20px;
 }
 
-.mrpc p {
+.statute p {
 	font-family: $body-font;
 	font-weight: $light-weight;
 }
 
-.mrpc h1, h2, h3, h4, {
-	font-family: $serif-heading-font;
+.statute h1 {
+	font-family: $sans-font;
 }
 
-.mrpc h3, h4, h5 { 
+.statute h2, h3, h4, h5, h6 {
+	font-family: $serif-font;
+}
+
+.statute h3, h4, h5 { 
 	margin-bottom: 1rem; 
 }
 
-.mrpc h1 { 
-	font-size: 1.618rem; 
+.statute h1 { 
+	font-size: 1.5rem; 
 	margin-top: 4rem; 
 }
 
-.mrpc h2 {  
-	font-size: 1.236rem; 
+.statute h2 {  
+	font-size: 1.25rem; 
 	margin-top: 3rem; 
 }
 
-.mrpc h3 {  
-	font-size: 1rem; 
+.statute h3 {  
+	font-size: 1.125rem; 
 }
 
-
 /* heading for comments */
-.mrpc h4 {  
+.statute h4 {  
 	font-size: 0.8rem; 
 	font-style: italic;
 	font-weight: $normal-weight;
 }
 
 /* body of comments */
-.mrpc h5 {
+.statute h5 {
 	font-family: $sans-font;
 	font-size: $smaller-size; 
 	font-weight: $light-weight;
@@ -254,7 +257,7 @@
 }
 
 /* body of illustrations */
-.mrpc h6 {  
+.statute h6 {  
 	font-family: $sans-font;
 	font-size: $smaller-size;
 	font-weight: $light-weight;
@@ -263,7 +266,7 @@
 	margin-left: 1rem;
 }
 
-.mrpc blockquote { 
+.statute blockquote { 
     font-size: 1rem;
 	font-weight: $light-weight;
 	font-style: normal;
@@ -275,7 +278,7 @@
 	padding: 0;
 }
 
-.mrpc blockquote p {
+.statute blockquote p {
     font-size: 1rem;
 	line-height: $line-height;
 	font-style: normal;
@@ -295,8 +298,12 @@
 	font-weight: $light-weight;
 }
 
+.case h1 {
+	font-family: $sans-font;
+}
+
 .case h1, h2, h3, h4, h5 {
-	font-family: $serif-heading-font;
+	font-family: $serif-font;
 }
 
 .case h3, h4, h5 {
@@ -304,17 +311,17 @@
 }
 
 .case h1 {
-	font-size: $h3;
+	font-size: 1.5rem;
     margin-top: 2rem;
 }
 
 .case h2 {
-	font-size: $h4;
+	font-size: 1.25rem;
 	font-style: normal;
 }
 
 .case h3 {
-	font-size: $h4;
+	font-size: 1.25rem;
 	font-weight: normal;
 	font-style: italic;
 }
@@ -368,82 +375,6 @@ blockquote p {
 	font-style: normal;
 	margin-top: 1rem; 
 	margin-bottom: .5rem;
-}
-
-.statute p {
-	font-family: $body-font;
-	font-weight: $light-weight;
-}
-
-.statute h1, h2, h3, h4, {
-	font-family: $serif-heading-font;
-}
-
-.statute h3, h4, h5 { 
-	margin-bottom: 1rem; 
-}
-
-.statute h1 { 
-	font-size: 1.618rem; 
-	margin-top: 4rem; 
-}
-
-.statute h2 {  
-	font-size: 1.236rem; 
-	margin-top: 3rem; 
-}
-
-.statute h3 {  
-	font-size: 1rem; 
-}
-
-
-/* heading for comments */
-.statute h4 {  
-	font-size: 0.8rem; 
-	font-style: italic;
-	font-weight: $normal-weight;
-}
-
-/* body of comments */
-.statute h5 {
-	font-family: $sans-font;
-	font-size: $smaller-size; 
-	font-weight: $light-weight;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-/* body of illustrations */
-.statute h6 {  
-	font-family: $sans-font;
-	font-size: $smaller-size;
-	font-weight: $light-weight;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-	margin-left: 1rem;
-}
-
-.statute blockquote { 
-    font-size: 1rem;
-	font-weight: $light-weight;
-	font-style: normal;
-	line-height: $line-height;
-	border: none; 
-    margin-left: 1.5rem;
-	margin-top: 1rem; 
-	margin-bottom: 1rem; 
-	padding: 0;
-}
-
-.statute blockquote p {
-    font-size: 1rem;
-	line-height: $line-height;
-	font-style: normal;
-	margin-top: 1rem; 
-	margin-bottom: 1rem; 
-    padding: 0;
-	max-width: 50rem;
 }
 
 
