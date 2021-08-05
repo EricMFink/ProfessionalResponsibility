@@ -295,7 +295,7 @@ section {
 
 .cover a {
     color: $medium-grey;
-    text-decoration: underline;
+    text-decoration: none;
     &:hover {
 		color:darken($medium-grey, 20%);
     }
@@ -346,6 +346,10 @@ section {
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
+.toc-button {
+	float:right;
+	padding-bottom: 2px;
+}
 
 
 /* Casebook Chapter Pages */

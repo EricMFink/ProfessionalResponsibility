@@ -13,4 +13,4 @@ title: Casebook
 
 ## Edited and revised by Eric M. Fink
 
-#### <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-zero"></i>"></i></a>
+#### <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-zero"></i></a>
