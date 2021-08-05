@@ -1,7 +1,7 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
+title: PR Casebook
 chapter: '7: The Regulation of the Legal Profession'
 permalink: /Casebook/Part7/
   

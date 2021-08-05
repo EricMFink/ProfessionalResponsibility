@@ -1,7 +1,7 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
+title: PR Casebook
 chapter: '1: Introduction'
 permalink: /Casebook/Part1/
     

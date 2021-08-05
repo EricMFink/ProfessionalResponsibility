@@ -1,7 +1,7 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
+title: PR Casebook
 chapter: '4: Conflicts of Interest'
 permalink: /Casebook/Part4/
   
