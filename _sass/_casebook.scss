@@ -293,6 +293,14 @@ section {
 	color: white;
 }
 
+.cover a {
+    color: $medium-grey;
+    text-decoration: underline;
+    &:hover {
+		color:darken($medium-grey, 20%);
+    }
+}
+
 .cover ul, ol {
 	width: 90%;
 	margin-left: auto;
@@ -307,6 +315,10 @@ section {
     color: white;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.cover h1 + h2 {
+    margin-top: 3rem;
 }
 
 .cover h2 {
@@ -330,9 +342,11 @@ section {
 	font-style: normal;
     color: white;
     line-height: $line-height;
-    margin: 0 0 0 0;
+    margin: 3rem 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
+
+
 
 /* Casebook Chapter Pages */
 

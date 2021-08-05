@@ -9,8 +9,8 @@ title: Casebook
 
 # An Open-Source Casebook
 
-### Brian L. Frye & Elizabeth Schiller
+## Brian L. Frye & Elizabeth Schiller
 
-### Edited and revised by Eric M. Fink
+## Edited and revised by Eric M. Fink
 
-#### [CC0/No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0)
+#### <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-zero"></i>"></i></a>
