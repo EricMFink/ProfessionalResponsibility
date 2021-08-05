@@ -190,7 +190,7 @@ article a, .news a {
 
 blockquote { 
 	font-size: $small-size; 
-	font-weight: $thin-weight;
+	font-weight: $extra-light-weight;
 	display: block; 
 	border-left: 4px solid #b03a2e; 
 	padding: 0 0 0 1rem; 
@@ -383,7 +383,7 @@ section {
 .casebook-subtitle {
     color: $theme-color;
     font-family: $heading-font; 
-    font-size: $subtitle-size;
+    font-size: $h1;
     line-height: $line-height;
     font-weight: $normal-weight;
     font-style: normal;
@@ -402,21 +402,65 @@ section {
 	margin-bottom: 0;
 }
 
+
 .casebook h1 {
-	font-size: $h2;
+	font-size: 2rem;
 }
 
 .casebook h2 {
-	font-size: $h3;
+	font-size: 1.5rem;
+	font-style: italic;
 }
 
 .casebook h3 {
-	font-size: $h4;
+	font-size: 1.25rem;
+	font-style: italic;
 }
 
 .casebook h4 {
-	font-size: $h5;
+	font-size: 1.125rem;
 }
+
+.casebook h5 {
+	font-size: 1.5rem;
+}
+
+.casebook h6 {
+	font-family: $sans-font;
+	font-size: 1.5rem;
+}
+
+
+blockquote { 
+	font-size: $small-size; 
+	font-weight: $normal-weight;
+	display: block; 
+	border-left: 4px solid #b03a2e; 
+	padding: 0 0 0 1rem; 
+	margin-top: 2rem; 
+	margin-bottom: 2rem; 
+	margin-left: 1rem; 
+	margin-right: 0; 
+	position: relative; 
+}
+
+blockquote blockquote { 
+	border: none; 
+	margin-top: .5rem; 
+	margin-bottom: .5rem; 
+	margin-left: .5rem; 
+}
+
+blockquote p { 
+	font-size: $medium-size; 
+	font-weight: $normal-weight;
+	font-style: italic; 
+	margin-top: .5rem; 
+	margin-bottom: .8rem; 
+	max-width: 35rem; 
+	line-height: $line-height; 
+}
+
 
 .illustration {
     padding-top: 2rem;
@@ -428,8 +472,6 @@ section {
 .center{
     text-align: center;
 }
-
-
 
 /* Casebook Cases, Statutes, & Rules */
 
