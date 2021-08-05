@@ -134,15 +134,20 @@
 .casebook h2 {
 	font-size: 1.5rem;
 	font-style: italic;
+	border-top: 3px solid $dull-red;
+	border-left: 3px solid $dull-red;
+	padding-top: 15px;
+	padding-left: 15px;
+	margin-top: 5rem;
 }
 
 .casebook h3 {
-	font-size: 1.25rem;
+	font-size: 1.125rem;
 	font-style: italic;
 }
 
 .casebook h4 {
-	font-size: 1.125rem;
+	font-size: 1rem;
 }
 
 .casebook h5 {
@@ -155,7 +160,7 @@
 }
 
 
-blockquote { 
+.casebook blockquote { 
 	font-size: $small-size; 
 	font-weight: $normal-weight;
 	display: block; 
@@ -168,14 +173,14 @@ blockquote {
 	position: relative; 
 }
 
-blockquote blockquote { 
+.casebook blockquote blockquote { 
 	border: none; 
 	margin-top: .5rem; 
 	margin-bottom: .5rem; 
 	margin-left: .5rem; 
 }
 
-blockquote p { 
+.casebook blockquote p { 
 	font-size: $medium-size; 
 	font-weight: $normal-weight;
 	font-style: italic; 
@@ -197,7 +202,94 @@ blockquote p {
     text-align: center;
 }
 
-/* Casebook Cases, Statutes, & Rules */
+/* Casebook MRPC, Cases, & Statutes */
+
+.mrpc {
+	background-color: $light-grey;
+	padding: 20px;
+}
+
+.mrpc p {
+	font-family: $body-font;
+	font-weight: $light-weight;
+}
+
+.mrpc h1, h2, h3, h4, {
+	font-family: $serif-heading-font;
+}
+
+.mrpc h3, h4, h5 { 
+	margin-bottom: 1rem; 
+}
+
+.mrpc h1 { 
+	font-size: 1.618rem; 
+	margin-top: 4rem; 
+}
+
+.mrpc h2 {  
+	font-size: 1.236rem; 
+	margin-top: 3rem; 
+}
+
+.mrpc h3 {  
+	font-size: 1rem; 
+}
+
+
+/* heading for comments */
+.mrpc h4 {  
+	font-size: 0.8rem; 
+	font-style: italic;
+	font-weight: $normal-weight;
+}
+
+/* body of comments */
+.mrpc h5 {
+	font-family: $sans-font;
+	font-size: $smaller-size; 
+	font-weight: $light-weight;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+/* body of illustrations */
+.mrpc h6 {  
+	font-family: $sans-font;
+	font-size: $smaller-size;
+	font-weight: $light-weight;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 1rem;
+}
+
+.mrpc blockquote { 
+    font-size: 1rem;
+	font-weight: $light-weight;
+	font-style: normal;
+	line-height: $line-height;
+	border: none; 
+    margin-left: 1.5rem;
+	margin-top: 1rem; 
+	margin-bottom: 1rem; 
+	padding: 0;
+}
+
+.mrpc blockquote p {
+    font-size: 1rem;
+	line-height: $line-height;
+	font-style: normal;
+	margin-top: 1rem; 
+	margin-bottom: 1rem; 
+    padding: 0;
+	max-width: 50rem;
+}
+
+
+.case {
+	background-color: $light-grey;
+	padding: 20px;
+}
 
 .case p {
 	font-weight: $light-weight;

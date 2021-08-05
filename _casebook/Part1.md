@@ -47,8 +47,12 @@ Accordingly, this casebook focuses on describing the law of professional respons
 
 Of course, studying an area of law inevitably provokes reflections on its purpose and justification. Even a casebook devoted to the study of the regulation of legal practice cannot avoid implicating questions of legal ethics. What values does the law of professional responsibility express? Are those values justified? What makes a rule of professional conduct justified or unjustified? What is the purpose of the law of professional responsibility? All of these ethical issues are implicit in the subject matter of this class. But they are not the subject matter of this casebook. Or at the very least, while this casebook may directly or indirectly raise those questions, it does not purport to answer them or take a position on how they should be answered. 
 
+<div class="mrpc"
+
 ###### Model Rules of Professional Conduct: Preamble & Scope  
 
+
+</div>
 
 ##### Questions 
 
@@ -57,6 +61,8 @@ Of course, studying an area of law inevitably provokes reflections on its purpos
 2. Does the Preamble seem to describe disciplinary rules, ethical rules, or both? What about the section on the scope of the Model Rules? 
 
 3. Does the Preamble suggest that the Model Rules provide ethical guidance for attorneys? What about the section on scope?  
+
+--- 
 
 ## The Duty of Zealous Representation 
 
