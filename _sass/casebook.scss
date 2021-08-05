@@ -1,0 +1,74 @@
+.casebook-container {
+    padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY.casebook */
+}
+
+.center-screen {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.casebook-header {
+	margin-bottom: 3rem;
+}
+
+.casebook-title {
+    color: $theme-color;
+    font-family: $heading-font; 
+    font-size: $title-size;
+    line-height: $line-height;
+    font-weight: $medium-weight;
+    font-style: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.casebook-subtitle {
+    color: $theme-color;
+    font-family: $heading-font; 
+    font-size: $subtitle-size;
+    line-height: $line-height;
+    font-weight: $normal-weight;
+    font-style: normal;
+    line-height: 1;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.casebook-cite {
+    font-family: $serif-font; 
+	color: $text-color;
+    font-size: $body-size;
+    line-height: $line-height;
+    font-weight: $light-weight;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.sidenotes.casebook h1 {
+	font-size: $h2;
+}
+
+.sidenotes.casebook h2 {
+	font-size: $h3;
+}
+
+.sidenotes.casebook h3 {
+	font-size: $h4;
+}
+
+.sidenotes.casebook h4 {
+	font-size: $h5;
+}
+
+.illustration {
+    padding-top: 2rem;
+    padding-top: 2rem;
+    height: auto;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
