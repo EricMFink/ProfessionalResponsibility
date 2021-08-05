@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '2: The Attorney-Client Relationship'
-permalink: /Part2/
+permalink: /Casebook/Part2/
   
 ---
 

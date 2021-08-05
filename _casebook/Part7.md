@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '7: The Regulation of the Legal Profession'
-permalink: /Part7/
+permalink: /Casebook/Part7/
   
 ---
 

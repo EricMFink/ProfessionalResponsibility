@@ -1,16 +1,18 @@
 ---
 layout: casebook
-permalink: /contents/
+permalink: /Casebook/Contents/
 title: Table of Contents
 
 ---
 
-# Part 1: Introduction 
+[Preface](/Casebook/Preface/)
+
+[Part 1: Introduction](/Casebook/Part1/)
 
 - 1.1: Introduction to Professional Responsibility 
 - 1.2: History of the Legal Profession 
 
-# Part 2: The Attorney-Client Relationship 
+[Part 2: The Attorney-Client Relationship](/Casebook/Part2/)
 
 - 2.1: Creating an Attorney-Client Relationship 
 - 2.2: Ending an Attorney-Client Relationship 
@@ -22,13 +24,13 @@ title: Table of Contents
 - 2.8: Organizations as Clients 
 - 2.9: Agents as Clients 
 
-# Part 3: The Legal Duties of an Attorney 
+[Part 3: The Legal Duties of an Attorney](/Casebook/Part3/)
 
 - 3.1: Fiduciary Duties 
 - 3.2: Legal Malpractice 
 - 3.3: Ineffective Assistance of Counsel 
 
-# Part 4: Conflicts of Interest 
+[Part 4: Conflicts of Interest](/Casebook/Part4/)
 
 - 4.1: Identifying Conflicts of Interest 
 - 4.2: Resolving Conflicts of Interest 
@@ -39,7 +41,7 @@ title: Table of Contents
 - 4.7: Specific Conflicts of Interest 
 - 4.8: Personal Conflicts of Interest 
 
-# Part 5: Confidentiality 
+[Part 5: Confidentiality](/Casebook/Part5/)
 
 - 5.1: The Duty of Confidentiality 
 - 5.2: Exceptions to the Duty of Confidentiality 
@@ -49,7 +51,7 @@ title: Table of Contents
 - 5.6: The Work Product Doctrine 
 - 5.7: Exceptions to Privilege & Work Product 
 
-# Part 6: Advocacy & Conduct 
+[Part 6: Advocacy & Conduct}(/Casebook/Part6/)
 
 - 6.1: Frivolous Pleading 
 - 6.2: Improper Advocacy 
@@ -57,7 +59,7 @@ title: Table of Contents
 - 6.4: Client Perjury 
 - 6.5: Alternative Dispute Resolution 
 
-# Part 7: The Regulation of the Legal Profession 
+[Part 7: The Regulation of the Legal Profession](/Casebook/Part7/)
 
 - 7.1: Bar Admission 
 - 7.2: Advertising 

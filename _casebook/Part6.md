@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: 'Section 6: Advocacy & Conduct in Litigation'
-permalink: /Part6/
+permalink: /Casebook/Part6/
   
 ---
 

@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '1: Introduction'
-permalink: /Part1/
+permalink: /Casebook/Part1/
     
 ---
 

@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '5: Confidentiality & Privileges'
-permalink: /Part5/
+permalink: /Casebook/Part5/
   
 ---
 

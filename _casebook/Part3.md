@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '3: The Legal Duties of an Attorney'
-permalink: /Part3/
+permalink: /Casebook/Part3/
   
 ---
 

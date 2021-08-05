@@ -3,7 +3,7 @@ layout: casebook
 
 title: Professional Responsibility
 chapter: '4: Conflicts of Interest'
-permalink: /Part4/
+permalink: /Casebook/Part4/
   
 ---
 
