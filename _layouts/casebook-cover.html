@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="fullwidth">
+	<div class="cover-image" style="background-image: url('casebook.png');">
+		{% include header.html %}
+		<div class="page-container">
+			<div class="cover">
+			<div class="cover-block">
+				{{ content }}
+			</div>
+			{% include footer.html %}
+			{% include hemline.html %}
+		</div>
+	</div>
+</div>
+</body>
+
+</html>

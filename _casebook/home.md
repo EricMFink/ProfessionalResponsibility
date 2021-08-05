@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: /
-title: home
+layout: casebook-cover
+permalink: /Casebook/
+title: Casebook
 
 ---
 
