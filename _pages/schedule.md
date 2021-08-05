@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-permalink: /schedule/
+permalink: /Schedule/
 title: Schedule & Assignments
 
 ---

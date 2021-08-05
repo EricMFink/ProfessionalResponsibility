@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-permalink: /information/
+permalink: /Information/
 title: Course Information 
   
 ---

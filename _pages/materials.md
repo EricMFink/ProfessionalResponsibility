@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /materials/
+permalink: /Materials/
 title: 'Study Aids & Additional Reading'
 
 ---
