@@ -13,4 +13,4 @@ title: Casebook
 
 ## Edited and revised by Eric M. Fink
 
-#### <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">![CC0 Public Domain](../../../../../CC0.png)</a>
+#### <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">![CC0 Public Domain]({{ site.baseurl}}/Casebook/CC0.png)</a>
