@@ -113,7 +113,7 @@ title: 'Study Aids & Additional Reading'
 
 ### Client Funds & Property 
 
-- North Carolina State Bar, [Lawyer's Trust Account Handbook]({{ site.baseurl }}/assets/materials/ClientFunds&Property/TrustAccountHandbooks.pdf) (Nov. 2017)
+- North Carolina State Bar, [Lawyer's Trust Account Handbook]({{ site.baseurl }}/assets/materials/ClientFunds&Property/TrustAccountHandbook.pdf) (Nov. 2017)
 
 ## Duties to Clients 
 
