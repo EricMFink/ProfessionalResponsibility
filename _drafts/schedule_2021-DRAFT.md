@@ -136,3 +136,7 @@ title: Schedule & Assignments
 #### November 23-26
 
 ##### Quiz: Unit 4 
+
+#### December 3 
+
+### Final Exam 
