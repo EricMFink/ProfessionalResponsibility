@@ -4,6 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 1—Client-Lawyer Relationship'
+permalink: /NCRPC/Section1/
     
 ---
 
