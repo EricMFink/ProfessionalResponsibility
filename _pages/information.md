@@ -11,7 +11,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 # Course Material
 
-All assigned material will be available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has subject outlines, review questions, and links to other relevant material. 
+The primary reading for this course will include the Rules of Professional Conduct ("Rules"),{% marginnote "margin-note-id" "Because the ABA Model Rules are protected by copyright, most of the assignments will be from corresponding provisions of the NC Rules of Professional Conduct, which closely follow the ABA Model Rules but are in the public domain. Substantial differences between the NC Rule and the ABA Model Rules are noted in the material." %} the Restatement (3d) of the Law Governing Lawyers ("Restatement"), statutes, and cases. All assigned material will be available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
 
 Suggested supplement (optional): Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 

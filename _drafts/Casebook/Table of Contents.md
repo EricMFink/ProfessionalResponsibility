@@ -1,111 +1,57 @@
-Table of Contents
+Contents 
 
-Page
+1. Law as a Regulated Profession
 
-[Part 1. Introduction]({{ site.baseurl}}/Part1/)
+1.1
 
-[Section 1.1: Introduction to Professional
-Responsibility]()
+1.2 Bar Admission & Attorney Discipline
 
-[Section 1.2: The History of the Legal
-Profession]()
+1.3 Law Firms
 
-[Part 2. The Attorney-Client
-Relationship]({{ site.baseurl}}/Part1/)
-
-[Section 2.1: Establishing and Ending an Attorney-Client
-Relationship]()
-
-- Establishment 
-- Termination 
-
-[Section 2.2: Attorney and Client as Agent and Principal]()
-
-[Section 2.3: Organizations as Clients]()
-
-- Representing Organizations 
-- Representing Organizational Constituents 
-
-[Section 2.4: Attorney's Fees and Client Property](https://drive.google.com/open?id=1UWcX9JP3cw2q80xI5cmdUgTBH3rxPf8AmmJ46leMis)
+1.4 Advertising & Solicitation
 
 
-[Part 3. Duties to Clients]({{ site.baseurl}}/Part3/)
+2. The Attorney-Client Relationship
 
-[Section 3.1: Overview]
+2.1 Prospective Clients 
 
-[Section 3.2: Competence, Diligence, & Communication]()
+2.2 Establishing Representation 
 
-- Competence 
+2.3 Declining and Terminating Representation 
 
-- Diligence & Communication 
+2.4 Scope of Representation & Authority
 
-- Ineffective Assistance of Counsel
+2.5 Organizational Clients 
 
-[Section 3.3. Conflicts of Interest]
+2.6 Clients with Diminished Capacity
 
-- Identifying Conflicts of Interest
+2.7 Attorney Fees 
 
-- Resolving Conflicts of Interest
+2.8 Client Property 
 
-- Breach of the Duty of Loyalty
-
-- Current Client Conflicts of Interest
-
-- Former Client Conflicts on Interest
-
-- Associational Conflicts of Interest
-
-- Specific Conflicts of Interest
-
-- Personal Conflicts of Interest
-
-- Financial Relationships with Clients
-
-- Other Personal Conflicts 
-
-[Section 3.4. Confidentiality]()
-
-- The Duty of Confidentiality
-
-- Exceptions to the Duty of Confidentiality
-
-- The Attorney-Client Privilege
-
-- Applying the Attorney-Client Privilege
-
-- Corporate Privilege
-
-- The Work Product Doctrine
-
-- Exceptions to Privilege & Work Product
+2.9 Competence, Diligence, & Communication
 
 
-Part 4. Duties to Other Persons and Tribunals 
+3. Confidentiality & Privilege 
 
-Section 6.1 Advocacy & Conduct in Litigation 
+3.1 Duty of Confidentiality
 
-- Frivolous Pleading
+3.2 Client Communication Privilege 
 
-- Improper Advocacy
-
-- Attorney Misconduct
-
-- Ex parte communications 
-
-- Client Perjury
-
-- Alternative Dispute Resolution
-
-Part 5: Regulation of the Legal Profession
-
-Section 7.1: Bar Admission
-
-Section 7.2: Advertising & Solicitation 
-
-Secction 7.3: Prosecutorial Misconduct
-
-Section 7.4: Judicial Recusal & Misconduct
-
-Part 6: Justifying the Rules of Professional Responsibility
+3.3 Work Product Doctrine 
 
 
+4. Conflicts of Interest 
+
+4.1 Conflicts Involving Current Clients 
+
+4.2 Conflicts Involving Former Clients
+
+4.3 Imputation of Conflicts
+
+
+6. Duties to Non-Clients 
+
+5.1 Duties to Tribunals and Parties 
+
+5.2 Duties to Non-Clients 
