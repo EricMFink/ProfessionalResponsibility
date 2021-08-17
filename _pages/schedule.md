@@ -13,7 +13,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### The Legal Profession 
 
-READING 
+- 
 
 ### Regulation of Lawyers 
 
