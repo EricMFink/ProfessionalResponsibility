@@ -4,6 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 8—Maintaining the Integrity of the Profession'
+permalink: /rules/Section8/
     
 ---
 

@@ -3,6 +3,7 @@ layout: statute
 
 course: Professional Responsibility
 title: ABA Model Rules of Professional Conduct
+permalink: /rules/MRPC_1-15/
   
 ---
 

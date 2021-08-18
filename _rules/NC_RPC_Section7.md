@@ -4,6 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 7—Information About Legal Services'
+permalink: /rules/Section7/
     
 ---
 

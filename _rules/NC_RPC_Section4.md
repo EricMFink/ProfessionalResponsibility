@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 4—Transactions With Persons Other Than Clients'
-permalink: /NCRPC/Section4/
+permalink: /rules/Section4/
     
 ---
 

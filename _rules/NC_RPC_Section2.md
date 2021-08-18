@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 2—Counselor'
-permalink: /NCRPC/Section2/
+permalink: /rules/Section2/
     
 ---
 

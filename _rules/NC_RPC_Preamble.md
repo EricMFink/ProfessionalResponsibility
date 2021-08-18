@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Preamble & Scope; Terminology'
-permalink: /NCRPC/Preamble/
+permalink: /rules/Preamble/
   
 ---
 

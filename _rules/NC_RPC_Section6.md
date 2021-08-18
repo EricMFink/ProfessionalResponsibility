@@ -4,6 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 6—Public Service'
+permalink: /rules/Section6/
     
 ---
 

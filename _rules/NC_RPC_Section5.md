@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 5—Law Firms & Associations'
-permalink: /NCRPC/Section5/
+permalink: /rules/Section5/
     
 ---
 
