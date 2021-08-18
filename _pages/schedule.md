@@ -14,6 +14,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 ### The Legal Profession 
 
 - Andrew Abbott, [The System of Professions](https://www.emfink.net/ProfessionalResponsibility/readings/Abbott) (1988) (Excerpts)
+- [People v. Alfani](https://www.emfink.net/ProfessionalResponsibility/cases/Alfani), 125 A. 671 (NY 1919)
 
 ### Regulation of Lawyers 
 
@@ -44,7 +45,6 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - Model Rules: 5.5
 - [Restatement § 4](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84.html)
-- [People v. Alfani](https://www.emfink.net/ProfessionalResponsibility/cases/Alfani), 125 A. 671 (NY 1919)
 - [Birbrower, Montalbano, Condon & Frank v. Superior Court](https://scholar.google.com/scholar_case?case=17875531284498988901), 70 Cal.Rptr.2d 304 (Cal. 1998)
 - [Estate of Condon v. McHenry](https://scholar.google.com/scholar_case?case=14039188124807111305), 76 Cal.Rptr.2d 922 (Cal. App. 1998)
 - [In re Trester](https://scholar.google.com/scholar_case?case=17518973051504445951), 172 P.3d 31 (Kan. 2007)
