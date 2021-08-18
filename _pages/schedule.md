@@ -1,5 +1,5 @@
 ---
-layout: syllabus
+layout: syllabus_sidenotes
 permalink: /Schedule/
 title: Schedule & Assignments
 
