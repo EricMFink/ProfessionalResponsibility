@@ -13,22 +13,29 @@
 				{% if page.subtitle %}
 				<h2 class="page-subtitle">{{ page.subtitle }}</h2>
 				{% endif %}
-				{% if page.author %}
-				<h3 class="page-cite">{{ page.author }}</h3>
-				{% endif %}
-				{% if page.cite %}
-				<h3 class="page-cite">{{ page.cite }} ({% if page.jurisdiction %}{{ page.jurisdiction }} {% endif %}{% if page.published %}{{ page.published }}){% endif %}</h3>
-				{% endif %}
-				{% if page.panel %}
-				<h3 class="page-cite">{{ page.panel }}</h3>
-				{% endif %}
-				{% if page.judge %}
-				<h3 class="page-cite">{{ page.judge }}</h3>
-				{% endif %}
+			<a href='{{ site.baseurl }}/assets/pdf/syllabus.pdf'><button class='button syllabus smaller'>PDF</button></a>
 			</div>
 
 <div class="sidenotes-page">
-{{ content }}
+
+<div class="syllabus">
+
+	<h6>{{ site.data.course.subject }}</h6>
+	<h6>{{ site.data.author.institution }}</h6>
+	<h6>{{ site.data.course.term }}</h6>
+	<h6>{{ site.data.course.room }}</h6>
+	<h6>{{ site.data.course.meets }}</h6>
+
+	<br>
+	<h6>{{ site.data.author.name }}</h6>
+	<h6><a href="{{ site.data.author.email }}">{{ site.data.author.email }}</a></h6>
+	<h6>{{ site.data.author.phone }}</h6>
+	<h6>Office hours <a href=https://calendly.com/emfink />by appointment</a></h6>
+
+	{{ content }}
+
+</div> 
+
 </div>
 
 <article>
