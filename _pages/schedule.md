@@ -13,7 +13,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### The Legal Profession 
 
-- 
+- Andrew Abbott, [The System of Professions](https://www.emfink.net/ProfessionalResponsibility/readings/Abbott) (1988) (Excerpts)
 
 ### Regulation of Lawyers 
 
