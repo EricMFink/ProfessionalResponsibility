@@ -99,7 +99,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### Prospective Clients 
 
-- Rule [1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
+- [NCRPC Rule 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement § 15](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
 - CASES
 
@@ -167,7 +167,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### Confidential Information 
 
-- Rules [1.6, 1.9(c), 1.13, 1.14, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [4.4(b)](https://www.emfink.net/ProfessionalResponsibility/rules/Section4); [8.6](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
+- [NCRPC Rules 1.6, 1.9(c), 1.13, 1.14, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [4.4(b)](https://www.emfink.net/ProfessionalResponsibility/rules/Section4); [8.6](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
 - [Restatement §§ 59-67](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
 - CASES
 
@@ -187,7 +187,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### Conflicts Involving Current Clients 
 
-- Rules [1.7 & 1.8](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [6.3, 6.4, 6.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section6)
+- [NCRPC Rules 1.7 & 1.8](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [6.3, 6.4, 6.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section6)
 - [Restatement §§ 121, 122, 125-127, 128-131, 134-135](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
 - CASES
 
@@ -203,7 +203,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### Imputation of Conflicts
 
-- Rules [1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
+- [NCRPC Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 123-124](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
 - CASES
 
