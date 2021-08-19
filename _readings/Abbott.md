@@ -188,7 +188,7 @@ Did the legal profession grow in relation to this changing body of work? Garriso
 
 [ … ] 
 
-Of the three forms of conflict, two involve the failure to adjust output and demand. In many professions—and the law is one of them—output is closely tied to manpower. [ … ] [A] rigid demographic structure {% marginnote "margin-note-id" "'Demographic rigidity' describes professional career patterns that tend to 'prevent [the profession from] expanding or contracting rapidly'. See Abbott, Chap. 5." %} leaves a profession quite unable to respond to sudden expansion in demand.
+Of the three forms of conflict, two involve the failure to adjust output and demand. In many professions—and the law is one of them—output is closely tied to manpower. [ … ] [A] rigid demographic structure leaves a profession quite unable to respond to sudden expansion in demand. {% marginnote "margin-note-id" "'Demographic rigidity' describes professional career patterns that tend to 'prevent [the profession from] expanding or contracting rapidly'. See Abbott, Chap. 5." %} 
 
 [ … ] 
 
