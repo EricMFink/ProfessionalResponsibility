@@ -1,6 +1,6 @@
 ---
 layout: sidenotes 
-permalink: /readings/Abbott1988/
+permalink: /readings/Abbott/
 
 course: Civil Procedure 
 title: 'The System of Professions'
