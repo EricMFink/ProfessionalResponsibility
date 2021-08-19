@@ -23,16 +23,11 @@ output:
 
 # Description
 
-This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct[^a1331217] and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam.
-
-[^a1331217]: Because the ABA Model Rules are protected by copyright, the course materials use the NC Rules of Professional Conduct, which closely follow the ABA Model Rules in most respects. Significant differences between the NC Rules and the ABA Model Rules are noted in the course materials. 
+This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam. 
 
 # Course Material
 
-
-The primary reading for this course will include the Rules of Professional Conduct ("Rules"),[^5c921f0b] the Restatement (3d) of the Law Governing Lawyers ("Restatement"), statutes, and cases. All assigned material will be available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
-
-[^5c921f0b]: Because the ABA Model Rules are protected by copyright, most of the assignments will be from corresponding provisions of the NC Rules of Professional Conduct, which closely follow the ABA Model Rules but are in the public domain. Substantial differences between the NC Rule and the ABA Model Rules are noted in the material.
+All assigned material will be available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
 
 Suggested supplement (optional): Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
@@ -54,7 +49,7 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 ### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/u/law/academics/registrar/).
 
 ### Honor Code
 
