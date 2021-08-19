@@ -1,5 +1,5 @@
 ---
-layout: syllabus_sidenotes
+layout: syllabus
 permalink: /Schedule/
 title: Schedule & Assignments
 
@@ -18,11 +18,13 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ### Regulation of Lawyers 
 
-- [NC Rules of Professional Conduct: Preamble & Scope; Rule 1.0 (Terminology)](https://www.emfink.net/ProfessionalResponsibility/rules/NC_RPC_Preamble) {% marginnote "margin-note-id" "The NC Rules of Professional Conduct closely follow the ABA Model Rules in most respects, but are not subject to copyright restrictions. Where they differ substantially, I have assigned the relevant provisions of the ABA Model Rules instead." %}
+- [NC Rules of Professional Conduct: Preamble & Scope; Rule 1.0 (Terminology)](https://www.emfink.net/ProfessionalResponsibility/rules/NC_RPC_Preamble)[^d0ffc96d]
 - [Restatement § 1](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [NC Gen. Stat. §§ 84-15, 84-16, 84-23](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84.html)
 - [In re Creasey](https://scholar.google.com/scholar_case?case=5582825786123194697), 12 P.3d 214 (Ariz. 2000) 
 - [Sheller v. Superior Court](https://scholar.google.com/scholar_case?case=17035611508566946395), 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
+
+[^d0ffc96d]: The NC Rules of Professional Conduct closely follow the ABA Model Rules in most respects, but are not subject to copyright restrictions. Where they differ substantially, I have assigned the relevant provisions of the ABA Model Rules instead.
 
 ## Professional Gatekeeping & Regulation 
 
