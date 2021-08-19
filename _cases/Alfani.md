@@ -63,9 +63,10 @@ The defendant, at the time stated in the information, was a notary public, livin
 --- 
 
 <div class="center-img">
+<br>
+<img src="Alfani.png">
 
-![Alfani Window Sign](Alfani.png)
-
+<br><br>
 </div>
 
 --- 
