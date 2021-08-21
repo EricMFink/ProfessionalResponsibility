@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-
-<body class="sidenotes">
-	{% include header.html %}
+---
+layout: centered
+---
 
 <div class="page-container">
-<article class="group">
 
 			<div class="page-header group">
 				<h1 class="page-title">{{ page.title }}</h1>
@@ -19,22 +15,11 @@
 				{% if page.cite %}
 				<h3 class="page-cite">{{ page.cite }} ({% if page.jurisdiction %}{{ page.jurisdiction }} {% endif %}{% if page.published %}{{ page.published }}){% endif %}</h3>
 				{% endif %}
+				{% if page.institution %}
+				<h4 class="page-cite">{{ page.institution }}</h4>
+				{% endif %}
 			</div>
 
-<div class="sidenotes-page">
+{{ content }}
 
-<div class="statute">
-	{{ content }}
 </div>
-	
-</div>
-
-<article>
-</div>
-	
-	{% include print-footer.html %}
-	{% include hemline.html %}
-
-</body>
-
-</html>
