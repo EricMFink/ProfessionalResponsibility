@@ -2,7 +2,7 @@
 layout: sidenotes 
 permalink: /readings/Abbott/
 
-course: Civil Procedure 
+ 
 title: 'The System of Professions'
 author: 'Andrew Abbott'
 published: '1988'

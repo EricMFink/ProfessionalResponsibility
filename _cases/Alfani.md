@@ -1,7 +1,7 @@
 ---
 layout: case
 
-course: Civil Procedure 
+ 
 title: 'People v. Alfani'
 cite: '125 A. 671'
 jurisdiction: 'NY'

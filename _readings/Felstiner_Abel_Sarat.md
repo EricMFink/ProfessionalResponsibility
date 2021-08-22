@@ -2,7 +2,7 @@
 layout: sidenotes 
 permalink: /readings/Felstiner_Abel_Sarat/
 
-course: Civil Procedure 
+ 
 title: 'The Emergence and Transformation of Disputes'
 author: 'William L.F. Felstiner, Richard L. Abel & Austin Sarat'
 cite: '15 Law & Society Review 630'

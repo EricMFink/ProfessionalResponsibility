@@ -1,7 +1,7 @@
 ---
 layout: case
 
-course: Civil Procedure 
+ 
 title: 'Neal v. Clinton'
 cite: 'No. CIV 2000–5677'
 jurisdiction: 'Ark. Cir. Ct.'
