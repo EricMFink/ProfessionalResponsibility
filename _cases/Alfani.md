@@ -1,6 +1,5 @@
 ---
 layout: case
-
  
 title: 'People v. Alfani'
 cite: '125 A. 671'

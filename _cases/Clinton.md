@@ -1,6 +1,5 @@
 ---
 layout: case
-
  
 title: 'Neal v. Clinton'
 cite: 'No. CIV 2000–5677'
