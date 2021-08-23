@@ -21,7 +21,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [NC Rules of Professional Conduct: Preamble & Scope; Rule 1.0 (Terminology)](https://www.emfink.net/ProfessionalResponsibility/rules/Preamble)
 	- N.B. The NC Rules of Professional Conduct closely follow the ABA Model Rules in most respects. Where they differ substantially, I have assigned the relevant provisions of the ABA Model Rules instead.
 - [Restatement § 1](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
-- [NC Gen. Stat. §§ 84-15, 84-16, 84-23](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84.html)
+- [NC Gen. Stat. §§ 84-15, 84-16, 84-23](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84)
 - [In re Creasey](https://scholar.google.com/scholar_case?case=5582825786123194697), 12 P.3d 214 (Ariz. 2000) 
 - [Sheller v. Superior Court](https://scholar.google.com/scholar_case?case=17035611508566946395), 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
 
@@ -32,7 +32,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 ### Bar Admission 
 
 - [NCRPC Rule 8.1](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
-- [NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84.html)
+- [NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84)
 - [Restatement §§ 2-3](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [In re Converse](https://scholar.google.com/scholar_case?case=12112654702095917076), 602 N.W.2d 500 (Neb. 1999)
 - [Appeal of Lane](https://scholar.google.com/scholar_case?case=11198991863788394859), 544 N.W.2d 367 (1996)
@@ -45,7 +45,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 - [NCRPC Rule 5.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section5)
 - [Restatement § 4](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
-- [NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84.html)
+- [NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84)
 - [Birbrower, Montalbano, Condon & Frank v. Superior Court](https://scholar.google.com/scholar_case?case=17875531284498988901), 70 Cal.Rptr.2d 304 (Cal. 1998)
 - [Estate of Condon v. McHenry](https://scholar.google.com/scholar_case?case=14039188124807111305), 76 Cal.Rptr.2d 922 (Cal. App. 1998)
 - [In re Trester](https://scholar.google.com/scholar_case?case=17518973051504445951), 172 P.3d 31 (Kan. 2007)
@@ -54,7 +54,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 - [NCRPC Rules 8.2, 8.3, 8.4, 8.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
 - [Restatement § 5](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
-- [NC Gen. Stat. § 84-28, 84-36](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84.html)
+- [NC Gen. Stat. § 84-28, 84-36](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap_84)
 - [Neal v. Clinton](https://www.emfink.net/ProfessionalResponsibility/cases/Clinton), No. CIV 2000–5677, slip op. (Ark. Cir. Ct. Jan. 19, 2001)
 - [In re Riehlmann](https://scholar.google.com/scholar_case?case=12428100756576753482), 891 So.2d 1239 (La. 2005)
 - [In re Diaz](https://scholar.google.com/scholar_case?case=3786135406492511104), 288 P.3d 486 (Kan. 2012)
