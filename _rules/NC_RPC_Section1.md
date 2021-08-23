@@ -8,7 +8,7 @@ permalink: /rules/Section1/
     
 ---
 
-# Rule 1.1 Competence
+# Rule 1.1 — Competence
 
 A lawyer shall not handle a legal matter that the lawyer knows or should know he or she is not competent to handle without associating with a lawyer who is competent to handle the matter. Competent representation requires the legal knowledge, skill, thoroughness, and preparation reasonably necessary for the representation.
 
@@ -50,7 +50,7 @@ Eff. July 24, 1997;
 
 Amended Eff. October 2, 2014; March 1, 2003.
 
-# Rule 1.2 Scope of Representation and Allocation of Authority Between Client and Lawyer
+# Rule 1.2 — Scope of Representation and Allocation of Authority Between Client and Lawyer
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation.
 
@@ -110,7 +110,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# Rule 1.3 Diligence
+# Rule 1.3 — Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
@@ -138,7 +138,7 @@ Adopted by the Supreme Court July 24, 1997;
 
 Amendments Approved by the Supreme Court: March 1, 2003; September 28, 2017.
 
-# Rule 1.4 Communication
+# Rule 1.4 — Communication
 
 (a) A lawyer shall:
 
@@ -182,7 +182,7 @@ Eff. July 24, 1997;
 
 Amended Eff. October 2, 2014; March 1, 2003.
 
-# Rule 1.5 Fees
+# Rule 1.5 — Fees
 
 (a) A lawyer shall not make an agreement for, charge, or collect an illegal or clearly excessive fee or charge or collect a clearly excessive amount for expenses. The factors to be considered in determining whether a fee is clearly excessive include the following:
 
@@ -272,7 +272,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003; May 4, 2000.
 
-# Rule 1.6 Confidentiality of Information
+# Rule 1.6 — Confidentiality of Information
 
 (a) A lawyer shall not reveal information acquired during the professional relationship with a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
@@ -360,7 +360,7 @@ Adopted by the Supreme Court: July 24, 1997;
 
 Amendments Approved by the Supreme Court: March 16, 2017; October 2, 2014; March 1, 2003.
 
-# Rule 1.7 Conflict of Interest: Current Clients 
+# Rule 1.7 — Conflict of Interest: Current Clients 
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 
@@ -486,7 +486,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# Rule 1.8 Conflict of Interest: Current Clients: Specific Rules {% marginnote "margin-note-id" "In place of ABA Model Rule 1.8(j), the NC Rules contain more detailed provisions regarding attorney-client sexual relations in Rule 1.19" %}
+# Rule 1.8 — Conflict of Interest: Current Clients: Specific Rules {% marginnote "margin-note-id" "In place of ABA Model Rule 1.8(j), the NC Rules contain more detailed provisions regarding attorney-client sexual relations in Rule 1.19" %}
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest directly adverse to a client unless:
 
@@ -598,7 +598,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# Rule 1.9 Duties to Former Clients 
+# Rule 1.9 — Duties to Former Clients 
 
 (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 
@@ -646,7 +646,7 @@ Adopted Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003; October 7, 1999.
 
-# Rule 1.10 Imputation of Conflicts of Interest: General Rule
+# Rule 1.10 — Imputation of Conflicts of Interest: General Rule
 
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless the prohibition is based on a personal interest of the prohibited lawyer, including a prohibition under Rule 6.6, and the prohibition does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm.
 
@@ -700,7 +700,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# Rule 1.11 Special Conflicts of Interest for Former and Current Government Officers and Employees
+# Rule 1.11 — Special Conflicts of Interest for Former and Current Government Officers and Employees
 
 (a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 
@@ -758,7 +758,7 @@ Adopted Eff. July 24, 1997;
 
 Amended Eff. October 6, 2004; February 27, 2003.
 
-# Rule 1.12 Former Judge, Arbitrator, Mediator, or Other Third-Party Neutral
+# Rule 1.12 — Former Judge, Arbitrator, Mediator, or Other Third-Party Neutral
 
 (a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 
@@ -790,7 +790,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# Rule 1.13 Organization as Client
+# Rule 1.13 — Organization as Client
 
 (a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
@@ -854,7 +854,7 @@ Adopted July 24, 1997;
 
 Amended Effective March 2, 2006; March 1, 2003.
 
-# Rule 1.14 Client with Diminished Capacity
+# Rule 1.14 — Client with Diminished Capacity
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -900,7 +900,7 @@ Amended Eff. February 27, 2003.
 
 [OMITTED. SEE [MRPC 1.15]((https://www.emfink.net/ProfessionalResponsibility/rules/MRPC_1-15))]
 
-# Rule 1.16 Declining or Terminating Representation
+# Rule 1.16 — Declining or Terminating Representation
 
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
@@ -972,7 +972,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-## Rule 1.17 Sale of a Law Practice
+## Rule 1.17 — Sale of a Law Practice
 
 A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
 
@@ -1054,7 +1054,7 @@ Ethics Opinion Notes
 
 ###### [1998 Formal Ethics Opinion 6](https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/98-formal-ethics-opinion-6). Opinion rules that the requirements set forth in Rule 1.17 relative to the sale of a law practice to a lawyer who is a stranger to the firm do not apply to the sale of a law practice to lawyers who are current employees of the firm.
 
-## Rule 1.18 Duties to Prospective Client
+## Rule 1.18 — Duties to Prospective Client
 
 (a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 
@@ -1094,7 +1094,7 @@ Eff. March 1, 2003;
 
 Amended Eff. October 2, 2014.
 
-# Rule 1.19 Sexual Relations With Clients Prohibited {% marginnote "margin-note-id" "The NC Rules contain this provision in place of ABA Model Rule 1.8(j)" %}
+# Rule 1.19 — Sexual Relations With Clients Prohibited {% marginnote "margin-note-id" "The NC Rules contain this provision in place of ABA Model Rule 1.8(j)" %}
 
 (a) A lawyer shall not have sexual relations with a current client of the lawyer.
 

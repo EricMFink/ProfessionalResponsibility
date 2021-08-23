@@ -8,8 +8,6 @@ permalink: /rules/Section7/
     
 ---
 
-
-
 # Rule 7.1	— Communications Concerning a Lawyer's Services
 
 (a) A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it:

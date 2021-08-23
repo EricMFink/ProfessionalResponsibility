@@ -8,7 +8,7 @@ permalink: /rules/Section3/
     
 ---
 
-# RULE 3.1 MERITORIOUS CLAIMS AND CONTENTIONS
+# Rule 3.1 — Meritorious Claims and Contentions 
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
@@ -26,7 +26,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# RULE 3.2 EXPEDITING LITIGATION
+# Rule 3.2 — Expedition Litigation
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
@@ -40,7 +40,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# RULE 3.3 CANDOR TOWARD THE TRIBUNAL
+# Rule 3.3 — Candor Toward the Tribunal
 
 (a) A lawyer shall not knowingly:
 
@@ -112,7 +112,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# RULE 3.4 Fairness to Opposing Party and Counsel
+# Rule 3.4 — Fairness to Opposing Party and Counsel
 
 A lawyer shall not:
 
@@ -158,7 +158,7 @@ Eff. July 24, 1997;
 
 Amended Eff. November 16, 2006; October 1, 2003; February 27, 2003.
 
-# RULE 3.5 IMPARTIALITY AND DECORUM OF THE TRIBUNAL
+# Rule 3.5 — Impartiality and Decorum of the Tribunal
 
 (a) A lawyer representing a party in a matter pending before a tribunal shall not:
 
@@ -226,7 +226,7 @@ Adopted by the Supreme Court: July 24, 1997;
 
 Amendments Approved by the Supreme Court: March 1, 2003; March 5, 2015; April 5, 2018; March 27, 2019.
 
-# RULE 3.6 TRIAL PUBLICITY
+# Rule 3.6 — Trial Publicity
 
 (a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 
@@ -296,7 +296,7 @@ Eff. July 24, 1997;
 
 Amended Eff. October 9, 2008; March 1, 2003.
 
-# RULE 3.7 LAWYER AS WITNESS
+# Rule 3.7 — Lawyer as Witness
 
 (a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 
@@ -334,7 +334,7 @@ Eff. July 24, 1997;
 
 Amended Eff. February 27, 2003.
 
-# RULE 3.8 Special Responsibilities of a Prosecutor
+# Rule 3.8 — Special Responsibilities of a Prosecutor
 
 The prosecutor in a criminal case shall:
 
