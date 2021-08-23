@@ -63,6 +63,10 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 #### September 6
 
+No class (Labor Day)
+
+#### September 8
+
 ### Law Firms
 
 - [NCRPC Rules 5.1-5.4, 5.6, 5.7](https://www.emfink.net/ProfessionalResponsibility/rules/Section5)
@@ -72,7 +76,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Hoff v. Mayer, Brown, & Platt](https://scholar.google.com/scholar_case?case=6212433662685892174), 772 N.E.2d 263 (Ill. App. Ct. 2002)
 - [Cardillo v. Bloomfield 206 Corp.](https://scholar.google.com/scholar_case?case=3528263449145432656), 988 A.2d 136 (N.J. Super. 2010)
 
-#### September 8
+#### September 13
 
 ### Advertising
 
@@ -95,7 +99,11 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 
 ## The Attorney-Client Relationship
 
-#### September 13
+#### September 15
+
+No class 
+
+#### September 20
 
 ### Prospective Clients 
 
@@ -115,7 +123,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement §§ 31-33](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
 - CASES
 
-#### September 15
+#### September 22
 
 ### Scope of Representation & Authority
 
@@ -135,7 +143,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement §§ 24](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
 - CASES
 
-#### September 20
+#### September 27
 
 ### Attorney Fees 
 
@@ -149,7 +157,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement §§ 44-46](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
 - CASES
 
-#### September 27 & 29
+#### September 29
 
 ### Competence, Diligence, & Communication
 
@@ -157,13 +165,13 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement §§ 48-58](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap4)
 - CASES
 
-#### September 22
+#### October 4
 
 ### Review of Professional Regulation and Attorney-Client Relationship
 
 ## Confidentiality & Privilege 
 
-#### October 4 & 6
+#### October 6 & 11
 
 ### Confidential Information 
 
@@ -171,7 +179,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement §§ 59-67](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
 - CASES
 
-#### October 11 & 13
+#### October 13
 
 ### Client Communication Privilege
 
