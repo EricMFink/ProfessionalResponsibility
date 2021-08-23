@@ -109,61 +109,87 @@ No class
 
 - [NCRPC Rule 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement § 15](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
+- [Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co.](), 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
 ### Establishing Representation 
 
 - [MRPC Rule 6.2](https://www.emfink.net/ProfessionalResponsibility/rules/MRPC_6-2)
 - [Restatement § 14](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
+- [Togstad v. Vesely, Otto, Miller & Keefe](), 291 N.W.2d 686 (Minn. 1980)
+- [Ferranti Intern. PLC v. Clark](), 767 F. Supp. 670 (E.D. Pa. 1991)
 
 ### Declining and Terminating Representation 
 
 - [NCRPC Rule 1.16](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 31-33](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
+- [Demov, Morris, Levine & Shein v. Glantz](), 53 N.Y.2d 553 (N.Y. 1981)
+- [Whiting v. Lacara](), 187 F. 3d 317 (2d Cir. 1999)
+- [Motion to Withdraw as Counsel for Defendants Ray and Cantwell](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Motion.pdf), Sines v. Kessler, No. 3:17-cv-00072 (W.D. Va. 2019)
+	- [Attorney's brief in support of motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Brief.pdf)
+	- [Defendant Cantwell's opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-CantwellOpposition.pdf)
+	- [Plaintiff's response](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-PlaintiffsResponse.pdf)
+	- [Defendant Cantwell's reply](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-CantwellReply.pdf)
+	- [Order granting motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Order.pdf)
 
 #### September 22
 
 ### Scope of Representation & Authority
 
-- [NCRPC Rule 1.2](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
+- [NCRPC Rule 1.2, 1.8(g)](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 21-23, 25-27](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
+- [L.F.S. Corp. v. Kennedy](), 337 S.E.2d 209 (S.C. 1985)
+- [Morris v. Ohio Casualty Insurance Co.](), 35 Ohio St. 3d 45 (Ohio 1988)
+- [Makins v. District of Columbia](), 861 A. 2d 590 (D.C. 2004)
 
 ### Organizational Clients 
 
 - [NCRPC Rule 1.13](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 96 & 97](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap6)
-- CASES
+- [In the Matter of Silva](), 636 A.2d 316 (R.I. 1994)
+- [Brennan v. Ruffner](), 640 So. 2d 143 (Fla. 1994)
+- [In re Grand Jury Subpoena: Under Seal](), 415 F. 3d 334 (4th Cir. 2005)
+- [U.S. v. Stein](), 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
 
 ### Clients with Diminished Capacity
 
 - [NCRPC Rule 1.2](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 24](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
 
 #### September 27
-
-### Attorney Fees 
-
-- [NCRPC Rule 1.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
-- [Restatement §§ 34-43, & 47](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
-
-### Client Property 
-
-- [MRPC Rule 1.15](https://www.emfink.net/ProfessionalResponsibility/rules/MRPC_1-15)
-- [Restatement §§ 44-46](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- CASES
-
-#### September 29
 
 ### Competence, Diligence, & Communication
 
 - [NCRPC Rules 1.1, 1.3, 1.4, 1.14](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [2.1](https://www.emfink.net/ProfessionalResponsibility/rules/Section2)
 - [Restatement §§ 48-58](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap4)
-- CASES
+- [Equitania Insirance v. Slone & Garrett](), 191 S.W.3d 552 (Ky. 2006)
+- [TIG Ins. v. Giffin Winning Cohen & Bodewes](), 444 F. 3d 587 (7th Cir. 2006)
+- [Ang v. Martin](), 114 P. 3d 637 (Wash. 2005)
+- [Marker v. Greenberg](), 313 N.W.2d 4 (Minn. 1981)
+- [Strickland v. Washington](), 466 U.S. 668 (1984)
+- [Knowles v. Mirzayance](), 556 U.S. 111 (2009)
+- [Lee v. U.S.](), 137 S. Ct. 1958 (2017)
+
+#### September 29
+
+### Attorney Fees 
+
+- [NCRPC Rule 1.5, 1.8(f)](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
+- [Restatement §§ 34-35, 38-43, 47](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap3)
+- [Matter of Cooperman](), 633 N.E.2d 1069 (N.Y. 1994)
+- [In the Matter of Fordham](), 423 Mass. 481 (Mass. 1996)
+- [Culpepper & Carroll, PLLC v. Cole](), 929 So. 2d 1224 (La. 2006)
+
+### Client Property 
+
+- [MRPC Rule 1.15](https://www.emfink.net/ProfessionalResponsibility/rules/MRPC_1-15)
+- [Restatement §§ 44-46](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap3)
+- [Nebraska State Bar Association v. Statmore](), 352 N.W.2d 875 (Neb. 1984)
+
+### Financial Dealings Between Lawyer and Client 
+- [NCRPC Rule 1.8(a), (c), (d), (e)](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
+- [Restatement §§ 36](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap3)
+- [Committee on Prof. Ethics v. Mershon](), 316 N.W.2d 895 (Iowa 1982)
+- [Saladini v. Righellis](), 426 Mass. 231 (1997)
 
 #### October 4
 
@@ -173,47 +199,67 @@ No class
 
 #### October 6 & 11
 
-### Confidential Information 
+### Duty of Confidentiality
 
 - [NCRPC Rules 1.6, 1.9(c), 1.13, 1.14, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [4.4(b)](https://www.emfink.net/ProfessionalResponsibility/rules/Section4); [8.6](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
 - [Restatement §§ 59-67](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
-- CASES
+- [In re Advisory Opinion No. 544 of NJ Sup. Court](), 511 A. 2d 609 (N.J. 1986)
+- [Dougherty v. Pepper Hamilton LLP](), 133 A. 3d 792 (Pa. Super. Ct. 2016)
+- [Matter of Tennant](), 392 P. 3d 143 (Mont. 2017)
+- [U.S. v. Franklin](), 598 F. 2d 954 (5th Cir. 1979)
+- [In re Original Grand Jury Investigation](), 89 Ohio St. 3d 544 (Ohio 2000)
+- [McClure v. Thompson](), 323 F.3d 1233 (9th Cir. 2003)
 
-#### October 13
+#### October 13 & 18 
 
-### Client Communication Privilege
+### Client Communication Privilege and Attorney Work Product 
 
-- [Restatement §§ 68-86](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
-
-### Work Product Doctrine 
-
-- [Restatement §§ 87-93](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
+- [Restatement §§ 61-67 (Duty of Confidentiality)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
+- [Restatement §§ 68-86 (Client Communication)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
+- [Restatement §§ 87-93 (Work Product)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
+- [People v. Belge](), 83 Misc. 2d 186 (NY County Court 1975)
+- [X Corp. v. Doe](), 805 F. Supp. 1298 (E.D. Va. 1992)
+- [Jones v. U.S.](), 828 A. 2d 169 (DC App. 2003)
+- [Hofmann v. Conder](), 712 P. 2d 216 (Utah 1985)
+- [In the Matter of a Grand Jury Investigation](), 453 Mass. 453 (Mass. 2009)
+- [Sporck v. Peil], 759 F. 2d 312 (3d Cir. 1985)
+- [U.S. v. Deloitte LLP](), 610 F. 3d 129 (D.C. Cir. 2010)
+- [Blumenthal v. Kimber Mfg.](), 265 Conn. 1 (2003)
 
 ## Conflicts of Interest 
 
-#### October 18
+#### October 25 
 
 ### Conflicts Involving Current Clients 
 
 - [NCRPC Rules 1.7 & 1.8](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [6.3, 6.4, 6.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section6)
 - [Restatement §§ 121, 122, 125-127, 128-131, 134-135](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- CASES
+- [Glueck v. Jonathan Logan, Inc.](), 653 F. 2d 746 (2d Cir. 1981)
+- [Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc.](), 10 A.D.3d 267 (NY App. Div. 2004)
+- [Visa USA, Inc. v. First Data Corp.](), 241 F. Supp. 2d 1100 (N.D. Ca. 2003)
+- [In re Dresser Industries, Inc.](), 972 F. 2d 540 (5th Cir. 1992)
+- [In re Morse](), 748 S.E.2d 921 (Ga. 2013)
+- [In re State Grand Jury Investigation], 983 A.2d 1097 (N.J. 2009)
 
-#### October 20
+#### October 25
 
 ### Conflicts Involving Former Clients
 
 - [NCRPC Rules 1.9, 1,11, 1.12, & 1.13](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 132-33](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- CASES
+- [Gutting v. Falstaff Brewing Corp.](), 710 F. 2d 1309 (8th Cir. 1983)
+- [NuStar Farms, LLC v. Zylstra], 880 N.W.2d 478 (Iowa 2016)
+- [Wilson P. Abraham Const. v. Armco Steel Corp.](), 559 F. 2d 250 (5th Cir. 1977)
 
-#### October 25 and 27
+#### October 27
 
 ### Imputation of Conflicts
 
 - [NCRPC Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 123-124](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- CASES
+- [Cinema 5, Ltd. v. Cinerama, Inc.], 528 F. 2d 1384 (2d Cir. 1976)
+- [People ex rel. Dept. of Corporations v. SpeeDee Oil Change Systems, Inc.](), 20 Cal. 4th 1135 (Cal. 1999)
+- [Kala v. Aluminum Smelting & Refining Company, Inc.](), 81 Ohio St. 3d 1 (1998)
 
 #### November 1
 
@@ -227,7 +273,11 @@ No class
 
 - [NCRPC Rules 3.1-3.9](https://www.emfink.net/ProfessionalResponsibility/rules/Section3)
 - [Restatement §§ 105-120](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap7)
-- CASES
+- [Nix v. Whiteside](), 475 U.S. 157 (1986) 
+- [People v. DePallo](), 754 N.E.2d 751 (NY 2001)
+- [State v. Hischke](), 639 N.W.2d 6 (Iowa 2002)
+- U.S. v. Long 
+- Gentile v. State Bar of Nevada 
 
 #### November 15 & 17
 
@@ -235,7 +285,8 @@ No class
 
 - [NCRPC Rules 4.1-4.4](https://www.emfink.net/ProfessionalResponsibility/rules/Section4)
 - [Restatement §§ 94-95, 98-103](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap6)
-- CASES
+- [In re Disciplinary Proceeding Against Haley](), 126 P. 3d 1262 (Wash. 2006)
+- [Niesig v. Team](), 76 N.Y.2d 363 (N.Y. 1990)
 
 #### November 22
 
