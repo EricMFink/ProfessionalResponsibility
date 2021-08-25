@@ -2,9 +2,7 @@
 layout: case
  
 title: 'People v. Alfani'
-cite: '125 A. 671'
-jurisdiction: 'NY'
-published: '1919'
+cite: '125 A. 671 (NY 1919)'
 judge: "Crane, Judge"
     
 ---

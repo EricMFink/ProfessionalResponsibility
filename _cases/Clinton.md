@@ -2,9 +2,7 @@
 layout: case
  
 title: 'Neal v. Clinton'
-cite: 'No. CIV 2000–5677'
-jurisdiction: 'Ark. Cir. Ct.'
-published: 'Jan. 19, 2001'
+cite: 'No. CIV 2000–5677 (Ark. Cir. Ct. Jan. 19, 2001)'
     
 ---
 
