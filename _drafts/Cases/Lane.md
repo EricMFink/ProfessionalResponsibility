@@ -1,46 +1,18 @@
 ---
-created: 2021-08-25T11:27:46 (UTC -04:00)
-tags: []
-source: https://scholar.google.com/scholar_case?case=11198991863788394859
-author: 
+layout: case
+ 
+title: 'Appeal of Lane'
+cite: '544 N.W.2d 367 (Neb. 1996)'
+    
 ---
 
-# APPEAL OF LANE, 544 NW 2d 367 - Neb: Supreme Court 1996 - Google Scholar
+# PER CURIAM.
 
-> ## Excerpt
-> Supreme Court of Nebraska.
+Gary M. Lane, challenges the decision of the bar commission of the Nebraska State Bar Association to deny his application for readmission to the Nebraska bar through membership in the association.
 
----
-**544 N.W.2d 367 (1996)**
+[ * * * ]
 
-**249 Neb. 499**
-
-### In re Appeal of Gary M. LANE for Admission to the Nebraska State Bar Association.  
-Gary M. LANE, Appellant,  
-v.  
-BAR COMMISSION OF THE NEBRASKA STATE BAR ASSOCIATION, Appellee.
-
-[No. S-34-950002.](https://scholar.google.com/scholar?scidkt=6044954430885284793&as_sdt=2&hl=en)
-
-**Supreme Court of Nebraska.**
-
-March 8, 1996.
-
-[369](https://scholar.google.com/scholar_case?case=11198991863788394859#p369)[\*369](https://scholar.google.com/scholar_case?case=11198991863788394859#p369) No appearance for appellant.
-
-Denzel R. Busick, of Luebs, Leininger, Smith, Busick & Johnson, Grand Island, for appellee.
-
-WHITE, C.J., and CAPORALE, FAHRNBRUCH, LANPHIER, WRIGHT, and CONNOLLY, JJ.
-
-PER CURIAM.
-
-Pursuant to Neb.Ct.R. for Adm. of Attys. 15 (rev.1992), the applicant-appellant, Gary M. Lane, challenges the decision of the respondent-appellee, the bar commission of the Nebraska State Bar Association, to deny his application for readmission to the Nebraska bar through membership in the association.
-
-## SCOPE OF REVIEW
-
-In attorney discipline cases, we review recommendations de novo on the record, reaching a conclusion independent of the findings of the referee; provided, however, that where credible evidence is in conflict on a material issue of fact, we consider and may give weight to the fact that the referee heard and observed the witnesses and accepted one version of the facts rather than another. [_State ex rel. NSBA v. Woodard,_ 249 Neb. 40, 541 N.W.2d 53 (1995)](https://scholar.google.com/scholar_case?case=4757019730906872947&hl=en&as_sdt=6,34); [_State ex rel. NSBA v. Ogborn,_ 248 Neb. 767, 539 N.W.2d 628 (1995)](https://scholar.google.com/scholar_case?case=15094902265701270215&hl=en&as_sdt=6,34). Under rule 15 we also so review a determination of the bar commission.
-
-## FACTS
+## Facts 
 
 At various times Lane was admitted to the bars of Colorado, Iowa, Nebraska, Texas, Virginia, and Washington, D.C. He permitted the Nebraska membership obtained in 1978 to lapse, and in 1994 when he again applied for admission to the Nebraska bar, he no longer held membership in the Iowa bar.
 
@@ -48,13 +20,13 @@ Noting that Lane had failed to list in his application any employment from Octob
 
 The commission then received information indicating that Lane had exhibited threatening, confrontational, obnoxious, and paranoid behavior. Henshaw wrote Lane requesting his appearance before the commission. Lane appeared, and the commission thereafter advised him that it would continue its background investigation, but that pending the results thereof, he would be permitted to sit for the February 1995 bar examination if he desired to do so. Lane took the examination and was notified that he had passed and that the commission was continuing its investigation.
 
-[370](https://scholar.google.com/scholar_case?case=11198991863788394859#p370)[\*370](https://scholar.google.com/scholar_case?case=11198991863788394859#p370) After the investigation was concluded, the commission advised Lane's attorney by letter that it had concluded Lane lacked the current character and fitness required for admission to the Nebraska bar. The reasons for the denial of admission were stated to be:
+After the investigation was concluded, the commission advised Lane's attorney by letter that it had concluded Lane lacked the current character and fitness required for admission to the Nebraska bar. The reasons for the denial of admission were stated to be:
 
 > 1\. Evidence of hostile, threatening, and disruptive interactions with individuals since ... Lane has resided in Nebraska.
 
 > 2\. Lack of candor in completing his application for admission to the bar, including an incomplete disclosure of past employment and an incomplete disclosure of previous bar admissions.
 
-Lane then wrote the commission requesting a hearing pursuant to Neb.Ct.R. for Adm. of Attys. 10 (rev.1992). Lane's attorney later requested that the commission furnish him with a bill of particulars regarding the reasons for the denial of admission. The commission wrote Lane's attorney that the reasons supporting its decision were:
+Lane then wrote the commission requesting a hearing. Lane's attorney later requested that the commission furnish him with a bill of particulars regarding the reasons for the denial of admission. The commission wrote Lane's attorney that the reasons supporting its decision were:
 
 > 1\. Lack of candor in completing the application for admission to the Bar.
 
@@ -68,57 +40,27 @@ Lane then wrote the commission requesting a hearing pursuant to Neb.Ct.R. for Ad
 
 > A. At the hearing on January 27, 1995, he discussed his attempts to volunteer at the Creighton Legal Clinic. Catherine Mahern, the Director of the Clinic, has indicated that she and Connie Kearney had a meeting with him to discuss his role in the Clinic. At this meeting in September or October of 1994, it was reported that he was hostile and threatening. The next day, Catherine Mahern asked him to leave the Clinic and not return. He was again threatening, hostile and rude.
 
-B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Creighton University. Apparently, he could not locate his keys and began accusing other attendees of taking his keys. Kay Strong was one of the individuals accused. He also accused Corby Gary and threatened to fight him. He also indicated to Mr. Gary that he would find out where he lived. As a result, he was asked to not participate in the BAR-BRI Review. An arrangement was made whereby he could review the tapes of the sessions by himself. Thomp Pattermann and Laura Pattermann were also witnesses to other disruptive behavior at the review sessions before he was asked to leave. Robert J. Launbenthal, an active member of the Nebraska and Iowa Bars, observed him making inappropriate and demeaning statements to a security guard at Creighton [371](https://scholar.google.com/scholar_case?case=11198991863788394859#p371)[\*371](https://scholar.google.com/scholar_case?case=11198991863788394859#p371) Law School during the early days of the BAR-BRI Review.
+B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Creighton University. Apparently, he could not locate his keys and began accusing other attendees of taking his keys. Kay Strong was one of the individuals accused. He also accused Corby Gary and threatened to fight him. He also indicated to Mr. Gary that he would find out where he lived. As a result, he was asked to not participate in the BAR-BRI Review. An arrangement was made whereby he could review the tapes of the sessions by himself. Thomp Pattermann and Laura Pattermann were also witnesses to other disruptive behavior at the review sessions before he was asked to leave. Robert J. Launbenthal, an active member of the Nebraska and Iowa Bars, observed him making inappropriate and demeaning statements to a security guard at Creighton Law School during the early days of the BAR-BRI Review.
 
 > C. Shortly after his dismissal from the BAR-BRI Review, he spoke by telephone with Kay Coffey and Cindy Lilleoien of NCLE by telephone [sic]. He was rude and threatening to both of the NCLE employees. There apparently had been a controversy regarding whether audiotapes or videotapes would be supplied.
 
 A hearing was then held by the commission, which Lane attended with his attorney. Through his attorney, Lane was permitted to cross-examine witnesses testifying before the commission and to present his own witnesses and evidence, and he himself testified. The commission found there was no evidence to support the assertion that Lane had been rude or threatening toward employees of the NCLE and that he had substantially complied with question 11 on the application by listing a civil judgment against him on his bankruptcy schedules that had been provided to the commission. The commission also found that although Lane failed to reveal his prior admissions to the Nebraska and Iowa bars, as the application form requested, the omission was not the result of an intent to deceive, but that it did indicate a casual attitude about compliance with instructions and the need to fully inform the commission. The commission further found, however, that Lane had acted in a threatening and intimidating manner while at the Creighton University legal clinic and at the BAR-BRI review course. The commission also found that Lane had intended to conceal the history of his temporary employment in Colorado, denoting a lack of candor in the application process.
 
-## REASONS FOR APPEAL
+## Reasons for Appeal
 
-Rule 15 provides: "The notice of appeal shall be accompanied by a written statement... setting forth the nature of the case, the reason for the appeal, and the facts and pertinent authorities upon which the applicant relies."
+[Lane raised seven grounds for reversing the commission's decision, including that the evidence did not support denial of his application for admisssion.]
 
-Lane asserts seven reasons for appealing which, restated and summarized, claim that (1) the denial was untimely, (2) the evidence does not support the denial, and (3) the procedure employed in reaching the decision and reasons articulated for the denial deprive Lane of the due process and equal protection of the law guaranteed by the Constitutions of the United States and of this state.
-
-## TIMELINESS
-
-In averring that the commission's decision was untimely, Lane urges that it should have made its decision before permitting him to sit for the bar examination and that once the commission permitted him to take the examination, it was precluded from holding subsequent hearings into his fitness and character or passing on questions relating thereto.
-
-Rule 10 provides in relevant part as follows:
-
-> Any applicant who has failed to pass the bar examination or to be admitted on motion, or who has been refused permission to take the examination, may, within 30 days after the mailing of the notice of failure, or refusal of permission, or denial of admission on motion, request a hearing before the bar commission.
-
-Lane concludes therefrom that the only persons entitled to a hearing are those who (1) failed the bar examination, (2) were denied admission on motion, or (3) were refused permission to sit for the examination. He implies that because applicants in his position are not specifically referenced as being entitled to a hearing, it is inappropriate for the commission to continue its investigation into such an applicant's character and fitness. However, this contention fails to take into account Neb.Ct.R. for Adm. of Attys. 3 (rev. 1992) (see appendix A), and Neb.Ct.R. for Adm. of Attys. 9 (rev.1992).
-
-Rule 3 provides, in part: "A record manifesting a significant deficiency in the honesty, trustworthiness, diligence, or reliability of an applicant may constitute a basis for denial of admission." As an applicant is not admitted to the Nebraska bar until such time as he or she has taken the oath of admission, Neb.Ct.R. for Adm. of Attys. 5E (rev. 1992), it follows that a deficient record could constitute the basis of a denial of admission any time until the oath of admission has been [372](https://scholar.google.com/scholar_case?case=11198991863788394859#p372)[\*372](https://scholar.google.com/scholar_case?case=11198991863788394859#p372) administered, including the period of time after the bar examination has been given.
-
-Appendix A, as referenced in rule 3, further empowers the commission to continue investigations into an applicant's character and fitness after the applicant has sat for the bar examination. The appendix states:
-
-> The primary purposes of character and fitness screening before admission to the bar of Nebraska are to assure the protection of the public and to safeguard the justice system....
-
-> ... The bar commission will administer character and fitness screening. It will perform its duties in a manner that assures the protection of the public by recommending for admission only those who qualify.
-
-> . . . .
-
-> ... The revelation or discovery of any of the following should be treated as cause for further inquiry before the bar commission decides whether the applicant possesses the character and fitness to practice law....
-
-See [_In re Application of Majorek,_ 244 Neb. 595, 508 N.W.2d 275 (1993)](https://scholar.google.com/scholar_case?case=644688135602170679&hl=en&as_sdt=6,34). In order to fulfill its obligations to the public and the justice system, the commission is allowed to continue investigations of possible misconduct even after an applicant has taken the bar examination.
-
-Moreover, rule 9 provides that the commission is "to make recommendations to the court with reference to applicants for admission...." Not only does the rule not place any time restrictions on the performance of that duty, it goes on to provide that the "commission ... will, prior to the examinations, examine the proofs of qualifications filed in accordance with these rules and may make further investigation as to the qualifications of any applicant as it deems expedient." The rules therefore specifically contemplate that further investigation of an applicant may be necessary after the initial investigation made prior to the examination being given.
-
-Were the situation otherwise, an applicant could commit with impunity any number and variety of transgressions after taking the bar examination, for both the commission and this court would be powerless to deny admission to the bar. The first reason for appealing is therefore without merit.
-
-## EVIDENCE
+## Evidence 
 
 The second reason rests on Lane's premise that the evidence is deficient in two respects. First, according to Lane, it does not support the conclusion that he was hostile, threatening, and disruptive, and even if the evidence does so, the conduct is not such as warrants denial of admission to the bar. Second, again according to Lane, the evidence that he failed to disclose his previous temporary employment does not support the conclusion that he lacked candor, and if the evidence does so, the conduct does not warrant denial of admission to the bar.
 
-_Hostile, Threatening, and Disruptive Conduct._
+### Hostile, Threatening, and Disruptive Conduct
 
 At the June 9, 1995, hearing, various witnesses testified to events which occurred during September 1994 and January through February 1995. Two of the events are worthy of discussion.
 
 The first concerns Lane's involvement at the Creighton University legal clinic. Catherine Mahern, an associate professor of law at Creighton, as well as the director of the clinic, and Connie Kearney, an adjunct professor at the clinic, testified that Lane had come to the clinic in the spring or early summer of 1994 and offered to volunteer after school started again. On his first day, September 19, 1994, Lane accompanied Kearney and two law students to a juvenile court hearing. Lane asked to sit with the students at counsels' table, but Kearney told him that he should remain behind the bar. Lane responded that he was a licensed attorney, that he was in good standing, and that he wanted to sit with the students. Kearney again told him that she wanted him to remain behind the bar, to which Lane responded, "I'll remember this." Kearney testified that she took this statement as a threat.
 
-Mahern met with Kearney and Lane to discuss Lane's role in the clinic and to clear up any misunderstandings that might have occurred at the hearing. During the meeting, Lane stated that Kearney was the [373](https://scholar.google.com/scholar_case?case=11198991863788394859#p373)[\*373](https://scholar.google.com/scholar_case?case=11198991863788394859#p373) type of woman who does not know how to deal with men and is intimidated by them. He also admitted what he had said to Kearney at the hearing and that he did not take it back. He told Mahern that while he could work with students, he would not work with women students. Finally, Lane stated that "those people in Colorado" had gotten to Mahern, that what they had told her was not true, that the record had been expunged, and that they could not prove anything.
+Mahern met with Kearney and Lane to discuss Lane's role in the clinic and to clear up any misunderstandings that might have occurred at the hearing. During the meeting, Lane stated that Kearney was the type of woman who does not know how to deal with men and is intimidated by them. He also admitted what he had said to Kearney at the hearing and that he did not take it back. He told Mahern that while he could work with students, he would not work with women students. Finally, Lane stated that "those people in Colorado" had gotten to Mahern, that what they had told her was not true, that the record had been expunged, and that they could not prove anything.
 
 The next day, Mahern called Lane into her office and asked him to leave the clinic. Lane became very irritated and said that Kearney and a student were on the phones in the back room talking to each other about him in whispered voices or in code. When Mahern stated that he must have been mistaken, he said in a loud voice, "[D]on't you accuse me of auditory hallucinations, I've been accused of that before and it's not true." On his way out, Lane passed by Kearney's desk and asked that she keep him out of her phone conversations from now on.
 
@@ -158,7 +100,7 @@ Lane was also discourteous in his answers to various questions put to him by com
 
 > A. I don't understand why this is so important.
 
-[374](https://scholar.google.com/scholar_case?case=11198991863788394859#p374)[\*374](https://scholar.google.com/scholar_case?case=11198991863788394859#p374) Moreover, his correspondence with the commission during the investigation process evidences a sarcastic and cavalier attitude toward it and its responsibilities. One letter to Harold L. Rock, the chairperson of the commission, contains the following:
+Moreover, his correspondence with the commission during the investigation process evidences a sarcastic and cavalier attitude toward it and its responsibilities. One letter to Harold L. Rock, the chairperson of the commission, contains the following:
 
 > I am sure you are cognizant of the ethical obligation attorneys have to be courteous to one another. Mr. Henshaw clearly disregards this obligation. If Mr. Henshaw does not have an undisclosed agenda perhaps he should be questioned concerning his unnecessary sarcasm. Perhaps my unemployment is not so difficult to understand after all, if this is the attitude of persons in positions of authority.
 
@@ -184,7 +126,7 @@ Having so determined, we turn our attention to Lane's claim that even so, the be
 
 Rule 3 provides, in part, as follows:
 
-> An attorney should be one whose record of conduct justifies the trust of clients, adversaries, courts, and others with respect to the professional duties owed to them. A record manifesting a significant deficiency [375](https://scholar.google.com/scholar_case?case=11198991863788394859#p375)[\*375](https://scholar.google.com/scholar_case?case=11198991863788394859#p375) in the honesty, trustworthiness, diligence, or reliability of an applicant may constitute a basis for denial of admission.
+> An attorney should be one whose record of conduct justifies the trust of clients, adversaries, courts, and others with respect to the professional duties owed to them. A record manifesting a significant deficiency in the honesty, trustworthiness, diligence, or reliability of an applicant may constitute a basis for denial of admission.
 
 Apparently, Lane is arguing that abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent conduct does not reflect on his "honesty, trustworthiness, diligence, or reliability." He is wrong.
 
@@ -192,13 +134,13 @@ Appendix A to rule 3 explains that "[a]n attorney should be one whose record of 
 
 > such ill feeling should not influence a lawyer in his or her conduct, attitude, and demeanor toward opposing lawyers. A lawyer should not make unfair or derogatory personal reference to opposing counsel. Haranguing and offensive tactics by lawyers interfere with the orderly administration of justice and have no proper place in our legal system.
 
-The requisite restraint in dealing with others is obligatory conduct for attorneys because "[t]he efficient and orderly administration of justice cannot be successfully carried on if we allow attorneys to engage in unwarranted attacks on the court [or] opposing counsel.... Such tactics seriously lower the public respect for ... the Bar." [_Application of Feingold,_ 296 A.2d 492, 500 (Me.1972)](https://scholar.google.com/scholar_case?case=3352187786517576383&hl=en&as_sdt=6,34). It necessarily follows that "[a]n attorney who exhibits [a] lack of civility, good manners and common courtesy ... tarnishes the ... image of ... the bar...." [_In re McAlevy,_ 69 N.J. 349, 352, 354 A.2d 289, 291 (1976)](https://scholar.google.com/scholar_case?case=15857808359513745107&hl=en&as_sdt=6,34).
+The requisite restraint in dealing with others is obligatory conduct for attorneys because "[t]he efficient and orderly administration of justice cannot be successfully carried on if we allow attorneys to engage in unwarranted attacks on the court [or] opposing counsel.... Such tactics seriously lower the public respect for ... the Bar." It necessarily follows that "[a]n attorney who exhibits [a] lack of civility, good manners and common courtesy ... tarnishes the ... image of ... the bar...." 
 
-In addition, appendix A declares, in part, that "[t]he public interest requires that the public be secure in its expectation that those who are admitted to the bar are worthy of the trust and confidence clients may reasonably place in their attorneys." When members of the public engage attorneys, they expect that those attorneys will conduct themselves in a professional and businesslike manner. Attorneys who routinely exhibit abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior toward others involved in the legal system are not worthy of such trust and confidence. What cannot be permitted in attorneys cannot be tolerated in those applying for admission as attorneys. [_In re Martin-Trigona,_ 55 Ill.2d 301, 302 N.E.2d 68 (1973),](https://scholar.google.com/scholar_case?case=6195134007560065706&hl=en&as_sdt=6,34) _cert. denied_ [417 U.S. 909, 94 S.Ct. 2605, 41 L.Ed.2d 212 (1974)](https://scholar.google.com/scholar_case?about=12246740485445806656&hl=en&as_sdt=6,34).
+In addition, appendix A declares, in part, that "[t]he public interest requires that the public be secure in its expectation that those who are admitted to the bar are worthy of the trust and confidence clients may reasonably place in their attorneys." When members of the public engage attorneys, they expect that those attorneys will conduct themselves in a professional and businesslike manner. Attorneys who routinely exhibit abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior toward others involved in the legal system are not worthy of such trust and confidence. What cannot be permitted in attorneys cannot be tolerated in those applying for admission as attorneys. 
 
-Moreover, the qualities listed in the rule are merely illustrative; "[t]he fact is that in reviewing an application for admission to the bar, the decision as to an applicant's good moral character must be made on an ad hoc basis." [_In re Application of Majorek,_ 244 Neb. 595, 606, 508 N.W.2d 275, 282 (1993)](https://scholar.google.com/scholar_case?case=644688135602170679&hl=en&as_sdt=6,34). We therefore join other courts in holding that abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior is a proper basis for the denial of admission to the bar. See, [_Board of Overseers of the Bar v. Campbell,_ 663 A.2d 11 (Me.1995)](https://scholar.google.com/scholar_case?case=688869657705120219&hl=en&as_sdt=6,34); [_In re Alexander,_ 807 S.W.2d 70 (Mo.1991),](https://scholar.google.com/scholar_case?case=15482536644036692364&hl=en&as_sdt=6,34) _cert. denied_ 502 U.S. 885, 112 S.Ct. 241, 116 L.Ed.2d 196; [_Matter of Ronwin,_ 139 Ariz. 576, 680 P.2d 107 (1983)](https://scholar.google.com/scholar_case?case=13783339685895376764&hl=en&as_sdt=6,34).
+Moreover, the qualities listed in the rule are merely illustrative; "[t]he fact is that in reviewing an application for admission to the bar, the decision as to an applicant's good moral character must be made on an ad hoc basis." We therefore join other courts in holding that abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior is a proper basis for the denial of admission to the bar. 
 
-Even if we assume, arguendo, that Lane believes he is the victim of a conspiracy which encompasses various interests in Texas, various people in Colorado, and the commission itself, the sincerity of his belief in this supposed wide-ranging conspiracy against him cannot overcome the requirements for the practice of law. Belief unrelated to reason is a hallmark of fanaticism, zealotry, or paranoia rather than reasoned advocacy. The practice of law requires the ability to discriminate between fact and faith, evidence and imagination, reality and hallucination. [_Matter of Ronwin, supra_](https://scholar.google.com/scholar_case?case=13783339685895376764&hl=en&as_sdt=6,34)_._ While an applicant for admission to the bar is entitled to argue vigorously that the commission erred in its findings and recommendation, [376](https://scholar.google.com/scholar_case?case=11198991863788394859#p376)[\*376](https://scholar.google.com/scholar_case?case=11198991863788394859#p376) and this court would take seriously any substantiation of the existence of bias or misconduct on the part of the commission, a much stronger showing is needed than demonstrated by this record to warrant a conclusion that the commission had acted out of some type of political or personal animus. See [_In re Demos,_ 579 A.2d 668 (D.C.App.1990)](https://scholar.google.com/scholar_case?case=16948707599999929326&hl=en&as_sdt=6,34).
+Even if we assume, arguendo, that Lane believes he is the victim of a conspiracy which encompasses various interests in Texas, various people in Colorado, and the commission itself, the sincerity of his belief in this supposed wide-ranging conspiracy against him cannot overcome the requirements for the practice of law. Belief unrelated to reason is a hallmark of fanaticism, zealotry, or paranoia rather than reasoned advocacy. The practice of law requires the ability to discriminate between fact and faith, evidence and imagination, reality and hallucination. While an applicant for admission to the bar is entitled to argue vigorously that the commission erred in its findings and recommendation, and this court would take seriously any substantiation of the existence of bias or misconduct on the part of the commission, a much stronger showing is needed than demonstrated by this record to warrant a conclusion that the commission had acted out of some type of political or personal animus. 
 
 Verbal abuse, unfounded accusations, and the like have no place in legal proceedings. While occasional lapses in decorum can be overlooked, Lane's transgressions exceed occasional incivility, anger, or loss of control. On this record, they form a pattern and a way of life which appear to be Lane's normal reaction to opposition and disappointment.
 
@@ -212,31 +154,25 @@ We agree with and adopt the observations in [_Matter of Ronwin,_ 139 Ariz. at 58
 
 Our de novo review leads us to independently conclude, contrary to Lane's contention, that his egregious pattern of abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent conduct is sufficient relevant conduct to deny him admission to the bar.
 
-## _Lack of Candor._
+### Lack of Candor
 
 Question 7 of the application read: "List every job you have held for the ten year period immediately prior to the date of this application or since the age of 18, beginning with your present employment, if any. Please include self-employment, clerkships, internships, temporary or part-time employment and military service." Lane explained that he had failed to list the Colorado temporary employment because he held simple common labor jobs, and he may have either misread the question or forgotten about the jobs. We agree with the commission's determination that such an explanation is not credible. The correspondence between Lane and Henshaw set out earlier establishes not only that Lane failed to list the employment, but that he originally denied having had any employment during the period in question.
 
 In addition, not only did Lane fail to list his former membership in the Iowa bar, but he failed to reveal that he had previously been a member of the bar of this state, the very state whose bar he was again seeking to join. That piece of information was certainly one of the more important and relevant items he could have provided the commission. His explanation that he simply forgot to list it, or that he had run out of space, or that he did not think it was relevant or material, we find to be incredible, despite the somewhat contrary finding of the commission.
 
-Contrary to the commission's implication, we have never held that in order to be found to have lacked candor in filling out an application, an applicant must have had an intent to deceive. On the contrary, in [_In re Application of Majorek,_ 244 Neb. 595, 604, 508 N.W.2d 275, 281 (1993),](https://scholar.google.com/scholar_case?case=644688135602170679&hl=en&as_sdt=6,34) we observed that "false, misleading, or evasive answers to bar application questions may be grounds for a finding of lack of requisite character and fitness." While an intent to deceive will reflect on whether such answers are false, misleading, or evasive, and would properly be considered by the commission, an applicant who recklessly fills out an application, as the consequence of which the application contains false answers, is just as culpable of lacking candor in the application process as is the [377](https://scholar.google.com/scholar_case?case=11198991863788394859#p377)[\*377](https://scholar.google.com/scholar_case?case=11198991863788394859#p377) applicant who intends to deceive the commission.
+Contrary to the commission's implication, we have never held that in order to be found to have lacked candor in filling out an application, an applicant must have had an intent to deceive. On the contrary, in [_In re Application of Majorek,_ 244 Neb. 595, 604, 508 N.W.2d 275, 281 (1993),](https://scholar.google.com/scholar_case?case=644688135602170679&hl=en&as_sdt=6,34) we observed that "false, misleading, or evasive answers to bar application questions may be grounds for a finding of lack of requisite character and fitness." While an intent to deceive will reflect on whether such answers are false, misleading, or evasive, and would properly be considered by the commission, an applicant who recklessly fills out an application, as the consequence of which the application contains false answers, is just as culpable of lacking candor in the application process as is the applicant who intends to deceive the commission.
 
 Accordingly, our de novo review of the record leads us to independently find that Lane lacked candor in filling out the application at issue. Moreover, contrary to Lane's contention, we independently find such conduct reflects on Lane's honesty, trustworthiness, diligence, and reliability, and thus provides an additional reason to deny him admission to the bar of this state.
 
-## DUE PROCESS AND EQUAL PROTECTION
+[ * * * ]
 
-While Lane listed due process and equal protection violations among his reasons for appealing, he did not delineate the facts and pertinent authorities upon which he relied in making these claims. We have often held that errors assigned but not argued in a brief will not be considered by this court. [_Anderson/Couvillon v. Nebraska Dept. of Soc. Servs.,_ 248 Neb. 651, 538 N.W.2d 732 (1995)](https://scholar.google.com/scholar_case?case=17384670268281638875&hl=en&as_sdt=6,34); [_Jirkovsky v. Jirkovsky,_ 247 Neb. 141, 525 N.W.2d 615 (1995)](https://scholar.google.com/scholar_case?case=2941845017771611468&hl=en&as_sdt=6,34); [_Records v. Christensen,_ 246 Neb. 912, 524 N.W.2d 757 (1994)](https://scholar.google.com/scholar_case?case=7170150215154155527&hl=en&as_sdt=6,34). The reasons for appealing assigned in the written statement filed under rule 15 serve the same function as assignments of error in a brief, namely, to advise the reviewing court of the issues to be decided, in the sense that the reviewing court is informed of the legal bases upon which the contention to be considered is grounded. See, [_Coyle v. Janssen,_ 212 Neb. 785, 326 N.W.2d 44 (1982)](https://scholar.google.com/scholar_case?case=9421125957062418195&hl=en&as_sdt=6,34); [_Cook v. Lowe,_ 180 Neb. 39, 141 N.W.2d 430 (1966)](https://scholar.google.com/scholar_case?case=5921789665742333740&hl=en&as_sdt=6,34). Accordingly, just as errors assigned but not argued in a brief will not be considered, so, too, reasons for appealing which are assigned in a written statement filed under rule 15 but which are not argued will not be considered.
-
-Consequently, under the law of this state, Lane's constitutional claims are procedurally barred. Indeed, Lane rejected an opportunity to file a brief in addition to the rule 15 written statement, in which brief he could have provided additional argument for his appeal reasons, had he elected to so do.
-
-## CONCLUSION
+## Conclusion 
 
 For the foregoing reasons, we affirm the commission's decision to deny Lane's application to be readmitted to the bar of this state through membership in the Nebraska State Bar Association.
 
 AFFIRMED.
 
-GERRARD, J., not participating.
-
-WRIGHT, Justice, dissenting.
+# WRIGHT, Justice, dissenting.
 
 The various incidents described by the majority suggest that Lane is at times obnoxious, has a temper, and can be difficult to work with and that these qualities appear to be amplified around women. With this, I cannot quibble. Until today, however, being obnoxious, having a quick temper, and being hard to get along with were not grounds for the extreme sanction of denial of admission to the Nebraska bar. The majority reaches far beyond the current rules governing admission to the Nebraska bar; therefore, I respectfully dissent.
 
@@ -248,7 +184,7 @@ The majority states that it has found authority to exclude turbulent or intemper
 
 > An attorney should be one whose record of conduct justifies the trust of clients, adversaries, courts, and others with respect to the professional duties owed to them. A record manifesting a significant deficiency in the honesty, trustworthiness, diligence, or reliability of an applicant may constitute a basis for denial of admission.
 
-[378](https://scholar.google.com/scholar_case?case=11198991863788394859#p378)[\*378](https://scholar.google.com/scholar_case?case=11198991863788394859#p378) Lane's behavior does not meet this definition. Rule 3 provides authority for the bar to deny admission for behavior which manifests "a significant deficiency in the honesty, trustworthiness, diligence, or reliability" of an applicant. Obnoxious and rude behavior _by definition_ simply do not reflect on one's character for honesty, trustworthiness, diligence, or reliability—let alone demonstrate a "significant deficiency" in these traits, as required by rule 3.
+Lane's behavior does not meet this definition. Rule 3 provides authority for the bar to deny admission for behavior which manifests "a significant deficiency in the honesty, trustworthiness, diligence, or reliability" of an applicant. Obnoxious and rude behavior _by definition_ simply do not reflect on one's character for honesty, trustworthiness, diligence, or reliability—let alone demonstrate a "significant deficiency" in these traits, as required by rule 3.
 
 Dishonesty and incivility are two vastly different behavioral traits. Rule 3 reaches the former, but simply does not reach the latter. Nothing in the record suggests that Lane has manifested dishonesty toward clients, adversaries, courts, or others with respect to the professional duties owed to them. Rule 3 is not a catchall exclusionary rule reaching all sorts of personality defects in applicants.
 
@@ -264,10 +200,6 @@ Nevertheless, the majority concludes that an applicant who "recklessly" fills ou
 
 However, the determination of whether someone is dishonest is a judgment about that person's state of mind and about his or her intentions. If the goal of the "lack of candor" standard is to ensure that potential attorneys are not dishonest, then a rule which holds that lack of candor can be established without showing any culpable state of mind is a rule that does not advance its own purpose.
 
-Moreover, such a rule completely ignores the "use of information" instructions that we have issued to the commission. Appendix A to the rules for admission of attorneys states: "In making this determination [of whether the present character and fitness of an applicant qualify the applicant for admission], the following factors should be considered in assigning weight and significance to prior conduct:... 10. The materiality of any omissions or misrepresentations." The majority's approach to application omissions ignores factor No. 10. Likewise, we have held that an omission can be material to a consideration [379](https://scholar.google.com/scholar_case?case=11198991863788394859#p379)[\*379](https://scholar.google.com/scholar_case?case=11198991863788394859#p379) of honesty if the omission also demonstrates an intent to deceive, give false answers, or be evasive. See [_In re Application of Majorek,_ 244 Neb. 595, 508 N.W.2d 275 (1993)](https://scholar.google.com/scholar_case?case=644688135602170679&hl=en&as_sdt=6,34). Lane's omissions do not establish that he intended to deceive the commission or that he is dishonest.
+Moreover, such a rule completely ignores the "use of information" instructions that we have issued to the commission. Appendix A to the rules for admission of attorneys states: "In making this determination [of whether the present character and fitness of an applicant qualify the applicant for admission], the following factors should be considered in assigning weight and significance to prior conduct:... 10. The materiality of any omissions or misrepresentations." The majority's approach to application omissions ignores factor No. 10. Likewise, we have held that an omission can be material to a consideration of honesty if the omission also demonstrates an intent to deceive, give false answers, or be evasive. Lane's omissions do not establish that he intended to deceive the commission or that he is dishonest.
 
 Under the current rules for admission to the Nebraska bar, I do not believe that Lane can be denied admission.
-
-CONNOLLY, J., joins in this dissent.
-
-Save trees - read court opinions online on Google Scholar.

@@ -1,49 +1,16 @@
 ---
-created: 2021-08-25T11:28:02 (UTC -04:00)
-tags: []
-source: https://scholar.google.com/scholar_case?case=5361035678534267598
-author: 
----
+layout: case
 
-# Page v. OATH INC., Del: Superior Court 2021 - Google Scholar
-
-> ## Excerpt
-> Superior Court of Delaware.
+title: 'Page v. Oath, Inc.'
+cite: 'C.A. No. S20C-07-030 CAK (Del. Sup. Ct. Jan. 11, 2021)'
 
 ---
-### CARTER PAGE, an individual, Plaintiff,  
-v.  
-OATH INC., a corporation, Defendant.
 
-[C.A. No. S20C-07-030 CAK.](https://scholar.google.com/scholar?scidkt=11011465840649868856&as_sdt=2&hl=en)
-
-**Superior Court of Delaware.**
-
-Submitted: January 6, 2021.
-
-Decided: January 11, 2021.
-
-_Opinion following the Issuance of a Rule to Show Cause_
-
-Sean J. Bellew, Esquire, BELLEW LLC, 2961 Centerville Road, Suite 302, Wilmington, DE 19808. Attorney for Plaintiff.
-
-John M. Pierce, Esquire, PIERCE BAINBRIDGE P.C., 355 S. Grand Ave., 44th Floor, Los Angeles, CA 90071. Attorney for Plaintiff. _Pro Hac Vice._
-
-K. Lawson Pedigo, Esquire, MILLER KEFFER & PEDIGO PLLC, 3400 Carlisle Street, Suite 550, Dallas, TX 75204. Attorney for Plaintiff. _Pro Hac Vice._
-
-L. Lin Wood, Esquire, L. Lin Wood, P.C., P.O. Box 52584, Atlanta, GA 30355. Attorney for Plaintiff. _Pro Hac Vice._
-
-T. Brad Davey, Esquire and Jonathan A. Choa, Esquire, Potter Anderson & Corroon LLP, Hercules Plaza, P.O. Box 951, Wilmington, DE 19899. Attorney for Defendant.
-
-Elbert Lin, Esquire and David M. Parker, Esquire, Hunton Andrews Kurth LLP, 951 E. Byrd Street, Richmond, VA 23219. Attorney for Defendant. _Pro Hac Vice_
-
-Jonathan D. Reichman, Esquire and Jennifer Bloom, Esquire, Hunton Andrews Kurth LLP, 200 Park Avenue, New York, NY 10166. Attorney for Defendant. _Pro Hac Vice._
-
-## MEMORANDUM OPINION AND ORDER
+# MEMORANDUM OPINION AND ORDER
 
 CRAIG A. KARSNITZ, Judge.
 
-Several weeks ago, and pursuant to Superior Court Civil Rule 90.1, I issued a Rule to Show Cause why the approval I had given to L. Lin Wood, Esquire to practice before this Court in this case should not be revoked. Mr. Wood is not licensed to practice law in Delaware. Practicing _pro hac vice_ is a privilege and not a right. I respect the desire of litigants to select counsel of their choice. When out of state counsel is selected, however, I am required to ensure the appropriate level of integrity and competence.
+Several weeks ago, I issued a Rule to Show Cause why the approval I had given to L. Lin Wood, Esquire to practice before this Court in this case should not be revoked. Mr. Wood is not licensed to practice law in Delaware. Practicing _pro hac vice_ is a privilege and not a right. I respect the desire of litigants to select counsel of their choice. When out of state counsel is selected, however, I am required to ensure the appropriate level of integrity and competence.
 
 During the course of this litigation, a number of high profile cases have been filed around the country challenging the Presidential election. The cases included, _inter alia,_ suits in Georgia, Wisconsin and Michigan. Opinions were delivered in all of the States which were critical in various ways of the lawyering by the proponents of the lawsuits. In the Rule to Show Cause, I raised concerns I had after reviewing written decisions from Georgia and Wisconsin. Specifically, in Georgia, a lawsuit filed by Mr. Wood resulted in a determination that the suit was without basis in law or fact. The initial pleadings in the Wisconsin case were riddled with errors. I had concerns as listed in the Rule to Show Cause.
 
@@ -67,7 +34,7 @@ In response to my inquiry regarding the Georgia litigation Mr. Wood tells me he 
 
 I am also troubled that an error-ridden affidavit of an expert witness would be filed in support of Mr. Wood's case. An attorney as experienced as Mr. Wood knows expert affidavits must be reviewed in detail to ensure accuracy before filing. Failure to do so is either mendacious or incompetent.
 
-The response to the Rule with regard to the Wisconsin complaint calls the failings "proof reading errors". Failure to certify a complaint for injunction or even serve the Defendants are not proof reading errors. The Complaint would not survive a law school civil procedure class.[[1]](https://scholar.google.com/scholar_case?case=5361035678534267598#[1])
+The response to the Rule with regard to the Wisconsin complaint calls the failings "proof reading errors". Failure to certify a complaint for injunction or even serve the Defendants are not proof reading errors. The Complaint would not survive a law school civil procedure class.
 
 Prior to the pandemic, I watched daily counsel practice before me in a civil, ethical way to tirelessly advance the interests of their clients. It would dishonor them were I to allow this _pro hac vice_ order to stand. The conduct of Mr. Wood, albeit not in my jurisdiction, exhibited a toxic stew of mendacity, prevarication and surprising incompetence. What has been shown in Court decisions of our sister States satisfies me that it would be inappropriate and inadvisable to continue Mr. Wood's permission to practice before this Court. I acknowledge that I preside over a small part of the legal world in a small state. However, we take pride in our bar.
 
@@ -75,12 +42,6 @@ One final matter. A number of events have occurred since the filing of the Rule 
 
 I am not here to litigate if Mr. Wood was ultimately the source of the incitement. I make no finding with regard to this conduct, and it does not form any part of the basis for my ruling. I reaffirm my limited role.
 
-I am revoking my order granting Lin Wood, Esquire the privilege of representing the Plaintiff in this case. Given my ruling, here the hearing scheduled for January 13, 2021 is cancelled.[[2]](https://scholar.google.com/scholar_case?case=5361035678534267598#[2]) My staff will contact the parties to schedule as soon as possible a date for argument on the Defendant's Motion to Dismiss.
+I am revoking my order granting Lin Wood, Esquire the privilege of representing the Plaintiff in this case. 
 
 IT IS SO ORDERED.
-
-[[1]](https://scholar.google.com/scholar_case?case=5361035678534267598#r[1]) Mr. Wood in his response tells me he is not responsible, as he is listed as "Counsel for Notice". My reading of the docket is he was one of the counsel of record for the Plaintiffs, and thus fully responsible for the filing. Moreover, since I am not addressing choice of law issues with respect to professional misconduct, Delaware Rule of Professional Conduct 8.5 need not be discussed. Nor am I imposing any sanctions under Delaware Superior Court Civil Rule 11.
-
-[[2]](https://scholar.google.com/scholar_case?case=5361035678534267598#r[2]) Rule 90. I requires either a hearing on the issue or other meaningful opportunity to respond Mr. Wood was afforded the latter.
-
-Save trees - read court opinions online on Google Scholar.
