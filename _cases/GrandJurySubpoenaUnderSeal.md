@@ -7,7 +7,7 @@ cite: '415 F. 3d 334 (4th Cir. 2005)'
 ---
 
 
-This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court \[argued\] that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL’s alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm. 
+This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court [argued] that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL’s alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm. 
 
 # I. 
 

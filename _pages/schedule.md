@@ -23,7 +23,7 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement § 1](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [NC Gen. Stat. §§ 84-15, 84-16, 84-23](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap84)
 - [In re Creasey](https://www.emfink.net/ProfessionalResponsibility/cases/Creasy), 12 P.3d 214 (Ariz. 2000) 
-- [Sheller v. Superior Court](https://scholar.google.com/scholar_case?case=17035611508566946395), 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
+- [Sheller v. Superior Court](https://www.emfink.net/ProfessionalResponsibility/cases/Sheller), 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
 
 ## Professional Gatekeeping & Regulation 
 
@@ -34,21 +34,21 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [NCRPC Rule 8.1](https://www.emfink.net/ProfessionalResponsibility/rules/Section8)
 - [NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap84)
 - [Restatement §§ 2-3](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
-- [In re Converse](https://scholar.google.com/scholar_case?case=12112654702095917076), 602 N.W.2d 500 (Neb. 1999)
-- [Appeal of Lane](https://scholar.google.com/scholar_case?case=11198991863788394859), 544 N.W.2d 367 (1996)
+- [In re Converse](https://www.emfink.net/ProfessionalResponsibility/cases/Converse), 602 N.W.2d 500 (Neb. 1999)
+- [Appeal of Lane](https://www.emfink.net/ProfessionalResponsibility/cases/Lane), 544 N.W.2d 367 (1996)
 - Committee of Character and Fitness of the Supreme Court of Illinois, [In re Application of Hale](https://www.emfink.net/ProfessionalResponsibility/assets/materials/LegalProfession/ApplicationOfHale.pdf), (April 10, 1999)
-- [In re Hinson-Lyles](https://scholar.google.com/scholar_case?case=7714346520269489933), 864 So.2d 108 (La. 2003)
-- [Matter of Anonymous](https://scholar.google.com/scholar_case?case=14730953209428671351), 875 N.Y.S.2d 925 (N.Y. App. Div. 2009)
-- [Page v. Oath, Inc.](https://scholar.google.com/scholar_case?case=5361035678534267598), C.A. No. S20C-07-030 CAK (Del. Super. Jan. 11, 2021)
+- [In re Hinson-Lyles](https://www.emfink.net/ProfessionalResponsibility/cases/Hinson-Lyles), 864 So.2d 108 (La. 2003)
+- [Matter of Anonymous](https://www.emfink.net/ProfessionalResponsibility/cases/MatterOfAnonymous), 875 N.Y.S.2d 925 (N.Y. App. Div. 2009)
+- [Page v. Oath, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/Page), C.A. No. S20C-07-030 CAK (Del. Super. Jan. 11, 2021)
 
 ### Unauthorized Practice of Law 
 
 - [NCRPC Rule 5.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section5)
 - [Restatement § 4](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap84)
-- [Birbrower, Montalbano, Condon & Frank v. Superior Court](https://scholar.google.com/scholar_case?case=17875531284498988901), 70 Cal.Rptr.2d 304 (Cal. 1998)
-- [Estate of Condon v. McHenry](https://scholar.google.com/scholar_case?case=14039188124807111305), 76 Cal.Rptr.2d 922 (Cal. App. 1998)
-- [In re Trester](https://scholar.google.com/scholar_case?case=17518973051504445951), 172 P.3d 31 (Kan. 2007)
+- [Birbrower, Montalbano, Condon & Frank v. Superior Court](https://www.emfink.net/ProfessionalResponsibility/cases/Birbrower), 70 Cal.Rptr.2d 304 (Cal. 1998)
+- [Estate of Condon v. McHenry](https://www.emfink.net/ProfessionalResponsibility/cases/Condon), 76 Cal.Rptr.2d 922 (Cal. App. 1998)
+- [In re Trester](https://www.emfink.net/ProfessionalResponsibility/cases/Trester), 172 P.3d 31 (Kan. 2007)
 
 ### Attorney Discipline 
 
@@ -56,10 +56,10 @@ _The class schedule and reading assignments for Fall 2021 are subject to revisio
 - [Restatement § 5](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
 - [NC Gen. Stat. § 84-28, 84-36](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap84)
 - [Neal v. Clinton](https://www.emfink.net/ProfessionalResponsibility/cases/Clinton), No. CIV 2000–5677, slip op. (Ark. Cir. Ct. Jan. 19, 2001)
-- [In re Riehlmann](https://scholar.google.com/scholar_case?case=12428100756576753482), 891 So.2d 1239 (La. 2005)
-- [In re Diaz](https://scholar.google.com/scholar_case?case=3786135406492511104), 288 P.3d 486 (Kan. 2012)
-- [In re Gates](https://scholar.google.com/scholar_case?case=1363325368970014721), Misc. Case No. 18-00301-KRH (Bankr. E.D. Va. 2018)
-- [Matter of Giuliani](https://scholar.google.com/scholar_case?case=12359416884205832730), No. 2021-00506, slip op. (NY App. Div. June 24, 2021)
+- [In re Riehlmann](https://www.emfink.net/ProfessionalResponsibility/cases/Riehlmann), 891 So.2d 1239 (La. 2005)
+- [In re Diaz](Diaz), 288 P.3d 486 (Kan. 2012)
+- [In re Gates](https://www.emfink.net/ProfessionalResponsibility/cases/Gates), Misc. Case No. 18-00301-KRH (Bankr. E.D. Va. 2018)
+- [Matter of Giuliani](https://www.emfink.net/ProfessionalResponsibility/cases/Giuliani), No. 2021-00506, slip op. (NY App. Div. June 24, 2021)
 
 #### September 6
 
@@ -71,30 +71,30 @@ No class (Labor Day)
 
 - [NCRPC Rules 5.1-5.4, 5.6, 5.7](https://www.emfink.net/ProfessionalResponsibility/rules/Section5)
 - [Restatement §§ 9-13](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap1)
-- [Lawyer Disciplinary Board v. Veneri](https://scholar.google.com/scholar_case?case=1499306831844399581), 524 S.E.2d 900 (W. Va. 1999)
-- [In re Columbia Valley Healthcare System, L.P.](https://scholar.google.com/scholar_case?case=17684930673333102813), 320 S.W.3d 819 (Tex. 2010)
-- [Hoff v. Mayer, Brown, & Platt](https://scholar.google.com/scholar_case?case=6212433662685892174), 772 N.E.2d 263 (Ill. App. Ct. 2002)
-- [Cardillo v. Bloomfield 206 Corp.](https://scholar.google.com/scholar_case?case=3528263449145432656), 988 A.2d 136 (N.J. Super. 2010)
+- [Lawyer Disciplinary Board v. Veneri](https://www.emfink.net/ProfessionalResponsibility/cases/Veneri), 524 S.E.2d 900 (W. Va. 1999)
+- [In re Columbia Valley Healthcare System, L.P.](https://www.emfink.net/ProfessionalResponsibility/cases/ColumbiaValleyHealthcareSystem), 320 S.W.3d 819 (Tex. 2010)
+- [Hoff v. Mayer, Brown, & Platt](https://www.emfink.net/ProfessionalResponsibility/cases/Hoff), 772 N.E.2d 263 (Ill. App. Ct. 2002)
+- [Cardillo v. Bloomfield 206 Corp.](https://www.emfink.net/ProfessionalResponsibility/cases/Cardillo), 988 A.2d 136 (N.J. Super. 2010)
 
 #### September 13
 
 ### Advertising
 
 - [NCRPC Rules: 7.1, 7.2](https://www.emfink.net/ProfessionalResponsibility/rules/Section7)
-- [Bates v. State Bar of Arizona](https://scholar.google.com/scholar_case?case=1176004052156446158), 433 U.S. 350 (1977)
-- [Florida Bar v. Pape](https://scholar.google.com/scholar_case?case=16361152610493053674), 918 So.2d 240 (2005)
-- [Hayes v. New York Attorney Grievance Committee](https://scholar.google.com/scholar_case?case=14333775704255147335), 672 F.3d 158 (2d Cir. 2012)
-- [Hunter v. Virginia State Bar](https://scholar.google.com/scholar_case?case=3994538614300844716), 744 S.E.2d 611 (Va. 2013)
+- [Bates v. State Bar of Arizona](https://www.emfink.net/ProfessionalResponsibility/cases/Bates), 433 U.S. 350 (1977)
+- [Florida Bar v. Pape](https://www.emfink.net/ProfessionalResponsibility/cases/Pape), 918 So.2d 240 (2005)
+- [Hayes v. New York Attorney Grievance Committee](https://www.emfink.net/ProfessionalResponsibility/cases/Hayes), 672 F.3d 158 (2d Cir. 2012)
+- [Hunter v. Virginia State Bar](Hunter), 744 S.E.2d 611 (Va. 2013)
 
 ### Solicitation 
 
 - [NCRPC Rules: 7.3, 7.6](https://www.emfink.net/ProfessionalResponsibility/rules/Section7)
-- [NAACP v. Button](https://scholar.google.com/scholar_case?case=13147024771433949854), 371 U.S. 415 (1963)
-- [Ohralik v. Ohio State Bar Assn.](https://scholar.google.com/scholar_case?case=14448963597489320300), 436 U.S. 447 (1978)
-- [In re Primus](https://scholar.google.com/scholar_case?case=7019549457598585590), 436 U.S. 412 (1978)
-- [Zauderer v. Office of Disciplinary Counsel](https://scholar.google.com/scholar_case?case=9961821012845558561), 471 U.S. 626 (1985)
-- [Shapero v. Kentucky State Bar Assn.](https://scholar.google.com/scholar_case?case=10781928571449440206), 486 U.S. 466 (1988)
-- [Florida Bar v. Went for It](https://scholar.google.com/scholar_case?case=9524077868218834965), 515 U.S. 618 (1995)
+- [NAACP v. Button](https://www.emfink.net/ProfessionalResponsibility/cases/Button), 371 U.S. 415 (1963)
+- [Ohralik v. Ohio State Bar Assn.](https://www.emfink.net/ProfessionalResponsibility/cases/Ohralik), 436 U.S. 447 (1978)
+- [In re Primus](https://www.emfink.net/ProfessionalResponsibility/cases/Primus), 436 U.S. 412 (1978)
+- [Zauderer v. Office of Disciplinary Counsel](https://www.emfink.net/ProfessionalResponsibility/cases/Zauderer), 471 U.S. 626 (1985)
+- [Shapero v. Kentucky State Bar Assn.](https://www.emfink.net/ProfessionalResponsibility/cases/Shapero), 486 U.S. 466 (1988)
+- [Florida Bar v. Went for It](https://www.emfink.net/ProfessionalResponsibility/cases/WentForIt), 515 U.S. 618 (1995)
 
 
 ## The Attorney-Client Relationship
