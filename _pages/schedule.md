@@ -5,8 +5,6 @@ title: Schedule & Assignments
 
 ---
 
-_The class schedule and reading assignments for Fall 2021 are subject to revision before the start of the term._
-
 ## Law as a Regulated Profession  
 
 #### August 30
@@ -276,8 +274,8 @@ No class
 - [Nix v. Whiteside](https://www.emfink.net/ProfessionalResponsibility/cases/Nix), 475 U.S. 157 (1986) 
 - [People v. DePallo](https://www.emfink.net/ProfessionalResponsibility/cases/DePallo), 754 N.E.2d 751 (NY 2001)
 - [State v. Hischke](https://www.emfink.net/ProfessionalResponsibility/cases/Hischke), 639 N.W.2d 6 (Iowa 2002)
-- [U.S. v. Long](https://www.emfink.net/ProfessionalResponsibility/cases/Long), 
-- [Gentile v. State Bar of Nevada](https://www.emfink.net/ProfessionalResponsibility/cases/Gentile), 
+- [U.S. v. Long](https://www.emfink.net/ProfessionalResponsibility/cases/Long), 857 F. 2d 436 (8th Cir. 1988)
+- [In re Litz](https://www.emfink.net/ProfessionalResponsibility/cases/Long), 721 N.E.2d 258 (Ind. 1999)
 
 #### November 15 & 17
 
