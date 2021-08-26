@@ -1,8 +1,9 @@
 ---
-layout: case
+layout: case 
 
-title: 'In re Hinson-Lyles',
+title: 'In re Hinson-Lyles'
 cite: '864 So.2d 108 (La. 2003)'
+
 ---
 
 # PER CURIAM.

@@ -109,7 +109,7 @@ No class
 
 - [NCRPC Rule 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement § 15](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- [Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co.](https://www.emfink.net/ProfessionalResponsibility/cases/ClarkCapital), 149 F.Supp.2d 193 (E.D. Pa. 2001)
+- [Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co.](https://www.emfink.net/ProfessionalResponsibility/cases/ClarkCapitalManagement), 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
 ### Establishing Representation 
 
