@@ -55,7 +55,7 @@ title: Schedule & Assignments
 - [NC Gen. Stat. § 84-28, 84-36](https://www.emfink.net/ProfessionalResponsibility/statutes/NCGS_Chap84)
 - [Neal v. Clinton](https://www.emfink.net/ProfessionalResponsibility/cases/Clinton), No. CIV 2000–5677, slip op. (Ark. Cir. Ct. Jan. 19, 2001)
 - [In re Riehlmann](https://www.emfink.net/ProfessionalResponsibility/cases/Riehlmann), 891 So.2d 1239 (La. 2005)
-- [In re Diaz](Diaz), 288 P.3d 486 (Kan. 2012)
+- [In re Diaz](https://www.emfink.net/ProfessionalResponsibility/cases/Diaz), 288 P.3d 486 (Kan. 2012)
 - [In re Gates](https://www.emfink.net/ProfessionalResponsibility/cases/Gates), Misc. Case No. 18-00301-KRH (Bankr. E.D. Va. 2018)
 - [Matter of Giuliani](https://www.emfink.net/ProfessionalResponsibility/cases/Giuliani), No. 2021-00506, slip op. (NY App. Div. June 24, 2021)
 
@@ -82,7 +82,7 @@ No class (Labor Day)
 - [Bates v. State Bar of Arizona](https://www.emfink.net/ProfessionalResponsibility/cases/Bates), 433 U.S. 350 (1977)
 - [Florida Bar v. Pape](https://www.emfink.net/ProfessionalResponsibility/cases/Pape), 918 So.2d 240 (2005)
 - [Hayes v. New York Attorney Grievance Committee](https://www.emfink.net/ProfessionalResponsibility/cases/Hayes), 672 F.3d 158 (2d Cir. 2012)
-- [Hunter v. Virginia State Bar](Hunter), 744 S.E.2d 611 (Va. 2013)
+- [Hunter v. Virginia State Bar](https://www.emfink.net/ProfessionalResponsibility/cases/Hunter), 744 S.E.2d 611 (Va. 2013)
 
 ### Solicitation 
 
@@ -120,14 +120,14 @@ No class
 
 - [NCRPC Rule 1.16](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 31-33](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap2)
-- [Demov, Morris, Levine & Shein v. Glantz](https://www.emfink.net/ProfessionalResponsibility/cases/Demov/), 53 N.Y.2d 553 (N.Y. 1981)
+- [Demov, Morris, Levine & Shein v. Glantz](https://www.emfink.net/ProfessionalResponsibility/cases/Demov), 53 N.Y.2d 553 (N.Y. 1981)
 - [Whiting v. Lacara](https://www.emfink.net/ProfessionalResponsibility/cases/Whiting), 187 F. 3d 317 (2d Cir. 1999)
-- [Motion to Withdraw as Counsel for Defendants Ray and Cantwell](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Motion.pdf), Sines v. Kessler, No. 3:17-cv-00072 (W.D. Va. 2019)
-	- [Attorney's brief in support of motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Brief.pdf)
-	- [Defendant Cantwell's opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-CantwellOpposition.pdf)
-	- [Plaintiff's response](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-PlaintiffsResponse.pdf)
-	- [Defendant Cantwell's reply](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-CantwellReply.pdf)
-	- [Order granting motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentations/Cantwell-Withdrawal-Order.pdf)
+- [Motion to Withdraw as Counsel for Defendants Ray and Cantwell](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-Motion.pdf), Sines v. Kessler, No. 3:17-cv-00072 (W.D. Va. 2019)
+	- [Attorney's brief in support of motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-Brief.pdf)
+	- [Defendant Cantwell's opposition](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-CantwellOpposition.pdf)
+	- [Plaintiff's response](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-PlaintiffsResponse.pdf)
+	- [Defendant Cantwell's reply](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-CantwellReply.pdf)
+	- [Order granting motion](https://www.emfink.net/ProfessionalResponsibility/assets/materials/TerminatingRepresentation/Cantwell-Withdrawal-Order.pdf)
 
 #### September 22
 
@@ -145,7 +145,7 @@ No class
 - [Restatement §§ 96 & 97](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap6)
 - [In the Matter of Silva](https://www.emfink.net/ProfessionalResponsibility/cases/Silva), 636 A.2d 316 (R.I. 1994)
 - [Brennan v. Ruffner](https://www.emfink.net/ProfessionalResponsibility/cases/Brennan), 640 So. 2d 143 (Fla. 1994)
-- [In re Grand Jury Subpoena: Under Seal](GrandJurySubpoenaUnderSeal), 415 F. 3d 334 (4th Cir. 2005)
+- [In re Grand Jury Subpoena: Under Seal](https://www.emfink.net/ProfessionalResponsibility/cases/GrandJurySubpoenaUnderSeal), 415 F. 3d 334 (4th Cir. 2005)
 - [U.S. v. Stein](https://www.emfink.net/ProfessionalResponsibility/cases/Stein), 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
 
 ### Clients with Diminished Capacity

@@ -6,7 +6,6 @@ cite: '53 N.Y.2d 553 (N.Y. 1981)'
     
 ---
 
-
 The question on this appeal is whether an attorney may recover upon a cause of action against a former client for fraudulently inducing the attorney to enter into a retainer agreement. The Appellate Division held the cause of action is insufficient as a matter of law and we agree. 
 
 In 1972, the City of New York condemned a parcel of land in Queens owned by respondent HGV Associates upon which an amusement park was operated by respondent MHG Enterprises, Inc. Between 1972 and 1976, respondents retained several attorneys to undertake efforts to retain possession of the premises and secure the most advantageous condemnation award. Respondents remained in possession until May 28, 1976, when a Federal court ordered them to vacate the premises. 
