@@ -7,7 +7,6 @@ Judge: Douglas, J.
     
 ---
 
-
 The sole question posed for our consideration is whether an insurance carrier may be liable for conversion when the carrier authorizes its bank to pay a draft over a forged endorsement. We answer the question in the affirmative and, accordingly, uphold the decision of the court of appeals. 
 
 Initially, appellant asks this court to find that its payment to James Whitney, the attorney for the estate and guardianship, constituted payment to the estate and guardianship. Accordingly, appellant would have us hold that appellant's obligation to the estate and guardianship was discharged when appellant both delivered the drafts in question to the agent of the estate and the guardianship, and then authorized payment of such drafts to the same party. We decline to make such a finding in this case. 

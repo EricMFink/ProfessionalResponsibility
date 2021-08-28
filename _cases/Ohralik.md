@@ -3,14 +3,13 @@ layout: case
 
 title: 'Ohralik v. Ohio State Bar Association'
 cite: '436 U.S. 447 (1978)'
+judge: 'MR. JUSTICE POWELL delivered the opinion of the Court.'
 
 ---
 
-# MR. JUSTICE POWELL delivered the opinion of the Court.
-
 In _Bates v. State Bar of Arizona_, this Court held that truthful advertising of "routine" legal services is protected by the First and Fourteenth Amendments against blanket prohibition by a State. The Court expressly reserved the question of the permissible scope of regulation of "in-person solicitation of clients—at the hospital room or the accident site, or in any other situation that breeds undue influence—by attorneys or their agents or 'runners.'" Today we answer part of the question so reserved, and hold that the State—or the Bar acting with state authorization— constitutionally may discipline a lawyer for soliciting clients in person, for pecuniary gain, under circumstances likely to pose dangers that the State has a right to prevent.
 
-## I
+# I
 
 Appellant, a member of the Ohio Bar, lives in Montville, Ohio. Until recently he practiced law in Montville and Cleveland. On February 13, 1974, while picking up his mail at the Montville Post Office, appellant learned from the postmaster's brother about an automobile accident that had taken place on February 2 in which Carol McClintock, a young woman with whom appellant was casually acquainted, had been injured. Appellant made a telephone call to Ms. McClintock's parents, who informed him that their daughter was in the hospital. Appellant suggested that he might visit Carol in the hospital. Mrs. McClintock assented to the idea, but requested that appellant first stop by at her home.
 
@@ -28,11 +27,11 @@ Both Carol McClintock and Wanda Lou Holbert filed complaints against appellant w
 
 The decision in _Bates_ was handed down after the conclusion of proceedings in the Ohio Supreme Court. We noted probable jurisdiction in this case to consider the scope of protection of a form of commercial speech, and an aspect of the State's authority to regulate and discipline members of the bar, not considered in _Bates_. We now affirm the judgment of the Supreme Court of Ohio.
 
-## II
+# II
 
 The solicitation of business by a lawyer through direct, in-person communication with the prospective client has long been viewed as inconsistent with the profession's ideal of the attorney-client relationship and as posing a significant potential for harm to the prospective client. It has been proscribed by the organized Bar for many years. Last Term the Court ruled that the justifications for prohibiting truthful, "restrained" advertising concerning "the availability and terms of routine legal services" are insufficient to override society's interest, safeguarded by the First and Fourteenth Amendments, in assuring the free flow of commercial information. The balance struck in _Bates_ does not predetermine the outcome in this case. The entitlement of in-person solicitation of clients to the protection of the First Amendment differs from that of the kind of advertising approved in _Bates_, as does the strength of the State's countervailing interest in prohibition.
 
-### A
+## A
 
 Appellant contends that his solicitation of the two young women as clients is indistinguishable, for purposes of constitutional analysis, from the advertisement in _Bates_. Like that advertisement, his meetings with the prospective clients apprised them of their legal rights and of the availability of a lawyer to pursue their claims. According to appellant, such conduct is "presumptively an exercise of his free speech rights" which cannot be curtailed in the absence of proof that it actually caused a specific harm that the State has a compelling interest in preventing. Brief for Appellant 39. But in-person solicitation of professional employment by a lawyer does not stand on a par with truthful advertising about the availability and terms of routine legal services, let alone with forms of speech more traditionally within the concern of the First Amendment.
 
@@ -48,7 +47,7 @@ It also is argued that in-person solicitation may provide the solicited individu
 
 Appellant does not contend, and on the facts of this case could not contend, that his approaches to the two young women involved political expression or an exercise of associational freedom, "employ [ing] constitutionally privileged means of expression to secure constitutionally guaranteed civil rights." Nor can he compare his solicitation to the mutual assistance in asserting legal rights that was at issue in [cases involving labor unions assisting their members in pursuing legal claims arising from their employment]. A lawyer's procurement of remunerative employment is a subject only marginally affected with First Amendment concerns. It falls within the State's proper sphere of economic and professional regulation. While entitled to some constitutional protection, appellant's conduct is subject to regulation in furtherance of important state interests.
 
-### B
+## B
 
 The state interests implicated in this case are particularly strong. In addition to its general interest in protecting consumers and regulating commercial transactions, the State bears a special responsibility for maintaining standards among members of the licensed professions. "The interest of the States in regulating lawyers is especially great since lawyers are essential to the primary governmental function of administering justice, and have historically been 'officers of the courts.'" While lawyers act in part as "self-employed businessmen," they also act "as trusted agents of their clients, and as assistants to the court in search of a just solution to disputes." 
 
@@ -58,7 +57,7 @@ The substantive evils of solicitation have been stated over the years in sweepin
 
 We need not discuss or evaluate each of these interests in detail as appellant has conceded that the State has a legitimate and indeed "compelling" interest in preventing those aspects of solicitation that involve fraud, undue influence, intimidation, overreaching, and other forms of "vexatious conduct." We agree that protection of the public from these aspects of solicitation is a legitimate and important state interest.
 
-## III
+# III
 
 Appellant's concession that strong state interests justify regulation to prevent the evils he enumerates would end this case but for his insistence that none of those evils was found to be present in his acts of solicitation. He challenges what he characterizes as the "indiscriminate application" of the Rules to him and thus attacks the validity of DR 2-103 (A) and DR 2-104 (A) not facially, but as applied to his acts of solicitation. And because no allegations or findings were made of the specific wrongs appellant concedes would justify disciplinary action, appellant terms his solicitation "pure," meaning "soliciting and obtaining agreements from Carol McClintock and Wanda Lou Holbert to represent each of them," without more. Appellant therefore argues that we must decide whether a State may discipline him for solicitation _per se_ without offending the First and Fourteenth Amendments.
 
@@ -78,11 +77,13 @@ Accordingly, the judgment of the Supreme Court of Ohio is
 
 _Affirmed_.
 
+--- 
+
 # MR. JUSTICE MARSHALL, concurring in part and concurring in the judgment.
 
 I agree with the majority that the factual circumstances presented by appellant Ohralik's conduct "pose dangers that the State has a right to prevent," and accordingly that he may constitutionally be disciplined by the disciplinary Board and the Ohio Supreme Court. I further agree that appellant Primus' activity in advising a Medicaid patient who had been sterilized that the American Civil Liberties Union (ACLU) would be willing to represent her without fee in a lawsuit against the doctor and the hospital was constitutionally protected and could not form the basis for disciplinary proceedings. I write separately to highlight what I believe these cases do and do not decide, and to express my concern that disciplinary rules not be utilized to obstruct the distribution of legal services to all those in need of them.
 
-## I
+# I
 
 While both of these cases involve application of rules prohibiting attorneys from soliciting business, they could hardly have arisen in more disparate factual settings. The circumstances in which appellant Ohralik initially approached his two clients provide classic examples of "ambulance chasing," fraught with obvious potential for misrepresentation and overreaching. Ohralik, an experienced lawyer in practice for over 25 years, approached two 18-year-old women shortly after they had been in a traumatic car accident. One was in traction in a hospital room; the other had just been released following nearly two weeks of hospital care. Both were in pain and may have been on medication; neither had more than a high school education. Certainly these facts alone would have cautioned hesitation in pressing one's employment on either of these women; any lawyer of ordinary prudence should have carefully considered whether the person was in an appropriate condition to make a decision about legal counsel. 
 
@@ -90,31 +91,31 @@ But appellant not only foisted himself upon these clients; he acted in gross dis
 
 What is objectionable about Ohralik's behavior here is not so much that he solicited business for himself, but rather the circumstances in which he performed that solicitation and the means by which he accomplished it. Appropriately, the Court's actual holding in _Ohralik_ is a limited one: that the solicitation of business, under circumstances—such as those found in this record—presenting substantial dangers of harm to society or the client independent of the solicitation itself, may constitutionally be prohibited by the State. In this much of the Court's opinion in _Ohralik_, I join fully.
 
-## II
+# II
 
 The facts in _Primus_, by contrast, show a "solicitation" of employment in accordance with the highest standards of the legal profession. Appellant in this case was acting, not for her own pecuniary benefit, but to promote what she perceived to be the legal rights of persons not likely to appreciate or to be able to vindicate their own rights. The obligation of all lawyers, whether or not members of an association committed to a particular point of view, to see that legal aid is available "where the litigant is in need of assistance, or where important issues are involved in the case," has long been established. Indeed, Judge Soper in _Ades_ was able to recite numerous instances in which lawyers, including Alexander Hamilton, Luther Martin, and Clarence Darrow, volunteered their services in aid of indigent persons or important public issues. The American Bar Association Code of Professional Responsibility itself recognizes that the "responsibility for providing legal services for those unable to pay ultimately rests upon the individual lawyer," and further states that "[e]very lawyer, regardless of professional prominence or professional workload, should find time to participate in serving the disadvantaged."
 
 In light of this long tradition of public interest representation by lawyer volunteers, I share my Brother BLACKMUN'S concern with respect to Part VI of the Court's opinion, and believe that the Court has engaged in unnecessary and unfortunate dicta therein. It would be most undesirable to discourage lawyers—so many of whom find time to work only for those clients who can pay their fees—from continuing to volunteer their services in appropriate cases. Moreover, it cannot be too strongly emphasized that, where "political expression and association" are involved,"a State may not, under the guise of prohibiting professional misconduct, ignore constitutional rights." For these reasons, I find particularly troubling the Court's dictum that "a State may insist that lawyers not solicit on behalf of lay organizations that exert control over the actual conduct of any ensuing litigation." This proposition is by no means self-evident, has never been the actual holding of this Court, and is not put in issue by the facts presently before us. Thus, while I agree with much of the Court's opinion in _Primus_, I cannot join in the first paragraph of Part VI.
 
-## III
+# III
 
 Our holdings today deal only with situations at opposite poles of the problem of attorney solicitation. In their aftermath, courts and professional associations may reasonably be expected to look to these opinions for guidance in redrafting the disciplinary rules that must apply across a spectrum of activities ranging from clearly protected speech to clearly proscribable conduct. A large number of situations falling between the poles represented by the instant facts will doubtless occur. In considering the wisdom and constitutionality of rules directed at such intermediate situations, our fellow members of the Bench and Bar must be guided not only by today's decisions, but also by our decision last Term in _Bates v. State Bar of Arizona_. There, we held that truthful printed advertising by private practitioners regarding the availability and price of certain legal services was protected by the First Amendment. In that context we rejected many of the general justifications for rules applicable to one intermediate situation not directly addressed by the Court today—the commercial, but otherwise "benign" solicitation of clients by an attorney.
 
 The state bar associations in both of these cases took the position that solicitation itself was an evil that could lawfully be proscribed. While the Court's _Primus_ opinion does suggest that the only justification for nonsolicitation rules is their prophylactic value in preventing such evils as actual fraud, overreaching, deception, and misrepresentation, I think it should be made crystal clear that the State's legitimate interests in this area are limited to prohibiting such substantive evils.
 
-### A
+## A
 
 Like rules against advertising, rules against solicitation substantially impede the flow of important information to consumers from those most likely to provide it—the practicing members of the Bar. Many persons with legal problems fail to seek relief through the legal system because they are unaware that they have a legal problem, and, even if they "perceive a need," many "do not obtain counsel . . . because of an inability to locate a competent attorney." Notwithstanding the injurious aspects of Ohralik's conduct, even his case illustrates the potentially useful, information-providing aspects of attorney solicitation: Motivated by the desire for pecuniary gain, but informed with the special training and knowledge of an attorney, Ohralik advised both his clients (apparently correctly) that, although they had been injured by an uninsured motorist, they could nonetheless recover on the McClintocks' insurance policy. The provision of such information about legal rights and remedies is an important function, even where the rights and remedies are of a private and commercial nature involving no constitutional or political overtones. 
 
 In view of the similar functions performed by advertising and solicitation by attorneys, I find somewhat disturbing the Court's suggestion in _Ohralik_ that in-person solicitation of business, though entitled to some degree of constitutional protection as "commercial speech," is entitled to less protection under the First Amendment than is "the kind of advertising approved in _Bates_." The First Amendment informational interests served by solicitation, whether or not it occurs in a purely commercial context, are substantial, and they are entitled to as much protection as the interests we found to be protected in _Bates_.
 
-### B
+## B
 
 Not only do prohibitions on solicitation interfere with the free flow of information protected by the First Amendment, but by origin and in practice they operate in a discriminatory manner. As we have noted, these constraints developed as rules of "etiquette" and came to rest on the notion that a lawyer's reputation in his community would spread by word of mouth and bring business to the worthy lawyer. The social model on which this conception depends is that of the small, cohesive, and homogeneous community; the anachronistic nature of this model has long been recognized. If ever this conception were more generally true, it is now valid only with respect to those persons who move in the relatively elite social and educational circles in which knowledge about legal problems, legal remedies, and lawyers is widely shared. 
 
 The impact of the nonsolicitation rules, moreover, is discriminatory with respect to the suppliers as well as the consumers of legal services. Just as the persons who suffer most from lack of knowledge about lawyers' availability belong to the less privileged classes of society, so the Disciplinary Rules against solicitation fall most heavily on those attorneys engaged in a single-practitioner or small-partnership form of practice—attorneys who typically earn less than their fellow practitioners in larger, corporateoriented firms. Indeed, some scholars have suggested that the rules against solicitation were developed by the professional bar to keep recently immigrated lawyers, who gravitated toward the smaller, personal injury practice, from effective entry into the profession. In light of this history, I am less inclined than the majority appears to be, to weigh favorably in the balance of the State's interests here the longevity of the ban on attorney solicitation.
 
-### C
+## C
 
 By discussing the origin and impact of the nonsolicitation rules, I do not mean to belittle those obviously substantial interests that the State has in regulating attorneys to protect the public from fraud, deceit, misrepresentation, overreaching, undue influence, and invasions of privacy. But where honest, unpressured "commercial" solicitation is involved—a situation not presented in either of these cases—I believe it is open to doubt whether the State's interests are sufficiently compelling to warrant the restriction on the free flow of information which results from a sweeping nonsolicitation rule and against which the First Amendment ordinarily protects. While the State's interest in regulating in-person solicitation may be somewhat greater than its interest in regulating printed advertisements, these concededly legitimate interests might well be served by more specific and less restrictive rules than a total ban on pecuniary solicitation. For example, the Justice Department has suggested that the disciplinary rules be reworded "so as to _permit_ all solicitation and advertising except the kinds that are false, misleading, undignified, or champertous."
 

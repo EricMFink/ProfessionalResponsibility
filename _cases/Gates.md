@@ -3,14 +3,13 @@ layout: case
 
 title: 'In re Gates'
 cite: 'No. 18-00301-KRH, slip op. (Bankr. E.D. Va. April 5, 2018)'
+judge: 'Huennekens, Bankruptcy Judge'
 
 ---
 
-# HUENNEKENS, Bankruptcy Judge.
-
 This matter comes before the Court upon the Court's Order to Show Cause ("Order to Show Cause") whereby the Court directed Richard O. Gates ("Gates") to show cause why he should not be disciplined for the disruptive and abusive behavior he has directed toward court security personnel on multiple occasions upon entering the United States Courthouse in Richmond, Virginia (the "Courthouse"). The Court conducted an evidentiary hearing on the Order to Show Cause on April 4, 2018 (the "Hearing"). Gates appeared at the Hearing and offered evidence on his own behalf. The Office of the United States Trustee ("U.S. Trustee") introduced testimony from three witnesses. After the parties had presented their evidence, the Court found that Gates' inappropriate conduct warranted the imposition of sanctions. This Memorandum Opinion sets forth the Court's findings of fact and conclusions of law in support of its decision in accordance with Rule 7052 of the Federal Rules of Bankruptcy Procedure (the "Bankruptcy Rules").
 
-## Facts
+# Facts
 
 The Hearing focused on repeated episodes of misconduct displayed by Gates while entering the Courthouse. The latest incident occurred on March 29, 2018, at approximately 9:00 a.m. (the "March 29, 2018 Incident"). Court Security Officer ("CSO") Tom Melton ("Melton") was on duty at the security station when Gates entered the main lobby at the entrance of the Courthouse (the "Security Station"). Melton testified that Gates walked through the magnetometer, which triggered a waist-level alarm indicating that Gates had something that needed to be removed or inspected. Prior to allowing Gates access to the Courthouse, Melton required Gates to remove his belt and everything from his pockets and pass through the magnetometer a second time. Gates responded angrily to this perceived indignity. During a rather dramatic display of profanity-laced displeasure, Gates forcibly threw his belt onto the conveyer. The belt struck the arm of a woman waiting her turn to enter the Courthouse in the security line that had formed behind Gates. After Gates was finally cleared for entry, Melton informed Gates that his behavior was unacceptable and that he would have to report the episode to the proper authorities (_i.e._, the lead CSO and the United States Marshals Service (the "U.S. Marshals Service")). Melton politely apologized to the woman who had been hit by the belt for Gates' conduct. Gates did not apologize. Melton's testimony mirrored the Court Facility Incident Report he submitted on March 29, 2018 (the "Court Facility Incident Report").
 
@@ -18,13 +17,13 @@ The March 29, 2018 Incident was not an isolated event. It was just the latest ep
 
 Bromseth testified about a memorable Gates outburst that occurred in November 2016 (the "November 2016 Incident"). On that occasion, Gates' shoes set off the alarm as he attempted to pass through the magnetometer. Bromseth instructed Gates to take off his shoes and pass through the magnetometer a second time. Gates threw both his shoes in a container on the conveyor belt with such force that one shoe bounced out and onto the floor. In response to Gates' violent outburst, Bromseth required Gates to remain outside the secure portion of the lobby until a U.S. Marshal could properly escort him into the Courthouse. Bromseth then alerted his lead CSO who in turn called Berger. When Berger arrived at the Security Station, Gates raised his voice with her and complained to Berger about the entire screening process. Gates expressed his displeasure with having to go through security. Gates complained that no other Virginia courthouse required him to be screened prior to entry. Gates reaffirmed this position in the testimony he offered to the Court.
 
-## Jurisdiction and Venue
+# Jurisdiction and Venue
 
 The Court has jurisdiction over this Miscellaneous Proceeding pursuant to 28 U.S.C. §§ 157(a) and 1334 and the general order of reference from the United States District Court for the Eastern District of Virginia dated August 15, 1984. This is a core proceeding under 28 U.S.C. § 157(b)(2)(A).
 
 The predicates for the relief provided herein are the Court's inherent power to supervise the professional conduct of the members of its bar and section 105(a) of Title 11 of the United States Code (the "Bankruptcy Code"). "A federal court has an inherent power 'to control admission to its bar and to discipline attorneys who appear before it.'" This inherent power extends to bankruptcy courts and "includes the power to suspend or disbar attorneys from practicing before the court." Separately, section 105 of the Bankruptcy Code provides, in pertinent part, that the "court may issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title," including but not limited to "taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process." 11 U.S.C. § 105(a). The broad authority granted by section 105(a) "to prevent an abuse of the bankruptcy process . . . includes the power to sanction counsel." Attorneys may be held liable for unprofessional conduct.
 
-## Discussion
+# Discussion
 
 Local Bankruptcy Rule 2090-1(I) incorporates the Virginia Rules of Professional Conduct (the "Rules of Professional Conduct") as the ethical standard applicable to the practice of law before the Court. Any act or omission by an attorney that violates the Rules of Professional Conduct constitutes "misconduct." The Court is empowered to discipline an attorney who engages in misconduct after notice of the misconduct and an opportunity to be heard. The Rules of Professional Conduct prohibit a lawyer from committing a "deliberately wrongful act that reflects adversely on the lawyer's . . . fitness to practice law." Va. RPC 8.4(b). In addition, Local Bankruptcy Rule 2090-1(J) requires that "[c]ounsel shall at all times conduct and demean themselves with dignity and propriety." The Court may suspend lawyers who violate the Rules of Professional Conduct or Local Bankruptcy Rule 2090-1(J) from practicing before it. This authority is derived from the lawyer's role as an officer of the court. 
 

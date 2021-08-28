@@ -3,6 +3,7 @@ layout: case
  
 title: 'Culpepper & Carroll, PLLC v. Cole'
 cite: '929 So. 2d 1224 (La. 2006)'
+judge: 'Per Curiam'
     
 ---
 

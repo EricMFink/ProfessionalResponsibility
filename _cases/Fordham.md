@@ -3,9 +3,9 @@ layout: case
  
 title: 'Matter of Fordham'
 cite: '423 Mass. 481 (Mass. 1996)'
+judge: 'O'Connor J.'
     
 ---
-
 
 This is an appeal from the Board of Bar Overseers’ dismissal of a petition for discipline filed by bar counsel against attorney Laurence S. Fordham. On March 11, 1992, bar counsel served Fordham with a petition for discipline alleging that Fordham had charged a clearly excessive fee for defending Timothy Clark in the District Court against a charge that he operated a motor vehicle while under the influence of intoxicating liquor (OUI) and against other related charges. Fordham moved that the board dismiss the petition and the board chair recommended that that be done. Bar counsel appealed from the chair's decision to the full board, and the board referred the matter to a hearing committee. 
 

@@ -3,16 +3,15 @@ layout: case
 
 title: 'Cardillo v. Bloomfield 206 Corp.'
 cite: '988 A.2d 136 (N.J. Sup., App. Div. 2010)'
+judge: 'Chambers, J.A.D.'
 
 ---
-
-# CHAMBERS, J.A.D.
 
 This appeal arises out of an agreement between plaintiff Cathy C. Cardillo, Esq. and defendants Bloomfield 206 Corporation (Bloomfield), James Stathis and Steven Silverman (the Cardillo Agreement). In the Cardillo Agreement, Cardillo, an attorney, agreed not to represent parties in litigation adverse to the defendants. At the same time that she was negotiating the Cardillo Agreement on her own behalf with defendants, she was also negotiating an agreement to settle litigation she had brought on behalf of clients against defendant Bloomfield. Cardillo and counsel for defendants exchanged emails relating their mutual understanding that the two agreements were being negotiated separately.
 
 Cardillo thereafter brought this action to seek a court determination that the Cardillo Agreement was void, contending that it violated RPC 5.6(b) which prohibits an attorney from agreeing to restrict the attorney's practice as "part of the settlement of a controversy between private parties." The trial court granted her application, and defendants appealed. We affirm. Attorneys may not circumvent the import of RPC 5.6(b) by stating that the settlement of litigation is separate from the agreement to restrict the practice of law where the agreements were negotiated contemporaneously and are interconnected.
 
-## I
+# I
 
 The path that led to this suit began in 2000, when Cardillo provided legal advice to Liberty Realty, L.L.C. (Liberty) and was paid for those services. The three principals of Liberty were Joseph Covello and defendants Stathis and Silverman.
 
@@ -30,7 +29,7 @@ Objecting to the granting of final relief on the date set to determine only temp
 
 Defendants appeal both of these orders. Defendants contend that the trial court improperly converted the order to show cause application for temporary relief into a summary proceeding and that the Cardillo Agreement does not violate RPC 5.6(b). They further maintain that Cardillo is equitably estopped from asserting that the Cardillo Agreement should be considered as part of the _Rubinstein_ litigation.
 
-## II
+# II
 
 At the outset, we note that under RPC 5.6(b) "[a] lawyer shall not participate in offering or making: ... (b) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a controversy between private parties." RPC 5.6(b) is modeled after the American Bar Association's (ABA) _Model Rule of Professional Conduct_ 5.6(b). The rationale for the _Model Rule_ has been explained as follows:
 

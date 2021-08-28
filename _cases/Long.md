@@ -3,10 +3,9 @@ layout: case
  
 title: 'U.S. v. Long'
 cite: '857 F.2d 436 (8th Cir. 1988)'
+judge: 'Heaney, Circuit Judge'
     
 ---
-
-# HEANEY, Circuit Judge
 
 Thaddeus Adonis Long and Edward Larry Jackson appeal from their convictions on a number of counts for their involvement in a check forging and bank fraud scheme. We affirm their convictions on all counts.
 
@@ -82,7 +81,7 @@ The trial judge here acted primarily with these concerns in mind. The judge disc
 
 Under such a procedure, the chance for violations of the defendant's constitutional rights will be reduced, the revelation of further client confidences will be prevented, and the defendant can make a knowing waiver of her constitutional right to testify and to counsel. It will also be necessary to establish that the waiver was voluntary and that the defendant's rights were not violated prior to the waiver. Such inquiries, however, are best made at an evidentiary hearing.
 
-## CONCLUSION
+# CONCLUSION
 
 The most weighty decision in a case of possible client perjury is made by the lawyer who decides to inform the court, and perhaps incidentally his adversary and the jury, of his client's possible perjury. This occurs when the lawyer makes a motion for withdrawal (usually for unstated reasons) or allows his client to testify in narrative form without questioning from counsel. Once this has been done, the die is cast. The prejudice will have occurred. At a minimum, the trial court will know of the defendant's potential perjury. For this reason, defense counsel must use extreme caution before revealing a belief of impending perjury. It is, as Justice Blackmun noted, "the rarest of cases" where an attorney should take such action.
 

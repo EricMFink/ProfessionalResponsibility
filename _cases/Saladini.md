@@ -3,6 +3,7 @@ layout: case
  
 title: 'Saladini v. Righellis'
 cite: '426 Mass. 231 (1997)'
+judge: 'Marshall, J.'
     
 ---
 

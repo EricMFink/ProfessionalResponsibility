@@ -3,7 +3,7 @@ layout: case
  
 title: 'In re Creasy'
 cite: '12 P.3d 214 (Ariz. 2000)'
-Judge: Feldman, Justice
+judge: 'Feldman, Justice'
     
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: case
  
-title: 'TIG Ins. v. Giffin Winning Cohen & Bodewes'
+title: 'TIG Insurance Co. v. Giffin Winning Cohen & Bodewes'
 cite: '444 F. 3d 587 (7th Cir. 2006)'
+judge: 'Evans, Circuit Judge'
     
 ---
 

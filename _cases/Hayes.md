@@ -3,16 +3,15 @@ layout: case
 
 title: 'Hayes v. New York Attorney Grievance Committee of the Eighth Judicial District'
 cite: '672 F.3d 158 (2d Cir. 2012)'
+judge: 'Jon O. Newman, Circuit Judge'
 
 ---
-
-# JON O. NEWMAN, Circuit Judge
 
 This appeal concerns a First Amendment challenge to a New York rule requiring attorneys who identify themselves as certified specialists to make a prescribed disclosure statement. The statement must identify the certifying organization, which must have been approved by the American Bar Association ("ABA"), and must include a disclaimer concerning certification. On appeal, the issue is whether Rule 7.4 of the New York Rules of Professional Conduct, which requires a prescribed disclaimer statement to be made by attorneys who state that they are certified as a specialist in a particular area of the law, either violates Hayes's freedom of speech or is unconstitutionally vague.
 
 Because enforcement of two components of the required disclaimer statement would violate the First Amendment and because the absence of standards guiding administrators of Rule 7.4 renders it unconstitutionally vague as applied to Plaintiff-Appellants Hayes, we reverse with directions to enter judgment for the Plaintiff-Appellant.
 
-## Background
+# Background
 
 Hayes has been licensed to practice law in the State of New York since 1977, limiting his practice to representing plaintiffs in civil litigation. He has taught at the Buffalo Law School, lectured at New York State Bar Association programs, and published articles on civil litigation. In 1995 he was awarded Board Certification in Civil Trial Advocacy by the National Board of Trial Advocacy ("NBTA"), an organization accredited by the American Bar Association. Thereafter Hayes began to refer to himself as a "Board Certified Civil Trial Specialist" in various advertisements, including his letterhead. In August 1996, and again on November 1996, the Grievance Committee wrote to Hayes and took issue with his use of the term "specialist." Hayes agreed to include the name of the NBTA on his letterhead and in future telephone directory advertisements.
 
@@ -30,7 +29,7 @@ In December 2001, Hayes commenced the current action, seeking a declaration that
 
 The parties consented to a bench trial on the vagueness question before Magistrate Judge Schroeder, who ruled that DR 2-105(C)(1) was not constitutionally vague as applied. Specifically, the Magistrate Judge stated that the language "prominently made" signaled that the Disclaimer must be noticeable or conspicuous and permitted a "single standard throughout the spectrum of advertising media." In addition, he stated that this language was sufficient to enable a person "of ordinary intelligence" to understand what the regulation required and that it also provided sufficiently explicit standards to guide the Grievance Committee in the enforcement of the regulation.
 
-## Discussion
+# Discussion
 
 [ * * * ]
 
@@ -78,6 +77,6 @@ Our concern is only exacerbated by the inability of the Committee's representati
 
 Although the uncertainties as to how the prominence requirement will be enforced could be alleviated if the Grievance Committee would give pre-enforcement guidance to inquiring attorneys, such guidance was not available to Hayes. The former principal counsel to the Grievance Committee was asked at trial, "[I]s there a way that you would assist the attorney if there were not a grievance file pending?" He replied, "The short answer is, no." He added that the Committee did not provide advisory opinions because, in part, "it would probably take up most of our work." Because the prominence requirement is not clear to those who sought to enforce it against Hayes's billboards, let alone to Hayes as a lawyer of ordinary skill and intelligence attempting to comply with it, it cannot validly be enforced against him in this context. It is therefore void for vagueness as it has been applied to Hayes.
 
-## Conclusion
+# Conclusion
 
 The judgments of the District Court are reversed, and the case is remanded with directions to enter judgment for the Plaintiff-Appellant declaring the second and third components of the Disclaimer invalid and enjoining enforcement of the first component against Hayes absent clear advance notice to him from the Committee of specific alleged defects in his advertising and an opportunity for him either to know what he must do to comply or to seek judicial review of the Committee's elaboration of the requirement.

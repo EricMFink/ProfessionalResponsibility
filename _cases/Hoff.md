@@ -3,10 +3,9 @@ layout: case
 
 title: 'Hoff v. Meyer, Brown and Platt'
 cite: '772 N.E.2d 263 (Ill. 2002)'
+judge: 'Justice McBride delivered the opinion of the court.'
 
 ---
-
-# Justice MCBRIDE delivered the opinion of the court:
 
 On August 16, 2000, William Bruce Hoff, Jr. (Hoff), and Catherine Hoff, his wife, filed a complaint for declaratory judgment and other relief in the circuit court of Cook County against Mayer, Brown & Platt (MBP), a Chicago law firm. Thereafter, MBP filed a motion to dismiss plaintiff's complaint. On June 12, 2001, the trial court granted defendant's motion. Hoff now appeals.
 

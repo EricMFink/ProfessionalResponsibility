@@ -3,6 +3,7 @@ layout: case
  
 title: 'Marker v. Greenberg'
 cite: '313 N.W.2d 4 (Minn. 1981)'
+judge: 'Scott, Justice'
     
 ---
 

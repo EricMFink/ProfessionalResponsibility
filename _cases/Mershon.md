@@ -3,9 +3,9 @@ layout: case
  
 title: 'Committee on Professional Ethics v. Mershon'
 cite: '316 N.W.2d 895 (Iowa 1982)'
+judge: 'McCormick, Justice'
     
 ---
-
 
 This case involves review of a Grievance Commission report recommending that respondent be reprimanded for alleged ethical violations arising from a business transaction with a client. We adopt the recommendation. 
 

@@ -3,10 +3,9 @@ layout: case
 
 title: 'Matter of Diaz'
 cite: '288 P.3d 486 (Kan. 2012)'
+judge: 'Per Curiam'
 
 ---
-
-# PER CURIAM
 
 This is an original proceeding in discipline filed by the office of the Disciplinary Administrator against the respondent, Matthew M. Diaz, of Forest Hills, New York, an attorney admitted to the practice of law in Kansas in 1995.
 
@@ -144,7 +143,7 @@ The panel made the following findings of fact and conclusions of law, together w
 
 > 65. Costs are assessed against the Respondent in an amount to be certified by the Office of the Disciplinary Administrator."
 
-## Discussion
+# Discussion
 
 In a disciplinary proceeding, this court considers the evidence, the findings of the hearing panel, and the arguments of the parties and determines whether violations of KRPC exist and, if they do, the discipline to be imposed. Attorney misconduct must be established by clear and convincing evidence. Clear and convincing evidence is "'evidence that causes the factfinder to believe that "the truth of the facts asserted is highly probable."'" When the court assesses the existence of clear and convincing evidence, it refrains from weighing conflicting evidence, assessing witness credibility, or redetermining questions of fact. 
 
@@ -184,6 +183,6 @@ On this general issue of harm, the hearing panel acknowledged that in determinin
 
 Based upon the number and nature of respondent's violations and criminal convictions, the conclusions of the military courts, the decision of the Judge Advocate General permanently revoking respondent's certification as a lawyer in the naval service, respondent's admitted selfish reasons for the clandestine disclosure of classified information, and the standards listed above, we conclude disbarment is the appropriate sanction. A minority of this court would impose the lesser sanction of indefinite suspension.
 
-## Conclusion and Discipline
+# Conclusion and Discipline
 
 IT IS THEREFORE ORDERED that MATTHEW M. DIAZ be disbarred from the practice of law in the state of Kansas, effective on the filing of this opinion, in accordance with Supreme Court Rule 203(a)(1).

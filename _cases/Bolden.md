@@ -3,9 +3,9 @@ layout: case
  
 title: 'People v. Bolden'
 cite: '99 Cal. App. 3d 375 (Cal. Ct. App. 1979)'
+panel: 'Before Brown (Gerald), P.J., Cologne, J., and Work, J.'
     
 ---
-
 
 Samuel Othello Bolden, Jr., appeals the order finding him mentally incompetent to stand trial based upon a jury verdict of incompetence. Bolden contends he was denied due process by Penal Code section 1368 which requires his attorney to give an opinion of his client's competence, and was denied effective assistance of counsel when his counsel offered evidence of his incompetence although Bolden desired to be found competent.
 

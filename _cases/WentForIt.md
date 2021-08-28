@@ -1,665 +1,109 @@
----
-layout: case
- 
-title: 'Florida Bar v. Went for It, Inc.'
-cite: '515 U.S. 618 (1995)'
-    
+--- 
+
+layout: case   
+
+title: 'Florida Bar v. Went for It, Inc.' 
+cite: '515 U.S. 618 (1995)' 
+judge: 'Justice O’CONNOR delivered the opinion of the Court.'
+
 ---
 
-# Justice O’Connor delivered the opinion of the Court.
-
-Rules of the Florida Bar prohibit personal injury lawyers from sending
-targeted direct-mail solicitations to victims and their relatives for 30
-days following an accident or disaster. This case asks us to consider
-whether such Rules violate the First and Fourteenth Amendments of the
-Constitution. We hold that in the circumstances presented here, they do
-not.
+Rules of the Florida Bar prohibit personal injury lawyers from sending targeted direct-mail solicitations to victims and their relatives for 30 days following an accident or disaster. This case asks us to consider whether such Rules violate the First and Fourteenth Amendments of the Constitution. We hold that in the circumstances presented here, they do not.
 
 # I
 
-In 1989, the Florida Bar completed a 2-year study of the effects of
-lawyer advertising on public opinion. After conducting hearings,
-commissioning surveys, and reviewing extensive public commentary, the
-Bar determined that several changes to its advertising rules were in
-order. In late 1990, the Florida Supreme Court adopted the Bar’s
-proposed amendments with some modifications. Two of these amendments are
-at issue in this case. Rule 4-7.4(b)(1) provides that "a lawyer shall
-not send, or knowingly permit to be sent, a written communication to a
-prospective client for the purpose of obtaining professional employment
-if: (A) the written communication concerns an action for personal injury
-or wrongful death or otherwise relates to an accident or disaster
-involving the person to whom the communication is addressed or a
-relative of that person, unless the accident or disaster occurred more
-than 30 days prior to the mailing of the communication." Rule 4-7.8(a)
-states that "a lawyer shall not accept referrals from a lawyer referral
-service unless the service: (1) engages in no communication with the
-public and in no direct contact with prospective clients in a manner
-that would violate the Rules of Professional Conduct if the
-communication or contact were made by the lawyer." Together, these Rules
-create a brief 30-day blackout period after an accident during which
-lawyers may not, directly or indirectly, single out accident victims or
-their relatives in order to solicit their business.
+In 1989, the Florida Bar completed a 2-year study of the effects of lawyer advertising on public opinion. After conducting hearings, commissioning surveys, and reviewing extensive public commentary, the Bar determined that several changes to its advertising rules were in order. In late 1990, the Florida Supreme Court adopted the Bar’s proposed amendments with some modifications. Two of these amendments are at issue in this case. Rule 4-7.4(b)(1) provides that "a lawyer shall not send, or knowingly permit to be sent, a written communication to a prospective client for the purpose of obtaining professional employment if: (A) the written communication concerns an action for personal injury or wrongful death or otherwise relates to an accident or disaster involving the person to whom the communication is addressed or a relative of that person, unless the accident or disaster occurred more than 30 days prior to the mailing of the communication." Rule 4-7.8(a) states that "a lawyer shall not accept referrals from a lawyer referral service unless the service: (1) engages in no communication with the public and in no direct contact with prospective clients in a manner that would violate the Rules of Professional Conduct if the communication or contact were made by the lawyer." Together, these Rules create a brief 30-day blackout period after an accident during which lawyers may not, directly or indirectly, single out accident victims or their relatives in order to solicit their business.
 
-In March 1992, G. Stewart McHenry and his wholly owned lawyer referral
-service, Went For It, Inc., filed this action for declaratory and
-injunctive relief in the United States District Court for the Middle
-District of Florida challenging Rules 4-7.4(b)(1) and 4-7.8(a) as
-violative of the First and Fourteenth Amendments to the Constitution.
-McHenry alleged that he routinely sent targeted solicitations to
-accident victims or their survivors within 30 days after accidents and
-that he wished to continue doing so in the future. Went For It, Inc.,
-represented that it wished to contact accident victims or their
-survivors within 30 days of accidents and to refer potential clients to
-participating Florida lawyers. In October 1992, McHenry was disbarred
-for reasons unrelated to this suit. Another Florida lawyer, John T.
-Blakely, was substituted in his stead.
+In March 1992, G. Stewart McHenry and his wholly owned lawyer referral service, Went For It, Inc., filed this action for declaratory and injunctive relief in the United States District Court for the Middle District of Florida challenging Rules 4-7.4(b)(1) and 4-7.8(a) as violative of the First and Fourteenth Amendments to the Constitution. McHenry alleged that he routinely sent targeted solicitations to accident victims or their survivors within 30 days after accidents and that he wished to continue doing so in the future. Went For It, Inc., represented that it wished to contact accident victims or their survivors within 30 days of accidents and to refer potential clients to participating Florida lawyers. In October 1992, McHenry was disbarred for reasons unrelated to this suit. Another Florida lawyer, John T. Blakely, was substituted in his stead.
 
-The District Court referred the parties’ competing summary judgment
-motions to a Magistrate Judge, who concluded that the Bar had
-substantial government interests, predicated on a concern for
-professionalism, both in protecting the personal privacy and tranquility
-of recent accident victims and their relatives and in ensuring that
-these individuals do not fall prey to undue influence or overreaching.
-Citing the Bar’s extensive study, the Magistrate Judge found that the
-Rules directly serve those interests and sweep no further than
-reasonably necessary. The Magistrate recommended that the District Court
-grant the Bar’s motion for summary judgment on the ground that the Rules
-pass constitutional muster.
+The District Court referred the parties’ competing summary judgment motions to a Magistrate Judge, who concluded that the Bar had substantial government interests, predicated on a concern for professionalism, both in protecting the personal privacy and tranquility of recent accident victims and their relatives and in ensuring that these individuals do not fall prey to undue influence or overreaching. Citing the Bar’s extensive study, the Magistrate Judge found that the Rules directly serve those interests and sweep no further than reasonably necessary. The Magistrate recommended that the District Court grant the Bar’s motion for summary judgment on the ground that the Rules pass constitutional muster.
 
-The District Court rejected the Magistrate Judge’s report and
-recommendations and entered summary judgment for the plaintiffs, relying
-on _Bates v. State Bar of Ariz._ and subsequent cases. The Eleventh
-Circuit affirmed on similar grounds. The panel noted, in its conclusion,
-that it was "disturbed that _Bates_ and its progeny require the
-decision" that it reached. We granted certiorari, and now reverse.
+The District Court rejected the Magistrate Judge’s report and recommendations and entered summary judgment for the plaintiffs, relying on _Bates v. State Bar of Ariz._ and subsequent cases. The Eleventh Circuit affirmed on similar grounds. The panel noted, in its conclusion, that it was "disturbed that _Bates_ and its progeny require the decision" that it reached. We granted certiorari, and now reverse.
 
-## II
+# II
 
-### A
+## A
 
-Nearly two decades of cases have built upon the foundation laid by
-_Bates_. It is now well established that lawyer advertising is
-commercial speech and, as such, is accorded a measure of First Amendment
-protection. Such First Amendment protection, of course, is not absolute.
-We have always been careful to distinguish commercial speech from speech
-at the First Amendment's core. "Commercial speech enjoys a limited
-measure of protection, commensurate with its subordinate position in the
-scale of First Amendment values, and is subject to modes of regulation
-that might be impermissible in the realm of noncommercial expression."
-We have observed that "to require a parity of constitutional protection
-for commercial and noncommercial speech alike could invite dilution,
-simply by a leveling process, of the force of the Amendment’s guarantee
-with respect to the latter kind of speech."
+Nearly two decades of cases have built upon the foundation laid by _Bates_. It is now well established that lawyer advertising is commercial speech and, as such, is accorded a measure of First Amendment protection. Such First Amendment protection, of course, is not absolute. We have always been careful to distinguish commercial speech from speech at the First Amendment's core. "Commercial speech enjoys a limited measure of protection, commensurate with its subordinate position in the scale of First Amendment values, and is subject to modes of regulation that might be impermissible in the realm of noncommercial expression." We have observed that "to require a parity of constitutional protection for commercial and noncommercial speech alike could invite dilution, simply by a leveling process, of the force of the Amendment’s guarantee with respect to the latter kind of speech."
 
-Mindful of these concerns, we engage in "intermediate" scrutiny of
-restrictions on commercial speech, analyzing them under the framework
-set forth in _Central Hudson_. Under _Central Hudson_, the government
-may freely regulate commercial speech that concerns unlawful activity or
-is misleading. Commercial speech that falls into neither of those
-categories, like the advertising at issue here, may be regulated if the
-government satisfies a test consisting of three related prongs: First,
-the government must assert a substantial interest in support of its
-regulation; second, the government must demonstrate that the restriction
-on commercial speech directly and materially advances that interest; and
-third, the regulation must be "narrowly drawn."
+Mindful of these concerns, we engage in "intermediate" scrutiny of restrictions on commercial speech, analyzing them under the framework set forth in _Central Hudson_. Under _Central Hudson_, the government may freely regulate commercial speech that concerns unlawful activity or is misleading. Commercial speech that falls into neither of those categories, like the advertising at issue here, may be regulated if the government satisfies a test consisting of three related prongs: First, the government must assert a substantial interest in support of its regulation; second, the government must demonstrate that the restriction on commercial speech directly and materially advances that interest; and third, the regulation must be "narrowly drawn."
 
-### B
+## B
 
-The Bar asserts that it has a substantial interest in protecting the
-privacy and tranquility of personal injury victims and their loved ones
-against intrusive, unsolicited contact by lawyers. This interest
-obviously factors into the Bar’s paramount (and repeatedly professed)
-objective of curbing activities that "negatively affect the
-administration of justice." Because direct-mail solicitations in the
-wake of accidents are perceived by the public as intrusive, the Bar
-argues, the reputation of the legal profession in the eyes of Floridians
-has suffered commensurately. The regulation, then, is an effort to
-protect the flagging reputations of Florida lawyers by preventing them
-from engaging in conduct that, the Bar maintains, "is universally
-regarded as deplorable and beneath common decency because of its
-intrusion upon the special vulnerability and private grief of victims or
-their families."
+The Bar asserts that it has a substantial interest in protecting the privacy and tranquility of personal injury victims and their loved ones against intrusive, unsolicited contact by lawyers. This interest obviously factors into the Bar’s paramount (and repeatedly professed) objective of curbing activities that "negatively affect the administration of justice." Because direct-mail solicitations in the wake of accidents are perceived by the public as intrusive, the Bar argues, the reputation of the legal profession in the eyes of Floridians has suffered commensurately. The regulation, then, is an effort to protect the flagging reputations of Florida lawyers by preventing them from engaging in conduct that, the Bar maintains, "is universally regarded as deplorable and beneath common decency because of its intrusion upon the special vulnerability and private grief of victims or their families."
 
-We have little trouble crediting the Bar’s interest as substantial. On
-various occasions we have accepted the proposition that "States have a
-compelling interest in the practice of professions within their
-boundaries, and as part of their power to protect the public health,
-safety, and other valid interests they have broad power to establish
-standards for licensing practitioners and regulating the practice of
-professions." Our precedents also leave no room for doubt that "the
-protection of potential clients’ privacy is a substantial state
-interest." In other contexts, we have consistently recognized that "the
-State’s interest in protecting the well-being, tranquility, and privacy
-of the home is certainly of the highest order in a free and civilized
-society." Indeed, we have noted that "a special benefit of the privacy
-all citizens enjoy within their own walls, which the State may legislate
-to protect, is an ability to avoid intrusions."
+We have little trouble crediting the Bar’s interest as substantial. On various occasions we have accepted the proposition that "States have a compelling interest in the practice of professions within their boundaries, and as part of their power to protect the public health, safety, and other valid interests they have broad power to establish standards for licensing practitioners and regulating the practice of professions." Our precedents also leave no room for doubt that "the protection of potential clients’ privacy is a substantial state interest." In other contexts, we have consistently recognized that "the State’s interest in protecting the well-being, tranquility, and privacy of the home is certainly of the highest order in a free and civilized society." Indeed, we have noted that "a special benefit of the privacy all citizens enjoy within their own walls, which the State may legislate to protect, is an ability to avoid intrusions."
 
-Under _Central Hudson_’s second prong, the State must demonstrate that
-the challenged regulation "advances the Government’s interest in a
-direct and material way." That burden, we have explained, "is not
-satisfied by mere speculation or conjecture; rather, a governmental body
-seeking to sustain a restriction on commercial speech must demonstrate
-that the harms it recites are real and that its restriction will in fact
-alleviate them to a material degree."
+Under _Central Hudson_’s second prong, the State must demonstrate that the challenged regulation "advances the Government’s interest in a direct and material way." That burden, we have explained, "is not satisfied by mere speculation or conjecture; rather, a governmental body seeking to sustain a restriction on commercial speech must demonstrate that the harms it recites are real and that its restriction will in fact alleviate them to a material degree."
 
-The Bar submitted a 106-page summary of its 2-year study of lawyer
-advertising and solicitation to the District Court. That summary
-contains data—both statistical and anecdotal—supporting the Bar’s
-contentions that the Florida public views direct-mail solicitations in
-the immediate wake of accidents as an intrusion on privacy that reflects
-poorly upon the profession. As of June 1989, lawyers mailed 700,000
-direct solicitations in Florida annually, 40% of which were aimed at
-accident victims or their survivors. A survey of Florida adults
-commissioned by the Bar indicated that Floridians "have negative
-feelings about those attorneys who use direct mail advertising."
-Fifty-four percent of the general population surveyed said that
-contacting persons concerning accidents or similar events is a violation
-of privacy. A random sampling of persons who received direct-mail
-advertising from lawyers in 1987 revealed that 45% believed that
-directmail solicitation is "designed to take advantage of gullible or
-unstable people"; 34% found such tactics "annoying or irritating"; 26%
-found it "an invasion of your privacy"; and 24% reported that it "made
-you angry." Significantly, 27% of direct-mail recipients reported that
-their regard for the legal profession and for the judicial process as a
-whole was "lower" as a result of receiving the direct mail.
+The Bar submitted a 106-page summary of its 2-year study of lawyer advertising and solicitation to the District Court. That summary contains data—both statistical and anecdotal—supporting the Bar’s contentions that the Florida public views direct-mail solicitations in the immediate wake of accidents as an intrusion on privacy that reflects poorly upon the profession. As of June 1989, lawyers mailed 700,000 direct solicitations in Florida annually, 40% of which were aimed at accident victims or their survivors. A survey of Florida adults commissioned by the Bar indicated that Floridians "have negative feelings about those attorneys who use direct mail advertising." Fifty-four percent of the general population surveyed said that contacting persons concerning accidents or similar events is a violation of privacy. A random sampling of persons who received direct-mail advertising from lawyers in 1987 revealed that 45% believed that directmail solicitation is "designed to take advantage of gullible or unstable people"; 34% found such tactics "annoying or irritating"; 26% found it "an invasion of your privacy"; and 24% reported that it "made you angry." Significantly, 27% of direct-mail recipients reported that their regard for the legal profession and for the judicial process as a whole was "lower" as a result of receiving the direct mail.
 
-The anecdotal record mustered by the Bar is noteworthy for its breadth
-and detail. With titles like "Scavenger Lawyers" and "Solicitors Out of
-Bounds," newspaper editorial pages in Florida have burgeoned with
-criticism of Florida lawyers who send targeted direct mail to victims
-shortly after accidents. The study summary also includes page upon page
-of excerpts from complaints of direct-mail recipients. For example, a
-Florida citizen described how he was "appalled and angered by the brazen
-attempt" of a law firm to solicit him by letter shortly after he was
-injured and his fiancee was killed in an auto accident. Another found it
-"despicable and inexcusable" that a Pensacola lawyer wrote to his mother
-three days after his father’s funeral. Another described how she was
-"astounded" and then "very angry" when she received a solicitation
-following a minor accident. Still another described as "beyond
-comprehension" a letter his nephew’s family received the day of the
-nephew’s funeral. One citizen wrote, "I consider the unsolicited contact
-from you after my child’s accident to be of the rankest form of
-ambulance chasing and in incredibly poor taste. I cannot begin to
-express with my limited vocabulary the utter contempt in which I hold
-you and your kind."
+The anecdotal record mustered by the Bar is noteworthy for its breadth and detail. With titles like "Scavenger Lawyers" and "Solicitors Out of Bounds," newspaper editorial pages in Florida have burgeoned with criticism of Florida lawyers who send targeted direct mail to victims shortly after accidents. The study summary also includes page upon page of excerpts from complaints of direct-mail recipients. For example, a Florida citizen described how he was "appalled and angered by the brazen attempt" of a law firm to solicit him by letter shortly after he was injured and his fiancee was killed in an auto accident. Another found it "despicable and inexcusable" that a Pensacola lawyer wrote to his mother three days after his father’s funeral. Another described how she was "astounded" and then "very angry" when she received a solicitation following a minor accident. Still another described as "beyond comprehension" a letter his nephew’s family received the day of the nephew’s funeral. One citizen wrote, "I consider the unsolicited contact from you after my child’s accident to be of the rankest form of ambulance chasing and in incredibly poor taste. I cannot begin to express with my limited vocabulary the utter contempt in which I hold you and your kind."
 
-In light of this showing—which respondents at no time refuted, save by
-the conclusory assertion that the Rule lacked "any factual basis"—we
-conclude that the Bar has satisfied the second prong of the _Central
-Hudson_ test. In dissent, Justice Kennedy complains that we have before
-us few indications of the sample size or selection procedures employed
-by Magid Associates (a nationally renowned consulting firm) and no
-copies of the actual surveys employed. As stated, we believe the
-evidence adduced by the Bar is sufficient. In any event, we do not read
-our case law to require that empirical data come to us accompanied by a
-surfeit of background information. Indeed, in other First Amendment
-contexts, we have permitted litigants to justify speech restrictions by
-reference to studies and anecdotes pertaining to different locales
-altogether, or even, in a case applying strict scrutiny, to justify
-restrictions based solely on history, consensus, and "simple common
-sense." After scouring the record, we are satisfied that the ban on
-directmail solicitation in the immediate aftermath of accidents targets
-a concrete, nonspeculative harm.
+In light of this showing—which respondents at no time refuted, save by the conclusory assertion that the Rule lacked "any factual basis"—we conclude that the Bar has satisfied the second prong of the _Central Hudson_ test. In dissent, Justice Kennedy complains that we have before us few indications of the sample size or selection procedures employed by Magid Associates (a nationally renowned consulting firm) and no copies of the actual surveys employed. As stated, we believe the evidence adduced by the Bar is sufficient. In any event, we do not read our case law to require that empirical data come to us accompanied by a surfeit of background information. Indeed, in other First Amendment contexts, we have permitted litigants to justify speech restrictions by reference to studies and anecdotes pertaining to different locales altogether, or even, in a case applying strict scrutiny, to justify restrictions based solely on history, consensus, and "simple common sense." After scouring the record, we are satisfied that the ban on directmail solicitation in the immediate aftermath of accidents targets a concrete, nonspeculative harm.
 
-In reaching a contrary conclusion, the Court of Appeals determined that
-this case was governed squarely by _Shapero_. Making no mention of the
-Bar’s study, the court concluded that "a targeted letter does not invade
-the recipient’s privacy any more than does a substantively identical
-letter mailed at large. The invasion, if any, occurs when the lawyer
-discovers the recipient’s legal affairs, not when he confronts the
-recipient with the discovery." In many cases, the Court of Appeals
-explained, "this invasion of privacy will involve no more than reading
-the newspaper."
+In reaching a contrary conclusion, the Court of Appeals determined that this case was governed squarely by _Shapero_. Making no mention of the Bar’s study, the court concluded that "a targeted letter does not invade the recipient’s privacy any more than does a substantively identical letter mailed at large. The invasion, if any, occurs when the lawyer discovers the recipient’s legal affairs, not when he confronts the recipient with the discovery." In many cases, the Court of Appeals explained, "this invasion of privacy will involve no more than reading the newspaper."
 
-While some of _Shapero_’s language might be read to support the Court of
-Appeals’ interpretation, _Shapero_ differs in several fundamental
-respects from the case before us. First and foremost, _Shapero_’s
-treatment of privacy was casual. Contrary to the dissent’s suggestions,
-the State in _Shapero_ did not seek to justify its regulation as a
-measure undertaken to prevent lawyers’ invasions of privacy interests.
-Rather, the State focused exclusively on the special dangers of
-overreaching inhering in targeted solicitations. Second, in contrast to
-this case, _Shapero_ dealt with a broad ban on all direct-mail
-solicitations, whatever the time frame and whoever the recipient.
-Finally, the State in _Shapero_ assembled no evidence attempting to
-demonstrate any actual harm caused by targeted direct mail. The Court
-rejected the State’s effort to justify a prophylactic ban on the basis
-of blanket, untested assertions of undue influence and overreaching.
-Because the State did not make a privacy-based argument at all, its
-empirical showing on that issue was similarly infirm.
+While some of _Shapero_’s language might be read to support the Court of Appeals’ interpretation, _Shapero_ differs in several fundamental respects from the case before us. First and foremost, _Shapero_’s treatment of privacy was casual. Contrary to the dissent’s suggestions, the State in _Shapero_ did not seek to justify its regulation as a measure undertaken to prevent lawyers’ invasions of privacy interests. Rather, the State focused exclusively on the special dangers of overreaching inhering in targeted solicitations. Second, in contrast to this case, _Shapero_ dealt with a broad ban on all direct-mail solicitations, whatever the time frame and whoever the recipient. Finally, the State in _Shapero_ assembled no evidence attempting to demonstrate any actual harm caused by targeted direct mail. The Court rejected the State’s effort to justify a prophylactic ban on the basis of blanket, untested assertions of undue influence and overreaching. Because the State did not make a privacy-based argument at all, its empirical showing on that issue was similarly infirm.
 
-We find the Court’s perfunctory treatment of privacy in _Shapero_ to be
-of little utility in assessing this ban on targeted solicitation of
-victims in the immediate aftermath of accidents. While it is undoubtedly
-true that many people find the image of lawyers sifting through accident
-and police reports in pursuit of prospective clients unpalatable and
-invasive, this case targets a different kind of intrusion. The Bar has
-argued, and the record reflects, that a principal purpose of the ban is
-"protecting the personal privacy and tranquility of Florida’s citizens
-from crass commercial intrusion by attorneys upon their personal grief
-in times of trauma." The intrusion targeted by the Bar’s regulation
-stems not from the fact that a lawyer has learned about an accident or
-disaster, but from the lawyer’s confrontation of victims or relatives
-with such information, while wounds are still open, in order to solicit
-their business. In this respect, an untargeted letter mailed to society
-at large is different in kind from a targeted solicitation; the
-untargeted letter involves no willful or knowing affront to or invasion
-of the tranquility of bereaved or injured individuals and simply does
-not cause the same kind of reputational harm to the profession unearthed
-by the Bar’s study.
+We find the Court’s perfunctory treatment of privacy in _Shapero_ to be of little utility in assessing this ban on targeted solicitation of victims in the immediate aftermath of accidents. While it is undoubtedly true that many people find the image of lawyers sifting through accident and police reports in pursuit of prospective clients unpalatable and invasive, this case targets a different kind of intrusion. The Bar has argued, and the record reflects, that a principal purpose of the ban is "protecting the personal privacy and tranquility of Florida’s citizens from crass commercial intrusion by attorneys upon their personal grief in times of trauma." The intrusion targeted by the Bar’s regulation stems not from the fact that a lawyer has learned about an accident or disaster, but from the lawyer’s confrontation of victims or relatives with such information, while wounds are still open, in order to solicit their business. In this respect, an untargeted letter mailed to society at large is different in kind from a targeted solicitation; the untargeted letter involves no willful or knowing affront to or invasion of the tranquility of bereaved or injured individuals and simply does not cause the same kind of reputational harm to the profession unearthed by the Bar’s study.
 
-The purpose of the 30-day targeted direct-mail ban is to forestall the
-outrage and irritation with the state-licensed legal profession that the
-practice of direct solicitation only days after accidents has
-engendered. The Bar is concerned not with citizens’ "offense" in the
-abstract, but with the demonstrable detrimental effects that such
-"offense" has on the profession it regulates. Moreover, the harm posited
-by the Bar is as much a function of simple receipt of targeted
-solicitations within days of accidents as it is a function of the
-letters’ contents. Throwing the letter away shortly after opening it may
-minimize the latter intrusion, but it does little to combat the former.
+The purpose of the 30-day targeted direct-mail ban is to forestall the outrage and irritation with the state-licensed legal profession that the practice of direct solicitation only days after accidents has engendered. The Bar is concerned not with citizens’ "offense" in the abstract, but with the demonstrable detrimental effects that such "offense" has on the profession it regulates. Moreover, the harm posited by the Bar is as much a function of simple receipt of targeted solicitations within days of accidents as it is a function of the letters’ contents. Throwing the letter away shortly after opening it may minimize the latter intrusion, but it does little to combat the former.
 
-Passing to _Central Hudson_’s third prong, we examine the relationship
-between the Bar’s interests and the means chosen to serve them. With
-respect to this prong, the differences between commercial speech and
-noncommercial speech are manifest. The "least restrictive means" test
-has no role in the commercial speech context. "What our decisions
-require," instead, "is a fit between the legislature’s ends and the
-means chosen to accomplish those ends, a fit that is not necessarily
-perfect, but reasonable; that represents not necessarily the single best
-disposition but one whose scope is in proportion to the interest served,
-that employs not necessarily the least restrictive means, but a means
-narrowly tailored to achieve the desired objective." Of course, we do
-not equate this test with the less rigorous obstacles of rational basis
-review; in _Cincinnati v. Discovery_, for example, we observed that the
-existence of "numerous and obvious less-burdensome alternatives to the
-restriction on commercial speech is certainly a relevant consideration
-in determining whether the fit between ends and means is reasonable."
+Passing to _Central Hudson_’s third prong, we examine the relationship between the Bar’s interests and the means chosen to serve them. With respect to this prong, the differences between commercial speech and noncommercial speech are manifest. The "least restrictive means" test has no role in the commercial speech context. "What our decisions require," instead, "is a fit between the legislature’s ends and the means chosen to accomplish those ends, a fit that is not necessarily perfect, but reasonable; that represents not necessarily the single best disposition but one whose scope is in proportion to the interest served, that employs not necessarily the least restrictive means, but a means narrowly tailored to achieve the desired objective." Of course, we do not equate this test with the less rigorous obstacles of rational basis review; in _Cincinnati v. Discovery_, for example, we observed that the existence of "numerous and obvious less-burdensome alternatives to the restriction on commercial speech is certainly a relevant consideration in determining whether the fit between ends and means is reasonable."
 
-Respondents levy a great deal of criticism, at the scope of the Bar’s
-restriction on targeted mail. "By prohibiting written communications to
-all people, whatever their state of mind," respondents charge, the Rule
-"keeps useful information from those accident victims who are ready,
-willing and able to utilize a lawyer’s advice." This criticism may be
-parsed into two components. First, the Rule does not distinguish between
-victims in terms of the severity of their injuries. According to
-respondents, the Rule is unconstitutionally overinclusive insofar as it
-bans targeted mailings even to citizens whose injuries or grief are
-relatively minor. Second, the Rule may prevent citizens from learning
-about their legal options, particularly at a time when other
-actors—opposing counsel and insurance adjusters—may be clamoring for
-victims’ attentions. Any benefit arising from the Bar’s regulation,
-respondents implicitly contend, is outweighed by these costs.
+Respondents levy a great deal of criticism, at the scope of the Bar’s restriction on targeted mail. "By prohibiting written communications to all people, whatever their state of mind," respondents charge, the Rule "keeps useful information from those accident victims who are ready, willing and able to utilize a lawyer’s advice." This criticism may be parsed into two components. First, the Rule does not distinguish between victims in terms of the severity of their injuries. According to respondents, the Rule is unconstitutionally overinclusive insofar as it bans targeted mailings even to citizens whose injuries or grief are relatively minor. Second, the Rule may prevent citizens from learning about their legal options, particularly at a time when other actors—opposing counsel and insurance adjusters—may be clamoring for victims’ attentions. Any benefit arising from the Bar’s regulation, respondents implicitly contend, is outweighed by these costs.
 
-We are not persuaded by respondents’ allegations of constitutional
-infirmity. We find little deficiency in the ban’s failure to distinguish
-among injured Floridians by the severity of their pain or the intensity
-of their grief. Indeed, it is hard to imagine the contours of a
-regulation that might satisfy respondents on this score. Rather than
-drawing difficult lines on the basis that some injuries are "severe" and
-some situations appropriate (and others, presumably, inappropriate) for
-grief, anger, or emotion, the Bar has crafted a ban applicable to all
-postaccident or disaster solicitations for a brief 30-day period. Unlike
-respondents, we do not see "numerous and obvious less-burdensome
-alternatives" to Florida’s short temporal ban. The Bar’s rule is
-reasonably well tailored to its stated objective of eliminating targeted
-mailings whose type and timing are a source of distress to Floridians,
-distress that has caused many of them to lose respect for the legal
-profession.
+We are not persuaded by respondents’ allegations of constitutional infirmity. We find little deficiency in the ban’s failure to distinguish among injured Floridians by the severity of their pain or the intensity of their grief. Indeed, it is hard to imagine the contours of a regulation that might satisfy respondents on this score. Rather than drawing difficult lines on the basis that some injuries are "severe" and some situations appropriate (and others, presumably, inappropriate) for grief, anger, or emotion, the Bar has crafted a ban applicable to all postaccident or disaster solicitations for a brief 30-day period. Unlike respondents, we do not see "numerous and obvious less-burdensome alternatives" to Florida’s short temporal ban. The Bar’s rule is reasonably well tailored to its stated objective of eliminating targeted mailings whose type and timing are a source of distress to Floridians, distress that has caused many of them to lose respect for the legal profession.
 
-Respondents’ second point would have force if the Bar’s Rule were not
-limited to a brief period and if there were not many other ways for
-injured Floridians to learn about the availability of legal
-representation during that time. Our lawyer advertising cases have
-afforded lawyers a great deal of leeway to devise innovative ways to
-attract new business. Florida permits lawyers to advertise on prime-time
-television and radio as well as in newspapers and other media. They may
-rent space on billboards. They may send untargeted letters to the
-general population, or to discrete segments thereof. There are, of
-course, pages upon pages devoted to lawyers in the Yellow Pages of
-Florida telephone directories. These listings are organized
-alphabetically and by area of specialty. These ample alternative
-channels for receipt of information about the availability of legal
-representation during the 30-day period following accidents may explain
-why, despite the ample evidence, testimony, and commentary submitted by
-those favoring (as well as opposing) unrestricted direct-mail
-solicitation, respondents have not pointed to—and we have not
-independently found—a single example of an individual case in which
-immediate solicitation helped to avoid, or failure to solicit within 30
-days brought about, the harms that concern the dissent. In fact, the
-record contains considerable empirical survey information suggesting
-that Floridians have little difficulty finding a lawyer when they need
-one. Finding no basis to question the commonsense conclusion that the
-many alternative channels for communicating necessary information about
-attorneys are sufficient, we see no defect in Florida’s regulation.
+Respondents’ second point would have force if the Bar’s Rule were not limited to a brief period and if there were not many other ways for injured Floridians to learn about the availability of legal representation during that time. Our lawyer advertising cases have afforded lawyers a great deal of leeway to devise innovative ways to attract new business. Florida permits lawyers to advertise on prime-time television and radio as well as in newspapers and other media. They may rent space on billboards. They may send untargeted letters to the general population, or to discrete segments thereof. There are, of course, pages upon pages devoted to lawyers in the Yellow Pages of Florida telephone directories. These listings are organized alphabetically and by area of specialty. These ample alternative channels for receipt of information about the availability of legal representation during the 30-day period following accidents may explain why, despite the ample evidence, testimony, and commentary submitted by those favoring (as well as opposing) unrestricted direct-mail solicitation, respondents have not pointed to—and we have not independently found—a single example of an individual case in which immediate solicitation helped to avoid, or failure to solicit within 30 days brought about, the harms that concern the dissent. In fact, the record contains considerable empirical survey information suggesting that Floridians have little difficulty finding a lawyer when they need one. Finding no basis to question the commonsense conclusion that the many alternative channels for communicating necessary information about attorneys are sufficient, we see no defect in Florida’s regulation.
 
-## III
+# III
 
-Speech by professionals obviously has many dimensions. There are
-circumstances in which we will accord speech by attorneys on public
-issues and matters of legal representation the strongest protection our
-Constitution has to offer. This case, however, concerns pure commercial
-advertising, for which we have always reserved a lesser degree of
-protection under the First Amendment. Particularly because the standards
-and conduct of state-licensed lawyers have traditionally been subject to
-extensive regulation by the States, it is all the more appropriate that
-we limit our scrutiny of state regulations to a level commensurate with
-the "subordinate position" of commercial speech in the scale of First
-Amendment values.
+Speech by professionals obviously has many dimensions. There are circumstances in which we will accord speech by attorneys on public issues and matters of legal representation the strongest protection our Constitution has to offer. This case, however, concerns pure commercial advertising, for which we have always reserved a lesser degree of protection under the First Amendment. Particularly because the standards and conduct of state-licensed lawyers have traditionally been subject to extensive regulation by the States, it is all the more appropriate that we limit our scrutiny of state regulations to a level commensurate with the "subordinate position" of commercial speech in the scale of First Amendment values.
 
-We believe that the Bar’s 30-day restriction on targeted direct-mail
-solicitation of accident victims and their relatives withstands scrutiny
-under the three-pronged Central Hudson test that we have devised for
-this context. The Bar has substantial interest both in protecting
-injured Floridians from invasive conduct by lawyers and in preventing
-the erosion of confidence in the profession that such repeated invasions
-have engendered. The Bar’s proffered study, unrebutted by respondents
-below, provides evidence indicating that the harms it targets are far
-from illusory. The palliative devised by the Bar to address these harms
-is narrow both in scope and in duration. The Constitution, in our view,
-requires nothing more.
+We believe that the Bar’s 30-day restriction on targeted direct-mail solicitation of accident victims and their relatives withstands scrutiny under the three-pronged Central Hudson test that we have devised for this context. The Bar has substantial interest both in protecting injured Floridians from invasive conduct by lawyers and in preventing the erosion of confidence in the profession that such repeated invasions have engendered. The Bar’s proffered study, unrebutted by respondents below, provides evidence indicating that the harms it targets are far from illusory. The palliative devised by the Bar to address these harms is narrow both in scope and in duration. The Constitution, in our view, requires nothing more.
 
-# Justice Kennedy, with whom Justice Stevens, Justice Souter, and Justice
-Ginsburg join, dissenting.
+--- 
 
-Attorneys who communicate their willingness to assist potential clients
-are engaged in speech protected by the First and Fourteenth Amendments.
-The Court today undercuts this guarantee in an important class of cases
-and unsettles leading First Amendment precedents, at the expense of
-those victims most in need of legal assistance. With all respect for the
-Court, in my view its solicitude for the privacy of victims and its
-concern for our profession are misplaced and self-defeating, even upon
-the Court’s own premises.
+# Justice Kennedy, with whom Justice Stevens, Justice Souter, and Justice Ginsburg join, dissenting.
 
-I take it to be uncontroverted that when an accident results in death or
-injury, it is often urgent at once to investigate the occurrence,
-identify witnesses, and preserve evidence. Vital interests in speech and
-expression are, therefore, at stake when by law an attorney cannot
-direct a letter to the victim or the family explaining this simple fact
-and offering competent legal assistance. Meanwhile, represented and
-better informed parties, or parties who have been solicited in ways more
-sophisticated and indirect, may be at work. Indeed, these parties,
-either themselves or by their attorneys, investigators, and adjusters,
-are free to contact the unrepresented persons to gather evidence or
-offer settlement. This scheme makes little sense. As is often true when
-the law makes little sense, it is not first principles but their
-interpretation and application that have gone awry.
+Attorneys who communicate their willingness to assist potential clients are engaged in speech protected by the First and Fourteenth Amendments. The Court today undercuts this guarantee in an important class of cases and unsettles leading First Amendment precedents, at the expense of those victims most in need of legal assistance. With all respect for the Court, in my view its solicitude for the privacy of victims and its concern for our profession are misplaced and self-defeating, even upon the Court’s own premises.
 
-Although I agree with the Court that the case can be resolved by
-following the three-part inquiry we have identified to assess
-restrictions on commercial speech, a preliminary observation is in
-order. Speech has the capacity to convey complex substance, yielding
-various insights and interpretations depending upon the identity of the
-listener or the reader and the context of its transmission. It would
-oversimplify to say that what we consider here is commercial speech and
-nothing more, for in many instances the banned communications may be
-vital to the recipients’ right to petition the courts for redress of
-grievances. The complex nature of expression is one reason why even
-so-called commercial speech has become an essential part of the public
-discourse the First Amendment secures. If our commercial speech rules
-are to control this case, then, it is imperative to apply them with
-exacting care and fidelity to our precedents, for what is at stake is
-the suppression of information and knowledge that transcends the
-financial self-interests of the speaker.
+I take it to be uncontroverted that when an accident results in death or injury, it is often urgent at once to investigate the occurrence, identify witnesses, and preserve evidence. Vital interests in speech and expression are, therefore, at stake when by law an attorney cannot direct a letter to the victim or the family explaining this simple fact and offering competent legal assistance. Meanwhile, represented and better informed parties, or parties who have been solicited in ways more sophisticated and indirect, may be at work. Indeed, these parties, either themselves or by their attorneys, investigators, and adjusters, are free to contact the unrepresented persons to gather evidence or offer settlement. This scheme makes little sense. As is often true when the law makes little sense, it is not first principles but their interpretation and application that have gone awry.
 
-## I
+Although I agree with the Court that the case can be resolved by following the three-part inquiry we have identified to assess restrictions on commercial speech, a preliminary observation is in order. Speech has the capacity to convey complex substance, yielding various insights and interpretations depending upon the identity of the listener or the reader and the context of its transmission. It would oversimplify to say that what we consider here is commercial speech and nothing more, for in many instances the banned communications may be vital to the recipients’ right to petition the courts for redress of grievances. The complex nature of expression is one reason why even so-called commercial speech has become an essential part of the public discourse the First Amendment secures. If our commercial speech rules are to control this case, then, it is imperative to apply them with exacting care and fidelity to our precedents, for what is at stake is the suppression of information and knowledge that transcends the financial self-interests of the speaker.
 
-As the Court notes, the first of the _Central Hudson_ factors to be
-considered is whether the interest the State pursues in enacting the
-speech restriction is a substantial one. The State says two different
-interests meet this standard. The first is the interest "in protecting
-the personal privacy and tranquility" of the victim and his or her
-family. As the Court notes, that interest has recognition in our
-decisions as a general matter; but it does not follow that the privacy
-interest in the cases the majority cites is applicable here. The problem
-the Court confronts, and cannot overcome, is our recent decision in
-_Shapero_. In assessing the importance of the interest in that
-solicitation case, we made an explicit distinction between direct,
-in-person solicitations and direct-mail solicitations. _Shapero_, like
-this case, involved a direct-mail solicitation, and there the State
-recited its fears of "overreaching and undue influence." We found,
-however, no such dangers presented by direct-mail advertising. We
-reasoned that "a letter, like a printed advertisement (but unlike a
-lawyer), can readily be put in a drawer to be considered later, ignored,
-or discarded. We pointed out that "the relevant inquiry is not whether
-there exist potential clients whose ‘condition’ makes them susceptible
-to undue influence, but whether the mode of communication poses a
-serious danger that lawyers will exploit any such susceptibility." In
-assessing the substantiality of the evils to be prevented, we concluded
-that "the mode of communication makes all the difference." The direct
-mail in _Shapero_ did not present the justification for regulation of
-speech presented in _Ohralik_.
+# I
 
-To avoid the controlling effect of _Shapero_ in the case before us, the
-Court seeks to declare that a different privacy interest is implicated.
-As it sees the matter, the substantial concern is that victims or their
-families will be offended by receiving a solicitation during their grief
-and trauma. But we do not allow restrictions on speech to be justified
-on the ground that the expression might offend the listener. On the
-contrary, we have said that these "are classically not justifications
-validating the suppression of expression protected by the First
-Amendment." And in _Zauderer_, where we struck down a ban on attorney
-advertising, we held that "the mere possibility that some members of the
-population might find advertising offensive cannot justify suppressing
-it. The same must hold true for advertising that some members of the bar
-might find beneath their dignity."
+As the Court notes, the first of the _Central Hudson_ factors to be considered is whether the interest the State pursues in enacting the speech restriction is a substantial one. The State says two different interests meet this standard. The first is the interest "in protecting the personal privacy and tranquility" of the victim and his or her family. As the Court notes, that interest has recognition in our decisions as a general matter; but it does not follow that the privacy interest in the cases the majority cites is applicable here. The problem the Court confronts, and cannot overcome, is our recent decision in _Shapero_. In assessing the importance of the interest in that solicitation case, we made an explicit distinction between direct, in-person solicitations and direct-mail solicitations. _Shapero_, like this case, involved a direct-mail solicitation, and there the State recited its fears of "overreaching and undue influence." We found, however, no such dangers presented by direct-mail advertising. We reasoned that "a letter, like a printed advertisement (but unlike a lawyer), can readily be put in a drawer to be considered later, ignored, or discarded. We pointed out that "the relevant inquiry is not whether there exist potential clients whose ‘condition’ makes them susceptible to undue influence, but whether the mode of communication poses a serious danger that lawyers will exploit any such susceptibility." In assessing the substantiality of the evils to be prevented, we concluded that "the mode of communication makes all the difference." The direct mail in _Shapero_ did not present the justification for regulation of speech presented in _Ohralik_.
 
-We have applied this principle to direct-mail cases as well as with
-respect to general advertising, noting that the right to use the mails
-is protected by the First Amendment. In _Bolger_, we held that a statute
-designed to "shield recipients of mail from materials that they are
-likely to find offensive" furthered an interest of "little weight,"
-noting that "we have consistently held that the fact that protected
-speech may be offensive to some does not justify its suppression." It is
-only where an audience is captive that we will assure its protection
-from some offensive speech. Outside that context, "we have never held
-that the Government itself can shut off the flow of mailings to protect
-those recipients who might potentially be offended." The occupants of a
-household receiving mailings are not a captive audience, and the
-asserted interest in preventing their offense should be no more
-controlling here than in our prior cases. All the recipient of
-objectionable mailings need do is to take "the short, though regular,
-journey from mail box to trash can." As we have observed, this is "an
-acceptable burden, at least so far as the Constitution is concerned." If
-these cases forbidding restrictions on speech that might be offensive
-are to be overruled, the Court should say so.
+To avoid the controlling effect of _Shapero_ in the case before us, the Court seeks to declare that a different privacy interest is implicated. As it sees the matter, the substantial concern is that victims or their families will be offended by receiving a solicitation during their grief and trauma. But we do not allow restrictions on speech to be justified on the ground that the expression might offend the listener. On the contrary, we have said that these "are classically not justifications validating the suppression of expression protected by the First Amendment." And in _Zauderer_, where we struck down a ban on attorney advertising, we held that "the mere possibility that some members of the population might find advertising offensive cannot justify suppressing it. The same must hold true for advertising that some members of the bar might find beneath their dignity."
 
-In the face of these difficulties of logic and precedent, the State and
-the opinion of the Court turn to a second interest: protecting the
-reputation and dignity of the legal profession. The argument is, it
-seems fair to say, that all are demeaned by the crass behavior of a few.
-The argument takes a further step in the amicus brief filed by the
-Association of Trial Lawyers of America. There it is said that
-disrespect for the profession from this sort of solicitation (but
-presumably from no other sort of solicitation) results in lower jury
-verdicts. In a sense, of course, these arguments are circular. While
-disrespect will arise from an unethical or improper practice, the
-majority begs a most critical question by assuming that direct-mail
-solicitations constitute such a practice. The fact is, however, that
-direct solicitation may serve vital purposes and promote the
-administration of justice, and to the extent the bar seeks to protect
-lawyers’ reputations by preventing them from engaging in speech some
-deem offensive, the State is doing nothing more (as amicus the
-Association of Trial Lawyers of America is at least candid enough to
-admit) than manipulating the public’s opinion by suppressing speech that
-informs us how the legal system works. The disrespect argument thus
-proceeds from the very assumption it tries to prove, which is to say
-that solicitations within 30 days serve no legitimate purpose. This, of
-course, is censorship pure and simple; and censorship is antithetical to
-the first principles of free expression.
+We have applied this principle to direct-mail cases as well as with respect to general advertising, noting that the right to use the mails is protected by the First Amendment. In _Bolger_, we held that a statute designed to "shield recipients of mail from materials that they are likely to find offensive" furthered an interest of "little weight," noting that "we have consistently held that the fact that protected speech may be offensive to some does not justify its suppression." It is only where an audience is captive that we will assure its protection from some offensive speech. Outside that context, "we have never held that the Government itself can shut off the flow of mailings to protect those recipients who might potentially be offended." The occupants of a household receiving mailings are not a captive audience, and the asserted interest in preventing their offense should be no more controlling here than in our prior cases. All the recipient of objectionable mailings need do is to take "the short, though regular, journey from mail box to trash can." As we have observed, this is "an acceptable burden, at least so far as the Constitution is concerned." If these cases forbidding restrictions on speech that might be offensive are to be overruled, the Court should say so.
 
-## II
+In the face of these difficulties of logic and precedent, the State and the opinion of the Court turn to a second interest: protecting the reputation and dignity of the legal profession. The argument is, it seems fair to say, that all are demeaned by the crass behavior of a few. The argument takes a further step in the amicus brief filed by the Association of Trial Lawyers of America. There it is said that disrespect for the profession from this sort of solicitation (but presumably from no other sort of solicitation) results in lower jury verdicts. In a sense, of course, these arguments are circular. While disrespect will arise from an unethical or improper practice, the majority begs a most critical question by assuming that direct-mail solicitations constitute such a practice. The fact is, however, that direct solicitation may serve vital purposes and promote the administration of justice, and to the extent the bar seeks to protect lawyers’ reputations by preventing them from engaging in speech some deem offensive, the State is doing nothing more (as amicus the Association of Trial Lawyers of America is at least candid enough to admit) than manipulating the public’s opinion by suppressing speech that informs us how the legal system works. The disrespect argument thus proceeds from the very assumption it tries to prove, which is to say that solicitations within 30 days serve no legitimate purpose. This, of course, is censorship pure and simple; and censorship is antithetical to the first principles of free expression.
 
-Even were the interests asserted substantial, the regulation here fails
-the second part of the _Central Hudson_ test, which requires that the
-dangers the State seeks to eliminate be real and that a speech
-restriction or ban advance that asserted state interest in a direct and
-material way. The burden of demonstrating the reality of the asserted
-harm rests on the State. Slight evidence in this regard does not mean
-there is sufficient evidence to support the claims. Here, what the State
-has offered falls well short of demonstrating that the harms it is
-trying to redress are real, let alone that the regulation directly and
-materially advances the State’s interests. The parties and the Court
-have used the term "Summary of Record" to describe a document prepared
-by the Florida Bar (Bar), one of the adverse parties, and submitted to
-the District Court in this case. This document includes no actual
-surveys, few indications of sample size or selection procedures, no
-explanations of methodology, and no discussion of excluded results.
-There is no description of the statistical universe or scientific
-framework that permits any productive use of the information the
-so-called Summary of Record contains. The majority describes this
-anecdotal matter as "noteworthy for its breadth and detail," but when
-examined, it is noteworthy for its incompetence. The selective synopses
-of unvalidated studies deal, for the most part, with television
-advertising and phone book listings, and not direct-mail solicitations.
-Although there may be issues common to various kinds of attorney
-advertising and solicitation, it is not clear what would follow from
-that limited premise, unless the Court means by its decision to call
-into question all forms of attorney advertising. The most generous
-reading of this document permits identification of 34 pages on which
-direct-mail solicitation is arguably discussed. Of these, only two are
-even a synopsis of a study of the attitudes of Floridians towards such
-solicitations. The bulk of the remaining pages include comments by
-lawyers about direct mail (some of them favorable), excerpts from
-citizen complaints about such solicitation, and a few excerpts from
-newspaper articles on the topic. Our cases require something more than a
-few pages of self-serving and unsupported statements by the State to
-demonstrate that a regulation directly and materially advances the
-elimination of a real harm when the State seeks to suppress truthful and
-nondeceptive speech.
+# II
 
-It is telling that the essential thrust of all the material adduced to
-justify the State’s interest is devoted to the reputational concerns of
-the Bar. It is not at all clear that this regulation advances the
-interest of protecting persons who are suffering trauma and grief, and
-we are cited to no material in the record for that claim. Indeed, when
-asked at oral argument what a "typical injured plaintiff gets in the
-mail," the Bar’s lawyer replied: "That's not in the record, and I don't
-know the answer to that question." Having declared that the privacy
-interest is one both substantial and served by the regulation, the Court
-ought not to be excused from justifying its conclusion.
+Even were the interests asserted substantial, the regulation here fails the second part of the _Central Hudson_ test, which requires that the dangers the State seeks to eliminate be real and that a speech restriction or ban advance that asserted state interest in a direct and material way. The burden of demonstrating the reality of the asserted harm rests on the State. Slight evidence in this regard does not mean there is sufficient evidence to support the claims. Here, what the State has offered falls well short of demonstrating that the harms it is trying to redress are real, let alone that the regulation directly and materially advances the State’s interests. The parties and the Court have used the term "Summary of Record" to describe a document prepared by the Florida Bar (Bar), one of the adverse parties, and submitted to the District Court in this case. This document includes no actual surveys, few indications of sample size or selection procedures, no explanations of methodology, and no discussion of excluded results. There is no description of the statistical universe or scientific framework that permits any productive use of the information the so-called Summary of Record contains. The majority describes this anecdotal matter as "noteworthy for its breadth and detail," but when examined, it is noteworthy for its incompetence. The selective synopses of unvalidated studies deal, for the most part, with television advertising and phone book listings, and not direct-mail solicitations. Although there may be issues common to various kinds of attorney advertising and solicitation, it is not clear what would follow from that limited premise, unless the Court means by its decision to call into question all forms of attorney advertising. The most generous reading of this document permits identification of 34 pages on which direct-mail solicitation is arguably discussed. Of these, only two are even a synopsis of a study of the attitudes of Floridians towards such solicitations. The bulk of the remaining pages include comments by lawyers about direct mail (some of them favorable), excerpts from citizen complaints about such solicitation, and a few excerpts from newspaper articles on the topic. Our cases require something more than a few pages of self-serving and unsupported statements by the State to demonstrate that a regulation directly and materially advances the elimination of a real harm when the State seeks to suppress truthful and nondeceptive speech.
 
-## III
+It is telling that the essential thrust of all the material adduced to justify the State’s interest is devoted to the reputational concerns of the Bar. It is not at all clear that this regulation advances the interest of protecting persons who are suffering trauma and grief, and we are cited to no material in the record for that claim. Indeed, when asked at oral argument what a "typical injured plaintiff gets in the mail," the Bar’s lawyer replied: "That's not in the record, and I don't know the answer to that question." Having declared that the privacy interest is one both substantial and served by the regulation, the Court ought not to be excused from justifying its conclusion.
 
-The insufficiency of the regulation to advance the State’s interest is
-reinforced by the third inquiry necessary in this analysis. Were it
-appropriate to reach the third part of the _Central Hudson_ test, it
-would be clear that the relationship between the Bar’s interests and the
-means chosen to serve them is not a reasonable fit. The Bar’s rule
-creates a flat ban that prohibits far more speech than necessary to
-serve the purported state interest. Even assuming that interest were
-legitimate, there is a wild disproportion between the harm supposed and
-the speech ban enforced. It is a disproportion the Court does not bother
-to discuss, but our speech jurisprudence requires that it do so.
+# III
 
-To begin with, the ban applies with respect to all accidental injuries,
-whatever their gravity. The Court’s purported justification for the
-excess of regulation in this respect is the difficulty of drawing lines
-between severe and less serious injuries, but making such distinctions
-is not important in this analysis. Even were it significant, the Court’s
-assertion is unconvincing. After all, the criminal law routinely
-distinguishes degrees of bodily harm, and if that delineation is
-permissible and workable in the criminal context, it should not be "hard
-to imagine the contours of a regulation" that satisfies the reasonable
-fit requirement.
+The insufficiency of the regulation to advance the State’s interest is reinforced by the third inquiry necessary in this analysis. Were it appropriate to reach the third part of the _Central Hudson_ test, it would be clear that the relationship between the Bar’s interests and the means chosen to serve them is not a reasonable fit. The Bar’s rule creates a flat ban that prohibits far more speech than necessary to serve the purported state interest. Even assuming that interest were legitimate, there is a wild disproportion between the harm supposed and the speech ban enforced. It is a disproportion the Court does not bother to discuss, but our speech jurisprudence requires that it do so.
 
-There is, moreover, simply no justification for assuming that in all or
-most cases an attorney’s advice would be unwelcome or unnecessary when
-the survivors or the victim must at once begin assessing their legal and
-financial position in a rational manner. With regard to lesser injuries,
-there is little chance that for any period, much less 30 days, the
-victims will become distraught upon hearing from an attorney. It is, in
-fact, more likely a real risk that some victims might think no attorney
-will be interested enough to help them. It is at this precise time that
-sound legal advice may be necessary and most urgent.
+To begin with, the ban applies with respect to all accidental injuries, whatever their gravity. The Court’s purported justification for the excess of regulation in this respect is the difficulty of drawing lines between severe and less serious injuries, but making such distinctions is not important in this analysis. Even were it significant, the Court’s assertion is unconvincing. After all, the criminal law routinely distinguishes degrees of bodily harm, and if that delineation is permissible and workable in the criminal context, it should not be "hard to imagine the contours of a regulation" that satisfies the reasonable fit requirement.
 
-Even as to more serious injuries, the State's argument fails, since it
-must be conceded that prompt legal representation is essential where
-death or injury results from accidents. The only seeming justification
-for the State's restriction is the one the Court itself offers, which is
-that attorneys can and do resort to other ways of communicating
-important legal information to potential clients. Quite aside from the
-latent protectionism for the established bar that the argument
-discloses, it fails for the more fundamental reason that it concedes the
-necessity for the very representation the attorneys solicit and the
-State seeks to ban. The accident victims who are prejudiced to vindicate
-the State’s purported desire for more dignity in the legal profession
-will be the very persons who most need legal advice, for they are the
-victims who, because they lack education, linguistic ability, or
-familiarity with the legal system, are unable to seek out legal
-services.
+There is, moreover, simply no justification for assuming that in all or most cases an attorney’s advice would be unwelcome or unnecessary when the survivors or the victim must at once begin assessing their legal and financial position in a rational manner. With regard to lesser injuries, there is little chance that for any period, much less 30 days, the victims will become distraught upon hearing from an attorney. It is, in fact, more likely a real risk that some victims might think no attorney will be interested enough to help them. It is at this precise time that sound legal advice may be necessary and most urgent.
 
-The reasonableness of the State’s chosen methods for redressing
-perceived evils can be evaluated, in part, by a commonsense
-consideration of other possible means of regulation that have not been
-tried. Here, the Court neglects the fact that this problem is largely
-self-policing: Potential clients will not hire lawyers who offend them.
-And even if a person enters into a contract with an attorney and later
-regrets it, Florida, like some other States, allows clients to rescind
-certain contracts with attorneys within a stated time after they are
-executed. The State’s restriction deprives accident victims of
-information which may be critical to their right to make a claim for
-compensation for injuries. The telephone book and general advertisements
-may serve this purpose in part; but the direct solicitation ban will
-fall on those who most need legal representation: for those with minor
-injuries, the victims too ill informed to know an attorney may be
-interested in their cases; for those with serious injuries, the victims
-too ill informed to know that time is of the essence if counsel is to
-assemble evidence and warn them not to enter into settlement
-negotiations or evidentiary discussions with investigators for opposing
-parties. One survey reports that over a recent 5-year period, 68% of the
-American population consulted a lawyer. The use of modern communication
-methods in a timely way is essential if clients who make up this vast
-demand are to be advised and informed of all of their choices and rights
-in selecting an attorney. The very fact that some 280,000 direct-mail
-solicitations are sent to accident victims and their survivors in
-Florida each year is some indication of the efficacy of this device.
-Nothing in the Court’s opinion demonstrates that these efforts do not
-serve some beneficial role. A solicitation letter is not a contract.
-Nothing in the record shows that these communications do not at the
-least serve the purpose of informing the prospective client that he or
-she has a number of different attorneys from whom to choose, so that the
-decision to select counsel, after an interview with one or more
-interested attorneys, can be deliberate and informed. And if these
-communications reveal the social costs of the tort system as a whole,
-then efforts can be directed to reforming the operation of that system,
-not to suppressing information about how the system works. The Court’s
-approach, however, does not seem to be the proper way to begin elevating
-the honor of the profession.
+Even as to more serious injuries, the State's argument fails, since it must be conceded that prompt legal representation is essential where death or injury results from accidents. The only seeming justification for the State's restriction is the one the Court itself offers, which is that attorneys can and do resort to other ways of communicating important legal information to potential clients. Quite aside from the latent protectionism for the established bar that the argument discloses, it fails for the more fundamental reason that it concedes the necessity for the very representation the attorneys solicit and the State seeks to ban. The accident victims who are prejudiced to vindicate the State’s purported desire for more dignity in the legal profession will be the very persons who most need legal advice, for they are the victims who, because they lack education, linguistic ability, or familiarity with the legal system, are unable to seek out legal services.
 
-## IV
+The reasonableness of the State’s chosen methods for redressing perceived evils can be evaluated, in part, by a commonsense consideration of other possible means of regulation that have not been tried. Here, the Court neglects the fact that this problem is largely self-policing: Potential clients will not hire lawyers who offend them. And even if a person enters into a contract with an attorney and later regrets it, Florida, like some other States, allows clients to rescind certain contracts with attorneys within a stated time after they are executed. The State’s restriction deprives accident victims of information which may be critical to their right to make a claim for compensation for injuries. The telephone book and general advertisements may serve this purpose in part; but the direct solicitation ban will fall on those who most need legal representation: for those with minor injuries, the victims too ill informed to know an attorney may be interested in their cases; for those with serious injuries, the victims too ill informed to know that time is of the essence if counsel is to assemble evidence and warn them not to enter into settlement negotiations or evidentiary discussions with investigators for opposing parties. One survey reports that over a recent 5-year period, 68% of the American population consulted a lawyer. The use of modern communication methods in a timely way is essential if clients who make up this vast demand are to be advised and informed of all of their choices and rights in selecting an attorney. The very fact that some 280,000 direct-mail solicitations are sent to accident victims and their survivors in Florida each year is some indication of the efficacy of this device. Nothing in the Court’s opinion demonstrates that these efforts do not serve some beneficial role. A solicitation letter is not a contract. Nothing in the record shows that these communications do not at the least serve the purpose of informing the prospective client that he or she has a number of different attorneys from whom to choose, so that the decision to select counsel, after an interview with one or more interested attorneys, can be deliberate and informed. And if these communications reveal the social costs of the tort system as a whole, then efforts can be directed to reforming the operation of that system, not to suppressing information about how the system works. The Court’s approach, however, does not seem to be the proper way to begin elevating the honor of the profession.
 
-It is most ironic that, for the first time since _Bates v. State Bar of
-Arizona_, the Court now orders a major retreat from the constitutional
-guarantees for commercial speech in order to shield its own profession
-from public criticism. Obscuring the financial aspect of the legal
-profession from public discussion through direct-mail solicitation, at
-the expense of the least sophisticated members of society, is not a
-laudable constitutional goal. There is no authority for the proposition
-that the Constitution permits the State to promote the public image of
-the legal profession by suppressing information about the profession’s
-business aspects. If public respect for the profession erodes because
-solicitation distorts the idea of the law as most lawyers see it, it
-must be remembered that real progress begins with more rational speech,
-not less. I agree that if this amounts to mere "sermonizing," the
-attempt may be futile. The guiding principle, however, is that full and
-rational discussion furthers sound regulation and necessary reform. The
-image of the profession cannot be enhanced without improving the
-substance of its practice. The objective of the profession is to ensure
-that "the ethical standards of lawyers are linked to the service and
-protection of clients."
+# IV
 
-Today’s opinion is a serious departure, not only from our prior
-decisions involving attorney advertising, but also from the principles
-that govern the transmission of commercial speech. The Court’s opinion
-reflects a new-found and illegitimate confidence that it, along with the
-Supreme Court of Florida, knows what is best for the Bar and its
-clients. Self-assurance has always been the hallmark of a censor. That
-is why under the First Amendment the public, not the State, has the
-right and the power to decide what ideas and information are deserving
-of their adherence. "The general rule is that the speaker and the
-audience, not the government, assess the value of the information
-presented." By validating Florida’s rule, today’s majority is complicit
-in the Bar's censorship. For these reasons, I dissent from the opinion
-of the Court and from its judgment.
+It is most ironic that, for the first time since _Bates v. State Bar of Arizona_, the Court now orders a major retreat from the constitutional guarantees for commercial speech in order to shield its own profession from public criticism. Obscuring the financial aspect of the legal profession from public discussion through direct-mail solicitation, at the expense of the least sophisticated members of society, is not a laudable constitutional goal. There is no authority for the proposition that the Constitution permits the State to promote the public image of the legal profession by suppressing information about the profession’s business aspects. If public respect for the profession erodes because solicitation distorts the idea of the law as most lawyers see it, it must be remembered that real progress begins with more rational speech, not less. I agree that if this amounts to mere "sermonizing," the attempt may be futile. The guiding principle, however, is that full and rational discussion furthers sound regulation and necessary reform. The image of the profession cannot be enhanced without improving the substance of its practice. The objective of the profession is to ensure that "the ethical standards of lawyers are linked to the service and protection of clients."
+
+Today’s opinion is a serious departure, not only from our prior decisions involving attorney advertising, but also from the principles that govern the transmission of commercial speech. The Court’s opinion reflects a new-found and illegitimate confidence that it, along with the Supreme Court of Florida, knows what is best for the Bar and its clients. Self-assurance has always been the hallmark of a censor. That is why under the First Amendment the public, not the State, has the right and the power to decide what ideas and information are deserving of their adherence. "The general rule is that the speaker and the audience, not the government, assess the value of the information presented." By validating Florida’s rule, today’s majority is complicit in the Bar's censorship. For these reasons, I dissent from the opinion of the Court and from its judgment. 

@@ -3,6 +3,7 @@ layout: case
  
 title: 'Brennan v. Ruffner'
 cite: '640 So. 2d 143 (Fla. 1994)'
+judge: 'Pariente, J.'
     
 ---
 

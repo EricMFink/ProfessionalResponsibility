@@ -3,9 +3,9 @@ layout: case
  
 title: 'Bronson v. Borst'
 cite: '404 A. 2d 960 (D.C. App. 1979)'
+judge: 'Kelly, Associate Judge'
     
 ---
-
 
 Eugene C. Bronson here appeals from an adverse decision in a declaratory judgment action filed against him to enforce a settlement agreement and for the payment of attorney's fees and costs, arguing that the trial court erred in holding that an attorney does not need specific authority to accept a settlement on behalf of his client. We reverse.
 

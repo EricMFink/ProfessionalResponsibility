@@ -3,16 +3,15 @@ layout: case
  
 title: 'Appeal of Lane'
 cite: '544 N.W.2d 367 (Neb. 1996)'
+judge: 'Per Curium'
     
 ---
-
-# PER CURIAM.
 
 Gary M. Lane, challenges the decision of the bar commission of the Nebraska State Bar Association to deny his application for readmission to the Nebraska bar through membership in the association.
 
 [ * * * ]
 
-## Facts 
+# Facts 
 
 At various times Lane was admitted to the bars of Colorado, Iowa, Nebraska, Texas, Virginia, and Washington, D.C. He permitted the Nebraska membership obtained in 1978 to lapse, and in 1994 when he again applied for admission to the Nebraska bar, he no longer held membership in the Iowa bar.
 
@@ -46,15 +45,15 @@ B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Cre
 
 A hearing was then held by the commission, which Lane attended with his attorney. Through his attorney, Lane was permitted to cross-examine witnesses testifying before the commission and to present his own witnesses and evidence, and he himself testified. The commission found there was no evidence to support the assertion that Lane had been rude or threatening toward employees of the NCLE and that he had substantially complied with question 11 on the application by listing a civil judgment against him on his bankruptcy schedules that had been provided to the commission. The commission also found that although Lane failed to reveal his prior admissions to the Nebraska and Iowa bars, as the application form requested, the omission was not the result of an intent to deceive, but that it did indicate a casual attitude about compliance with instructions and the need to fully inform the commission. The commission further found, however, that Lane had acted in a threatening and intimidating manner while at the Creighton University legal clinic and at the BAR-BRI review course. The commission also found that Lane had intended to conceal the history of his temporary employment in Colorado, denoting a lack of candor in the application process.
 
-## Reasons for Appeal
+# Reasons for Appeal
 
 [Lane raised seven grounds for reversing the commission's decision, including that the evidence did not support denial of his application for admisssion.]
 
-## Evidence 
+# Evidence 
 
 The second reason rests on Lane's premise that the evidence is deficient in two respects. First, according to Lane, it does not support the conclusion that he was hostile, threatening, and disruptive, and even if the evidence does so, the conduct is not such as warrants denial of admission to the bar. Second, again according to Lane, the evidence that he failed to disclose his previous temporary employment does not support the conclusion that he lacked candor, and if the evidence does so, the conduct does not warrant denial of admission to the bar.
 
-### Hostile, Threatening, and Disruptive Conduct
+## Hostile, Threatening, and Disruptive Conduct
 
 At the June 9, 1995, hearing, various witnesses testified to events which occurred during September 1994 and January through February 1995. Two of the events are worthy of discussion.
 
@@ -154,7 +153,7 @@ We agree with and adopt the observations in [_Matter of Ronwin,_ 139 Ariz. at 58
 
 Our de novo review leads us to independently conclude, contrary to Lane's contention, that his egregious pattern of abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent conduct is sufficient relevant conduct to deny him admission to the bar.
 
-### Lack of Candor
+## Lack of Candor
 
 Question 7 of the application read: "List every job you have held for the ten year period immediately prior to the date of this application or since the age of 18, beginning with your present employment, if any. Please include self-employment, clerkships, internships, temporary or part-time employment and military service." Lane explained that he had failed to list the Colorado temporary employment because he held simple common labor jobs, and he may have either misread the question or forgotten about the jobs. We agree with the commission's determination that such an explanation is not credible. The correspondence between Lane and Henshaw set out earlier establishes not only that Lane failed to list the employment, but that he originally denied having had any employment during the period in question.
 
@@ -166,11 +165,13 @@ Accordingly, our de novo review of the record leads us to independently find tha
 
 [ * * * ]
 
-## Conclusion 
+# Conclusion 
 
 For the foregoing reasons, we affirm the commission's decision to deny Lane's application to be readmitted to the bar of this state through membership in the Nebraska State Bar Association.
 
 AFFIRMED.
+
+--- 
 
 # WRIGHT, Justice, dissenting.
 

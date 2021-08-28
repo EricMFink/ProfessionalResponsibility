@@ -3,16 +3,15 @@ layout: case
  
 title: 'Lee v. U.S.'
 cite: '137 S. Ct. 1958 (2017)'
+judge: 'Chief Justice ROBERTS delivered the opinion of the Court.'
     
 ---
-
-# Chief Justice ROBERTS delivered the opinion of the Court.
 
 Petitioner Jae Lee was indicted on one count of possessing ecstasy with intent to distribute. Although he has lived in this country for most of his life, Lee is not a United States citizen, and he feared that a criminal conviction might affect his status as a lawful permanent resident. His attorney assured him there was nothing to worry about — the Government would not deport him if he pleaded guilty. So Lee, who had no real defense to the charge, opted to accept a plea that carried a lesser prison sentence than he would have faced at trial.
 
 Lee’s attorney was wrong: The conviction meant that Lee was subject to mandatory deportation from this country. Lee seeks to vacate his conviction on the ground that, in accepting the plea, he received ineffective assistance of counsel in violation of the Sixth Amendment. Everyone agrees that Lee received objectively unreasonable representation. The question presented is whether he can show he was prejudiced as a result.
 
-## I
+# I
 
 Jae Lee moved to the United States from South Korea in 1982. He was 13 at the time. His parents settled the family in New York City, where they opened a small coffee shop. After graduating from a business high school in Manhattan, Lee set out on his own to Memphis, Tennessee, where he started working at a restaurant. After three years, Lee decided to try his hand at running a business. With some assistance from his family, Lee opened the Mandarin Palace Chinese Restaurant in a Memphis suburb. The Mandarin was a success, and Lee eventually opened a second restaurant nearby. In the 35 years he has spent in the country, Lee has never returned to South Korea. He did not become a United States citizen, living instead as a lawful permanent resident.
 
@@ -28,11 +27,11 @@ The District Court, however, denied relief. Applying our two-part test for ineff
 
 The Court of Appeals for the Sixth Circuit affirmed the denial of relief. On appeal, the Government conceded that the performance of Lee’s attorney had been deficient. To establish that he was prejudiced by that deficient performance, the court explained, Lee was required to show "a reasonable probability that, but for counsel’s errors, he would not have pleaded guilty and would have insisted on going to trial." Lee had "no bona fide defense, not even a weak one," so he "stood to gain nothing from going to trial but more prison time." Relying on Circuit precedent holding that "no rational defendant charged with a deportable offense and facing overwhelming evidence of guilt would proceed to trial rather than take a plea deal with a shorter prison sentence," the Court of Appeals concluded that Lee could not show prejudice. We granted certiorari.
 
-## II
+# II
 
 The Sixth Amendment guarantees a defendant the effective assistance of counsel at "critical stages of a criminal proceeding," including when he enters a guilty plea. To demonstrate that counsel was constitutionally ineffective, a defendant must show that counsel's representation "fell below an objective standard of reasonableness" and that he was prejudiced as a result. The first requirement is not at issue in today’s case: The Government concedes that Lee’s plea-stage counsel provided inadequate representation when he assured Lee that he would not be deported if he pleaded guilty. The question is whether Lee can show he was prejudiced by that erroneous advice.
 
-### A
+## A
 
 A claim of ineffective assistance of counsel will often involve a claim of attorney error "during the course of a legal proceeding" — for example, that counsel failed to raise an objection at trial or to present an argument on appeal. A defendant raising such a claim can demonstrate prejudice by showing "a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different."
 
@@ -46,7 +45,7 @@ Not all errors, however, are of that sort. Here Lee knew, correctly, that his pr
 
 Lee, on the other hand, argues he can establish prejudice under Hill because he never would have accepted a guilty plea had he known that he would be deported as a result. Lee insists he would have gambled on trial, risking more jail time for whatever small chance there might be of an acquittal that would let him remain in the United States. The Government responds that, since Lee had no viable defense at trial, he would almost certainly have lost and found himself still subject to deportation, with a lengthier prison sentence to boot. Lee, the Government contends, cannot show prejudice from accepting a plea where his only hope at trial was that something unexpected and unpredictable might occur that would lead to an acquittal.
 
-### B
+## B
 
 The Government asks that we, like the Court of Appeals below, adopt a per se rule that a defendant with no viable defense cannot show prejudice from the denial of his right to trial. As a general matter, it makes sense that a defendant who has no realistic defense to a charge supported by sufficient evidence will be unable to carry his burden of showing prejudice from accepting a guilty plea. But in elevating this general proposition to a per se rule, the Government makes two errors. First, it forgets that categorical rules are ill suited to an inquiry that we have emphasized demands a "case-by-case examination" of the "totality of the evidence." And, more fundamentally, the Government overlooks that the inquiry we prescribed in _Hill v. Lockhart_ focuses on a defendant's decisionmaking, which may not turn solely on the likelihood of conviction after trial.
 
@@ -56,7 +55,7 @@ But common sense (not to mention our precedent) recognizes that there is more to
 
 The Government urges that, in such circumstances, the possibility of an acquittal after trial is "irrelevant to the prejudice inquiry," pointing to our statement in _Strickland_ that "a defendant has no entitlement to the luck of a lawless decisionmaker." That statement, however, was made in the context of discussing the presumption of reliability we apply to judicial proceedings. As we have explained, that presumption has no place where, as here, a defendant was deprived of a proceeding altogether. In a presumptively reliable proceeding, "the possibility of arbitrariness, whimsy, caprice, ‘nullification,’ and the like" must by definition be ignored. But where we are instead asking what an individual defendant would have done, the possibility of even a highly improbable result may be pertinent to the extent it would have affected his decisionmaking.
 
-### C
+## C
 
 "Surmounting Strickland’s high bar is never an easy task," and the strong societal interest in finality has "special force with respect to convictions based on guilty pleas." Courts should not upset a plea solely because of post hoc assertions from a defendant about how he would have pleaded but for his attorney’s deficiencies. Judges should instead look to contemporaneous evidence to substantiate a defendant's expressed preferences.
 
@@ -78,9 +77,17 @@ The judgment of the United States Court of Appeals for the Sixth Circuit is reve
 
 It is so ordered.
 
+--- 
+
 # Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
+
+# I
+
+[ * * * ]
+
+## A
 
 The Court and both of the parties agree that the prejudice inquiry in this context is governed by _Strickland v. Washington_. The Court in _Strickland_ held that a defendant may establish a claim of ineffective assistance of counsel by showing that his "counsel's representation fell below an objective standard of reasonableness" and, as relevant here, that the representation prejudiced the defendant by "actually having an adverse effect on the defense."
 
@@ -100,7 +107,7 @@ Finally, the Court's decision in _Lafler v. Cooper_ is to the same effect. In th
 
 These precedents are consistent with our cases governing the right to effective assistance of counsel in other contexts. This Court has held that the right to effective counsel applies to all "critical stages of the criminal proceedings." Those stages include not only "the entry of a guilty plea," but also "arraignments, postindictment interrogation, and postindictment lineups." In those circumstances, the Court has not held that the prejudice inquiry focuses on whether that stage of the proceeding would have ended differently. It instead has made clear that the prejudice inquiry is the same as in _Strickland_, which requires a defendant to establish that he would have been better off in the end had his counsel not erred.
 
-B
+## B
 
 The majority misapplies this Court's precedents when it concludes that a defendant may establish prejudice by showing only that "he would not have pleaded guilty and would have insisted on going to trial," without showing that "the result of that trial would have been different than the result of the plea bargain." In reaching this conclusion, the Court relies almost exclusively on the single line from _Hill_ that "the defendant must show that there is a reasonable probability that, but for counsel's errors, he would not have pleaded guilty and would have insisted on going to trial." For the reasons explained above, that sentence prescribes the threshold showing a defendant must make to establish _Strickland_ prejudice where a defendant has accepted a guilty plea. In _Hill_, the Court concluded that the defendant had not made that showing, so it rejected his claim. The Court did not, however, further hold that a defendant can establish prejudice by making that showing alone.
 
@@ -116,13 +123,15 @@ Finally, the majority does not dispute that the prejudice inquiry in _Frye_ and 
 
 The majority today abandons any pretense of applying _Strickland_ to claims of ineffective assistance of counsel that arise at the plea stage. It instead concludes that one standard applies when a defendant goes to trial (_Strickland_); another standard applies when a defendant accepts a plea (_Hill_); and yet another standard applies when counsel does not apprise the defendant of an available plea or when the defendant rejects a plea (_Frye_ and _Lafler_). That approach leaves little doubt that the Court has "opened a whole new field of constitutionalized criminal procedure" — "plea-bargaining law" — despite its repeated assurances that it has been applying the same _Strickland_ standard all along. In my view, we should take the Court’s precedents at their word and conclude that "an error by counsel does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment."
 
-III
+[ * * * ]
+
+# III
 
 Applying the ordinary _Strickland_ standard in this case, I do not think a defendant in petitioner's circumstances could show a reasonable probability that the result of his criminal proceeding would have been different had he not pleaded guilty. Petitioner does not dispute that he possessed large quantities of illegal drugs or that the Government had secured a witness who had purchased the drugs directly from him. In light of this "overwhelming evidence of guilt," the Court of Appeals concluded that petitioner had "no bona fide defense, not even a weak one." His only chance of succeeding would have been to "throw a ‘Hail Mary’ at trial." As I have explained, however, the Court in _Strickland_ expressly foreclosed relying on the possibility of a "Hail Mary" to establish prejudice. _Strickland_ made clear that the prejudice assessment should "proceed on the assumption that the decisionmaker is reasonably, conscientiously, and impartially applying the standards that govern the decision."
 
 In the face of overwhelming evidence of guilt and in the absence of a bona fide defense, a reasonable court or jury applying the law to the facts of this case would find the defendant guilty. There is no reasonable probability of any other verdict. A defendant in petitioner’s shoes, therefore, would have suffered the same deportation consequences regardless of whether he accepted a plea or went to trial. He is thus plainly better off for having accepted his plea: had he gone to trial, he not only would have faced the same deportation consequences, he also likely would have received a higher prison sentence. Finding that petitioner has established prejudice in these circumstances turns _Strickland_ on its head.
 
-IV
+# IV
 
 The Court's decision today will have pernicious consequences for the criminal justice system. This Court has shown special solicitude for the plea process, which brings "stability" and "certainty" to "the criminal justice system." The Court has warned that "the prospect of collateral challenges" threatens to undermine these important values. And we have explained that "prosecutors must have assurance that a plea will not be undone years later," lest they "forgo plea bargains that would benefit defendants," which would be "a result favorable to no one."
 

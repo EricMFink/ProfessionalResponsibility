@@ -3,18 +3,17 @@ layout: case
 
 title: 'In re Hinson-Lyles'
 cite: '864 So.2d 108 (La. 2003)'
+judge: 'Per Curiam'
 
 ---
 
-# PER CURIAM.
-
 This matter arises from a petition by Kelle Hinson-Lyles seeking admission to the Bar of the State of Louisiana. For the reasons that follow, we deny the petition.
 
-## Underlying Facts and Procedural History 
+# Underlying Facts and Procedural History 
 
 In her application to sit for the July 2002 Louisiana bar examination, petitioner disclosed that she was convicted of a felony sexual offense in 1999. By letter dated June 12, 2002, the Committee on Bar Admissions ("Committee") notified petitioner that in light of her conviction, she would not be certified for admission to the practice of law. A majority of this court subsequently granted petitioner permission to sit for the bar, subject to the condition that upon her successful completion of the exam, she apply to the court for the appointment of a commissioner to take character and fitness evidence. Petitioner successfully passed the essay portion of the July 2002 bar exam. We thereafter appointed a commissioner to take evidence and report to this court whether petitioner possesses the appropriate character and fitness to be admitted to the bar and allowed to practice law in the State of Louisiana. We also authorized the Office of Disciplinary Counsel to conduct an investigation into petitioner's qualifications to be admitted to the bar.
 
-### Proceedings before the Commissioner
+## Proceedings before the Commissioner
 
 The commissioner conducted a character and fitness hearing on February 18, 2003. The commissioner received documentary evidence and heard testimony given by petitioner and her witnesses. This record reveals that in May 1996, petitioner received an undergraduate degree in business and office education. With the assistance of her father, who was then the Superintendent of the Vernon Parish School Board, petitioner obtained a teaching position at DeRidder High School in Beauregard Parish. In May 1998, as petitioner was completing her second year of teaching at DeRidder High, she began a sexual relationship with M.C., a fourteen-year old student in her ninth-grade English class. Petitioner was twenty-three years of age at this time.
 
@@ -30,7 +29,7 @@ At the character and fitness hearing, petitioner admitted she knew her relations
 
 The Committee timely objected to the commissioner's recommendation, and oral argument was conducted before this court.
 
-## Discussion
+# Discussion
 
 This court has the exclusive and plenary power to define and regulate all facets of the practice of law, including the admission of attorneys to the Bar of this state. Among other requirements for admission to the Bar, applicants must demonstrate by competent evidence that they have "good moral character and the fitness necessary to practice law in the State of Louisiana." Supreme Court Rule XVII, § 5(E).
 
@@ -40,9 +39,11 @@ This court has never taken the view that a prior felony conviction will automati
 
 After reviewing the record developed in this matter, we find that serious character and fitness concerns are present which necessitate the denial of petitioner's application for admission to the practice of law. Setting aside for a moment the gravity of any felony sexual offense, particularly those involving a juvenile victim, we are extraordinarily troubled by the factual circumstances underlying the crimes of which petitioner was convicted. Petitioner occupied a position of trust as a teacher, yet she knowingly and intentionally breached that trust to gratify her own needs. Knowing full well that her conduct was immoral, inappropriate, and illegal, petitioner nevertheless carried on a sexual affair with her fourteen-year old student for nearly two months. Far from discouraging M.C.'s involvement in the relationship, petitioner in fact fostered and encouraged it. She candidly admitted during the character and fitness hearing that the affair would have continued indefinitely but for the fact that M.C.'s father called the police. On more than one occasion, petitioner supplied alcohol for consumption by a minor child, and she countenanced and permitted his use of marijuana while in her home. Finally, when confronted by law enforcement officials, petitioner lied, denied any involvement with M.C., and hid him in a closet in an effort to avoid detection by the police and his parents. Taken as a whole, we find this conduct is not an isolated instance of poor judgment on petitioner's part, but is rather evidence that she fundamentally lacks the character and fitness to be admitted to the practice of law. Accordingly, we must reject the commissioner's recommendation that petitioner be granted the privilege of practicing law in Louisiana.
 
-## Decree
+# Decree
 
 After hearing oral argument, reviewing the evidence, and considering the law, we conclude petitioner has failed to meet her burden of proving that she has "good moral character" to be admitted to the Louisiana State Bar. Accordingly, it is ordered that Kelle Hinson-Lyles' petition for admission be and is denied.
+
+--- 
 
 # WEIMER, J., concurring.
 
@@ -78,6 +79,8 @@ In light of "the totality of circumstances involved," the commissioner recommend
 
 In summary, while I agree that petitioner should not be admitted to the practice of law at this time, I believe that it is important to chronicle all the facts, both favorable and unfavorable, reflected in the record. Therefore, I respectfully concur in the majority opinion of this court.
 
+--- 
+
 # KNOLL, J., concurring.
 
 I agree with the majority that petitioner fundamentally lacks the character and fitness to be admitted to the practice of law. I write separately to express my concern that this case demonstrates the need for an admission rule in tandem with permanent disbarment. In my view, it is a mockery of our rules to allow someone to apply for admission when the undisputed conduct at issue is a recommended ground for permanent disbarment.
@@ -85,6 +88,8 @@ I agree with the majority that petitioner fundamentally lacks the character and 
 Drafting conduct rules governing the legal profession is a very difficult and grave responsibility that we exercise with great caution. However, it is clear in my mind that when conduct is so egregious that it constitutes grounds for permanent disbarment, then the person involved should likewise be permanently prohibited from applying for admission.
 
 The petitioner before us should never be admitted to the practice of law because her admitted and egregious conduct constitutes grounds for permanent disbarment.
+
+--- 
 
 # KIMBALL, Justice, dissenting.
 
@@ -99,6 +104,8 @@ Although this appears to be an unusual case with extraordinary facts, it is clea
 The case before us illustrates the need for clear rules detailing what conduct will likely prevent an applicant from being admitted to the bar of our state. In my view, potential law students should be given notice of the types of conduct that will probably preclude them from practicing law before they undertake the challenge of law school and, in many cases, incur substantial debt to acquire a legal education. This court should work with Louisiana's law schools to ensure potential students are given clear information so they can make informed choices.
 
 Under the facts of this particular case, I believe the applicant should be conditionally admitted to the practice of law, subject to a probationary period of two years. As the commissioner found, the applicant has done everything she can to show the necessary rehabilitation. Because the applicant has complied with every requirement presently contained in our rules, it is simply unjust to deny her admission at this juncture.
+
+--- 
 
 # TRAYLOR, J., dissenting.
 

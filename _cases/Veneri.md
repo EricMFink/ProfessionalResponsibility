@@ -3,10 +3,9 @@ layout: case
 
 title: 'Lawyer Disciplinary Board v. Veneri'
 cite: '524 S.E.2d 900 (W. Va. 1999)'
+judge: 'Per Curiam'
 
 ---
-
-# PER CURIAM
 
 This disciplinary proceeding is before this Court upon a review of the March 31, 1999, Recommended Disposition of the Hearing Panel Subcommittee of the Lawyer Disciplinary Board ("Board") concerning the respondent, Randall L. Veneri ("Veneri"), a member of the West Virginia State Bar. Veneri was charged with violating Rules 3.4(c) and 8.4(c) of the _Rules of Professional Conduct_ for failing to file an asset disclosure form listing his client's two separate employee benefit plans during the course of his client's divorce. The Board recommends that the charges alleging violations of Rules 3.4(c) and 8.4(c) be dismissed. We accept the Board's findings and recommendations and dismiss those two charges.
 
@@ -14,7 +13,7 @@ Veneri was also charged with violating Rule 8.4(d) of the _Rules of Professional
 
 Upon a thorough review of the record, we agree that the charge of professional misconduct in violation of Rule 8.4(d) was established by clear and convincing evidence. However, under the circumstances of this case, we find that an admonishment and the payment of costs are more appropriate penalties for Veneri.
 
-## I.
+# I.
 
 In 1976, Michele Montgomery and Gary Montgomery were married; the Montgomerys separated in December of 1989. At the time of the couple's separation, Mr. Montgomery worked for Pocohantas Land Company, a wholly-owned subsidiary of Norfolk Southern Corporation. Mr. Montgomery was a participant in two benefit plans through his employment. The first, the Retirement Plan of Norfolk Southern, was a defined benefit plan maintained solely by employer contributions, and payable either at the payee's retirement or the earliest retirement date. The second benefit plan was a tax deferred savings plan consisting of employee contributions that were matched by Norfolk Southern. This second benefit plan was established under Section 401(k) of the Internal Revenue Code and referred to as a Thrift and Investment Plan ("TIP").
 
@@ -44,7 +43,7 @@ The Subcommittee further found that there was insufficient evidence to prove tha
 
 Based upon the report of the Subcommittee, the Board recommended to this Court that Veneri's license be suspended for 12 months and that he be required to pay the costs of the proceedings. Following the filing of Veneri's objection to the recommendation, this case was submitted to this Court for review.
 
-## II.
+# II.
 
 [ * * * ]
 

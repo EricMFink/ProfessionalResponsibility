@@ -3,15 +3,13 @@ layout: case
  
 title: 'Knowles v. Mirzayance'
 cite: '556 U.S. 111 (2009)'
+judge: 'Justice THOMAS delivered the opinion of the Court.'
     
 ---
 
-# Justice THOMAS delivered the opinion of the Court
-
-
 In this case, respondent Alexandre Mirzayance claimed ineffective assistance of counsel because his attorney recommended withdrawing his insanity defense. The California courts rejected this claim on state postconviction review. We must decide whether this decision was contrary to or an unreasonable application of clearly established federal law. We hold that it was not. Mirzayance failed to establish that his counsel's performance was ineffective.
 
-## I
+# I
 
 Mirzayance confessed that he stabbed his 19-year-old cousin nine times with a hunting knife and then shot her four times. At trial, he entered pleas of not guilty and not guilty by reason of insanity (NGI). Under California law, when both of these pleas are entered, the court must hold a bifurcated trial, with guilt determined during the first phase and the viability of the defendant's NGI plea during the second. During the guilt phase of Mirzayance's trial, he sought to avoid a conviction for first-degree murder by obtaining a verdict on the lesser included offense of second-degree murder. To that end, he presented medical testimony that he was insane at the time of the crime and was, therefore, incapable of the premeditation or deliberation necessary for a first-degree murder conviction. The jury nevertheless convicted Mirzayance of first-degree murder.
 
@@ -49,7 +47,7 @@ We granted the petition for writ of certiorari.
 
 [ * * * ]
 
-## III 
+# III 
 
 Even if Mirzayance’s ineffective-assistance-of-counsel claim were eligible for de novo review, it would still fail. _Strickland_ requires a defendant to establish deficient performance and prejudice. Mirzayance can establish neither.
 
@@ -75,6 +73,6 @@ In light of the Magistrate Judge’s factual findings, the state court's rejecti
 
 In addition, Mirzayance has not demonstrated that he suffered prejudice from his counsel's performance. To establish prejudice, "the defendant must show that there is a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome." To prevail on his ineffective-assistance claim, Mirzayance must show, therefore, that there is a "reasonable probability" that he would have prevailed on his insanity defense had he pursued it. This Mirzayance cannot do. It was highly improbable that a jury, which had just rejected testimony about Mirzayance's mental condition when the State bore the burden of proof, would have reached a different result when Mirzayance presented similar evidence at the NGI phase.
 
-## IV
+# IV
 
 Mirzayance has not shown that the state court's conclusion that there was no ineffective assistance of counsel "was contrary to, or involved an unreasonable application of, clearly established Federal law." In fact, he has not shown ineffective assistance at all. The judgment of the Court of Appeals is reversed, and the case is remanded with instructions to deny the petition.

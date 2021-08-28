@@ -335,7 +335,7 @@ No class
 - [NCRPC Rules 4.1-4.4](https://www.emfink.net/ProfessionalResponsibility/rules/Section4)
 - [Restatement §§ 94-95, 98-103](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap6)
 - [In re Disciplinary Proceeding Against Haley](https://www.emfink.net/ProfessionalResponsibility/cases/Haley), 126 P. 3d 1262 (Wash. 2006)
-- [Niesig v. Team](https://www.emfink.net/ProfessionalResponsibility/cases/Niesig), 76 N.Y.2d 363 (N.Y. 1990)
+- [Niesig v. Team I](https://www.emfink.net/ProfessionalResponsibility/cases/Niesig), 76 N.Y.2d 363 (N.Y. 1990)
 
 #### November 22
 

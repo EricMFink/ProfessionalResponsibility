@@ -3,14 +3,13 @@ layout: case
 
 title: 'In re Application of Converse'
 cite: 602 N.W.2d 500 (Neb. 1999)
+judge: 'Per Curiam'
 
 ---
 
-# PER CURIAM.
-
 Paul Raymond Converse appeals a decision of the Nebraska State Bar Commission (Commission) denying his request to take the July 1998 Nebraska bar examination. Converse claims that the decision of the Commission should be reversed because the Commission rested its denial of Converse's application, at least in part, upon conduct protected by the First Amendment to the U.S. Constitution and, in the alternative, that Converse's conduct did not constitute sufficient cause under Nebraska law for denying his application on the ground of deficient moral character. For the reasons that follow, we affirm the decision of the Commission.
 
-## Factual Background 
+# Factual Background 
 
 In 1998, Converse applied for permission to sit for the Nebraska bar examination. On June 29, 1998, Converse was notified by letter that the Commission had denied permission for him to take the July 1998 Nebraska bar examination because it had determined that Converse lacked the requisite moral character for admission upon examination to the Nebraska State Bar Association. On July 7, the Commission received notice that Converse was appealing the Commission's initial determination. Converse's appeal was heard on September 15, after which the Commission reaffirmed its initial determination and notified Converse on December 18 that he would not be allowed to sit for the Nebraska bar examination at that time.
 
@@ -44,13 +43,13 @@ The evidence also revealed that prior to law school, Converse, in his capacity a
 
 After the Commission notified Converse that he would not be allowed to sit for the Nebraska bar examination, Converse appealed the adverse determination to this court.
 
-## Assignments of Error
+# Assignments of Error
 
 Converse claims that the Commission erred in basing its decision, in part, upon conduct and speech arguably protected by the First Amendment; not making Converse aware of all of the "charges" against him in the proceedings in violation of the 14th Amendment; and determining that Converse's conduct gave rise to sufficient cause under Nebraska law for the Commission to deny his application to sit for the Nebraska bar examination.
 
 [ * * * ]
 
-## Analysis
+# Analysis
 
 Converse first assigns as error that the Commission's determination should not stand because it is based in large part upon speech that is protected by the First Amendment. Thus, the threshold question we must answer is whether conduct arguably protected by the First Amendment can be considered by the Commission during an investigation into an applicant's moral character and fitness to practice law. We answer this question in the affirmative.
 
@@ -118,6 +117,6 @@ The result might have been different if Converse had exhibited only a "single in
 
 Converse has exhibited a clear lack of self-restraint and lack of judgment, and our de novo review of the record leads us to independently conclude that Converse has exhibited such a pattern of acting in a hostile and disruptive manner as to render him unfit for the practice of law in Nebraska. We conclude that the Commission's determination to deny Converse's application was correct, and Converse's third assignment of error is therefore without merit.
 
-## Conclusion
+# Conclusion
 
 The Commission correctly determined that Converse possessed insufficient moral character and was unfit to practice law in the State of Nebraska. This determination was based on an inquiry into Converse's moral character that was both proper and constitutionally permissible. Finding no error in the Commission's determination or the process used to reach that determination, we affirm the Commission's denial of application.

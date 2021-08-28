@@ -3,14 +3,13 @@ layout: case
 
 title: 'Hunter v. Virginia State Bar'
 cite: '744 S.E.2d 611 (Va. 2013)'
+judge: 'Opinion by Justice Cleo E. Powell'
 
 ---
 
-# OPINION BY Justice CLEO E. POWELL.
-
 In this appeal of right by an attorney from a Virginia State Bar ("VSB") disciplinary proceeding, we consider whether an attorney's blog posts are commercial speech, whether an attorney may discuss public information related to a client without the client's consent, and whether the panel ordered the attorney to post a disclaimer that is insufficient under Rule 7.2(a)(3) of the Virginia Rules of Professional Conduct.
 
-## I. Facts and Proceedings
+# I. Facts and Proceedings
 
 Horace Frazier Hunter, an attorney with the law firm of Hunter & Lipton, PC, authors a trademarked blog titled "This Week in Richmond Criminal Defense," which is accessible from his law firm's website, www.hunterlipton.com. This blog, which is not interactive, contains posts discussing a myriad of legal issues and cases, although the overwhelming majority are posts about cases in which Hunter obtained favorable results for his clients. Nowhere in these posts or on his website did Hunter include disclaimers.
 
@@ -30,9 +29,9 @@ Following the hearing, the VSB held that Hunter violated Rule 1.6 by "disseminat
 
 Hunter appealed to a three judge panel of the circuit court and the court heard argument. The court disagreed with Hunter that _de novo_ was the proper standard of review and instead applied the following standard: "whether the decision is contrary to the law or whether there is substantial evidence in the record upon which the district committee could reasonably have found as it did." The court further ruled that the VSB's interpretation of Rule 1.6 violated the First Amendment and dismissed that charge. The court held VSB's interpretation of Rules 7.1 and 7.2 do not violate the First Amendment and that the record contained substantial evidence to support the VSB's determination that Hunter had violated those rules. The court imposed a public admonition and required Hunter to post the following disclaimer: "Case results depend upon a variety of factors unique to each case. Case results do not guarantee or predict a similar result in any future case." This appeal followed.
 
-## II. Analysis
+# II. Analysis
 
-### A. Whether "[t]he Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
+## A. Whether "[t]he Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
 
 Rule 7.1(a)(4), which is the specific portion of the Rule that the VSB argued that Hunter violated, states:
 
@@ -104,7 +103,7 @@ Rule 7.2(a)(3). This requirement ensures that the disclaimer is noticeable and w
 
 Hunter's blog posts discuss lawful activity and are not inherently misleading, but the VSB has asserted a substantial governmental interest to protect the public from potentially misleading lawyer advertising. These regulations directly advance this interest and are not more restrictive than necessary, unlike outright bans on advertising. We thus conclude that the VSB's Rules 7.1 and 7.2 do not violate the First Amendment. As applied to Hunter's blog posts, they are constitutional and the panel did not err.
 
-### B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
+## B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
 
 Rule 1.6(a) states, that with limited exceptions,
 
@@ -126,7 +125,7 @@ State action that punishes the publication of truthful information can rarely su
 
 The VSB argues that it can prohibit an attorney from repeating truthful information made in a public judicial proceeding even though others can disseminate this information because an attorney repeating it could inhibit clients from freely communicating with their attorneys or because it would undermine public confidence in the legal profession. Such concerns, however, are unsupported by the evidence. To the extent that the information is aired in a public forum, privacy considerations must yield to First Amendment protections. In that respect, a lawyer is no more prohibited than any other citizen from reporting what transpired in the courtroom. Thus, the circuit court did not err in concluding that the VSB's interpretation of Rule 1.6 violated the First Amendment.
 
-### C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
+## C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
 
 The VSB argues that the single disclaimer that the circuit court ordered Hunter to post on his blog was insufficient to comport with Rule 7.2(a)(3) because it did not eliminate the misleading nature of the posts.
 
@@ -140,11 +139,13 @@ Here, the VSB required Hunter to post a disclaimer that complies with Rule 7.2(a
 
 While the substantive meaning of the imposed disclaimer may conform to the requirements stated in Rule 7.2(a)(3)(i) through (iii), it nevertheless is less than what the rule requires. In contrast to the committee's determination, there is no provision in the circuit court's order requiring that the disclaimer be formatted and presented in the manner required by Rule 7.2(a)(3), and the text of the disclaimer prescribed by the circuit court is not itself formatted and presented in that manner. Even so, Hunter does not argue that the disclaimer required by the circuit court is an appropriate, less restrictive means of regulating his speech and, therefore, we decline to so hold. Based on the arguments presented to it, the circuit court erred by imposing a disclaimer that conflicted with the rule. 
 
-## III. Conclusion
+# III. Conclusion
 
 For the foregoing reasons, we hold that Hunter's blog posts are potentially misleading commercial speech that the VSB may regulate. We further hold that circuit court did not err in determining that the VSB's interpretation of Rule 1.6 violated the First Amendment. Finally, we hold that because the circuit court erred in imposing one disclaimer did not fully comply with Rule 7.2(a)(3), we reverse and remand for imposition of disclaimers that fully comply with that Rule.
 
 _Affirmed in part, reversed in part, and remanded_.
+
+--- 
 
 # Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
 

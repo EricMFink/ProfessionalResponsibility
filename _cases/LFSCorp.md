@@ -3,9 +3,9 @@ layout: case
  
 title: 'L.F.S. Corp. v. Kennedy'
 cite: '337 S.E.2d 209 (S.C. 1985)'
+judge: 'Gregory, Justice'
     
 ---
-
 
 In this legal malpractice action, appellant L.F.S. Corporation appeals from the grant of respondents’ motion for non-suit. Appellant raises numerous issues by twenty-four exceptions; however, we need only reach one issue which moots those remaining. We Affirm. 
 

@@ -3,14 +3,13 @@ layout: case
 
 title: 'In re Primus'
 cite: '436 U.S. 412 (1978)'
+judge: 'MR. JUSTICE POWELL delivered the opinion of the Court.'
 
 ---
 
-# MR. JUSTICE POWELL delivered the opinion of the Court.
+We consider on this appeal whether a State may punish a member of its Bar who, seeking to further political and ideological goals through associational activity, including litigation, advises a lay person of her legal rights and discloses in a subsequent letter that free legal assistance is available from a nonprofit organization with which the lawyer and her associates are affiliated. Appellant, a member of the Bar of South Carolina, received a public reprimand for writing such a letter. The appeal is opposed by the State Attorney General, on behalf of the Board of Commissioners on Grievances and Discipline of the Supreme Court of South Carolina. As this appeal presents a substantial question under the First and Fourteenth Amendments, as interpreted in _NAACP v. Button_, we noted probable jurisdiction.
 
-We consider on this appeal whether a State may punish a member of its Bar who, seeking to further political and ideological goals through associational activity, including litigation, advises a lay person of her legal rights and discloses in a subsequent letter that free legal assistance is available from a nonprofit organization with which the lawyer and her associates are affiliated. Appellant, a member of the Bar of South Carolina, received a public reprimand for writing such a letter. The appeal is opposed by the State Attorney General, on behalf of the Board of Commissioners on Grievances and Discipline of the Supreme Court of South Carolina. As this appeal presents a substantial question under the First and Fourteenth Amendments, as interpreted in _NAACP_ v. _Button_, we noted probable jurisdiction.
-
-## I
+# I
 
 Appellant, Edna Smith Primus, is a lawyer practicing in Columbia, S. C. During the period in question, she was associated with the "Carolina Community Law Firm," and was an officer of and cooperating lawyer with the Columbia branch of the American Civil Liberties Union (ACLU). She received no compensation for her work on behalf of the ACLU, but was paid a retainer as a legal consultant for the South Carolina Council on Human Relations (Council), a nonprofit organization with offices in Columbia.
 
@@ -26,7 +25,7 @@ After a hearing on January 9, 1976, the full Board approved the panel report and
 
 We now reverse.
 
-## II
+# II
 
 This appeal concerns the tension between contending values of considerable moment to the legal profession and to society. Relying upon _NAACP v. Button_ and its progeny, appellant maintains that her activity involved constitutionally protected expression and association. In her view, South Carolina has not shown that the discipline meted out to her advances a subordinating state interest in a manner that avoids unnecessary abridgment of First Amendment freedoms. Appellee counters that appellant's letter to Williams falls outside of the protection of _Button_, and that South Carolina acted lawfully in punishing a member of its Bar for solicitation.
 
@@ -34,7 +33,7 @@ The States enjoy broad power to regulate "the practice of professions within the
 
 Unlike the situation in _Ohralik_, however, appellant's act of solicitation took the form of a letter to a woman with whom appellant had discussed the possibility of seeking redress for an allegedly unconstitutional sterilization. This was not in-person solicitation for pecuniary gain. Appellant was communicating an offer of free assistance by attorneys associated with the ACLU, not an offer predicated on entitlement to a share of any monetary recovery. And her actions were undertaken to express personal political beliefs and to advance the civil-liberties objectives of the ACLU, rather than to derive financial gain. The question presented in this case is whether, in light of the values protected by the First and Fourteenth Amendments, these differences materially affect the scope of state regulation of the conduct of lawyers.
 
-## III
+# III
 
 In _NAACP v. Button_, the Supreme Court of Appeals of Virginia had held that the activities of members and staff attorneys of the National Association for the Advancement of Colored People (NAACP) and its affiliate, the Virginia State Conference of NAACP Branches (Conference), constituted "solicitation of legal business" in violation of state law. Although the NAACP representatives and staff attorneys had "a right to peaceably assemble with the members of the branches and other groups to discuss with them and advise them relative to their legal rights in matters concerning racial segregation," the court found no constitutional protection for efforts to "solicit prospective litigants to authorize the filing of suits" by NAACP-compensated attorneys.
 
@@ -44,7 +43,7 @@ Since the Virginia statute sought to regulate expressive and associational condu
 
 Subsequent decisions have interpreted _Button_ as establishing the principle that "collective activity undertaken to obtain meaningful access to the courts is a fundamental right within the protection of the First Amendment." The Court has held that the First and Fourteenth Amendments prevent state proscription of a range of solicitation activities by labor unions seeking to provide low-cost, effective legal representation to their members. And "lawyers accepting employment under [such plans] have a like protection which the State cannot abridge." Without denying the power of the State to take measures to correct the substantive evils of undue influence, overreaching, misrepresentation, invasion of privacy, conflict of interest, and lay interference that potentially are present in solicitation of prospective clients by lawyers, this Court has required that "broad rules framed to protect the public and to preserve respect for the administration of justice" must not work a significant impairment of "the value of associational freedoms." 
 
-## IV
+# IV
 
 We turn now to the question whether appellant's conduct implicates interests of free expression and association sufficient to justify the level of protection recognized in _Button_ and subsequent cases. The Supreme Court of South Carolina found appellant to have engaged in unethical conduct because she "'solicit[ed] a client for a non-profit organization, which, as its primary purpose, renders legal services, where respondent's associate is a staff counsel for the non-profit organization.'" It rejected appellant's First Amendment defenses by distinguishing _Button_ from the case before it. Whereas the NAACP in that case was primarily a "'political'" organization that used "'litigation as an adjunct to the overriding political aims of the organization,'" the ACLU "'has as one of its primary purposes the rendition of legal services.'" The court also intimated that the ACLU's policy of requesting an award of counsel fees indicated that the organization might "'benefit financially in the event of successful prosecution of the suit for money damages.'" 
 
@@ -56,17 +55,17 @@ Contrary to appellee's suggestion, the ACLU's policy of requesting an award of c
 
 Appellant's letter of August 30, 1973, to Mrs. Williams thus comes within the generous zone of First Amendment protection reserved for associational freedoms. The ACLU engages in litigation as a vehicle for effective political expression and association, as well as a means of communicating useful information to the public. As _Button_ indicates, and as appellant offered to prove at the disciplinary hearing, the efficacy of litigation as a means of advancing the cause of civil liberties often depends on the ability to make legal assistance available to suitable litigants. "'Free trade in ideas' means free trade in the opportunity to persuade to action, not merely to describe facts." The First and Fourteenth Amendments require a measure of protection for "advocating lawful means of vindicating legal rights," including "advis[ing] another that his legal rights have been infringed and refer[ring] him to a particular attorney or group of attorneys ... for assistance".
 
-## V
+# V
 
 South Carolina's action in punishing appellant for soliciting a prospective litigant by mail, on behalf of the ACLU, must withstand the "exacting scrutiny applicable to limitations on core First Amendment rights ...." South Carolina must demonstrate "a subordinating interest which is compelling," and that the means employed in furtherance of that interest are "closely drawn to avoid unnecessary abridgment of associational freedoms." 
 
 Appellee contends that the disciplinary action taken in this case is part of a regulatory program aimed at the prevention of undue influence, overreaching, misrepresentation, invasion of privacy, conflict of interest, lay interference, and other evils that are thought to inhere generally in solicitation by lawyers of prospective clients, and to be present on the record before us. We do not dispute the importance of these interests. This Court's decision in _Button_ makes clear, however, that "[b]road prophylactic rules in the area of free expression are suspect," and that "[p]recision of regulation must be the touchstone in an area so closely touching our most precious freedoms." Because of the danger of censorship through selective enforcement of broad prohibitions, and "[b]ecause First Amendment freedoms need breathing space to survive, government may regulate in [this] area only with narrow specificity." 
 
-### A
+## A
 
 The Disciplinary Rules in question sweep broadly. Under DR 2-103 (D) (5), a lawyer employed by the ACLU or a similar organization may never give unsolicited advice to a lay person that he retain the organization's free services, and it would seem that one who merely assists or maintains a cooperative relationship with the organization also must suppress the giving of such advice if he or anyone associated with the organization will be involved in the ultimate litigation. Notwithstanding appellee's concession in this Court, it is far from clear that a lawyer may communicate the organization's offer of legal assistance at an informational gathering such as the July 1973 meeting in Aiken without breaching the literal terms of the Rule. Moreover, the Disciplinary Rules in question permit punishment for mere solicitation unaccompanied by proof of any of the substantive evils that appellee maintains were present in this case. In sum, the Rules in their present form have a distinct potential for dampening the kind of "cooperative activity that would make advocacy of litigation meaningful," as well as for permitting discretionary enforcement against unpopular causes.
 
-### B
+## B
 
 Even if we ignore the breadth of the Disciplinary Rules and the absence of findings in the decision below that support the justifications advanced by appellee in this Court, we think it clear from the record—which appellee does not suggest is inadequately developed—that findings compatible with the First Amendment could not have been made in this case. "[C]onsiderations of effective judicial administration require us to review the evidence in the present record to determine whether it could constitutionally support a judgment [against appellant]. This Court's duty is not limited to the elaboration of constitutional principles; we must also in proper cases review the evidence to make certain that those principles [can be] constitutionally applied." 
 
@@ -80,7 +79,7 @@ The State's interests in preventing the "stirring up" of frivolous or vexatious 
 
 At bottom, the case against appellant rests on the proposition that a State may regulate in a prophylactic fashion all solicitation activities of lawyers because there may be some potential for overreaching, conflict of interest, or other substantive evils whenever a lawyer gives unsolicited advice and communicates an offer of representation to a layman. Under certain circumstances, that approach is appropriate in the case of speech that simply "propose[s] a commercial transaction". In the context of political expression and association, however, a State must regulate with significantly greater precision.
 
-## VI
+# VI
 
 The State is free to fashion reasonable restrictions with respect to the time, place, and manner of solicitation by members of its Bar. The State's special interest in regulating members of a profession it licenses, and who serve as officers of its courts, amply justifies the application of narrowly drawn rules to proscribe solicitation that in fact is misleading, overbearing, or involves other features of deception or improper influence. As we decide today in _Ohralik_, a State also may forbid in-person solicitation for pecuniary gain under circumstances likely to result in these evils. And a State may insist that lawyers not solicit on behalf of lay organizations that exert control over the actual conduct of any ensuing litigation. Accordingly, nothing in this opinion should be read to foreclose carefully tailored regulation that does not abridge unnecessarily the associational freedom of nonprofit organizations, or their members, having characteristics like those of the NAACP or the ACLU.
 

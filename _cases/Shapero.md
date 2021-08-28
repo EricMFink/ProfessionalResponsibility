@@ -3,14 +3,13 @@ layout: case
 
 title: 'Shapero v. Kentucky Bar Association' 
 cite: '486 U.S. 466' 
+judge: 'JUSTICE BRENNAN announced the judgment of the Court and delivered the opinion of the Court as to Parts I and II and an opinion as to Part III in which JUSTICE MARSHALL, JUSTICE BLACKMUN, and JUSTICE KENNEDY join.'
 
 ---
 
-# JUSTICE BRENNAN announced the judgment of the Court and delivered the opinion of the Court as to Parts I and II and an opinion as to Part III in which JUSTICE MARSHALL, JUSTICE BLACKMUN, and JUSTICE KENNEDY join.
-
 This case presents the issue whether a State may, consistent with the First and Fourteenth Amendments, categorically prohibit lawyers from soliciting legal business for pecuniary gain by sending truthful and nondeceptive letters to potential clients known to face particular legal problems.
 
-## I
+# I
 
 In 1985, petitioner, a member of Kentucky’s integrated Bar Association, applied to the Kentucky Attorneys Advertising Commission for approval of a letter that he proposed to send "to potential clients who have had a foreclosure suit filed against them." The proposed letter read as follows:
 
@@ -22,7 +21,7 @@ On review of the Ethics Committee’s advisory opinion, the Kentucky Supreme Cou
 
 The court did not specify either the precise infirmity in Rule 3.135(5)(b)(i) or how Rule 7.3 cured it. Rule 7.3, like its predecessor, prohibits targeted, direct-mail solicitation by lawyers for pecuniary gain, without a particularized finding that the solicitation is false or misleading. We granted certiorari to resolve whether such a blanket prohibition is consistent with the First Amendment and now reverse.
 
-## II
+# II
 
 Lawyer advertising is in the category of constitutionally protected commercial speech. The First Amendment principles governing state regulation of lawyer solicitations for pecuniary gain are by now familiar: "Commercial speech that is not false or deceptive and does not concern unlawful activities may be restricted only in the service of a substantial governmental interest, and only through means that directly advance that interest." Since state regulation of commercial speech "may extend only as far as the interest it serves," state rules that are designed to prevent the "potential for deception and confusion may be no broader than reasonably necessary to prevent the" perceived evil.
 
@@ -48,7 +47,7 @@ But merely because targeted, direct-mail solicitation presents lawyers with oppo
 
 The record before us furnishes no evidence that scrutiny of targeted solicitation letters will be appreciably more burdensome or less reliable than scrutiny of advertisements. As a general matter, evaluating a targeted advertisement does not require specific information about the recipient's identity and legal problems any more than evaluating a newspaper advertisement requires like information about all readers. If the targeted letter specifies facts that relate to particular recipients, the reviewing agency has innumerable options to minimize mistakes. It might, for example, require the lawyer to prove the truth of the fact stated; it could require the lawyer to explain briefly how he or she discovered the fact and verified its accuracy; or it could require the letter to bear a label identifying it as an advertisement, or directing the recipient how to report inaccurate or misleading letters. To be sure, a state agency or bar association that reviews solicitation letters might have more work than one that does not. But "our recent decisions involving commercial speech have been grounded in the faith that the free flow of commercial information is valuable enough to justify imposing on would-be regulators the costs of distinguishing the truthful from the false, the helpful from the misleading, and the harmless from the harmful."
 
-## III
+# III
 
 The validity of Rule 7.3 does not turn on whether petitioner’s letter itself exhibited any of the evils at which Rule 7.3 was directed. Since, however, the First Amendment overbreadth doctrine does not apply to professional advertising, we address respondent’s contentions that petitioner’s letter is particularly overreaching, and therefore unworthy of First Amendment protection. In that regard, respondent identifies two features of the letter before us that, in its view, coalesce to convert the proposed letter into "high pressure solicitation, overbearing solicitation," which is not protected. First, respondent asserts that the letter’s liberal use of underscored, uppercase letters "fairly shouts at the recipient that he should employ Shapero." Second, respondent objects that the letter contains assertions that "state no affirmative or objective fact," but constitute "pure salesman puffery, enticement for the unsophisticated, which commits Shapero to nothing."
 
@@ -58,17 +57,19 @@ To be sure, a letter may be misleading if it unduly emphasizes trivial or "relat
 
 The judgment of the Supreme Court of Kentucky is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.
 
+--- 
+
 # JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE SCALIA join, dissenting.
 
 I agree with the Court that the reasoning in _Zauderer_ supports the conclusion reached today. That decision, however, was itself the culmination of a line of cases built on defective premises and flawed reasoning. As today's decision illustrates, the Court has been unable or unwilling to restrain the logic of the underlying analysis within reasonable bounds. The resulting interference with important and valid public policies is so destructive that I believe the analytical framework itself should now be reexamined.
 
-## I
+# I
 
 Zauderer held that the First Amendment was violated by a state rule that forbade attorneys to solicit or accept employment through advertisements containing information or advice regarding a specific legal problem. I dissented from this holding because I believed that our precedents permitted, and good judgment required, that we give greater deference to the State’s legitimate efforts to regulate advertising by their attorneys. Emphasizing the important differences between professional services and standardized consumer products, I concluded that unsolicited legal advice was not analogous to the free samples that are often used to promote sales in other contexts. First, the quality of legal services is typically more difficult for most laypersons to evaluate, and the consequences of a mistaken evaluation of the "free sample" may be much more serious. For that reason, the practice of offering unsolicited legal advice as a means of enticing potential clients into a professional relationship is much more likely to be misleading than superficially similar practices in the sale of ordinary consumer goods. Second, and more important, an attorney has an obligation to provide clients with complete and disinterested advice. The advice contained in unsolicited "free samples" is likely to be colored by the lawyer's own interest in drumming up business, a result that is sure to undermine the professional standards that States have a substantial interest in maintaining.
 
 [* * * ]
 
-## III
+# III
 
 The roots of the error in our attorney advertising cases are a defective analogy between professional services and standardized consumer products and a correspondingly inappropriate skepticism about the States’ justifications for their regulations.
 

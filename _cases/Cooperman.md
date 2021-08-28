@@ -3,6 +3,7 @@ layout: case
  
 title: 'Matter of Cooperman'
 cite: '633 N.E.2d 1069 (N.Y. 1994)'
+judge: 'Bellicosa, J.'
     
 ---
 

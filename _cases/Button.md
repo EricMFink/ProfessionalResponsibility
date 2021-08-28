@@ -3,6 +3,7 @@ layout: case
  
 title: 'NAACP v. Button'
 cite: '371 U.S. 415 (1963)'
+judge: 'Mr. Justice Brennan delivered the Opinion of the Court.'
     
 ---
 
@@ -24,17 +25,17 @@ These meetings are sometimes prompted by letters and bulletins from the Conferen
 
 Statutory regulation of unethical and nonprofessional conduct by attorneys has been in force in Virginia since 1849. These provisions outlaw, _inter alia,_ solicitation of legal business in the form of "running" or "capping." Prior to 1956, however, no attempt was made to proscribe under such regulations the activities of the NAACP, which had been carried on openly for many years in substantially the manner described. In 1956, however, the legislature amended, by the addition of Chapter 33, the provisions of the Virginia Code forbidding solicitation of legal business by a "runner" or "capper" to include, in the definition of "runner" or "capper," an agent for an individual or organization which retains a lawyer in connection with an action to which it is not a party and in which it has no pecuniary right or liability. The Virginia Supreme Court of Appeals held that the chapter's purpose "was to strengthen the existing statutes to further control the evils of solicitation of legal business . . . ." The court held that the activities of NAACP, the Virginia Conference, the Defense Fund, and the lawyers furnished by them, fell within, and could constitutionally be proscribed by, the chapter's expanded definition of improper solicitation of legal business, and also violated Canons 35 and 47 of the American Bar Association's Canons of Professional Ethics, which the court had adopted in 1938. Specifically the court held that, under the expanded definition, such activities on the part of NAACP, the Virginia Conference, and the Defense Fund constituted "fomenting and soliciting legal business in which they are not parties and have no pecuniary right or liability, and which they channel to the enrichment of certain lawyers employed by them, at no cost to the litigants and over which the litigants have no control." Finally, the court restated the decree of the Richmond Circuit Court. 
 
-## I.
+# I.
 
 [ * * * ]
 
-## II.
+# II.
 
 Petitioner challenges the decision of the Supreme Court of Appeals on many grounds. But we reach only one: that Chapter 33 as construed and applied abridges the freedoms of the First Amendment, protected against state action by the Fourteenth. More specifically, petitioner claims that the chapter infringes the right of the NAACP and its members and lawyers to associate for the purpose of assisting persons who seek legal redress for infringements of their constitutionally guaranteed and other rights. We think petitioner may assert this right on its own behalf, because, though a corporation, it is directly engaged in those activities, claimed to be constitutionally protected, which the statute would curtail. We also think petitioner has standing to assert the corresponding rights of its members. 
 
 We reverse the judgment of the Virginia Supreme Court of Appeals. We hold that the activities of the NAACP, its affiliates and legal staff shown on this record are modes of expression and association protected by the First and Fourteenth Amendments which Virginia may not prohibit, under its power to regulate the legal profession, as improper solicitation of legal business violative of Chapter 33 and the Canons of Professional Ethics.
 
-### A.
+## A.
 
 We meet at the outset the contention that "solicitation" is wholly outside the area of freedoms protected by the First Amendment. To this contention there are two answers. The first is that a State cannot foreclose the exercise of constitutional rights by mere labels. The second is that abstract discussion is not the only species of communication which the Constitution protects; the First Amendment also protects vigorous advocacy, certainly of lawful ends, against governmental intrusion. In the context of NAACP objectives, litigation is not a technique of resolving private differences; it is a means for achieving the lawful objectives of equality of treatment by all government, federal, state and local, for the members of the Negro community in this country. It is thus a form of political expression. Groups which find themselves unable to achieve their objectives through the ballot frequently turn to the courts. Just as it was true of the opponents of New Deal legislation during the 1930s, for example, no less is it true of the Negro minority today. And under the conditions of modern government, litigation may well be the sole practicable avenue open to a minority to petition for redress of grievances.
 
@@ -44,7 +45,7 @@ We need not, in order to find constitutional protection for the kind of cooperat
 
 The NAACP is not a conventional political party; but the litigation it assists, while serving to vindicate the legal rights of members of the American Negro community, at the same time and perhaps more importantly, makes possible the distinctive contribution of a minority group to the ideas and beliefs of our society. For such a group, association for litigation may be the most effective form of political association.
 
-### B.
+## B.
 
 Our concern is with the impact of enforcement of Chapter 33 upon First Amendment freedoms. We start, of course, from the decree of the Supreme Court of Appeals. Although the action before it was one basically for declaratory relief, that court not only expounded the purpose and reach of the chapter but held concretely that certain of petitioner's activities had, and certain others had not,  violated the chapter. These activities had been explored in detail at the trial and were spread out plainly on the record. We have no doubt that the opinion of the Supreme Court of Appeals in the instant case was intended as a full and authoritative construction of Chapter 33 as applied in a detailed factual context. That construction binds us. For us, the words of Virginia's highest court are the words of the statute. We are not left to speculate at large upon the possible implications of bare statutory language.
 
@@ -76,9 +77,11 @@ A final observation is in order. Because our disposition is rested on the First 
 
 _Reversed._
 
+--- 
+
 # MR. JUSTICE DOUGLAS, concurring.
 
-While I join the opinion of the Court, I add a few words. This Virginia Act is not applied across the board to all groups that use this method of obtaining and managing litigation, but instead reflects a legislative purpose to penalize the N. A. A. C. P. because it promotes desegregation of the races. Our decision in _Brown v. Board of Educatio,_, holding that maintenance of public schools segregated by race violated the Equal Protection Clause of the Fourteenth Amendment, was announced May 17, 1954. The amendments to Virginia's code, here in issue, were enacted in 1956. Arkansas, Florida, Georgia, Mississippi, South Carolina, and Tennessee also passed laws following our 1954 decision which brought within their barratry statutes attorneys paid by an organization such as the N.A.A.C.P. and representing litigants without charge.
+While I join the opinion of the Court, I add a few words. This Virginia Act is not applied across the board to all groups that use this method of obtaining and managing litigation, but instead reflects a legislative purpose to penalize the N. A. A. C. P. because it promotes desegregation of the races. Our decision in _Brown v. Board of Education,_, holding that maintenance of public schools segregated by race violated the Equal Protection Clause of the Fourteenth Amendment, was announced May 17, 1954. The amendments to Virginia's code, here in issue, were enacted in 1956. Arkansas, Florida, Georgia, Mississippi, South Carolina, and Tennessee also passed laws following our 1954 decision which brought within their barratry statutes attorneys paid by an organization such as the N.A.A.C.P. and representing litigants without charge.
 
 The bill, here involved, was one of five that Virginia enacted "as parts of the general plan of massive resistance to the integration of schools of the state under the Supreme Court's decrees." Those are the words of Judge Soper, writing for the court in _N.A.A.C.P. v. Patty_. He did not indulge in guesswork. He reviewed the various steps taken by Virginia to resist our _Brown_ decision, starting with the Report of the Gray Commission on November 11, 1955. He mentioned the "interposition resolution" passed by the General Assembly on February 1, 1956, the constitutional amendment made to carry out the recommendation of the Report of the Gray Commission, and the address of the Governor before the General Assembly that enacted the five laws, including the present one. These are too lengthy to repeat here. But they make clear the purpose of the present law—as clear a purpose to evade our prior decisions as was the legislation in _Lane v. Wilson_, another instance of a discriminatory state law. The fact that the contrivance used is subtle and indirect is not material to the question. "The Amendment nullifies sophisticated as well as simple-minded modes of discrimination." There we looked to the origins of the state law and the setting in which it operated to find its discriminatory nature. It is proper to do the same here.
 

@@ -3,16 +3,15 @@ layout: case
 
 title: 'Matter of Giuliani'
 cite: '2021 NY Slip Op 04086 (N.Y. App. Div. June 24, 2021)'
+judge: 'Per Curiam'
 
 ---
-
-# PER CURIAM
 
 The Attorney Grievance Committee moves for an order immediately suspending respondent from the practice of law based upon claimed violations of rules 3.3(a); 4.1; 8.4(c) and 8.4(h) of the Rules of Professional Conduct. Respondent was admitted to practice as an attorney and counselor at law in the State of New York on June 25, 1969, under the name Rudolph William Giuliani. He maintains a law office within the First Judicial Department.
 
 For the reasons that follow, we conclude that there is uncontroverted evidence that respondent communicated demonstrably false and misleading statements to courts, lawmakers and the public at large in his capacity as lawyer for former President Donald J. Trump and the Trump campaign in connection with Trump's failed effort at reelection in 2020. These false statements were made to improperly bolster respondent's narrative that due to widespread voter fraud, victory in the 2020 United States presidential election was stolen from his client. We conclude that respondent's conduct immediately threatens the public interest and warrants interim suspension from the practice of law, pending further proceedings before the Attorney Grievance Committee (sometimes AGC or Committee).
 
-## The Nature of this Proceeding
+# The Nature of this Proceeding
 
 During the course of this ongoing investigation into numerous complaints of respondent's alleged professional misconduct, the AGC seeks respondent's immediate suspension from the practice law in the State of New York. Under certain circumstances, such serious interim relief is available, pending a full formal disciplinary proceeding. Interim suspension is available even where formal charges have not yet been filed.
 
@@ -22,7 +21,7 @@ Each Judicial Department of theAppellate Divisions of the New York Supreme Court
 
 In certain cases, the Committee may, during the pendency of its investigation, make a motion to the Court for an attorney's interim suspension. Interim suspension is a serious remedy, available only in situations where it is immediately necessary to protect the public from the respondent's violation of the Rules. At bar, the AGC is proceeding on the basis that there is uncontroverted evidence of professional misconduct. Importantly, when an attorney is suspended on an interim basis, he or she nonetheless has an opportunity for a post-suspension hearing.
 
-## Uncontroverted Claims of Misconduct
+# Uncontroverted Claims of Misconduct
 
 Only uncontroverted claims of professional misconduct may serve as a basis for interim suspension on this motion. In connection with its claim that uncontroverted attorney misconduct has occurred, the AGC relies upon the following provisions of the New York Rules of Professional Conduct: rule 3.3 which provides that: "(a) A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal. . . ." rule 4.1 which provides that: "In the course of representing a client, a lawyer shall not knowingly make a false statement of fact or law to a third person," and rule 8.4 "A lawyer or law firm shall not: . . . (c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation, . . . or (h) engage in any other conduct that adversely reflects on the lawyer's fitness as a lawyer."
 
@@ -30,7 +29,7 @@ Under the Rules of Professional Conduct, the prohibition against false statement
 
 In general, the AGC relies upon statements that respondent made following the 2020 election at press conferences, state legislative hearings, radio broadcasts (as both a guest and host), podcasts, television appearances and one court appearance. Respondent concedes that the statements attributed to him in this motion were all made in the context of his representation of Donald J. Trump and/or the Trump campaign.
 
-## Preliminary Issues
+# Preliminary Issues
 
 Respondent raises an overarching argument that the AGC's investigation into his conduct violates his First Amendment right of free speech. He does not attack the constitutionality of the particular disciplinary rules; he seemingly claims that they are unconstitutional as applied to him. We reject respondent's argument. This disciplinary proceeding concerns the professional restrictions imposed on respondent as an attorney to not knowingly misrepresent facts and make false statements in connection with his representation of a client. It is long recognized that "speech by an attorney is subject to greater regulation than speech by others". Unlike lay persons, an attorney is "a professional trained in the art of persuasion". As officers of the court, attorneys are "an intimate and trusted and essential part of the machinery of justice". In other words, they are perceived by the public to be in a position of knowledge, and therefore, "a crucial source of information and opinion". This weighty responsibility is reflected in the "ultimate purpose of disciplinary proceedings [which] is to protect the public in its reliance upon the integrity and responsibility of the legal profession". While there are limits on the extent to which a lawyer's right of free speech may be circumscribed, these limits are not implicated by the circumstances of the knowing misconduct that this Court relies upon in granting interim suspension in this case.
 
@@ -38,7 +37,7 @@ Respondent also raises lack or absence of knowledge as a general defense, statin
 
 On this motion, whenever the AGC has sustained its burden of proving that respondent made knowing false and misleading factual statements to support his claim that the presidential election was stolen from his client, respondent must then demonstrate that there is some legitimate dispute about whether the statement is false or whether the statement was made by him without knowledge it was false. Conclusory or vague arguments will not create a controverted issue as to whether there has been misconduct. Consequently, once the AGC has established its prima facie case, respondent's references to affidavits he has not provided, or sources of information he has not disclosed or other nebulous unspecified information, will not prevent the Court from concluding that misconduct has occurred. Respondent cannot create a controverted issue of misconduct based upon what he does not submit to this Court. Nor will offers to provide information at a later time, or only if the Court requests it, suffice.
 
-## Instances of Attorney Misconduct
+# Instances of Attorney Misconduct
 
 In making this motion, the AGC primarily relies on claims that respondent made false and misleading factual statements to cast doubt on the reliability of the results of the 2020 presidential election, in which Joseph R. Biden was constitutionally certified and then inaugurated as the 46th President of the United States. We find that the following false statements made by respondent constitute uncontroverted proof of respondent's professional misconduct.
 
@@ -142,7 +141,7 @@ Respondent argues that he reasonably relied on Arizona State Senator Kelly Towns
 
 We recognize that the AGC has identified other instances of respondent's misconduct. We make no substantive decision on those additional claims at this time because the record is insufficiently developed on those claims in this motion for interim relief. The additional claims may be part of any formal charges that the AGC will interpose in the full disciplinary proceeding that will follow this interim suspension. We find, nonetheless, that the incidents we have identified in this decision satisfy the requirement of uncontroverted misconduct required for an interim suspension.
 
-## Immediate Threat to the Public Interest
+# Immediate Threat to the Public Interest
 
 Uncontroverted claims of misconduct alone will not provide a basis for interim suspension, unless there is a concomitant showing of an immediate threat to the public interest. We recognize that this case presents unique circumstances. Nonetheless, there are certain factors we generally consider in connection with whether an immediate threat of harm to the public has been established.
 

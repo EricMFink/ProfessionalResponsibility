@@ -3,9 +3,9 @@ layout: case
  
 title: 'Makins v. District of Columbia'
 cite: '861 A. 2d 590 (D.C. 2004)'
+judge: 'Nebeker, Senior Judge'
     
 ---
-
 
 The United States Court of Appeals for the District of Columbia Circuit has certified the following question to this court: 
 

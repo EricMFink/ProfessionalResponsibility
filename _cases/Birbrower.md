@@ -3,13 +3,11 @@ layout: case
 
 title: 'Birbrower, Montalbano, Condon & Frank v. Superior Court'
 cite: '17 Cal. 4th 119 (Cal. 1998)'
+judge: 'Chin, J.'
 
 ---
 
-
 # OPINION
-
-# CHIN, J.
 
 Business and Professions Code section 6125 states: "No person shall practice law in California unless the person is an active member of the State Bar." We must decide whether an out-of-state law firm, not licensed to practice law in this state, violated section 6125 when it performed legal services in California for a California-based client under a fee agreement stipulating that California law would govern all matters in the representation.
 

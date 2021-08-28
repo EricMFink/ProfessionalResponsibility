@@ -3,6 +3,7 @@ layout: case
  
 title: 'Demov, Morris, Levine & Shein v. Glantz'
 cite: '53 N.Y.2d 553 (N.Y. 1981)'
+judge: 'Wachtler, J.'
     
 ---
 

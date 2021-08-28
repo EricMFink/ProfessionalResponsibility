@@ -3,12 +3,11 @@ layout: case
  
 title: 'Ferranti International PLC v. Clark'
 cite: '767 F.Supp. 670 (E.D. Pa. 1991)'
+judge: 'Ludwig, District Judge'
     
 ---
 
 # MEMORANDUM
-
-**LUDWIG, District Judge.**
 
 Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 

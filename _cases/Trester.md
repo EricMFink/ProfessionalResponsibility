@@ -3,16 +3,15 @@ layout: case
 
 title: 'In re Trester'
 cite: '172 P. 3d 31 (Kan. 2007)'
+judge: 'Per Curiam'
 
 ---
-
-# PER CURIAM
 
 This is an original proceeding in discipline filed by the Disciplinary Administrator against respondent, Irwin S. Trester, an attorney admitted to the practice of law in Kansas in 1968. A hearing panel of the Kansas Board for the Discipline of Attorneys conducted a formal hearing, as required by Kansas Supreme Court Rule 211.
 
 The hearing panel concluded that Trester violated Kansas Rules of Professional Conduct (KRPC) as follows: KRPC 5.5(a) (unauthorized practice of law); KRPC 8.4(b) and (c) (misconduct). Additionally, Trester was held to have violated Kansas Supreme Court Rule 202 (grounds for discipline). The hearing panel unanimously recommended that Trester be indefinitely suspended from the practice of law in the state of Kansas.
 
-## Hearing Panel's Findings of Fact
+# Hearing Panel's Findings of Fact
 
 This action arose out of Trester's practice of law in the state of California where he does not have a license. Despite his admission to the Kansas Bar, Trester never practiced law in the state of Kansas and returned to California and took the California Bar examination on four occasions. Trester never passed the California Bar examination but was not dissuaded and, for nearly 40 years, practiced law in California. His office was advertised as "Law Offices of Irwin Trester." Much of his work was limited to the federal practice in the areas of immigration and labor law. Trester testified before the hearing panel that he was merely required to have a license to practice in some state, not necessarily in the same state where his office was located.
 
@@ -20,7 +19,7 @@ Friedman Bag Company (Friedman), a California company, retained Trester to repre
 
 In 2005, California prosecutors charged Trester with seven counts of grand theft, one count of possession of an assault weapon, and one count of unauthorized practice of law. The basis for the theft charges was Trester's acceptance of retainers without a license to practice law in the state of California. Trester subsequently entered a plea of no contest to three charges of felony theft and one charge of misdemeanor unauthorized practice of law. On October 26, 2005, the California court placed Trester on probation for 3 years and ordered him to perform 100 hours of community service, to pay restitution, and to refrain from practicing law in California. Then, in June 2006, the California court granted Trester's motion to reduce the felony convictions to misdemeanors under the California penal code.
 
-## Hearing Panel's Conclusions of Law
+# Hearing Panel's Conclusions of Law
 
 Based upon the findings of fact, the hearing panel made several conclusions of law. The hearing panel cited Supreme Court Rule 202, which describes the effect of a criminal conviction on a person licensed to practice law in Kansas: "A certificate of a conviction of an attorney for any crime ... shall be conclusive evidence of the commission of that crime ... in any disciplinary proceeding instituted against said attorney based upon the conviction." Based on this rule, the hearing panel concluded that Trester's three California theft convictions and one conviction of engaging in the unauthorized practice of law were conclusive evidence of his commission of those crimes.
 
@@ -68,13 +67,13 @@ The Deputy Disciplinary Administrator recommended Trester be indefinitely suspen
 
 Trester filed exceptions to the final hearing report. His only exception to the hearing panel's findings of fact concerned the subject matter of the Friedman case. Trester stated he was retained by Friedman to handle "labor relation matters." Trester also took exception to the hearing panel's conclusions of law regarding his violation of KRPC 8.4(c). He further took exception to some of the aggravating factors and the hearing panel's recommendation of discipline.
 
-## Analysis
+# Analysis
 
 In a disciplinary proceeding, this court considers the evidence, the findings of the hearing panel, and the arguments of the parties and determines whether violations of KRPC exist and, if they do, what discipline should be imposed. Attorney misconduct must be established by substantial, clear, convincing, and satisfactory evidence. 
 
 This court views the findings of fact, conclusions of law, and recommendations made by the hearing panel as advisory only, but we give the final hearing report the same dignity as a special verdict by a jury or the findings of a trial court. Therefore, the hearing panel's report will be adopted where amply sustained by the evidence, but not where it is against the clear weight of the evidence. When the panel's findings relate to matters about which there was conflicting testimony, this court recognizes that the panel, as the trier of fact, had the opportunity to observe the witnesses and evaluate their demeanor. We do not reweigh the evidence or assess the credibility of witnesses. Rather, this court examines any disputed findings of fact and determines whether clear and convincing evidence supports the panel's findings. If so, the findings will stand. Moreover, it is not necessary to restate the entire record to show substantial competent evidence to support the hearing panel's findings.
 
-### I. Violation of KRPC 8.4(c)
+## I. Violation of KRPC 8.4(c)
 
 First, Trester argues that clear and convincing evidence does not support the hearing panel's finding that he violated KRPC 8.4(c). KRPC 8.4(c) provides that "[i]t is professional misconduct for a lawyer to ... engage in conduct involving dishonesty, fraud, deceit, or misrepresentation." Trester urges this court to reject the hearing panel's conclusion that he engaged in dishonest conduct when he held himself out as an attorney in California.
 
@@ -100,13 +99,13 @@ Recently, in _In re Pyle_, this court acknowledged the fact that, in fewer than 
 
 Clear and convincing evidence supports the panel's finding that Trester violated KRPC 8.4(c).
 
-### II. Aggravating Factors
+## II. Aggravating Factors
 
 Next, Trester argues clear and convincing evidence does not support the hearing panel's findings regarding three of the six aggravating factors in the final hearing report.
 
 At the outset, we note that neither this court nor the hearing panel is required, in an attorney disciplinary proceeding, to cite and discuss every potentially applicable ABA Standard. The ABA Standards serve only as guidelines to assist courts in selecting appropriate and uniform discipline, depending upon the facts and the aggravating and mitigating factors present in each case. 
 
-_Dishonest or Selfish Motive_
+### Dishonest or Selfish Motive
 
 First, Trester contends the hearing panel incorrectly found his misconduct was motivated by dishonesty and selfishness. The panel stated: "Theft is a crime of dishonesty. Misleading a client into believing that you possess a license to practice law in California is also dishonest." Again, Trester argues that he held himself out as an attorney based on a good faith belief that he was allowed to do so for the "limited purpose of providing labor and immigration services."
 
@@ -114,7 +113,7 @@ This court has stated that theft is a crime of dishonesty. Further, Trester misl
 
 Clear and convincing evidence supports the panel's finding that Trester's conduct was motivated by dishonesty and selfishness.
 
-_Refusal to Acknowledge Wrongful Nature of Conduct_
+### Refusal to Acknowledge Wrongful Nature of Conduct
 
 Second, Trester contends the hearing panel incorrectly found that he refused to acknowledge the wrongful nature of his conduct. Trester points out that, as a mitigating factor, the panel found he showed a cooperative attitude. The panel stated: "The Respondent fully cooperated in the disciplinary process as exhibited by his complete acknowledgment of the misconduct."
 
@@ -122,13 +121,13 @@ In his brief, Trester admits he was wrong to hold himself out as an attorney whe
 
 Clear and convincing evidence supports the panel's finding that Trester refused to acknowledge the wrongful nature of his conduct.
 
-_Illegal Conduct, Including that Involving the Use of Controlled Substances_
+### Illegal Conduct, Including that Involving the Use of Controlled Substances
 
 Third, Trester contends the hearing panel incorrectly found that he engaged in illegal conduct which included the use of controlled substances. The panel stated: "The Respondent engaged in illegal conduct, and, as a result, was convicted of three counts of theft and one count of engaging in the unauthorized practice of law." Although the use of controlled substances was included in the caption, the panel never made a finding of drug use, nor were drugs ever mentioned in the formal complaint or at the hearing. Moreover, the petitioner acknowledges in its brief that the hearing panel made no finding concerning the use of controlled substances. At oral argument, it was clarified that the heading was simply a statement of the ABA factor: "Illegal conduct, including that involving the use of controlled substances."
 
 Trester is correct that there is no evidence of drug use in this case. Clear and convincing evidence supports the panel's finding only that Trester engaged in illegal conduct which resulted in convictions of three counts of theft and one count of engaging in the unauthorized practice of law.
 
-### III. Recommendation of Indefinite Suspension
+## III. Recommendation of Indefinite Suspension
 
 Trester contends the hearing panel's recommendation of indefinite suspension from the practice of law is too harsh. He argues that public censure would be an appropriate sanction for his misconduct.
 

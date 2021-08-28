@@ -1,8 +1,9 @@
 ---
 layout: case
  
-title: 'Niesig v. Team'
+title: 'Niesig v. Team I'
 cite: '76 N.Y.2d 363 (N.Y. 1990)'
+judge: 'Kaye, J.'
     
 ---
 

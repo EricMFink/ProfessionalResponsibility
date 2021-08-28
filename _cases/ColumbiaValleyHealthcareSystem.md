@@ -3,16 +3,15 @@ layout: case
 
 title: 'In re Columbia Valley Healthcare System, L.P.'
 cite: '320 S.W.3d 819 (Tex. 2010)'
+judge: 'Justice MEDINA delivered the opinion of the Court.'
 
 ---
-
-# Justice MEDINA delivered the opinion of the Court.
 
 In this original mandamus proceeding, we must determine whether a law firm should be disqualified from the underlying suit on the basis of a legal assistant's work on the matter after previously having worked on the same matter while employed by opposing counsel. We have previously held that a firm can usually avoid disqualification when hiring an assistant who previously worked on a matter for opposing counsel if the firm (1) instructs the assistant not to work on the matter, and (2) takes other reasonable steps to shield the assistant from working in connection with the matter. We have not, however, set forth the types of "other reasonable steps" that are required, nor have we addressed whether disqualification is required when an assistant actually works on the matter for the second firm.
 
 Because the legal assistant's employer did not take effective reasonable steps to shield the assistant from working on the case, and the assistant actually worked on the case at her employer's directive, we hold that disqualification is required and direct the trial court to grant the defendant's motion to disqualify and recuse plaintiffs' counsel.
 
-## I
+# I
 
 In the underlying case, the plaintiffs, Yvonne and Alberto Leal ("the Leals"), brought a medical malpractice suit against Columbia Valley Healthcare System, L.P., doing business under the name Valley Regional Medical Center ("Valley Regional"). Valley Regional filed a motion to disqualify the Leal's counsel, Magallanes & Hinojosa, P.C., because of its employment of legal assistant Margarita Rodriguez.
 
@@ -30,7 +29,7 @@ Valley Regional now petitions this Court for mandamus relief, urging that the tr
 
 Magallanes & Hinojosa counters that (1) its screening measures were sufficient, and (2) the confidentiality agreement Rodriguez signed before leaving Brin & Brin adds an additional layer of protection against the sharing of confidential information. Magallanes & Hinojosa further suggests that Magallanes' limited participation in the Leal matter, and Rodriguez's minimal work on the case at Magallanes & Hinojosa, renders Rodriguez's actual contact with the Leal file de minimis.
 
-## II
+# II
 
 An attorney who has previously represented a client may not represent another person in a matter adverse to the former client if the matters are the same or substantially related. If the lawyer works on a matter, there is an irrebuttable presumption that the lawyer obtained confidential information during representation. When the lawyer moves to another firm and the second firm is representing an opposing party in ongoing litigation, a second irrebuttable presumption arises; it is presumed that the lawyer will share the confidences with members of the second firm, requiring imputed disqualification of the firm.
 
@@ -42,7 +41,7 @@ To determine whether the screening used by a firm is effective, we have said tha
 
 Here, there is no dispute that Magallanes & Hinojosa instructed Rodriguez not to perform work on any matter on which she worked during her former employment, including the Leal case. Thus, Magallanes & Hinojosa satisfied the first prong in our disqualification analysis since it gave this instruction. Instead, the parties dispute whether Magallanes & Hinojosa took "other reasonable steps" to ensure Rodriguez did not work on the Leal case. Because we have not previously determined the types of "reasonable steps" necessary to avoid disqualification, we today take the opportunity to clarify the measures a law firm or lawyer must take to effectively screen a nonlawyer employee from a matter.
 
-## III
+# III
 
 Disqualification of a party's counsel is a severe remedy,and there are many reasons against granting such a motion liberally, especially when a nonlawyer is the reason behind the motion to disqualify. We have stated that, as compared with lawyers, there is greater concern that the mobility of nonlawyers could be "unduly restricted." Other factors also arise, including the ability of a client to have the lawyer of its choice, concerns about the prejudice and economic harm that could result to a client when the disqualification of its counsel is ordered, and concerns about motions to disqualify being abused as a dilatory tactic. Further, a nonlawyer employee may not have the same financial interest in the results of a case, nor the same understanding of confidential information as a lawyer. It is because of these concerns that a hiring firm can present evidence to rebut a presumption that the nonlawyer has shared confidences with members of the firm.
 
@@ -66,16 +65,16 @@ We do not believe these requirements will prove unduly burdensome for lawyers an
 
 We finally note that these requirements apply only to nonlawyer employees who have access to material information relating to the representation of clients, as well as agents who technically may be independent contractors, such as investigators. 
 
-## IV
+# IV
 
 We agree with Valley Regional that Magallanes & Hinojosa failed to rebut the presumption of shared confidences since: (1) they did not effectively screen Rodriguez from the Leal matter; and (2) even if they had done so, Rodriguez actually worked on the Leal matter at Magallanes' directive when Magallanes knew of Rodriguez's previous work on the Leal matter. Magallanes instructed Rodriguez not to work on the Leal file, but did not take other institutional, formal measures to ensure Rodriguez did not work on the matter. For example, Magallanes & Hinojosa did not remove the file from Rodriguez's access or provide Rodriguez with any written policy about conflicts of interest, relying instead on oral instructions that proved ineffective. Indeed, Rodriguez apparently had ready access to the file and performed work on it even after the admonition.
 
 Finally, Magallanes asked Rodriguez to make copies for the Leal case on one occasion. Making copies is perhaps a simple, clerical matter, yet the message sent not only to Rodriguez but other employees at the firm was that Magallanes & Hinojosa was not serious about guarding against conflicts of interest.
 
-## V
+# V
 
 Magallanes & Hinojosa also contends that the confidentiality agreement Rodriguez signed on leaving Brin & Brin satisfies the additional reasonable measures needed to ensure confidentiality. We disagree. As we made clear in _Phoenix Founders_, it is incumbent on the hiring attorney to "take other reasonable steps to ensure that the [employee] does not work in connection with matters on which the [employee] worked during the prior employment, absent client consent." Because the confidentiality agreement was not a step taken by the hiring attorney, it is not relevant to the disqualification analysis. We refuse to shift the screening responsibility to the former client or its counsel. Instead, it is the responsibility of the hiring firm to take effective, formal, institutional measures to shield the employee from the litigation.
 
-## \* \* \*
+# \* \* \*
 
 Because the trial court abused its discretion in refusing to disqualify Magallanes & Hinojosa, we conditionally grant mandamus relief and direct the trial court to grant Valley Regional's motion to disqualify and recuse Magallanes & Hinojosa from the Leal matter. We are confident the court will comply, and the writ will issue only if it does not.

@@ -3,14 +3,13 @@ layout: case
  
 title: 'Bates v. State Bar of Arizona'
 cite: '433 U.S. 350 (1977)'
+judge: 'MR. JUSTICE BLACKMUN delivered the opinion of the Court.'
     
 ---
 
-# MR. JUSTICE BLACKMUN delivered the opinion of the Court.
-
 As part of its regulation of the Arizona Bar, the Supreme Court of that State has imposed and enforces a disciplinary rule that restricts advertising by attorneys. This case presents two issues: whether §§ 1 and 2 of the Sherman Act, 15 U. S. C. §§ 1 and 2, forbid such state regulation, and whether the operation of the rule violates the First Amendment, made applicable to the States through the Fourteenth.
 
-## I
+# I
 
 Appellants John R. Bates and Van O’Steen are attorneys licensed to practice law in the State of Arizona. As such, they are members of the appellee, the State Bar of Arizona. After admission to the bar in 1972, appellants worked as attorneys with the Maricopa County Legal Aid Society.
 
@@ -20,7 +19,7 @@ After conducting their practice in this manner for two years, appellants conclud
 
 Appellants concede that the advertisement constituted a clear violation of Disciplinary Rule 2-101(B). The disciplinary rule provides in part:
 
-> \(B\) A lawyer shall not publicize himself, or his partner, or associate, or any other lawyer affiliated with him or his firm, as a lawyer through newspaper or magazine advertisements, radio or television announcements, display advertisements in the city or telephone directories or other means of commercial publicity, nor shall he authorize or permit others to do so in his behalf.
+> (B) A lawyer shall not publicize himself, or his partner, or associate, or any other lawyer affiliated with him or his firm, as a lawyer through newspaper or magazine advertisements, radio or television announcements, display advertisements in the city or telephone directories or other means of commercial publicity, nor shall he authorize or permit others to do so in his behalf.
 
 Upon the filing of a complaint initiated by the president of the State Bar, a hearing was held before a three member Special Local Administrative Committee. Although the committee took the position that it could not consider an attack on the validity of the rule, it allowed the parties to develop a record on which such a challenge could be based. The committee recommended that each of the appellants be suspended from the practice of law for not less than six months. Upon further review by the Board of Governors of the State Bar, the Board recommended only a one-week suspension for each appellant, the weeks to run consecutively.
 
@@ -36,9 +35,9 @@ Although the dissenter acknowledged that some types of advertising might cause c
 
 [ * * * ]
 
-## III The First Amendment
+# III The First Amendment
 
-### B
+## B
 
 The issue presently before us is a narrow one. First, we need not address the peculiar problems associated with advertising claims relating to the quality of legal services. Such claims probably are not susceptible of precise measurement or verification and, under some circumstances, might well be deceptive or misleading to the public, or even false. Appellee does not suggest, nor do we perceive, that appellants’ advertisement contained claims, extravagant or otherwise, as to the quality of services. Accordingly, we leave that issue for another day. Second, we also need not resolve the problems associated with in-person solicitation of clients—at the hospital room or the accident site, or in any other situation that breeds undue influence—by attorneys or their agents or "runners." Activity of that kind might well pose dangers of overreaching and misrepresentation not encountered in newspaper announcement advertising. Hence, this issue also is not before us. Third, we note that appellee’s criticism of advertising by attorneys does not apply with much force to some of the basic factual content of advertising: information as to the attorney’s name, address, and telephone number, office hours, and the like. The American Bar Association itself has a provision in its current Code of Professional Responsibility that would allow the disclosure of such information, and more, in the classified section of the telephone directory. We recognize, however, that an advertising diet limited to such spartan fare would provide scant nourishment.
 
@@ -80,7 +79,7 @@ It is at least somewhat incongruous for the opponents of advertising to extol th
 
 In sum, we are not persuaded that any of the proffered justifications rise to the level of an acceptable reason for the suppression of all advertising by attorneys.
 
-## IV
+# IV
 
 In holding that advertising by attorneys may not be subjected to blanket suppression, and that the advertisement at issue is protected, we, of course, do not hold that advertising by attorneys may not be regulated in any way. We mention some of the clearly permissible limitations on advertising not foreclosed by our holding.
 
@@ -88,13 +87,15 @@ Advertising that is false, deceptive, or misleading of course is subject to rest
 
 The constitutional issue in this case is only whether the State may prevent the publication in a newspaper of appellants’ truthful advertisement concerning the availability and terms of routine legal services. We rule simply that the flow of such information may not be restrained, and we therefore hold the present application of the disciplinary rule against appellants to be violative of the First Amendment.
 
+--- 
+
 # MR. JUSTICE POWELL, with whom MR. JUSTICE STEWART joins, concurring in part and dissenting in part.
 
 I cannot join the Court’s holding that under the First Amendment "truthful" newspaper advertising of a lawyer’s prices for "routine legal services" may not be restrained. Although the Court appears to note some reservations, it is clear that within undefined limits today’s decision will effect profound changes in the practice of law, viewed for centuries as a learned profession. The supervisory power of the courts over members of the bar, as officers of the courts, and the authority of the respective States to oversee the regulation of the profession have been weakened. Although the Court's opinion professes to be framed narrowly, and its reach is subject to future clarification, the holding is explicit and expansive with respect to the advertising of undefined "routine legal services." In my view, this result is neither required by the First Amendment, nor in the public interest.
 
-## I
+# I
 
-### A
+## A
 
 It has long been thought that price advertising of legal services inevitably will be misleading because such services are individualized with respect to content and quality and because the lay consumer of legal services usually does not know in advance the precise nature and scope of the services he requires. Although the Court finds some force in this reasoning and recognizes that "many services performed by attorneys are indeed unique," its first answer is the optimistic expression of hope that few lawyers "would or could advertise fixed prices for services of that type." But the Court's basic response in view of the acknowledged potential for deceptive advertising of "unique" services is to divide the immense range of the professional product of lawyers into two categories: "unique" and "routine." The only insight afforded by the opinion as to how one draws this line is the finding that services similar to those in appellants’ advertisement are routine: "the uncontested divorce, the simple adoption, the uncontested personal bankruptcy, the change of name, and the like." What the phrase "the like" embraces is not indicated. But the advertising of such services must, in the Court's words, flow "both freely and cleanly."
 
@@ -104,7 +105,7 @@ This definitional problem is well illustrated by appellants’ advertised willin
 
 The advertising of specified services at a fixed price is not the only infirmity of the advertisement at issue. Appellants also assert that these services are offered at "very reasonable fees." That Court finds this to be an accurate statement since the advertised fee fell at the lower end of the range of customary charges. But the fee customarily charged in the locality for similar services has never been considered the sole determinant of the reasonableness of a fee. This is because reasonableness reflects both the quantity and quality of the service. A $195 fee may be reasonable for one divorce and unreasonable for another; and a $195 fee may be reasonable when charged by an experienced divorce lawyer and unreasonable when charged by a recent law school graduate. For reasons that are not readily apparent, the Court today discards the more discriminating approach which the profession long has used to judge the reasonableness of a fee, and substitutes an approach based on market averages. Whether a fee is "very reasonable" is a matter of opinion, and not a matter of verifiable fact as the Court suggests. One unfortunate result of today’s decision is that lawyers may feel free to use a wide variety of adjectives—such as "fair," "moderate," "low-cost," or "lowest in town"—to describe the bargain they offer to the public.
 
-### B
+## B
 
 Even if one were to accept the view that some legal services are sufficiently routine to minimize the possibility of deception, there nonetheless remains a serious enforcement problem. The Court does recognize some problems. It notes that misstatements that may be immaterial in "other advertising may be found quite inappropriate in legal advertising" precisely because "the public lacks sophistication concerning legal services." It also recognizes that "advertising claims as to the quality of services are not susceptible of measurement or verification" and therefore "may be so likely to be misleading as to warrant restriction." After recognizing that problems remain in defining the boundary between deceptive and nondeceptive advertising, the Court then observes that the bar may be expected to have "a special role to play in assuring that advertising by attorneys flows both freely and cleanly."
 
@@ -112,7 +113,7 @@ The Court seriously understates the difficulties, and overestimates the capabili
 
 The Court’s almost casual assumption that its authorization of price advertising can be policed effectively by the bar reflects a striking underappreciation of the nature and magnitude of the disciplinary problem. The very reasons that tend to make price advertising of services inherently deceptive make its policing wholly impractical. With respect to commercial advertising, MR. JUSTICE STEWART, concurring in _Virginia Pharmacy_, noted that since "the factual claims contained in commercial price or product advertisements relate to tangible goods or services, they may be tested empirically and corrected to reflect the truth." But there simply is no way to test "empirically" the claims made in appellants’ advertisement of legal services. There are serious difficulties in determining whether the advertised services fall within the Court's undefined category of "routine services"; whether they are described accurately and understandably; and whether appellants' claim as to reasonableness of the fees is accurate. These are not factual questions for which there are "truthful" answers; in most instances, the answers would turn on relatively subjective judgments as to which there could be wide differences of opinion. These difficulties with appellants’ advertisement will inhere in any comparable price advertisement of specific legal services. Even if public agencies were established to oversee professional price advertising, adequate protection of the public from deception, and of ethical lawyers from unfair competition, could prove to be a wholly intractable problem.
 
-## II
+# II
 
 The Court emphasizes the need for information that will assist persons desiring legal services to choose lawyers. Under our economic system, advertising is the most commonly used and useful means of providing information as to goods and other services, but it generally has not been used with respect to legal and certain other professional services. Until today, controlling weight has been given to the danger that general advertising of such services too often would tend to mislead rather than inform. Moreover, there has been the further concern that the characteristics of the legal profession thought beneficial to society—a code of professional ethics, an imbued sense of professional and public responsibility, a tradition of self-discipline, and duties as officers of the courts—would suffer if the restraints on advertising were significantly diluted.
 
@@ -120,7 +121,7 @@ Pressures toward some relaxation of the proscription against general advertising
 
 The Court observes, and I agree, that there is nothing inherently misleading in the advertisement of the cost of an initial consultation. Indeed, I would not limit the fee information to the initial conference. Although the skill and experience of lawyers vary so widely as to negate any equivalence between hours of service by different lawyers, variations in quality of service by duly licensed lawyers are inevitable. Lawyers operate, at least for the purpose of internal control and accounting, on the basis of specified hourly rates, and upon request—or in an appropriate case—most lawyers are willing to undertake employment at such rates. The advertisement of these rates, in an appropriate medium, duly designated, would not necessarily be misleading if this fee information also made clear that the total charge for the representation would depend on the number of hours devoted to the client’s problem—a variable difficult to predict. Where the price content of the advertisement is limited to the finite item of rate per hour devoted to the client’s problem, the likelihood of deceiving or misleading is considerably less than when specific services are advertised at a fixed price.
 
-### III
+## III
 
 Although I disagree strongly with the Court’s holding as to price advertisements of undefined—and I believe undefinable—routine legal services, there are reservations in its opinion worthy of emphasis since they may serve to narrow its ultimate reach. First, the Court notes that it has not addressed "the peculiar problems associated with advertising claims relating to the quality of legal services." There are inherent questions of quality in almost any type of price advertising by lawyers, and I do not view appellants’ advertisement as entirely free from quality implications. Nevertheless the Court's reservation in this respect could be a limiting factor.
 
@@ -128,11 +129,13 @@ Second, the Court notes that there may be reasonable restrictions on the time, p
 
 Finally, the Court’s opinion does not "foreclose the possibility that some limited supplementation, by way of warning or disclaimer or the like, might be required of even an advertisement of the kind ruled upon today so as to assure that the consumer is not misled." I view this as at least some recognition of the potential for deception inherent in fixed-price advertising of specific legal services. This recognition, though ambiguous in light of other statements in the opinion, may be viewed as encouragement to those who believe—as I do—that if we are to have price advertisement of legal services, the public interest will require the most particularized regulation.
 
-### IV
+## IV
 
 The area into which the Court now ventures has, until today, largely been left to self-regulation by the profession within the framework of canons or standards of conduct prescribed by the respective States and enforced where necessary by the courts. The problem of bringing clients and lawyers together on a mutually fair basis, consistent with the public interest, is as old as the profession itself. It is one of considerable complexity, especially in view of the constantly evolving nature of the need for legal services. The problem has not been resolved with complete satisfaction despite diligent and thoughtful efforts by the organized bar and others over a period of many years, and there is no reason to believe that today’s best answers will be responsive to future needs.
 
 I am apprehensive, despite the Court’s expressed intent to proceed cautiously, that today’s holding will be viewed by tens of thousands of lawyers as an invitation—by the public-spirited and the selfish lawyers alike—to engage in competitive advertising on an escalating basis. Some lawyers may gain temporary advantages; others will suffer from the economic power of stronger lawyers, or by the subtle deceit of less scrupulous lawyers. Some members of the public may benefit marginally, but the risk is that many others will be victimized by simplistic price advertising of professional services "almost infinite in variety and nature." Until today, in the long history of the legal profession, it was not thought that this risk of public deception was required by the marginal First Amendment interests asserted by the Court.
+
+--- 
 
 # MR. JUSTICE REHNQUIST, dissenting in part.
 

@@ -3,6 +3,7 @@ layout: case
  
 title: 'Clark Capital Management Group, Inc, v. Annuity Investors Life Ins. Co.'
 cite: '149 F.Supp.2d 193 (E.D. Pa. 2001)'
+judge: 'Anita Brody, District Judge'
     
 ---
 

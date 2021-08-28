@@ -3,14 +3,13 @@ layout: case
 
 title: 'In re Riehlmann'
 cite: '891 So.2d 1239 (La. 2005)'
+judge: 'Per Curiam'
 
 ---
 
-# PER CURIAM
-
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 
-## Underlying Facts
+# Underlying Facts
 
 Respondent is a criminal defense attorney who was formerly employed as an Assistant District Attorney in the Orleans Parish District Attorney's Office. One evening in April 1994, respondent met his close friend and law school classmate, Gerry Deegan, at a bar near the Orleans Parish Criminal District Court. Like respondent, Mr. Deegan had been a prosecutor in the Orleans Parish District Attorney's Office before he "switched sides" in 1987. During their conversation in the bar, Mr. Deegan told respondent that he had that day learned he was dying of colon cancer. In the same conversation, Mr. Deegan confided to respondent that he had suppressed exculpatory blood evidence in a criminal case he prosecuted while at the District Attorney's Office. Respondent recalls that he was "surprised" and "shocked" by his friend's revelation, and that he urged Mr. Deegan to "remedy" the situation. It is undisputed that respondent did not report Mr. Deegan's disclosure to anyone at the time it was made. Mr. Deegan died in July 1994, having done nothing to "remedy" the situation of which he had spoken in the bar.
 
@@ -22,19 +21,19 @@ On September 30, 1999, respondent gave a sworn statement to the ODC in which he 
 
 > I think that under ordinary circumstances, I would have. I really honestly think I'm a very good person. And I think I do the right thing whenever I'm given the opportunity to choose. This was unquestionably the most difficult time of my life. Gerry, who was like a brother to me, was dying. And that was, to say distracting would be quite an understatement. I'd also left my wife just a few months before, with three kids, and was under the care of a psychiatrist, taking antidepressants. My youngest son was then about two and had just recently undergone open-heart surgery. I had a lot on my plate at the time. A great deal of it of my own making; there's no question about it. But, nonetheless, I was very, very distracted, and I simply did not give it the important consideration that it deserved. But it was a very trying time for me. And that's the only explanation I have, because, otherwise, I would have reported it immediately had I been in a better frame of mind.
 
-## Disciplinary Proceedings 
+# Disciplinary Proceedings 
 
-### Formal Charges
+## Formal Charges
 
 On January 4, 2001, the ODC filed one count of formal charges against respondent, alleging that his failure to report his unprivileged knowledge of Mr. Deegan's prosecutorial misconduct violated Rules 8.3(a) (reporting professional misconduct), 8.4(c) (engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 8.4(d) (engaging in conduct prejudicial to the administration of justice) of the Rules of Professional Conduct. The ODC subsequently amended the formal charges to delete the alleged violation of Rule 8.4(c).
 
 On March 5, 2002, respondent answered the amended formal charges and admitted some of the factual allegations therein, but denied that his conduct violated the Rules of Professional Conduct. Specifically, respondent asserted that Rule 8.3(a) "merely requires that an attorney possessing unprivileged knowledge of a violation of this Code shall report such knowledge to the authority empowered to investigate such acts. It is undisputed that respondent did report his knowledge of Deegan's statements to Thompson's attorneys, with the clear understanding that this information would be reported to the District Attorney and the Court, undeniably authorities empowered to investigate Deegan's conduct."
 
-### Formal Hearing
+## Formal Hearing
 
 When this matter proceeded to a formal hearing before the committee, respondent testified that his best recollection of his conversation with Mr. Deegan in 1994 "is that he told me that he did not turn over evidence to his opponents that might have exculpated the defendant." Nevertheless, when asked whether he recognized during the barroom conversation that Mr. Deegan had violated his ethical duties, respondent replied, "Well, certainly." Respondent admitted that he gave the conversation no further thought after he left the bar because he was "distracted" by his own personal problems.
 
-### Hearing Committee Recommendation
+## Hearing Committee Recommendation
 
 In its report filed with the disciplinary board, the hearing committee concluded that respondent did not violate Rule 8.3(a), but that he should be publicly reprimanded for his violation of Rule 8.4(d).
 
@@ -50,7 +49,7 @@ In light of the mitigating factors present, and finding that a suspension would 
 
 Both respondent and the ODC filed objections to the hearing committee's recommendation.
 
-### Disciplinary Board Recommendation
+## Disciplinary Board Recommendation
 
 The disciplinary board adopted the hearing committee's factual findings but rejected its application of Rule 8.3(a) of the Rules of Professional Conduct. The board determined that a finding of a violation of Rule 8.3(a) requires clear and convincing evidence that an attorney (1) possessed unprivileged knowledge of an ethical violation and (2) failed to report such knowledge to a tribunal or other authority empowered to investigate or act upon such violation. Concerning the knowledge requirement, the board considered various legal authorities interpreting both Louisiana Rule 8.3(a) and Model Rule 8.3(a), and determined that a lawyer's duty to report professional misconduct is triggered when, under the circumstances, a reasonable lawyer would have "a firm opinion that the conduct in question more likely than not occurred." The board explained that the requisite knowledge under Rule 8.3(a) is "more than a mere suspicion, but less than absolute or moral certainty."
 
@@ -72,7 +71,7 @@ The board adopted the aggravating and mitigating factors cited by the hearing co
 
 Both respondent and the ODC filed objections to the disciplinary board's recommendation. 
 
-## Discussion
+# Discussion
 
 In this matter we are presented for the first time with an opportunity to delineate the scope of an attorney's duty under Rule 8.3 to report the professional misconduct of a fellow member of the bar. Therefore, we begin our discussion with a few observations relating to the rule and its history.
 
@@ -86,19 +85,19 @@ We now turn to a more in-depth examination of the reporting requirement in Louis
 
 Thus, the rule has three distinct requirements: (1) the lawyer must possess unprivileged knowledge of a violation of the Rules of Professional Conduct; (2) the lawyer must report that knowledge; and (3) the report must be made to a tribunal or other authority empowered to investigate or act on the violation. We will discuss each requirement in turn.
 
-### Knowledge
+## Knowledge
 
 In its recommendation in this case, the disciplinary board did excellent work in collecting and analyzing the cases and legal commentary interpreting the knowledge requirement of Rule 8.3(a). We need not repeat that analysis here. Considering those authorities, it is clear that absolute certainty of ethical misconduct is not required before the reporting requirement is triggered. The lawyer is not required to conduct an investigation and make a definitive decision that a violation has occurred before reporting; that responsibility belongs to the disciplinary system and this court. On the other hand, knowledge requires more than a mere suspicion of ethical misconduct. We hold that a lawyer will be found to have knowledge of reportable misconduct, and thus reporting is required, where the supporting evidence is such that a reasonable lawyer under the circumstances would form a firm belief that the conduct in question had more likely than not occurred. As such, knowledge is measured by an objective standard that is not tied to the subjective beliefs of the lawyer in question.
 
-### When to Report
+## When to Report
 
 Once the lawyer decides that a reportable offense has likely occurred, reporting should be made promptly. The need for prompt reporting flows from the need to safeguard the public and the profession against future wrongdoing by the offending lawyer. This purpose is not served unless Rule 8.3(a) is read to require timely reporting under the circumstances presented.
 
-### Appropriate Authority
+## Appropriate Authority
 
 Louisiana Rule 8.3(a) requires that the report be made to "a tribunal or other authority empowered to investigate or act upon such violation." The term "tribunal or other authority" is not specifically defined. However, as the comments to Model Rule 8.3(a) explain, the report generally should be made to the bar disciplinary authority. Therefore, a report of misconduct by a lawyer admitted to practice in Louisiana must be made to the Office of Disciplinary Counsel.
 
-## Determination of Respondent's Misconduct and Appropriate Discipline
+# Determination of Respondent's Misconduct and Appropriate Discipline
 
 Applying the principles set forth above to the conduct of respondent in the instant case, we find the ODC proved by clear and convincing evidence that respondent violated Rule 8.3(a). First, we find that respondent should have known that a reportable event occurred at the time of his 1994 barroom conversation with Mr. Deegan. Stated another way, respondent's conversation with Mr. Deegan at that time gave him sufficient information that a reasonable lawyer under the circumstances would have formed a firm opinion that the conduct in question more likely than not occurred. Regardless of the actual words Mr. Deegan said that night, and whether they were or were not "equivocal," respondent understood from the conversation that Mr. Deegan had done something wrong. Respondent admitted as much in his affidavit, during the hearing on the motion for new trial in the criminal case, during his sworn statement to the ODC, and during his testimony at the formal hearing. Indeed, during the sworn statement respondent conceded that he would have reported the matter "immediately" were it not for the personal problems he was then experiencing. Respondent also testified that he was surprised and shocked by his friend's revelation, and that he told him to remedy the situation. There would have been no reason for respondent to react in the manner he did had he not formed a firm opinion that the conduct in question more likely than not occurred. The circumstances under which the conversation took place lend further support to this finding. On the same day that he learned he was dying of cancer, Mr. Deegan felt compelled to tell his best friend about something he had done in a trial that took place nine years earlier. It simply defies logic that respondent would now argue that he could not be sure that Mr. Deegan actually withheld Brady evidence because his statements were vague and non-specific.
 
@@ -114,10 +113,10 @@ The only aggravating factor present in this case is respondent's substantial exp
 
 Accordingly, we will reprimand respondent for his actions.
 
-## Conclusion
+# Conclusion
 
 Reporting another lawyer's misconduct to disciplinary authorities is an important duty of every lawyer. Lawyers are in the best position to observe professional misconduct and to assist the profession in sanctioning it. While a Louisiana lawyer is subject to discipline for not reporting misconduct, it is our hope that lawyers will comply with their reporting obligation primarily because they are ethical people who want to serve their clients and the public well. Moreover, the lawyer's duty to report professional misconduct is the foundation for the claim that we can be trusted to regulate ourselves as a profession. If we fail in our duty, we forfeit that trust and have no right to enjoy the privilege of self-regulation or the confidence and respect of the public.
 
-## Decree
+# Decree
 
 Upon review of the findings and recommendations of the hearing committee and disciplinary board, and considering the record, briefs, and oral argument, it is ordered that Michael G. Riehlmann, Louisiana Bar Roll number 2072, be publicly reprimanded. 

@@ -3,6 +3,7 @@ layout: case
  
 title: 'Matter of Silva'
 cite: '636 A.2d 316 (R.I. 1994)'
+judge: 'Per Curiam'
     
 ---
 
