@@ -3,7 +3,7 @@ layout: case
  
 title: 'Matter of Fordham'
 cite: '423 Mass. 481 (Mass. 1996)'
-judge: 'O'Connor J.'
+judge: "O'Connor J."
     
 ---
 
