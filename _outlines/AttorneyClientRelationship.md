@@ -143,7 +143,7 @@ C. No, because a client’s failure to pay fees when due may be insufficient in 
 
 D. No, unless clients are provided an opportunity to seek independent legal advice before signing the stipulation.
 
-Client has retained Attorney to represent Client in a contract suit. Attorney’s retainer agreement provided that Attorney’s fees would be based on a fixed hourly rate, payable at the end of each calendar month. Two months before trial, Client fell behind in the payment of Attorney’s monthly billing for fees. Attorney included the following statement on Attorney’s last bill to Client: “Your account is more than thirty days past due. If amounts due are not paid promptly in accordance with our agreement, I will terminate the representation. If you cannot pay the amount due, I will accept an assignment of your cause of action as security for your fee to me.” Two weeks after the last billing, Attorney telephoned Client and told Client that Attorney would withdraw from representing Client if the bill was not paid within forty-eight hours or adequate security given for its payment. Forty-eight hours later, the client has neither paid the bill nor given security. 
+Client has retained Attorney to represent Client in a contract suit. Attorney’s retainer agreement provided that Attorney’s fees would be based on a fixed hourly rate, payable at the end of each calendar month. Two months before trial, Client fell behind in the payment of Attorney’s monthly billing for fees. Attorney included the following statement on Attorney’s last bill to Client: “Your account is more than thirty days past due. If amounts due are not paid promptly in accordance with our agreement, I will terminate the representation. If you cannot pay the amount due, I will accept an assignment of your cause of action as security for your fee to me." Two weeks after the last billing, Attorney telephoned Client and told Client that Attorney would withdraw from representing Client if the bill was not paid within forty-eight hours or adequate security given for its payment. Forty-eight hours later, the client has neither paid the bill nor given security. 
 
 - May Attorney move the court for permission to withdraw?
 - May Attorney turn Client’s file over to another experienced lawyer in town and notify Client that Attorney no longer represents Client?
@@ -153,7 +153,7 @@ For many years, Attorney served as outside counsel for Corp. Shortly after a cha
 
 - Must Attorney withdraw?
 
-When may an attorney who represents a plaintiff on a contingent fee basis withdraw because of an “unreasonable financial burden”?
+When may an attorney who represents a plaintiff on a contingent fee basis withdraw because of an “unreasonable financial burden"?
 
 ## Notice to/Permission of Tribunal & Protection of Client's Interests 
 

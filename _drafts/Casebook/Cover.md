@@ -14,6 +14,6 @@ S.J. Morrison
 
 Cover:
 
-Hablot Knight Brown or "Phiz”
+Hablot Knight Brown or "Phiz"
 
 _Attorney and Client, Fortitute and Impatience_ (1853)

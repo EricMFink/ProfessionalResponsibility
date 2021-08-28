@@ -156,7 +156,7 @@ title: Conflicts of Interest
 
 ##### Example
 
-Five years ago, L prepared a will for A. During this process, L learned a great deal about A’s “secret” assets. X now asks L to sue A to collect a promissory note.
+Five years ago, L prepared a will for A. During this process, L learned a great deal about A’s “secret" assets. X now asks L to sue A to collect a promissory note.
 
 - L may not represent X because L has confidential information about A, L’s former client, that L could use to the disadvantage of A
 

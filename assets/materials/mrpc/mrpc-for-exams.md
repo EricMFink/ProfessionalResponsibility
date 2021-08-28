@@ -725,7 +725,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 #### Rule 7.3 Solicitation of Clients
 
-(a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
+(a) “Solicitation" or “solicit" denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
 (b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
 

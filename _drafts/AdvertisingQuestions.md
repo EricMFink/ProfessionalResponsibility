@@ -54,7 +54,7 @@ title: 'Review Questions: Information About Legal Services'
 
 	b. Judy may send the message only to the parents who are close personal friends. 
 
-	c. Judy may not send the message unless she includes the words, “Advertising Material” at the beginning and end of the message to all recipients other than close personal friends. 
+	c. Judy may not send the message unless she includes the words, “Advertising Material" at the beginning and end of the message to all recipients other than close personal friends. 
 
 	d. Judy may not send the message because it would be improper solicitation.
 
@@ -62,13 +62,13 @@ title: 'Review Questions: Information About Legal Services'
 
 	a. Robert may submit the written proposal. 
 
-	b. Robert may submit the written proposal as long as it contains the words "advertising material” on the outside of the envelope. 
+	b. Robert may submit the written proposal as long as it contains the words "advertising material" on the outside of the envelope. 
 
 	c. Robert may not submit the proposal unless he has a prior professional relationship with the FDIC. 
 
 	d. Robert may not submit the proposal if pecuniary gain is a significant motivation.
 
-7. Joe Lemire is an attorney who is attempting to establish his practice in his hometown of Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic.” Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
+7. Joe Lemire is an attorney who is attempting to establish his practice in his hometown of Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic." Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
 
 	a. Joe may use the trade name if he includes a disclaimer that makes it clear that his practice is not a public legal aid agency. 
 
@@ -88,7 +88,7 @@ title: 'Review Questions: Information About Legal Services'
 
 	d. The firm may accept the contract.
 
-9. Aaron Chapman and Brian McCain are attorneys who were law school classmates. They have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain.” Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
+9. Aaron Chapman and Brian McCain are attorneys who were law school classmates. They have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain." Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
 
 	a. The lawyers may describe themselves as Chapman & McCain because they share office space. 
 
@@ -130,15 +130,15 @@ title: 'Review Questions: Information About Legal Services'
 
 13. William Broughton is an attorney who recently paid AMERILAW, a trade publication, to be included in the publication's list of “Best Lawyers in America." Under the Model Rules of Professional Conduct, which of the following statements most accur atements most accurately describes William's options regarding publication of this honor? 
 
-	a. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because it is true that he was on the list. 
+	a. William may advertise himself as one of the “AMERILAW Best Lawyers in America" because it is true that he was on the list. 
 
-	b. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because he has a constitutional right to advertise. 
+	b. William may advertise himself as one of the “AMERILAW Best Lawyers in America" because he has a constitutional right to advertise. 
 
-	c. William may not advertise himself as one of the “AMERILAW Best Lawyers in America” because the statement would be misleading. 
+	c. William may not advertise himself as one of the “AMERILAW Best Lawyers in America" because the statement would be misleading. 
 
-	d. William may not advertise himself as one of the "AMERILAW Best Lawyers in America” because it is an implied comparison with other lawyers' services. 
+	d. William may not advertise himself as one of the "AMERILAW Best Lawyers in America" because it is an implied comparison with other lawyers' services. 
 
-14. Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go the extra mile for a client.” He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER.” Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
+14. Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go the extra mile for a client." He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER." Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
 
 	a. The advertisement is permissible because questions of taste are matters of speculation and subjective judgment. 
 
@@ -148,8 +148,8 @@ title: 'Review Questions: Information About Legal Services'
 
 	d. The advertisement is impermissible because it implies that Gustav can achieve results by violating the rules of conduct or other law. 
 
-15. Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny” and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
+15. Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny" and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
 
-16. Hattie Dougherty is an attorney who specializes in representing plaintiffs in accidents involving all-terrain vehicles. She has won several huge verdicts that have garnered headlines such as “Hattie Wins $10 million Verdict from Local Jury” and “Dougherty Does it Again: ATV Manufacturer Socked for $15.2 million.” Hattie would like to include a "montage” of these headlines as the background for her new television advertisements. What advice would you give Hattie about the propriety of this idea under the Model Rules of Professional Conduct? 
+16. Hattie Dougherty is an attorney who specializes in representing plaintiffs in accidents involving all-terrain vehicles. She has won several huge verdicts that have garnered headlines such as “Hattie Wins $10 million Verdict from Local Jury" and “Dougherty Does it Again: ATV Manufacturer Socked for $15.2 million." Hattie would like to include a "montage" of these headlines as the background for her new television advertisements. What advice would you give Hattie about the propriety of this idea under the Model Rules of Professional Conduct? 
 
-17. Rita McCue is an attorney who specializes in elder law. She would like to increase her volume of business by conducting a series of “educational seminars” around her state through the auspices of local senior citizen centers. She is hoping that many of the attendees will become clients. As she embarks on his tour of seminars, what ethical advice would you give Rita? 
+17. Rita McCue is an attorney who specializes in elder law. She would like to increase her volume of business by conducting a series of “educational seminars" around her state through the auspices of local senior citizen centers. She is hoping that many of the attendees will become clients. As she embarks on his tour of seminars, what ethical advice would you give Rita? 

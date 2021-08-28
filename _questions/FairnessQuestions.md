@@ -41,7 +41,7 @@ An attorney is defending a large company against a lawsuit brought in federal co
 
 ### Question 5
 
-An attorney, a member of the state legislature, is allowed to engage in private practice under state law. The attorney represents a plaintiff in a personal injury case. The attorney reasonably believes that the trial of the case will last at least two weeks. When the case was first scheduled for trial, the attorney requested a continuance, truthfully stating, “As the court knows, I am a member of the legislature, which will be going into special session next week. Because of my legislative duties, I must be in the state capitol for the duration of the session.” The defendant objected to the continuance, but the court granted it. 
+An attorney, a member of the state legislature, is allowed to engage in private practice under state law. The attorney represents a plaintiff in a personal injury case. The attorney reasonably believes that the trial of the case will last at least two weeks. When the case was first scheduled for trial, the attorney requested a continuance, truthfully stating, “As the court knows, I am a member of the legislature, which will be going into special session next week. Because of my legislative duties, I must be in the state capitol for the duration of the session." The defendant objected to the continuance, but the court granted it. 
 
 Is the attorney subject to discipline?
     
@@ -55,26 +55,26 @@ d. No, unless the continuance will give the plaintiff an advantage in the litiga
 
 ### Question 6
 
-Attorney represents ABC Corp. in litigation against X, a pro se personal injury plaintiff. Knowing that X has limited resources, ABC instructs Attorney: “Delay and stall at every stage of the litigation. Let’s make X spend so much money in discovery and other pretrial proceedings that he will have to give up.” 
+Attorney represents ABC Corp. in litigation against X, a pro se personal injury plaintiff. Knowing that X has limited resources, ABC instructs Attorney: “Delay and stall at every stage of the litigation. Let’s make X spend so much money in discovery and other pretrial proceedings that he will have to give up." 
 
 Will Attorney be subject to discipline if she follows ABC’s instructions?
 
 ### Question 7
 
-Lawyer represents A, who is being prosecuted for driving while intoxicated. Two years ago, A was convicted of a DWI, a fact known by Lawyer. In this state, the first DWI is a misdemeanor; the second DWI is a felony. In the current trial, the jury convicts A of DWI. At the sentencing, the judge states: “Since this is your first DWI, I am sentencing you to probation.” Although Lawyer realized that the judge was mistaken, neither A nor Lawyer did anything to cause the mistake.
+Lawyer represents A, who is being prosecuted for driving while intoxicated. Two years ago, A was convicted of a DWI, a fact known by Lawyer. In this state, the first DWI is a misdemeanor; the second DWI is a felony. In the current trial, the jury convicts A of DWI. At the sentencing, the judge states: “Since this is your first DWI, I am sentencing you to probation." Although Lawyer realized that the judge was mistaken, neither A nor Lawyer did anything to cause the mistake.
     
 - Must A correct the judge’s error?
-- Same facts, but assume that prior to the judge making the erroneous statement, the judge asked Lawyer, “Has A ever been convicted of DWI in this state?” Lawyer replied, “Not that I know of.” Is Lawyer subject to discipline?
+- Same facts, but assume that prior to the judge making the erroneous statement, the judge asked Lawyer, “Has A ever been convicted of DWI in this state?" Lawyer replied, “Not that I know of." Is Lawyer subject to discipline?
 
 ### Question 8
 
-Attorney Alpha, a partner in the law firm of Alpha & Beta, was retained by Plaint, the plaintiff in a personal injury action against D. The jury rendered a verdict in favor of D, and Alpha filed an appeal on Plaint’s behalf. Alpha reviewed the trial transcript and wrote the brief. The brief stated, “It is uncontroverted that D failed to signal before turning left into the intersection.” In fact, Witness, a witness called by D, testified that D did signal before turning. Alpha was aware of this testimony, having read it while reviewing the trial transcript. 
+Attorney Alpha, a partner in the law firm of Alpha & Beta, was retained by Plaint, the plaintiff in a personal injury action against D. The jury rendered a verdict in favor of D, and Alpha filed an appeal on Plaint’s behalf. Alpha reviewed the trial transcript and wrote the brief. The brief stated, “It is uncontroverted that D failed to signal before turning left into the intersection." In fact, Witness, a witness called by D, testified that D did signal before turning. Alpha was aware of this testimony, having read it while reviewing the trial transcript. 
 
 Is Alpha subject to discipline for making this statement in the brief?
 
 ### Question 9
 
-Three days before the appeal was scheduled to be argued in the state’s intermediate appellate court, Alpha suffered a heart attack. Attorney Beta, one of Alpha’s partners, agreed to argue the appeal. Beta knew nothing about the case and had no opportunity to confer with Alpha. In preparing for the argument, Beta read Alpha’s brief thoroughly and read as much of the trial transcript as was possible in the limited amount of time available, but he did not read Witness’stestimony. In oral argument, Beta stated to the court, “Your honors, as stated in our brief, it is uncontroverted that D failed to signal before turning left into the intersection.” Beta assumed that Alpha’s statement in the brief was correct. 
+Three days before the appeal was scheduled to be argued in the state’s intermediate appellate court, Alpha suffered a heart attack. Attorney Beta, one of Alpha’s partners, agreed to argue the appeal. Beta knew nothing about the case and had no opportunity to confer with Alpha. In preparing for the argument, Beta read Alpha’s brief thoroughly and read as much of the trial transcript as was possible in the limited amount of time available, but he did not read Witness’stestimony. In oral argument, Beta stated to the court, “Your honors, as stated in our brief, it is uncontroverted that D failed to signal before turning left into the intersection." Beta assumed that Alpha’s statement in the brief was correct. 
 
 Is Beta subject to discipline for making this statement during oral argument?
 
@@ -113,7 +113,7 @@ d. No, because the attorney believes that the disclosure would be detrimental to
 
 ### Question 13
 
-Driver consulted Attorney and asked Attorney to represent Driver, who was being prosecuted for driving while intoxicated in a jurisdiction in which there is an increased penalty for a second offense. Driver told Attorney that his driver’s license has been obtained under an assumed name because his prior license had been suspended for driving while under the influence of alcohol. Driver asked Attorney not to disclose Driver’s true name during the course of representation and told Attorney that, if called as a witness, he would give his assumed name. Attorney informed Driver that, in order to properly defend the case, Attorney must call Driver as a witness. Attorney called Driver as a witness and, in response to Attorney’s question “what is your name?” Driver gave his assumed name and not his true name.
+Driver consulted Attorney and asked Attorney to represent Driver, who was being prosecuted for driving while intoxicated in a jurisdiction in which there is an increased penalty for a second offense. Driver told Attorney that his driver’s license has been obtained under an assumed name because his prior license had been suspended for driving while under the influence of alcohol. Driver asked Attorney not to disclose Driver’s true name during the course of representation and told Attorney that, if called as a witness, he would give his assumed name. Attorney informed Driver that, in order to properly defend the case, Attorney must call Driver as a witness. Attorney called Driver as a witness and, in response to Attorney’s question “what is your name?" Driver gave his assumed name and not his true name.
 
 Is Attorney subject to discipline?
     
@@ -217,7 +217,7 @@ What if Witness were an expert witness?
 
 ### Question 24
 
-Defendant was on trial for the murder of Victim, who was killed during a barroom brawl. In the course of closing arguments to the jury, Prosecutor said, “Defendant’s whole defense is based on the testimony of Witness, who said that Victim attacked Defendant with a knife before Defendant struck him. No other witness testified to such an attack by Victim. I don’t believe Witness was telling the truth, and I don’t think you should believe him either.” 
+Defendant was on trial for the murder of Victim, who was killed during a barroom brawl. In the course of closing arguments to the jury, Prosecutor said, “Defendant’s whole defense is based on the testimony of Witness, who said that Victim attacked Defendant with a knife before Defendant struck him. No other witness testified to such an attack by Victim. I don’t believe Witness was telling the truth, and I don’t think you should believe him either." 
 
 Was Prosecutor’s statement proper?
     
@@ -231,7 +231,7 @@ d. No, because Prosecutor asserted his personal opinion about Witness’scredibi
 
 ### Question 25
 
-In Attorney’s closing statement to the court in a bench trial, she said, “Your honor, I drive on the street in question every day and know that a driver cannot see cars backing out of driveways as the one did in this case. I believe that my client was not negligent, and I ask you to find so.” 
+In Attorney’s closing statement to the court in a bench trial, she said, “Your honor, I drive on the street in question every day and know that a driver cannot see cars backing out of driveways as the one did in this case. I believe that my client was not negligent, and I ask you to find so." 
 
 Was Attorney’s closing argument proper?
     
@@ -249,11 +249,11 @@ During the closing argument to the jury in a civil tax fraud case, Attorney, rep
 
 Which of the following statements by Attorney would be proper?
     
-a. “That testimony of Defendant directly contradicts the testimony of two witnesses for the government.”
+a. “That testimony of Defendant directly contradicts the testimony of two witnesses for the government."
 
-b. “I ask you, who has the reason to lie, the two witnesses for the government or Defendant?”
+b. “I ask you, who has the reason to lie, the two witnesses for the government or Defendant?"
 
-c. “I can truthfully say I have never seen a witness less worthy of belief.”
+c. “I can truthfully say I have never seen a witness less worthy of belief."
 
 d. All of the above. 
 
@@ -268,7 +268,7 @@ Attorney represents XYZ Corp., a defendant in a products liability case. Enginee
 
 ### Question 28
 
-Attorney represented Plaintiff, who sued Defendant for injuries Plaintiff sustained in a car accident. Prior to trial, Attorney interviewed Witness, who stated that she had observed Defendant drinking heavily hours before the accident. Unfortunately, on the eve of trial, Witness informed Attorney that Witness was ill and could not testify at trial. Attorney tried but could not obtain a continuance. As a result, Plaintiff’s direct case rested solely on Plaintiff’s testimony that Defendant was speeding and that Deft’s car crossed the center line and hit Plaintiff’s car. Defendant testified that he was driving safely in compliance with all rules and that the accident was entirely Plaintiff’s fault. On cross examination, Attorney asked Defendant, ” Isn’t it a fact that you were drinking prior to the accident?” Defendant answered that he had not consumed alcoholic beverages on the day of the accident. In summation to the jury, Attorney states” “Ladies and gentlemen of the jury, you and I know that Defendant lied when he stated that he had not consumed alcoholic beverages on the day of the accident. We know that he was impaired.” 
+Attorney represented Plaintiff, who sued Defendant for injuries Plaintiff sustained in a car accident. Prior to trial, Attorney interviewed Witness, who stated that she had observed Defendant drinking heavily hours before the accident. Unfortunately, on the eve of trial, Witness informed Attorney that Witness was ill and could not testify at trial. Attorney tried but could not obtain a continuance. As a result, Plaintiff’s direct case rested solely on Plaintiff’s testimony that Defendant was speeding and that Deft’s car crossed the center line and hit Plaintiff’s car. Defendant testified that he was driving safely in compliance with all rules and that the accident was entirely Plaintiff’s fault. On cross examination, Attorney asked Defendant, " Isn’t it a fact that you were drinking prior to the accident?" Defendant answered that he had not consumed alcoholic beverages on the day of the accident. In summation to the jury, Attorney states" “Ladies and gentlemen of the jury, you and I know that Defendant lied when he stated that he had not consumed alcoholic beverages on the day of the accident. We know that he was impaired." 
 
 On which of the following grounds, if any, is Attorney subject to discipline?
     
@@ -296,7 +296,7 @@ Was it proper for Attorney to communicate with Judge?
 
 ### Question 31
 
-Attorney has been retained to defend an adult charged with a sex offense involving a minor. Attorney believes that, in order to win the case, she must keep parents of minor children off the jury. Attorney instructed her investigator: “Visit the neighborhood of those prospective jurors on the panel with minor children. Ask the neighbors if they know of any kind of unusual sex activity of the prospective juror or any member of the family. This will get back to the prospective jurors, and they will think of excuses not to serve. But don’t under any circumstances talk directly with any prospective juror or member of the family.” 
+Attorney has been retained to defend an adult charged with a sex offense involving a minor. Attorney believes that, in order to win the case, she must keep parents of minor children off the jury. Attorney instructed her investigator: “Visit the neighborhood of those prospective jurors on the panel with minor children. Ask the neighbors if they know of any kind of unusual sex activity of the prospective juror or any member of the family. This will get back to the prospective jurors, and they will think of excuses not to serve. But don’t under any circumstances talk directly with any prospective juror or member of the family." 
 
 Is Attorney subject to discipline?
 
@@ -324,7 +324,7 @@ d. No, because members of the state legislature are permitted by law to engage i
 
 ### Question 33
 
-Lawyer represents A in the civil case of A v. B. The jury finds in favor of B. The judge then releases the jury. Two weeks later, Lawyer sees one of the jurors at a cocktail party. Lawyer asks the juror: “I hate to bother you, but I’d like to ask you why the jury ruled as it did. I’m hoping to learn for future trials.” 
+Lawyer represents A in the civil case of A v. B. The jury finds in favor of B. The judge then releases the jury. Two weeks later, Lawyer sees one of the jurors at a cocktail party. Lawyer asks the juror: “I hate to bother you, but I’d like to ask you why the jury ruled as it did. I’m hoping to learn for future trials." 
 
 Is Lawyer subject to discipline?
 
@@ -334,11 +334,11 @@ Attorney represents Client, a well-known contractor, before Agency, a state admi
 
 Which of these statements (if true) would be proper?
     
-a. “Client denied the charge made by Agency that Client engaged in conduct constituting grounds for revocation of Client’s license as a contractor.”
+a. “Client denied the charge made by Agency that Client engaged in conduct constituting grounds for revocation of Client’s license as a contractor."
 
-b. “The next step in the administrative process is the administrative hearing; if Agency is successful, we will appeal, and Agency still cannot revoke Client’s license until a court affirms the finding for Agency.”
+b. “The next step in the administrative process is the administrative hearing; if Agency is successful, we will appeal, and Agency still cannot revoke Client’s license until a court affirms the finding for Agency."
 
-c. “Client needs witnesses who are aware of the incidents that are the subject of the hearing.”
+c. “Client needs witnesses who are aware of the incidents that are the subject of the hearing."
 
 d. All of the above. 
 
@@ -350,11 +350,11 @@ A, B, and C are charged with sexually assaulting Z. A few days later, Prosecutor
 
 For which of the following statements will Prosecutor be subject to discipline?
     
-a. “I am satisfied that Z was sexually assaulted at this residence.”
+a. “I am satisfied that Z was sexually assaulted at this residence."
 
-b. “It was essentially a gang rape.”
+b. “It was essentially a gang rape."
 
-c. “Why were A, B, and C’s DNA not found? I would not be surprised if they wore condoms. Probably an exotic dancer would not be your first choice for unprotected sex.”
+c. “Why were A, B, and C’s DNA not found? I would not be surprised if they wore condoms. Probably an exotic dancer would not be your first choice for unprotected sex."
 
 d. All of the above. 
 
@@ -362,7 +362,7 @@ e. None of the above.
 
 ### Question 36
 
-Attorney represents Client, a famous politician, in a libel action against Newspaper. The case has attracted much publicity, and a jury trial has been demanded. After one of the pretrial hearings, as Attorney left the courthouse, news reporters interviewed Attorney. In responding to questions, Attorney truthfully stated: “The judge has upheld our right to subpoena the reporter involved, identified in our motion as Repo, and question her on her mental impressions when she prepared the article.” 
+Attorney represents Client, a famous politician, in a libel action against Newspaper. The case has attracted much publicity, and a jury trial has been demanded. After one of the pretrial hearings, as Attorney left the courthouse, news reporters interviewed Attorney. In responding to questions, Attorney truthfully stated: “The judge has upheld our right to subpoena the reporter involved, identified in our motion as Repo, and question her on her mental impressions when she prepared the article." 
 
 Is Attorney subject to discipline for making this statement?
     
@@ -380,11 +380,11 @@ Attorney represents Defendant, a prominent businessman, in a civil paternity sui
 
 Which of the following statements, if believed by Attorney to be true, would be proper for Attorney to make?
     
-a. “As stated in our pleadings, we expect to prove that other men could be the father of Plaintiff’s child.”
+a. “As stated in our pleadings, we expect to prove that other men could be the father of Plaintiff’s child."
 
-b. “We have scientific medical tests proving that Defendant is sterile.”
+b. “We have scientific medical tests proving that Defendant is sterile."
 
-c. “We have been unable to locate several people whose testimony will be helpful to us, and I implore them to contact me immediately.”
+c. “We have been unable to locate several people whose testimony will be helpful to us, and I implore them to contact me immediately."
 
 d. All of the above. 
 
@@ -392,7 +392,7 @@ e. None of the above.
 
 ### Question 38
 
-Attorney represents D, who is charged with murder. Shortly after D is indicted, the Prosecutor tells the press: “D confessed to the crime.” A few days later, Attorney tells the press: “D was illegally coerced by police to confess. He took and passed a polygraph test yesterday.” 
+Attorney represents D, who is charged with murder. Shortly after D is indicted, the Prosecutor tells the press: “D confessed to the crime." A few days later, Attorney tells the press: “D was illegally coerced by police to confess. He took and passed a polygraph test yesterday." 
 
 Is either Prosecutor or Attorney subject to discipline?
 
@@ -421,21 +421,21 @@ Attorney is the lead trial attorney for A in the case of A v. B. Attorney just l
 
 ### Question 41
 
-Attorney represents Seller in negotiating the sale of his ice cream parlor.  Seller told Attorney in confidence that, although the business was once very profitable, recent profits have been stable but modest (i.e., less than 10% annually).  As the negotiations proceeded, Buyer appeared to be losing interest in the deal.  Hoping to restore Buyer’s interest, Attorney stated:  “The ice cream business is every American’s dream: happy kids, steady profits, and a clear conscience.”  Buyer bought the ice cream parlor but was disappointed in the profits.
+Attorney represents Seller in negotiating the sale of his ice cream parlor.  Seller told Attorney in confidence that, although the business was once very profitable, recent profits have been stable but modest (i.e., less than 10% annually).  As the negotiations proceeded, Buyer appeared to be losing interest in the deal.  Hoping to restore Buyer’s interest, Attorney stated:  “The ice cream business is every American’s dream: happy kids, steady profits, and a clear conscience."  Buyer bought the ice cream parlor but was disappointed in the profits.
     
 - Is Attorney subject to discipline?
-- What if Attorney told Buyer: “Seller made 50% profit last year?”
+- What if Attorney told Buyer: “Seller made 50% profit last year?"
 - Assume the ice cream parlor lost $50,000 last year and that Attorney is aware of such loss.  If Attorney and Seller say nothing about profits but Buyer is obviously assuming that the parlor is profitable, does Attorney have an obligation to tell Buyer of the loss?
 
 ### Question 42
 
-Alpha represents D in protracted litigation.  Alpha, at D’s request, has made several offers of settlement to P’s lawyer, Beta, all of which have been rejected.  During a recess at trial, Alpha and P were both present at a cocktail party.  P went over to Alpha and said: “Why can’t we settle that case for $50,000.”  
+Alpha represents D in protracted litigation.  Alpha, at D’s request, has made several offers of settlement to P’s lawyer, Beta, all of which have been rejected.  During a recess at trial, Alpha and P were both present at a cocktail party.  P went over to Alpha and said: “Why can’t we settle that case for $50,000."  
 
 Which of the following is a proper response by Alpha?
     
-- “I can’t discuss the matter with you.”
-- “If that’s the way you feel, why don’t you and D get together.”
-- “I agree. We have made several offers to settle.”
+- “I can’t discuss the matter with you."
+- “If that’s the way you feel, why don’t you and D get together."
+- “I agree. We have made several offers to settle."
 
 d. All of the above. 
 
@@ -505,7 +505,7 @@ Same facts as previous question. If Alpha’s suspicion is correct and Beta fail
 
 ### Question 48
 
-Wife has retained Attorney to advise her in negotiating a separation agreement with Husband. Even though Husband knew that Wife was represented by Attorney, Husband, who was not a lawyer, refused to obtain counsel and insisted on acting on his own behalf throughout the protracted negotiations. Attorney never met or communicated in any way with Husband during the entire course of the negotiations. After several months, Wife advised Attorney that the parties had reached agreement and presented Attorney with the terms. The attorney prepared a proposed agreement that contained all of the agreed-upon terms.  Attorney mailed the proposed agreement to Husband, with a cover letter stating the following:  “As you know, I have been retained by your wife to represent her in this matter. I enclose two copies of the separation agreement negotiated by you and your wife. Please read it and, if it meets with your approval, sign both copies before a notary and return them to me. I will then have your wife sign them and furnish you with a fully executed copy.”  
+Wife has retained Attorney to advise her in negotiating a separation agreement with Husband. Even though Husband knew that Wife was represented by Attorney, Husband, who was not a lawyer, refused to obtain counsel and insisted on acting on his own behalf throughout the protracted negotiations. Attorney never met or communicated in any way with Husband during the entire course of the negotiations. After several months, Wife advised Attorney that the parties had reached agreement and presented Attorney with the terms. The attorney prepared a proposed agreement that contained all of the agreed-upon terms.  Attorney mailed the proposed agreement to Husband, with a cover letter stating the following:  “As you know, I have been retained by your wife to represent her in this matter. I enclose two copies of the separation agreement negotiated by you and your wife. Please read it and, if it meets with your approval, sign both copies before a notary and return them to me. I will then have your wife sign them and furnish you with a fully executed copy."  
 
 Is Attorney subject to discipline?
     
@@ -519,7 +519,7 @@ d. No, because Attorney’s letter did not imply that Attorney was disinterested
 
 ### Question 49
 
-Attorney represents A in the case of A v. B.  B is acting pro se.  Attorney telephones B and states:  “Is there some way we can settle this case before trial. My goal is to see that everyone gets a fair deal.  I have thoroughly reviewed the case and, in my opinion, you have about a 40% chance of recovery; thus, I’d recommend that you settle.”
+Attorney represents A in the case of A v. B.  B is acting pro se.  Attorney telephones B and states:  “Is there some way we can settle this case before trial. My goal is to see that everyone gets a fair deal.  I have thoroughly reviewed the case and, in my opinion, you have about a 40% chance of recovery; thus, I’d recommend that you settle."
 
 Is Attorney subject to discipline?
 

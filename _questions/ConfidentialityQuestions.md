@@ -25,7 +25,7 @@ Shortly before his death, you were able to interview the prior owner of the hous
 
 ### Question 4
 
-In a federal investigation of Defendant for tax fraud, the grand jury by subpoena requests a letter written January 15 by Defendant to her attorney in which she stated: “Please prepare a deed giving my ranch to University but, in order to get around the tax law, I want it back-dated to December 15.”
+In a federal investigation of Defendant for tax fraud, the grand jury by subpoena requests a letter written January 15 by Defendant to her attorney in which she stated: “Please prepare a deed giving my ranch to University but, in order to get around the tax law, I want it back-dated to December 15."
 
 Must attorney produce the letter?
 

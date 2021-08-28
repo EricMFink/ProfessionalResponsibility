@@ -50,7 +50,7 @@ Judy Meade is an attorney whose specialty is estate planning. Judy also voluntee
 
 a. Judy may send the message as long as it is not false or misleading. 
 b. Judy may send the message only to the parents who are close personal friends. 
-c. Judy may not send the message unless she includes the words, “Advertising Material” at the beginning and end of the message to all recipients other than close personal friends. 
+c. Judy may not send the message unless she includes the words, “Advertising Material" at the beginning and end of the message to all recipients other than close personal friends. 
 d. Judy may not send the message because it would be improper solicitation.
 
 ### Question 6. 
@@ -58,13 +58,13 @@ d. Judy may not send the message because it would be improper solicitation.
 Robert Katz is an attorney whose firm specializes in receiverships of financial institutions. Frank has received a request from the Federal Deposit Insurance Corporation that asks his firm to submit a written proposal to represent the FDIC in a certain region for a certain period of time. Which of the following statements most accurately reflects Robert's options under the Model Rules of Professional Conduct?
 
 a. Robert may submit the written proposal. 
-b. Robert may submit the written proposal as long as it contains the words "advertising material” on the outside of the envelope. 
+b. Robert may submit the written proposal as long as it contains the words "advertising material" on the outside of the envelope. 
 c. Robert may not submit the proposal unless he has a prior professional relationship with the FDIC. 
 d. Robert may not submit the proposal if pecuniary gain is a significant motivation.
 
 ### Question 7. 
 
-Joe Lemire is an attorney who is attempting to establish his practice in his hometown of Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic.” Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
+Joe Lemire is an attorney who is attempting to establish his practice in his hometown of Centerville. He believes that it would help him do so to advertise his practice as the "Centerville Legal Clinic." Which of the following statements most accurately describes Joe's obligations under the Model Rules of Professional Conduct? 
 
 a. Joe may use the trade name if he includes a disclaimer that makes it clear that his practice is not a public legal aid agency. 
 b. Joe may use the trade name as long as its offices are located in Centerville. 
@@ -83,7 +83,7 @@ d. The firm may accept the contract.
 
 ### Question 9. 
 
-Aaron Chapman and Brian McCain are attorneys who were law school classmates. They have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain.” Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
+Aaron Chapman and Brian McCain are attorneys who were law school classmates. They have entered into an office-sharing arrangement under which they share rent for office space and share the costs of common areas and services such as a secretary and a copier. Each will retain control over his own cases, billing, and revenue. To garner greater credibility for their respective practices, and to save money on letterhead, they want to practice under the name "Chapman & McCain." Under the Model Rules of Professional Conduct, which of the following statements most accurately reflects the lawyers' options? 
 
 a. The lawyers may describe themselves as Chapman & McCain because they share office space. 
 b. The lawyers may describe themselves as Chapman & McCain because those are their real names. 
@@ -121,14 +121,14 @@ d. Mary Jane may call Patrick because he is a lawyer.
 
 William Broughton is an attorney who recently paid AMERILAW, a trade publication, to be included in the publication's list of “Best Lawyers in America." Under the Model Rules of Professional Conduct, which of the following statements most accur atements most accurately describes William's options regarding publication of this honor? 
 
-a. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because it is true that he was on the list. 
-b. William may advertise himself as one of the “AMERILAW Best Lawyers in America” because he has a constitutional right to advertise. 
-c. William may not advertise himself as one of the “AMERILAW Best Lawyers in America” because the statement would be misleading. 
-d. William may not advertise himself as one of the "AMERILAW Best Lawyers in America” because it is an implied comparison with other lawyers' services. 
+a. William may advertise himself as one of the “AMERILAW Best Lawyers in America" because it is true that he was on the list. 
+b. William may advertise himself as one of the “AMERILAW Best Lawyers in America" because he has a constitutional right to advertise. 
+c. William may not advertise himself as one of the “AMERILAW Best Lawyers in America" because the statement would be misleading. 
+d. William may not advertise himself as one of the "AMERILAW Best Lawyers in America" because it is an implied comparison with other lawyers' services. 
 
 ### Question 14. 
 
-Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go the extra mile for a client.” He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER.” Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
+Gustav Spillers is an attorney who wants to be known as the kind of lawyer who will “go the extra mile for a client." He actually does violate the law and rules of conduct when it is necessary to help his clients. Gustav proposes to run an advertisement that shows a poker player holding a hand of five aces, with the caption, "You need a lawyer who knows how to stack the deck. Call Gustav Spillers at 1-800-CHEATER." Under the Model Rules of Professional Conduct, which of the following statements most accurately describes the propriety of Gustav's advertisement? 
 
 a. The advertisement is permissible because questions of taste are matters of speculation and subjective judgment. 
 b. The advertisement is permissible because it is not false or misleading. 
@@ -137,15 +137,15 @@ d. The advertisement is impermissible because it implies that Gustav can achieve
 
 ### Question 15. 
 
-Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny” and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
+Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny" and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
 
 ### Question 16. 
 
-Hattie Dougherty is an attorney who specializes in representing plaintiffs in accidents involving all-terrain vehicles. She has won several huge verdicts that have garnered headlines such as “Hattie Wins $10 million Verdict from Local Jury” and “Dougherty Does it Again: ATV Manufacturer Socked for $15.2 million.” Hattie would like to include a "montage” of these headlines as the background for her new television advertisements. What advice would you give Hattie about the propriety of this idea under the Model Rules of Professional Conduct? 
+Hattie Dougherty is an attorney who specializes in representing plaintiffs in accidents involving all-terrain vehicles. She has won several huge verdicts that have garnered headlines such as “Hattie Wins $10 million Verdict from Local Jury" and “Dougherty Does it Again: ATV Manufacturer Socked for $15.2 million." Hattie would like to include a "montage" of these headlines as the background for her new television advertisements. What advice would you give Hattie about the propriety of this idea under the Model Rules of Professional Conduct? 
 
 ### Question 17. 
 
-Rita McCue is an attorney who specializes in elder law. She would like to increase her volume of business by conducting a series of “educational seminars” around her state through the auspices of local senior citizen centers. She is hoping that many of the attendees will become clients. As she embarks on his tour of seminars, what ethical advice would you give Rita? 
+Rita McCue is an attorney who specializes in elder law. She would like to increase her volume of business by conducting a series of “educational seminars" around her state through the auspices of local senior citizen centers. She is hoping that many of the attendees will become clients. As she embarks on his tour of seminars, what ethical advice would you give Rita? 
 
 
 ## Answers
@@ -168,11 +168,11 @@ The correct answer is B. This particular advertisement comes dangerously close t
 
 ### Question 5. 
 
-The correct answer is Answer C. With only a few exceptions, lawyers are not allowed to solicit employment face-to-face, by live telephone contact, or through real-time electronic communication. A text message, unlike for example a “live chat" over the internet, is not a real-time electronic communication. Like an e-mail or a letter, a text message does not require an immediate response. Therefore, lawyers may solicit by text just as they could by letter, as long as the message contains the words "advertising material” at the beginning and end of each message to someone other than Judy's close personal friends. Answer A is incorrect because it states the general rule for lawyer communications rather than the specific rule dealing with solicitation. Answer B. is incorrect because this is not a real-time electronic contact and therefore Judy is not limited to contacting only close personal friends. Answer D. is incorrect for the same reason. 
+The correct answer is Answer C. With only a few exceptions, lawyers are not allowed to solicit employment face-to-face, by live telephone contact, or through real-time electronic communication. A text message, unlike for example a “live chat" over the internet, is not a real-time electronic communication. Like an e-mail or a letter, a text message does not require an immediate response. Therefore, lawyers may solicit by text just as they could by letter, as long as the message contains the words "advertising material" at the beginning and end of each message to someone other than Judy's close personal friends. Answer A is incorrect because it states the general rule for lawyer communications rather than the specific rule dealing with solicitation. Answer B. is incorrect because this is not a real-time electronic contact and therefore Judy is not limited to contacting only close personal friends. Answer D. is incorrect for the same reason. 
 
 ### Question 6. 
 
-The correct answer is Answer A. The proposal would be a written solicitation of work, which normally would require the warning to the recipient that it is "advertising material." However, no such warning is necessary because the recipient asked to receive the proposal. Comment 7 to Rule 7.3. Answer B. is incorrect because "advertising material” need not be included on the outside of the envelope of a response to a request for information from a potential client. Answers C & D are incorrect, because they involve the conditions applicable to an attorney’s face-to-face, live telephone, or real-time electronic solicitation. Those conditions don’t apply here, because the attorney has not engaged in any such solicitation, but is responding to an inquiry from a prospective client.
+The correct answer is Answer A. The proposal would be a written solicitation of work, which normally would require the warning to the recipient that it is "advertising material." However, no such warning is necessary because the recipient asked to receive the proposal. Comment 7 to Rule 7.3. Answer B. is incorrect because "advertising material" need not be included on the outside of the envelope of a response to a request for information from a potential client. Answers C & D are incorrect, because they involve the conditions applicable to an attorney’s face-to-face, live telephone, or real-time electronic solicitation. Those conditions don’t apply here, because the attorney has not engaged in any such solicitation, but is responding to an inquiry from a prospective client.
 
 ### Question 7. 
 
@@ -184,7 +184,7 @@ The correct answer is B.. Under Rule 7.6, the firm cannot accept the appointment
 
 ### Question 9. 
 
-The correct answer is C. Under Rule 7.5(d), lawyers may not state or imply that they practice as a partnership or other organization if that is not true. Here, these lawyers are both solo practitioners, but use of the name “Chapman & McCain" would imply that they are a partnership. Answer A is incorrect because it is not enough to share office space. If the lawyers do not practice as part of the same organization, they may not imply that they do. Answer B. is incorrect because it is irrelevant that the lawyers are using their real names. The problem is the implication that they practice as part of an organization when in truth they do not. Answer D. is incorrect because it would permit a form of "bait and switch.” The firm name may attract clients because it implies that this is a law firm — indeed, that is one of the reasons the lawyers want to use it - and it would be unfair and deceptive to allow clients to come to them for that reason only to be told that, after all, the lawyers do not practice as a firm. 
+The correct answer is C. Under Rule 7.5(d), lawyers may not state or imply that they practice as a partnership or other organization if that is not true. Here, these lawyers are both solo practitioners, but use of the name “Chapman & McCain" would imply that they are a partnership. Answer A is incorrect because it is not enough to share office space. If the lawyers do not practice as part of the same organization, they may not imply that they do. Answer B. is incorrect because it is irrelevant that the lawyers are using their real names. The problem is the implication that they practice as part of an organization when in truth they do not. Answer D. is incorrect because it would permit a form of "bait and switch." The firm name may attract clients because it implies that this is a law firm — indeed, that is one of the reasons the lawyers want to use it - and it would be unfair and deceptive to allow clients to come to them for that reason only to be told that, after all, the lawyers do not practice as a firm. 
 
 ### Question 10. 
 
@@ -192,7 +192,7 @@ The The correct answer is A. Under Rule 7.3(d), a lawyer does not violate the an
 
 ### Question 11. 
 
-The correct answer is B. Under Rule 7.2(b), a lawyer is prohibited from giving anything of value in exchange for recommending the lawyer's services, with certain exceptions. One of those exceptions is that an attorney may pay the usual charges of an attorney referral service if the service is not for profit or is a "qualified referral service," which means that it has been approved by the appropriate regulatory authority. Answer A is incorrect because regulatory approval is not necessary if the service is non-profit, as it is here. Answer C is incorrect because Antonio is allowed to pay the usual charges of such a non profit service. Answer B. is, therefore, correct. Answer D. is wrong because it is not enough that Antonio does not own or operate the service, although those would be relevant factors if he tried to obtain regulatory approval for a referral service. See Comment 6 to Rule 7.2. If, for example, the service was for profit and not "qualified,” payments to the service would be improper even if Antonio did not own or operate it. Answer B. is correct. 
+The correct answer is B. Under Rule 7.2(b), a lawyer is prohibited from giving anything of value in exchange for recommending the lawyer's services, with certain exceptions. One of those exceptions is that an attorney may pay the usual charges of an attorney referral service if the service is not for profit or is a "qualified referral service," which means that it has been approved by the appropriate regulatory authority. Answer A is incorrect because regulatory approval is not necessary if the service is non-profit, as it is here. Answer C is incorrect because Antonio is allowed to pay the usual charges of such a non profit service. Answer B. is, therefore, correct. Answer D. is wrong because it is not enough that Antonio does not own or operate the service, although those would be relevant factors if he tried to obtain regulatory approval for a referral service. See Comment 6 to Rule 7.2. If, for example, the service was for profit and not "qualified," payments to the service would be improper even if Antonio did not own or operate it. Answer B. is correct. 
 
 ### Question 12. 
 
@@ -204,11 +204,11 @@ The correct answer is C. Under Rule 7.1, lawyers are permitted to advertise thei
 
 ### Question 14. 
 
-The correct answer is D.. Under Rule 8.4(e), lawyers are not permitted to state or imply an ability to achieve results by means that violate the rules of conduct or other law. This advertisement, with one more ace than a deck of cards allows, and with a phone number that includes the word “cheater,” does exactly that. Answer A is wrong because this is not a matter generally of taste. It is a question of a lawyer specifically advertising the ability to help clients by cheating. Answer B. is incorrect because the danger is not client rather the encouragement of illegal conduct and damage to public perception about the profession and the system. Truthfully stating that you cheat the system is still a violation. Answer C is incorrect because there is no such general standard for advertising. This ad runs afoul of a specific prohibition, and the underlying concern is in part disrepute for the profession and the legal system, but the answer as stated is too general. Answer D. is correct. 
+The correct answer is D.. Under Rule 8.4(e), lawyers are not permitted to state or imply an ability to achieve results by means that violate the rules of conduct or other law. This advertisement, with one more ace than a deck of cards allows, and with a phone number that includes the word “cheater," does exactly that. Answer A is wrong because this is not a matter generally of taste. It is a question of a lawyer specifically advertising the ability to help clients by cheating. Answer B. is incorrect because the danger is not client rather the encouragement of illegal conduct and damage to public perception about the profession and the system. Truthfully stating that you cheat the system is still a violation. Answer C is incorrect because there is no such general standard for advertising. This ad runs afoul of a specific prohibition, and the underlying concern is in part disrepute for the profession and the legal system, but the answer as stated is too general. Answer D. is correct. 
 
 ### Question 15. 
 
-Sonny has two problems. Under Rule 7.1, he may not advertise in any way that is false and misleading. The statement that you will "save money” by hiring him is a comparison of the cost of his services with the competition. Similarly, to say “Guest is the best" is a comparison of the quality of his services with the services of other lawyers. The risk is that these statements may be construed to have been presented with sufficient specificity as to cause a reasonable person to believe that they can be substantiated. If the statements do give rise to that reasonable belief, and they cannot be substantiated, they are misleading under Rule 7.1. See Comment 3 to Rule 7.1. 
+Sonny has two problems. Under Rule 7.1, he may not advertise in any way that is false and misleading. The statement that you will "save money" by hiring him is a comparison of the cost of his services with the competition. Similarly, to say “Guest is the best" is a comparison of the quality of his services with the services of other lawyers. The risk is that these statements may be construed to have been presented with sufficient specificity as to cause a reasonable person to believe that they can be substantiated. If the statements do give rise to that reasonable belief, and they cannot be substantiated, they are misleading under Rule 7.1. See Comment 3 to Rule 7.1. 
 
 ### Question 16. 
 

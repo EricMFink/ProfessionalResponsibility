@@ -111,7 +111,7 @@ some subjects. You may also wish to supplement the materials in this
 casebook with additional materials. We encourage you to use this
 casebook in any way that you like.
 
-This casebook is licensed "Creative Commons 0 / No Rights Reserved.”
+This casebook is licensed "Creative Commons 0 / No Rights Reserved."
 That means that we explicitly disclaim any copyright claim in all of the
 original elements that we created in writing this casebook and have
 intentionally placed the casebook in the public domain. Because this

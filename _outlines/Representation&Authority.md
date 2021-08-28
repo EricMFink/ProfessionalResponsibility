@@ -15,7 +15,7 @@ title: Scope of Representation & Authority
 
 ##### § 1.01
 
-> Agency is the fiduciary relationship that arises when one person (a “principal”) manifests assent to another person (an “agent”) that the agent shall act on the principal's behalf and subject to the principal's control, and the agent manifests 
+> Agency is the fiduciary relationship that arises when one person (a “principal") manifests assent to another person (an “agent") that the agent shall act on the principal's behalf and subject to the principal's control, and the agent manifests 
 
 ##### § 8.01
 
@@ -110,13 +110,13 @@ A lawyer may limit the scope of the representation if the limitation is reasonab
 But lawyer may not:
 
 - Limit the right of the client to fire the lawyer
-- Ask the client to accept “incompetent” representation (e.g., waive claims for ordinary negligence)
+- Ask the client to accept “incompetent" representation (e.g., waive claims for ordinary negligence)
 - Limit the client’s right to settle the case
 - Prospectively limit the lawyer’s liability for malpractice
 
 ##### Example
 
-L’s standard retainer agreement contains the following clause: “Client agrees not to hold Lawyer liable for negligence and agrees not to file suit against Lawyer.” 
+L’s standard retainer agreement contains the following clause: “Client agrees not to hold Lawyer liable for negligence and agrees not to file suit against Lawyer." 
 
 - L is subject to discipline.
 

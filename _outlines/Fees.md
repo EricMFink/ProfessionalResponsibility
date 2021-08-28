@@ -35,7 +35,7 @@ Factors
 
 ##### Rule 1.5(b)
 
-Rule says “preferably in writing”. Some jurisdictions mandate written fee agreement
+Rule says “preferably in writing". Some jurisdictions mandate written fee agreement
 
 Fee agreement is (written or oral) contract, subject to rules of contract interpretation. See *Telex v. Brobeck Phleger*
 
@@ -52,7 +52,7 @@ Fee agreement is (written or oral) contract, subject to rules of contract interp
 
 #### *Telex v. Brobeck*
 
-- Fee agreement provided for $1 million fee in case of “wash” settlement
+- Fee agreement provided for $1 million fee in case of “wash" settlement
 - Client challenged fee as excessive
 - 9th Circuit upheld fee, under deferential California standard
   - Risk of bankruptcy to client
@@ -143,15 +143,15 @@ e. Accept livestock as payment.
 3. Are there goods or services that an attorney may not accept as payment?
    a. MSNBC.com (Sept. 19, 2008) CHICAGO - An attorney has been suspended for more than year for accepting nude dances from stripper as partial payment for the legal fees she owed him. The Illinois Attorney Registration and Disciplinary Commission on Thursday said Scott Robert Erwin will begin serving 15-month suspension for misconduct next month. Erwin, who practices in the northern Illinois city of DeKalb, and his client mutually agreed that she’d perform nude dances for him in his office as way to reduce her legal fees, the commission’s report said. He credited her for $5toward his bill for services of various legal matters, the report said.
 b. Cal. Bar Journal (July 2010: JAMES MICHAEL KUMMERER [#50944], 63, of Columbus, Ind., was suspended for four years, stayed, with an actual two-year suspension and until he proves his rehabilitation, and he was ordered to take the MPRE and comply with rule 9.20. The order took effect Nov. 13, 2009. 
-        - In 2008, Kummerer was convicted in Indiana of one count of felony cocaine possession, a crime that involved moral turpitude. He accepted crack cocaine from a client as payment of a $175 bill. Kummerer asked for an “eight ball,” known to be an eighth of an ounce, or 3.5 grams, of cocaine.
+        - In 2008, Kummerer was convicted in Indiana of one count of felony cocaine possession, a crime that involved moral turpitude. He accepted crack cocaine from a client as payment of a $175 bill. Kummerer asked for an “eight ball," known to be an eighth of an ounce, or 3.5 grams, of cocaine.
         - In mitigation, he had no discipline record in 35 years of practice. He did not participate in the bar’s disciplinary proceedings.
         - According to Wikipedia, an Eight Ball of cocaine retails for about $250-300. That’s substantially more than the $175 that the client owed. By failing to deposit the surplus cocaine in the client’s trust account, did the lawyer also violate Model Rule 1.15(c)?
 
-4. Potential new client seeks to hire Attorney to represent Client in litigation. Attorney agrees to represent Client. At their first meeting, Client asks Attorney, “what are your fees?” Attorney responds, “Don’t worry. My fees are always reasonable.” Over the next few months, Client renews his question concerning fees, but each time the Attorney simply states, “My fees will be fair.” If Attorney’s fees turn out to be reasonable, has Attorney violated the Rules?
+4. Potential new client seeks to hire Attorney to represent Client in litigation. Attorney agrees to represent Client. At their first meeting, Client asks Attorney, “what are your fees?" Attorney responds, “Don’t worry. My fees are always reasonable." Over the next few months, Client renews his question concerning fees, but each time the Attorney simply states, “My fees will be fair." If Attorney’s fees turn out to be reasonable, has Attorney violated the Rules?
 
-5. Lawyer is an experienced criminal defense attorney. In recent newspaper advertisement, Lawyer stated: “If I represent you in your DUI or DWI case and you are convicted, I will give you new bicycle for free.” Is it proper for Lawyer to give new bicycle to convicted client?
+5. Lawyer is an experienced criminal defense attorney. In recent newspaper advertisement, Lawyer stated: “If I represent you in your DUI or DWI case and you are convicted, I will give you new bicycle for free." Is it proper for Lawyer to give new bicycle to convicted client?
 
-6. Client agrees to retain Lawyer to represent Client in personal injury case. Client signs Lawyer’s standard retainer agreement which describes the fee as follows: “If Client prevails in the litigation, Lawyer is to receive 1/of the recovery.” Assuming this is the entire provision related to fees, is the agreement proper?
+6. Client agrees to retain Lawyer to represent Client in personal injury case. Client signs Lawyer’s standard retainer agreement which describes the fee as follows: “If Client prevails in the litigation, Lawyer is to receive 1/of the recovery." Assuming this is the entire provision related to fees, is the agreement proper?
 
 7. Client was an experienced oil and gas developer. The client asked an attorney for representation in suit to establish the client’s ownership of certain oil and gas royalties. The client did not have available the necessary funds to pay the attorney’s reasonable hourly rate for undertaking the case. The client proposed instead to pay the attorney an amount in cash equal to 20% of the value of the proceeds received from the first year royalties the client might recover as result of the suit. The attorney accepted the proposal and took the case. Is the attorney subject to discipline?
 a. Yes, because the agreement gave the attorney proprietary interest in the client’s cause of action.
@@ -238,7 +238,7 @@ Client property must be identified appropriately safeguarded.
 
 ### Lawyers’ Fund for Client Protection
 
-Established “to reimburse persons who have lost money or property as a result of dishonest conduct of a lawyer.”
+Established “to reimburse persons who have lost money or property as a result of dishonest conduct of a lawyer."
 
 Participation is mandatory in some jurisdictions (including NC), voluntary in others
 
@@ -256,7 +256,7 @@ Attorney may hold funds/property in escrow pending resolution
 
 ## Problems
 
-Attorney represented client in personal injury action against the driver of the car in which the client was injured while passenger. The personal injury action was settled, and the attorney received check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received letter from bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me.” Is the attorney subject to discipline if she follows the client’s instructions?
+Attorney represented client in personal injury action against the driver of the car in which the client was injured while passenger. The personal injury action was settled, and the attorney received check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received letter from bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me." Is the attorney subject to discipline if she follows the client’s instructions?
 
 a. Yes, if the client does not dispute the $900 debt to the bank.
 b. Yes, because the attorney knew that the client was planning to force the bank to sue him.
@@ -270,11 +270,11 @@ b. Yes, because the attorney rendered periodic and accurate billings.
 c. No, because the attorney’s failure to withdraw her fees as billed resulted in an impermissible commingling of her funds and the client’s funds.
 d. No, because the attorney required an advanced payment against her fee.
 
-Dan retained Attorney to appeal Dan’s criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $per hour. Attorney received $800 from Dan of which $300 was deposit to secure Attorney’s fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: “Fee Account,” in which fees were deposited and from which office expenses were paid, and “Clients’ Fund Account.” Attorney deposited the $800 in the Clients’ Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
+Dan retained Attorney to appeal Dan’s criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $per hour. Attorney received $800 from Dan of which $300 was deposit to secure Attorney’s fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: “Fee Account," in which fees were deposited and from which office expenses were paid, and “Clients’ Fund Account." Attorney deposited the $800 in the Clients’ Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
 
 - What should Attorney do?
 
-Lawyer represents Client in personal injury case. The case settles for $25,000. On the day before Lawyer receives the settlement check, Lawyer receives signed letter from Client’s treating Physician. The letter states that Client owes Physician $2,000 for medical treatment. Enclosed with the letter is document entitled “Assignment” by which Client assigned any potential settlement/judgment proceeds to Physician. The Letter requests that Lawyer send $2,000 of the settlement proceeds to Physician? Client tells Lawyer not to pay Physician. 
+Lawyer represents Client in personal injury case. The case settles for $25,000. On the day before Lawyer receives the settlement check, Lawyer receives signed letter from Client’s treating Physician. The letter states that Client owes Physician $2,000 for medical treatment. Enclosed with the letter is document entitled “Assignment" by which Client assigned any potential settlement/judgment proceeds to Physician. The Letter requests that Lawyer send $2,000 of the settlement proceeds to Physician? Client tells Lawyer not to pay Physician. 
 
 - What should Lawyer do?
 

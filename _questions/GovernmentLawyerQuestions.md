@@ -61,11 +61,11 @@ Altman, a lawyer for the SEC, supervised an investigation and litigation against
 Prior to his election as City Attorney, Herrera represented Cobra Solutions, Inc. in various matters, including dealings with the City. Following an investigation, which began under the direction of Herrera’s predecessor in office, the City sued Cobra for fraud in connection with a city contract. 
 	
 - Is Herrera disqualified from representing the City in the suit against Cobra? Yes, based on the duties of confidentiality and loyalty, because the suit was substantially related to the subject of Herrera’s prior representation of Cobra
-- Is the disqualification imputed to the rest of the City Attorney’s office? Yes. “Public perception that a city attorney and his deputies might be influenced by the city attorney’s previous representations of the client, at the expense of the best interests of the city, would insidiously undermine public confidence in the integrity of municipal government and its city attorney’s office.”
+- Is the disqualification imputed to the rest of the City Attorney’s office? Yes. “Public perception that a city attorney and his deputies might be influenced by the city attorney’s previous representations of the client, at the expense of the best interests of the city, would insidiously undermine public confidence in the integrity of municipal government and its city attorney’s office."
 
 ### Question 9
 
-A, B, and C are charged with raping X. Immediately after the alleged rape, X was treated at a local emergency room. While in the hospital, the nurse completed a “rape kit,” which included material that could be tested for DNA. When Prosecutor sent the rape kit to the lab for testing, the DNA of several men were found on the X’s body and undergarments. None of the DNA tests, however, matched A, B, or C. Despite requests by defense counsel, Prosecutor failed to disclose the DNA matches of the other men in the rape kit. 
+A, B, and C are charged with raping X. Immediately after the alleged rape, X was treated at a local emergency room. While in the hospital, the nurse completed a “rape kit," which included material that could be tested for DNA. When Prosecutor sent the rape kit to the lab for testing, the DNA of several men were found on the X’s body and undergarments. None of the DNA tests, however, matched A, B, or C. Despite requests by defense counsel, Prosecutor failed to disclose the DNA matches of the other men in the rape kit. 
 
 Is Prosecutor subject to discipline?
 

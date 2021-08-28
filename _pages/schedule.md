@@ -159,11 +159,10 @@ No class
 
 - [NCRPC Rules 1.1, 1.3, 1.4, 1.14](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [2.1](https://www.emfink.net/ProfessionalResponsibility/rules/Section2)
 - [Restatement §§ 48-58](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap4)
-- [Equitania Insirance v. Slone & Garrett](https://www.emfink.net/ProfessionalResponsibility/cases/Equitania), 191 S.W.3d 552 (Ky. 2006)
+- [Equitania Insurance v. Slone & Garrett](https://www.emfink.net/ProfessionalResponsibility/cases/Equitania), 191 S.W.3d 552 (Ky. 2006)
 - [TIG Insurance v. Giffin Winning Cohen & Bodewes](https://www.emfink.net/ProfessionalResponsibility/cases/TIG), 444 F. 3d 587 (7th Cir. 2006)
 - [Ang v. Martin](https://www.emfink.net/ProfessionalResponsibility/cases/Ang), 114 P. 3d 637 (Wash. 2005)
 - [Marker v. Greenberg](https://www.emfink.net/ProfessionalResponsibility/cases/Marker), 313 N.W.2d 4 (Minn. 1981)
-- [Strickland v. Washington](https://www.emfink.net/ProfessionalResponsibility/cases/Strickland), 466 U.S. 668 (1984)
 - [Knowles v. Mirzayance](https://www.emfink.net/ProfessionalResponsibility/cases/Knowles), 556 U.S. 111 (2009)
 - [Lee v. U.S.](https://www.emfink.net/ProfessionalResponsibility/cases/Lee), 137 S. Ct. 1958 (2017)
 

@@ -23,7 +23,7 @@ Meanwhile, Enrique Cesares is laid off from his job, and he asks Álvaro whether
 >   
 > He arranged to see Cesares. He explained the steps he’d taken, his investigations at the ministry and the union, illustrated the situation with analogous examples, clarified the various juridical details, added data the factory had supplied. Finally, he invented interviews and lied coldly.
 >   
-> He concluded, “I don’t think there’s the slightest chance they’ll accept the appeal.”
+> He concluded, “I don’t think there’s the slightest chance they’ll accept the appeal."
 
 Was Álvaro's conduct proper under Rules 1.7 & 1.8? 
 

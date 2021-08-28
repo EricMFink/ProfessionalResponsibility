@@ -32,19 +32,19 @@ Attorney wants to make it easier for her clients to pay their bills for fees. Wh
 
 ### Question 3
 
-A potential new client seeks to hire Attorney to represent Client in litigation. Attorney agrees to represent Client. At their first meeting, Client asks Attorney, “what are your fees?” Attorney responds, “Don’t worry. My fees are always reasonable.” Over the next few months, Client renews his question concerning fees, but each time the Attorney simply states, “My fees will be fair.” 
+A potential new client seeks to hire Attorney to represent Client in litigation. Attorney agrees to represent Client. At their first meeting, Client asks Attorney, “what are your fees?" Attorney responds, “Don’t worry. My fees are always reasonable." Over the next few months, Client renews his question concerning fees, but each time the Attorney simply states, “My fees will be fair." 
 
 If Attorney’s fees turn out to be reasonable, has Attorney violated the Rules?
 
 ### Question 4
 
-Lawyer is an experienced criminal defense attorney. In a recent newspaper advertisement, Lawyer stated: “If I represent you in your DUI or DWI case and you are convicted, I will give you a new bicycle for free.” 
+Lawyer is an experienced criminal defense attorney. In a recent newspaper advertisement, Lawyer stated: “If I represent you in your DUI or DWI case and you are convicted, I will give you a new bicycle for free." 
 
 Is it proper for Lawyer to give a new bicycle to a convicted client?
 
 ### Question 5
 
-Client agrees to retain Lawyer to represent Client in a personal injury case. Client signs Lawyer’s standard retainer agreement which describes the fee as follows: “If Client prevails in the litigation, Lawyer is to receive 33 1/3% of the recovery.” 
+Client agrees to retain Lawyer to represent Client in a personal injury case. Client signs Lawyer’s standard retainer agreement which describes the fee as follows: “If Client prevails in the litigation, Lawyer is to receive 33 1/3% of the recovery." 
 
 Assuming this is the entire provision related to fees, is the agreement proper?
 
@@ -87,7 +87,7 @@ Client hires Lawyer A to represent Client in a real estate transaction. Lawyer A
 
 ### Question 10
 
-An attorney represented a client in a personal injury action against the driver of the car in which the client was injured while a passenger. The personal injury action was settled, and the attorney received a check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received a letter from a bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me.” 
+An attorney represented a client in a personal injury action against the driver of the car in which the client was injured while a passenger. The personal injury action was settled, and the attorney received a check in the amount of $10,000 payable to the attorney. The attorney deposited the check in her clients’ trust account. One day later, the attorney received a letter from a bank, which had heard of the settlement of the personal injury lawsuit. The bank informed the attorney that the client had failed to make his monthly mortgage payments for the last three months and demanded that the attorney immediately release $900 of the proceeds of the settlement to the bank or the bank would institute mortgage foreclosure proceedings against the client. The attorney informed the client of the bank’s letter. The client responded: “I don’t care what the bank does. The property is essentially worthless, so let the bank foreclose. If the bank wants to sue me, I’ll be easy enough to find. I don’t think they’ll even bother. You just take your legal fees and turn the rest of the proceeds over to me." 
 
 Is the attorney subject to discipline if she follows the client’s instructions?
 
@@ -115,13 +115,13 @@ d. No, because the attorney required an advanced payment against her fee.
 
 ### Question 12
 
-Dan retained Attorney to appeal Dan’s criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $50 per hour. Attorney received $800 from Dan of which $300 was a deposit to secure Attorney’s fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: a “Fee Account,” in which fees were deposited and from which office expenses were paid, and a “Clients’ Fund Account.” Attorney deposited the $800 in the Clients’ Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
+Dan retained Attorney to appeal Dan’s criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $50 per hour. Attorney received $800 from Dan of which $300 was a deposit to secure Attorney’s fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: a “Fee Account," in which fees were deposited and from which office expenses were paid, and a “Clients’ Fund Account." Attorney deposited the $800 in the Clients’ Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
 
 What should Attorney do?
 
 ### Question 13
 
-Lawyer represents Client in a personal injury case. The case settles for $25,000. On the day before Lawyer receives the settlement check, Lawyer receives a signed letter from Client’s treating Physician. The letter states that Client owes Physician $2,000 for medical treatment. Enclosed with the letter is a document entitled “Assignment” by which Client assigned any potential settlement/judgment proceeds to Physician. The Letter requests that Lawyer send $2,000 of the settlement proceeds to Physician? Client tells Lawyer not to pay Physician. 
+Lawyer represents Client in a personal injury case. The case settles for $25,000. On the day before Lawyer receives the settlement check, Lawyer receives a signed letter from Client’s treating Physician. The letter states that Client owes Physician $2,000 for medical treatment. Enclosed with the letter is a document entitled “Assignment" by which Client assigned any potential settlement/judgment proceeds to Physician. The Letter requests that Lawyer send $2,000 of the settlement proceeds to Physician? Client tells Lawyer not to pay Physician. 
 
 What should Lawyer do?
 

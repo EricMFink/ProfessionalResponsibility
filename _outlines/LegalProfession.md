@@ -24,7 +24,7 @@ Jurisdictional boundaries and claims are subject to contest by other (establishe
 
 ### Knowledge-Based Practice
 
-Abbott (1988:8) distinguishes two “ways occupational groups control knowledge and skill”:
+Abbott (1988:8) distinguishes two “ways occupational groups control knowledge and skill":
 
 > One emphasizes technique per se, and occupations using it are commonly called crafts. To control such an occupation, a group directly controls its technique. The other form of control involves abstract knowledge. Here, practical skill grows out of an abstract system of knowledge, and control of the occupation lies in control of the abstractions that generate the practical techniques. The techniques themselves may in fact be delegated to other workers. For me this characteristic of abstraction is the one that best identifies the professions.
 
@@ -34,7 +34,7 @@ Formal educational requirements are common but not universal.
 
 ### Orientation Toward Work
 
-> Today the term “professional” refers more to a prescribed attitude toward any work than the status of some work. To act like a professional—to be professional in one’s work—calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not “take it personally” when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to “be professional,” to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the post-Fordist labor hierarchy.
+> Today the term “professional" refers more to a prescribed attitude toward any work than the status of some work. To act like a professional—to be professional in one’s work—calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not “take it personally" when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to “be professional," to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the post-Fordist labor hierarchy.
 
 Kathi Weeks, _The Problem with Work: Feminism, Marxism, Antiwork Politics, & Postwork Imaginaries_ (2011:74)
 
@@ -58,7 +58,7 @@ The social organization of professions includes:
 
 - Firms
 - Professional-cultural bodies
-	- “[N]ot involved in practice, but only in the purely professional work of maintaining and furthering professional knowledge.” Abbott (1988:80)
+	- “[N]ot involved in practice, but only in the purely professional work of maintaining and furthering professional knowledge." Abbott (1988:80)
 
 # Regulation of Lawyers
 
@@ -74,10 +74,10 @@ The social organization of professions includes:
 
 #### State Bar
 
-- “State Bar”: licensing and disciplinary authority
+- “State Bar": licensing and disciplinary authority
 	- [NC State Bar](https://www.ncbar.gov/)
-- “State Bar Association”: professional association
-    - Membership is voluntary, except in an "unit" or “integrated” bar
+- “State Bar Association": professional association
+    - Membership is voluntary, except in an "unit" or “integrated" bar
 	- Typically offer continuing legal education, client referrals, and other resources for members
     - NC is an "integrated bar" (State Bar of North Carolina). 
 		- But there is also a voluntary association, [NCBA](https://www.ncbar.org/)

@@ -8,7 +8,7 @@ title: 'Review Questions: Law Firms & Unauthorized Practice of Law'
 
 ### Question 1
 
-Attorney Applebaum is recognized as an expert in securities regulation law. Corporation retained Applebaum’s law firm to qualify Corporation’s stock for public sale. After accepting the matter, Applebaum decided that he preferred to spend his time on cases with larger fee potential, so he assigned responsibility for the Corporation matter to Attorney Becker, an associate in Applebaum’s office who had recently been admitted to the bar. Becker protested to Applebaum that he, Becker, knew nothing about securities regulation law and that he had too little time to prepare himself to handle the Corp matter competently without substantial help from Applebaum. Applebaum responded, “I don’t have time to help you. Everyone has to start somewhere.” Applebaum directed Becker to proceed. Was Applebaum’s conduct proper in this matter?
+Attorney Applebaum is recognized as an expert in securities regulation law. Corporation retained Applebaum’s law firm to qualify Corporation’s stock for public sale. After accepting the matter, Applebaum decided that he preferred to spend his time on cases with larger fee potential, so he assigned responsibility for the Corporation matter to Attorney Becker, an associate in Applebaum’s office who had recently been admitted to the bar. Becker protested to Applebaum that he, Becker, knew nothing about securities regulation law and that he had too little time to prepare himself to handle the Corp matter competently without substantial help from Applebaum. Applebaum responded, “I don’t have time to help you. Everyone has to start somewhere." Applebaum directed Becker to proceed. Was Applebaum’s conduct proper in this matter?
     
 a. Yes, because as a member of the bar, Becker is licensed to handle any legal matter.
 
@@ -135,7 +135,7 @@ Is Attorney subject to discipline?
 
 ### Question 13
 
-Plaintiff, who is not a lawyer, is representing himself in small claims court in an action to recover his security deposit from his former landlord. Plaintiff told Attorney, a close friend who lived nearby him, about this case, but did not ask Attorney for any advice. Attorney said, “I’ll give you some free advice. It would help your case if the new tenants would testify that the apartment was in good shape when they moved in, and, contrary to the allegation of your former landlord, it was not, in fact, repainted for them.” Plaintiff followed Attorney’s advice and won his case. 
+Plaintiff, who is not a lawyer, is representing himself in small claims court in an action to recover his security deposit from his former landlord. Plaintiff told Attorney, a close friend who lived nearby him, about this case, but did not ask Attorney for any advice. Attorney said, “I’ll give you some free advice. It would help your case if the new tenants would testify that the apartment was in good shape when they moved in, and, contrary to the allegation of your former landlord, it was not, in fact, repainted for them." Plaintiff followed Attorney’s advice and won his case. 
 
 Is Attorney subject to discipline for assisting Plaintiff in preparing for his court appearance?
     
@@ -164,7 +164,7 @@ d. No, unless Adelman believes that the wife’s interests can be adequately pro
 
 ### Question 15
 
-Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year.”
+Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year."
     
 - Is Applebaum subject to discipline if she requires Darrow to sign the contract?
 - Is Dewey subject to discipline if he signs the contract?

@@ -31,7 +31,7 @@ In order to establish a violation of DR5-104(A) it is necessary to show that the
 
 The definitions section of the code of professional responsibility defines "differing interests": 
 
-> "Differing interests” include every interest that will adversely affect either the judgment or loyalty of a lawyer to a client, whether it be a conflicting, inconsistent, diverse, or other interest. 
+> "Differing interests" include every interest that will adversely affect either the judgment or loyalty of a lawyer to a client, whether it be a conflicting, inconsistent, diverse, or other interest. 
 
 Miller and Mershon plainly had differing interests in at least two aspects of the transaction. One was the issue of giving respondent a present interest in the corporation in anticipation of future legal services. The fee agreement was made during the existence of the attorney-client relationship and thus was subject to the general principles governing attorney-client transactions. Because respondent’s fee was tied to the amount of his stock in the corporation, he and Miller had differing interests concerning the extent of respondent's stock ownership. Another differing interest involved making respondent a debtor of the corporation to assure that the services would be performed. Because Miller’s interest was aligned wholly with the corporation, he and respondent had differing interests with respect to respondent's promissory note. 
 
