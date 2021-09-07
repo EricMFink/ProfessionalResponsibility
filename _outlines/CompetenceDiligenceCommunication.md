@@ -26,13 +26,13 @@ Example: L represented A in the case of A v. B. B prevailed at the trial court. 
 #### Consultation with other lawyers
 
 A lawyer may be required to consult with another lawyer if the matter calls for some specific expertise, such as patent law or admiralty, that the ordinary lawyer does not possess
-    - Note: fee-splitting with attorneys outside the lawyer’s firm requires written consent of the client (infra).
+    - Note: fee-splitting with attorneys outside the lawyer's firm requires written consent of the client (infra).
 
 #### Consultation with non-lawyer experts
 
 A lawyer may retain a “consulting expert" in a field other than law to assist the lawyer in representing a client
 
-- Consulting expert’s opinions, etc. are generally protected from disclosure under FRCP 26
+- Consulting expert's opinions, etc. are generally protected from disclosure under FRCP 26
 - Consulting expert can sit at counsel table, attend depositions, attend settlement negotiations, etc.
 
 #### Study and research 
@@ -75,8 +75,8 @@ Lawyer must promptly respond to client requests for information
 Lawyer must keep client informed (even absent a request by client) about: 
 
 - Status of the matter
-- Decisions requiring the client’s consent
-- Limitations on the lawyer’s conduct mandated by the Rules
+- Decisions requiring the client's consent
+- Limitations on the lawyer's conduct mandated by the Rules
 
 #### Examples
 
@@ -88,7 +88,7 @@ Lawyer for defendant makes settlement offer to lawyer for plaintiff. Lawyer must
 
  Lawyer for plaintiff receives check from lawyer for defendant, representing amount of judgment or settlement. Lawyer must promptly notify client (and must deposit check in client trust account)
 
-### Provisions for Lawyer’s Unavailability
+### Provisions for Lawyer's Unavailability
 
 A solo practitioner should make arrangements for another lawyer to review files and contact clients in the event the solo practitioner suddenly becomes disabled or dies unexpectedly.
 
@@ -96,7 +96,7 @@ A solo practitioner should make arrangements for another lawyer to review files 
 
 In extraordinary circumstances, a lawyer may delay communication if the lawyer believes the client may react imprudently (e.g., if a mental health worker has advised the attorney that the client may become violent or suicidal upon learning the information)
 
-A lawyer must withhold information from a client if so ordered by the court (i.e., an “attorneys’ eyes only" protective order)
+A lawyer must withhold information from a client if so ordered by the court (i.e., an “attorneys' eyes only" protective order)
 
 ## Exercise of Judgment 
 
@@ -104,11 +104,11 @@ Rule 2.1
 
 #### Problems
 
-Lawyer represents ABC Corp. ABC has a very good breach of contract action against one of its regular customers, XYZ Corp. ABC hires Lawyer to sue XYZ. Lawyer advises ABC’s president that, “although you have a great lawsuit and I’m prepared to file the complaint, I do not think it is a wise business decision for you to sue a regular customer?"  
+Lawyer represents ABC Corp. ABC has a very good breach of contract action against one of its regular customers, XYZ Corp. ABC hires Lawyer to sue XYZ. Lawyer advises ABC's president that, “although you have a great lawsuit and I'm prepared to file the complaint, I do not think it is a wise business decision for you to sue a regular customer?"  
 
 - Did Lawyer act properly?
 
-Lawyer represents A in a child custody dispute. A is the custodial parent of three children. A’s former spouse, B, has filed the child custody suit in an attempt to obtain custody of the children. A is a heavy drinker and has had considerable difficulty raising the children. Lawyer advises A:  “I think you should seek treatment for your drinking and attend some parenting classes."  
+Lawyer represents A in a child custody dispute. A is the custodial parent of three children. A's former spouse, B, has filed the child custody suit in an attempt to obtain custody of the children. A is a heavy drinker and has had considerable difficulty raising the children. Lawyer advises A:  “I think you should seek treatment for your drinking and attend some parenting classes."  
 
 - Did Lawyer act properly?
 

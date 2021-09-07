@@ -52,11 +52,11 @@ Any reasonable doubts will be resolved in favor of the client (e.g., a client ma
 
 ##### Example
 
-A visits L’s office and asks L to represent him in an automobile accident case. L only handles tax cases, so L declines to represent A. L should: 
+A visits L's office and asks L to represent him in an automobile accident case. L only handles tax cases, so L declines to represent A. L should: 
 
 - Advise A to visit other lawyers; 
 - Advise A of any impending deadlines (e.g., statute of limitations -- if the deadline is about to expire, L may be required to do more, such as filing a complaint for A before declining representation); 
-- Protect A’s confidences; and 
+- Protect A's confidences; and 
 - Notify A in writing that he is declining the representation.
 
 ##### Rule 1.16
@@ -111,12 +111,12 @@ Reasonableness standard applies to termination as well as formation
 
 Lawyer, a partner in the Smith Law Firm, represents A in litigation. When A receives a document production request, A instructs Lawyer to destroy some relevant documents. Lawyer explains to A that such destruction is illegal and unethical, but A insists that Lawyer destroy the documents. 
 
-- What are Lawyer’s ethical obligations?
+- What are Lawyer's ethical obligations?
 - May A fire Lawyer and, if so, does Lawyer have any recourse?
 
-Lawyer represents A in a large business transaction. Over the past few years, Lawyer has become addicted to illegal drugs. The addiction has reached a point where Lawyer is unable to concentrate for more than a few minutes at a time. A’s business transaction is very complicated and will take nearly one hundred hours to complete. 
+Lawyer represents A in a large business transaction. Over the past few years, Lawyer has become addicted to illegal drugs. The addiction has reached a point where Lawyer is unable to concentrate for more than a few minutes at a time. A's business transaction is very complicated and will take nearly one hundred hours to complete. 
 
-- What are Lawyer’s ethical obligations?
+- What are Lawyer's ethical obligations?
 
 ## Permissive Withdrawal
 
@@ -128,7 +128,7 @@ A hires Lawyer to represent A in a products liability suit. Within the first wee
 
 - May A withdraw?  
 
-Lawyer, a partner in the Smith Law Firm, represents A in litigation. When A receives a document production request, A decides to destroy some relevant documents. Lawyer learns of A’s plans and explains to A that such destruction is illegal and unethical, but A insists on destroying the documents.
+Lawyer, a partner in the Smith Law Firm, represents A in litigation. When A receives a document production request, A decides to destroy some relevant documents. Lawyer learns of A's plans and explains to A that such destruction is illegal and unethical, but A insists on destroying the documents.
 
 - Must Lawyer withdraw?
 - May Lawyer withdraw?
@@ -139,17 +139,17 @@ A. Yes, because a lawyer may withdraw when the financial burden of continuing th
 
 B. Yes, because the clients consented to the withdrawal in the stipulation.
 
-C. No, because a client’s failure to pay fees when due may be insufficient in itself to justify withdrawal.
+C. No, because a client's failure to pay fees when due may be insufficient in itself to justify withdrawal.
 
 D. No, unless clients are provided an opportunity to seek independent legal advice before signing the stipulation.
 
-Client has retained Attorney to represent Client in a contract suit. Attorney’s retainer agreement provided that Attorney’s fees would be based on a fixed hourly rate, payable at the end of each calendar month. Two months before trial, Client fell behind in the payment of Attorney’s monthly billing for fees. Attorney included the following statement on Attorney’s last bill to Client: “Your account is more than thirty days past due. If amounts due are not paid promptly in accordance with our agreement, I will terminate the representation. If you cannot pay the amount due, I will accept an assignment of your cause of action as security for your fee to me." Two weeks after the last billing, Attorney telephoned Client and told Client that Attorney would withdraw from representing Client if the bill was not paid within forty-eight hours or adequate security given for its payment. Forty-eight hours later, the client has neither paid the bill nor given security. 
+Client has retained Attorney to represent Client in a contract suit. Attorney's retainer agreement provided that Attorney's fees would be based on a fixed hourly rate, payable at the end of each calendar month. Two months before trial, Client fell behind in the payment of Attorney's monthly billing for fees. Attorney included the following statement on Attorney's last bill to Client: “Your account is more than thirty days past due. If amounts due are not paid promptly in accordance with our agreement, I will terminate the representation. If you cannot pay the amount due, I will accept an assignment of your cause of action as security for your fee to me." Two weeks after the last billing, Attorney telephoned Client and told Client that Attorney would withdraw from representing Client if the bill was not paid within forty-eight hours or adequate security given for its payment. Forty-eight hours later, the client has neither paid the bill nor given security. 
 
 - May Attorney move the court for permission to withdraw?
-- May Attorney turn Client’s file over to another experienced lawyer in town and notify Client that Attorney no longer represents Client?
-- May Attorney accept an assignment of Client’s cause of action as security for Attorney’s fees?
+- May Attorney turn Client's file over to another experienced lawyer in town and notify Client that Attorney no longer represents Client?
+- May Attorney accept an assignment of Client's cause of action as security for Attorney's fees?
 
-For many years, Attorney served as outside counsel for Corp. Shortly after a change in management, Attorney discovered what she reasonably believed to be a material misstatement in a document she had drafted that Attorney was about to file on Corp’s behalf with a government agency. Attorney advised Corp’s Board of Directors that filing the document was probably criminal. However, the Board disagreed that there was any material misstatement and directed Attorney to proceed with filing. When Attorney indicated her intention to resign, Corp argued that resignation at this time would send a signal that there was a problem with the filing. Corp urged Attorney to continue representation, but offered to use in-house counsel to complete the work on the filing. Although she does not know for certain that filing the document is illegal, Attorney reasonably believes that it is. In any event, Attorney is personally uncomfortable with the representation and wants to withdraw. May Attorney withdraw from her representation of Corp?
+For many years, Attorney served as outside counsel for Corp. Shortly after a change in management, Attorney discovered what she reasonably believed to be a material misstatement in a document she had drafted that Attorney was about to file on Corp's behalf with a government agency. Attorney advised Corp's Board of Directors that filing the document was probably criminal. However, the Board disagreed that there was any material misstatement and directed Attorney to proceed with filing. When Attorney indicated her intention to resign, Corp argued that resignation at this time would send a signal that there was a problem with the filing. Corp urged Attorney to continue representation, but offered to use in-house counsel to complete the work on the filing. Although she does not know for certain that filing the document is illegal, Attorney reasonably believes that it is. In any event, Attorney is personally uncomfortable with the representation and wants to withdraw. May Attorney withdraw from her representation of Corp?
 
 - Must Attorney withdraw?
 
@@ -180,9 +180,9 @@ Applies to funds that the client will receive in the future as the result of a j
 
 #### Problems 
 
-Lawyer was retained by Client to defend Client in a pending criminal case. Client has failed to pay Lawyer’s monthly fees for six consecutive months. After numerous warnings, Lawyer would like to withdraw. Lawyer files a motion with the court seeking leave to withdraw, but the court denies the motion. 
+Lawyer was retained by Client to defend Client in a pending criminal case. Client has failed to pay Lawyer's monthly fees for six consecutive months. After numerous warnings, Lawyer would like to withdraw. Lawyer files a motion with the court seeking leave to withdraw, but the court denies the motion. 
 
-- What are Lawyer’s obligations to Client and the court?
+- What are Lawyer's obligations to Client and the court?
 - Assuming the court grants Lawyer leave to withdraw, what actions must Lawyer take to end her relationship with Client?
 - If Client fails to pay the past-due fees to Lawyer, is there anything Lawyer may do to ensure payment?
 

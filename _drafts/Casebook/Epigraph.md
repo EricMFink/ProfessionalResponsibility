@@ -24,10 +24,10 @@ by solemn asseveration, by indignant exclamation, by gesture, by play of
 features, by terrifying one honest witness, by perplexing another, to
 cause a jury to think that statement false._[4]
 
-_Justice says ye? I tell ye Hogan’s r-right whin he says: ‘Justice is
-blind.’ Blind she is, an’ deef an’ dumb an’ has a wooden leg! Niver
-again will they dhraw me to a coort. I’ll take th’ rude justice iv a
-piece iv lead pipe without costs or th’ r-right iv appeal._[5]
+_Justice says ye? I tell ye Hogan's r-right whin he says: ‘Justice is
+blind.' Blind she is, an' deef an' dumb an' has a wooden leg! Niver
+again will they dhraw me to a coort. I'll take th' rude justice iv a
+piece iv lead pipe without costs or th' r-right iv appeal._[5]
 
 _Lawyer — One who protects us against robbers by taking away the
 temptation._[6]
@@ -54,7 +54,7 @@ Legal Profession in Antiquity_, 19 Notre Dame L. Rev. 203
 [4] [Thomas Babington Macaulay, _Essay on Francis Bacon_
 (1874)](https://books.google.com/books?id=eLs-AAAAYAAJ&pg=PA376&lpg=PA376#v=onepage&q&f=false).
 
-[5] [Finley Peter Dunne, _Mr. Dooley’s Opinions_ 118
+[5] [Finley Peter Dunne, _Mr. Dooley's Opinions_ 118
 (1901)](https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t9280x26m;view=1up;seq=128).
 
 [6] H.L. Mencken, _A Mencken Chrestomathy_ (1949).

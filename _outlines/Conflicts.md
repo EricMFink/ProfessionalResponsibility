@@ -17,7 +17,7 @@ title: Conflicts of Interest
 > 
 > (1) the representation of one client will be directly adverse to another client; or 
 > 
-> (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer’s responsibilities to another client, a former client or a third person or a by personal interest of the lawyer.
+> (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or a by personal interest of the lawyer.
 
 ### Directly Adverse 
 
@@ -78,7 +78,7 @@ title: Conflicts of Interest
 
 ##### Examples
 
-1. Lawyer represents A in a pending automobile accident lawsuit against X. B has made an offer to buy A’s house. B asks Lawyer to represent B in the closing.
+1. Lawyer represents A in a pending automobile accident lawsuit against X. B has made an offer to buy A's house. B asks Lawyer to represent B in the closing.
 
    - Lawyer may NOT represent B in the closing, unless both clients consent in writing and neither client will be adversely affected (which may well be true if both give informed consent).
 
@@ -90,7 +90,7 @@ title: Conflicts of Interest
 	        - Lawyer's conflict is imputed to all other lawyers in the firm, and 
 	        - The conflict is not waivable under Rule 1.7(b), because it involves the assertion of a claim by one client of the firm against another client of the firm *in the same action*. 
 
-3. Lawyer represents A in a pending automobile accident lawsuit against X. While A’s case is pending, W asks Lawyer to represent W in an unrelated real estate lawsuit against A.
+3. Lawyer represents A in a pending automobile accident lawsuit against X. While A's case is pending, W asks Lawyer to represent W in an unrelated real estate lawsuit against A.
 
 	- Lawyer may NOT represent W, even if both clients consent.
 	    - Because Lawyer cannot reasonably believe they could provide competent and diligent representation to both clients. 
@@ -149,16 +149,16 @@ title: Conflicts of Interest
 
 ##### Rule 1.9(c)
 
-- May not use information to former client’s disadvantage, unless
+- May not use information to former client's disadvantage, unless
 	- The Rules would otherwise permit, or
 	- The information has become generally known
 - May not reveal information, except as Rules otherwise permit or require for client information
 
 ##### Example
 
-Five years ago, L prepared a will for A. During this process, L learned a great deal about A’s “secret" assets. X now asks L to sue A to collect a promissory note.
+Five years ago, L prepared a will for A. During this process, L learned a great deal about A's “secret" assets. X now asks L to sue A to collect a promissory note.
 
-- L may not represent X because L has confidential information about A, L’s former client, that L could use to the disadvantage of A
+- L may not represent X because L has confidential information about A, L's former client, that L could use to the disadvantage of A
 
 # Conflicts Between Lawyer & Client
 
@@ -230,7 +230,7 @@ Five years ago, L prepared a will for A. During this process, L learned a great 
 ##### Rule 1.9(b)
 
 - Same or substantially related matter
-- Current client’s interests are materially adverse to client of former firm
+- Current client's interests are materially adverse to client of former firm
 - Lawyer had information protected by Rules 1.6 & 1.9(c) that is material to the matter
 
 Waivable with informed written consent by *former* client
@@ -239,7 +239,7 @@ Waivable with informed written consent by *former* client
 
 ##### Rule 1.10(b)
 
-- Firm may not represent a person with interests materially adverse to former lawyer’s client (not currently represented by Firm), if:
+- Firm may not represent a person with interests materially adverse to former lawyer's client (not currently represented by Firm), if:
 	- Same or substantially related matter, and
 	- Any lawyer remaining in the firm has material information about the former client protected by Rules 1.6 and 1.9(c)
 
@@ -252,15 +252,15 @@ Waivable with informed written consent by *former* client
 - Where one lawyer in firm is disqualified by conflict, all lawyers in the firm are disqualified
 - Exception:
 	- Conflict based on personal interest of lawyer, and
-	- No significant risk that the lawyer’s personal interest will materially limit representation by another lawyer in the firm
+	- No significant risk that the lawyer's personal interest will materially limit representation by another lawyer in the firm
 
-## Conflicts Involving Client of Lawyer’s Former Firm
+## Conflicts Involving Client of Lawyer's Former Firm
 
 - Not imputed to other lawyers in the current firm if:
 	- Disqualified lawyer is timely screened and receives no portion of fee
 	- Former client receives written notice
 		- describing the screening procedures
-		- stating firm’s compliance with the Rules
+		- stating firm's compliance with the Rules
 		- stating that review may be available from tribunal
 	- Firm agrees to respond to any written inquiries or objections by former client regarding screening procedures
 - Not imputed to lawyers at former firm if former client is not currently represented by the firm, unless:

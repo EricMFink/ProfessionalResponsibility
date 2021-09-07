@@ -89,7 +89,7 @@ Lawyer retains authority over tactical & logistical/procedural decisions
 
 Lawyer should consult with client about these decisions, where possible
 
-- If client objects to a lawyer’s tactical or technical decisions, lawyer should defer to the client’s wishes, unless client’s wishes are contrary to law or applicable ethics rules
+- If client objects to a lawyer's tactical or technical decisions, lawyer should defer to the client's wishes, unless client's wishes are contrary to law or applicable ethics rules
 
 #### Restatement of the Law Governing Lawyers, §§ 16-30
 
@@ -111,12 +111,12 @@ But lawyer may not:
 
 - Limit the right of the client to fire the lawyer
 - Ask the client to accept “incompetent" representation (e.g., waive claims for ordinary negligence)
-- Limit the client’s right to settle the case
-- Prospectively limit the lawyer’s liability for malpractice
+- Limit the client's right to settle the case
+- Prospectively limit the lawyer's liability for malpractice
 
 ##### Example
 
-L’s standard retainer agreement contains the following clause: “Client agrees not to hold Lawyer liable for negligence and agrees not to file suit against Lawyer." 
+L's standard retainer agreement contains the following clause: “Client agrees not to hold Lawyer liable for negligence and agrees not to file suit against Lawyer." 
 
 - L is subject to discipline.
 

@@ -11,11 +11,11 @@ This is an appeal from an order of the Hennepin County District Court in a legal
 
 For purposes of this appeal, the facts are uncontested. Appellant's father, Theodore Marker, retained respondent, an attorney, for estate planning services. In December 1972 respondent prepared a will for appellant's father. In August 1973, on behalf of appellant's father, respondent drafted deeds which conveyed certain real estate to appellant's father and appellant as joint tenants.
 
-Appellant’s father died on December 24, 1977. Because the real estate in question was held by appellant and his father as joint tenants, its entire value, $120,000, was included in the decedent’s gross estate for tax purposes.
+Appellant's father died on December 24, 1977. Because the real estate in question was held by appellant and his father as joint tenants, its entire value, $120,000, was included in the decedent's gross estate for tax purposes.
 
-Appellant asserts that, if he and his father had held the real estate as tenants in common, $20,858.18 in federal and state taxes would have been saved. Appellant commenced this action to recover the amount of the additional estate taxes, claiming the loss resulted from respondent’s negligence in not having the real estate conveyed into tenancy in common.
+Appellant asserts that, if he and his father had held the real estate as tenants in common, $20,858.18 in federal and state taxes would have been saved. Appellant commenced this action to recover the amount of the additional estate taxes, claiming the loss resulted from respondent's negligence in not having the real estate conveyed into tenancy in common.
 
-Appellant was never a client of respondent. Appellant does not allege that he was a beneficiary of his father’s estate with respect to this property, but that he was a surviving joint tenant.
+Appellant was never a client of respondent. Appellant does not allege that he was a beneficiary of his father's estate with respect to this property, but that he was a surviving joint tenant.
 
 The trial court granted summary judgment in favor of the respondent and dismissed the complaint. Therefore, the issue arises as to whether a surviving joint tenant has a cause of action for malpractice against the attorney who drafted the joint tenancy deeds when the surviving joint tenant was never a client of the attorney.
 

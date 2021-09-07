@@ -98,7 +98,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 >  
 > (6) to comply with other law or a court order; or
 
-> (7) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client. 
+> (7) to detect and resolve conflicts of interest arising from the lawyer's change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client. 
 
 (c) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
@@ -190,7 +190,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 > 
 > (1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
 
-> (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
+> (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer's association with a prior firm, and
 
 > > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
 > > 
@@ -362,7 +362,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 	(2) fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
 
-	(3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer’s client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
+	(3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer's client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
 
 (b) A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal.
 
@@ -478,13 +478,13 @@ g) When a prosecutor knows of new, credible and material evidence creating a rea
 
 	(1) promptly disclose that evidence to an appropriate court or authority, and
 
-	(2) if the conviction was obtained in the prosecutor’s jurisdiction,
+	(2) if the conviction was obtained in the prosecutor's jurisdiction,
 
 		(i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
 
 		(ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
 
-(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor’s jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
+(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
 #### Rule 3.9: Advocate in Nonadjudicative Proceedings
 
@@ -507,7 +507,7 @@ In representing a client, a lawyer shall not communicate about the subject of th
 
 #### Rule 4.3: Dealing with Unrepresented Person
 
-In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer’s role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
+In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer's role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
 
 #### Rule 4.4: Respect for Rights of Third Persons
 
@@ -690,9 +690,9 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 #### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 
-(a) A lawyer may communicate information regarding the lawyer’s services through any media.
+(a) A lawyer may communicate information regarding the lawyer's services through any media.
 
-(b) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer’s services except that a lawyer may:
+(b) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer's services except that a lawyer may:
 
 	(1) pay the reasonable costs of advertisements or communications permitted by this Rule;
 
@@ -706,7 +706,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 		(ii) the client is informed of the existence and nature of the agreement; and
 
-	(5) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer’s services.
+	(5) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer's services.
 
 (c) A lawyer shall not state or imply that a lawyer is certified as a specialist in a particular field of law, unless:
 
@@ -720,7 +720,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (a) "Solicitation" or "solicit" denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
-(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
+(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer's doing so is the lawyer's or law firm's pecuniary gain, unless the contact is with a:
 
 	(1) lawyer;
 
@@ -793,6 +793,6 @@ It is professional misconduct for a lawyer to:
 
 	(1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
 
-	(2) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
+	(2) for any other conduct, the rules of the jurisdiction in which the lawyer's conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer's conduct will occur.
 
 

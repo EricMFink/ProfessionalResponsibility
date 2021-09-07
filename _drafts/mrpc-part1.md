@@ -103,7 +103,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
      
     (6) to comply with other law or a court order; or
 
-    (7) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client. 
+    (7) to detect and resolve conflicts of interest arising from the lawyer's change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client. 
 
 (c) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
@@ -195,7 +195,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
     
     (1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
 
-    (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
+    (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer's association with a prior firm, and
 
         (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
         

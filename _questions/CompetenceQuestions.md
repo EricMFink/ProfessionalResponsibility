@@ -8,13 +8,13 @@ title: 'Review Questions: Competence, Diligence, & Communication'
 
 ### Question 1
 
-Lawyer represents ABC Corp.  ABC has a very good breach of contract action against one of its regular customers, XYZ Corp.  ABC hires Lawyer to sue XYZ.  Lawyer advises ABC’s president that, “although you have a great lawsuit and I’m prepared to file the complaint, I do not think it is a wise business decision for you to sue a regular customer?"  
+Lawyer represents ABC Corp.  ABC has a very good breach of contract action against one of its regular customers, XYZ Corp.  ABC hires Lawyer to sue XYZ.  Lawyer advises ABC's president that, “although you have a great lawsuit and I'm prepared to file the complaint, I do not think it is a wise business decision for you to sue a regular customer?"  
 
 Did Lawyer act properly?
 
 ### Question 2
 
-Lawyer represents A in a child custody dispute.  A is the custodial parent of three children.  A’s former spouse, B, has filed the child custody suit in an attempt to obtain custody of the children.  A is a heavy drinker and has had considerable difficulty raising the children.  Lawyer advises A:  “I think you should seek treatment for your drinking and attend some parenting classes."  
+Lawyer represents A in a child custody dispute.  A is the custodial parent of three children.  A's former spouse, B, has filed the child custody suit in an attempt to obtain custody of the children.  A is a heavy drinker and has had considerable difficulty raising the children.  Lawyer advises A:  “I think you should seek treatment for your drinking and attend some parenting classes."  
 
 Did Lawyer act properly?
 

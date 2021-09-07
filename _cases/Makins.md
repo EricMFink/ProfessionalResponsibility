@@ -13,7 +13,7 @@ The United States Court of Appeals for the District of Columbia Circuit has cert
 
 For reasons set forth below, we answer the question in the negative. In so doing, we confine our analysis to the undisputed facts and those recited in the certified question. 
 
-In November 1998, Brenda Makins, represented by John Harrison, Esquire, brought an action against the District of Columbia in the United States District Court for the District of Columbia claiming sex discrimination and retaliatory firing. Makins had been employed in the District's Department of Corrections from 1995 until her discharge in 1997. Her complaint sought reinstatement, compensatory damages, and attorneys’ fees. 
+In November 1998, Brenda Makins, represented by John Harrison, Esquire, brought an action against the District of Columbia in the United States District Court for the District of Columbia claiming sex discrimination and retaliatory firing. Makins had been employed in the District's Department of Corrections from 1995 until her discharge in 1997. Her complaint sought reinstatement, compensatory damages, and attorneys' fees. 
 
 In the summer of 2000, at a pre-trial conference, the district judge referred Makins' case to a magistrate judge "for settlement purposes only" and ordered the District to "have present at all settlement meetings an individual with full settlement authority." A similar admonition was absent as to Ms. Makins. A few days later, the magistrate ordered the "lead attorney(s) for the parties" to appear before him for a settlement conference; the order required that the "parties shall either attend the settlement conference or be available by telephone for the duration of the settlement conference." 
 

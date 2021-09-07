@@ -23,9 +23,9 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 #### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 
-(a) A lawyer may communicate information regarding the lawyer’s services through any media.
+(a) A lawyer may communicate information regarding the lawyer's services through any media.
 
-(b) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer’s services except that a lawyer may:
+(b) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer's services except that a lawyer may:
 
  (1) pay the reasonable costs of advertisements or communications permitted by this Rule;
 
@@ -39,7 +39,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
  (ii) the client is informed of the existence and nature of the agreement; and
 
- (5) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer’s services.
+ (5) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer's services.
 
 (c) A lawyer shall not state or imply that a lawyer is certified as a specialist in a particular field of law, unless:
 
@@ -54,7 +54,7 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 (a) “Solicitation" or “solicit" denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
 
-(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
+(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer's doing so is the lawyer's or law firm's pecuniary gain, unless the contact is with a:
 
  (1) lawyer;
 

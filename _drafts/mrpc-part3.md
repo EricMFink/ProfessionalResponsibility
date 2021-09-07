@@ -31,7 +31,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
  (2) fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
 
- (3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer’s client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
+ (3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer's client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
 
 (b) A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal.
 
@@ -147,13 +147,13 @@ g) When a prosecutor knows of new, credible and material evidence creating a rea
 
  (1) promptly disclose that evidence to an appropriate court or authority, and
  
- (2) if the conviction was obtained in the prosecutor’s jurisdiction,
+ (2) if the conviction was obtained in the prosecutor's jurisdiction,
 
  (i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
  
  (ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
 
-(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor’s jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
+(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
 #### Rule 3.9: Advocate in Nonadjudicative Proceedings
 

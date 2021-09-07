@@ -47,7 +47,7 @@ Applies to all phases and aspects of litigation.
 > 
 > > (2) fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
 > 
-> > (3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer’s client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
+> > (3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer's client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
 > 
 > (b) A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal.
 > 
@@ -59,7 +59,7 @@ Applies to all phases and aspects of litigation.
 
 _Rule 3.3, Comment 15:_ 
 
-> Normally, a lawyer’s compliance with the duty of candor imposed by this Rule does not require that the lawyer withdraw from the representation of a client whose interests will be or have been adversely affected by the lawyer’s disclosure. The lawyer may, however, be required by Rule 1.16(a) to seek permission of the tribunal to withdraw if the lawyer’s compliance with this Rule’s duty of candor results in such an extreme deterioration of the client-lawyer relationship that the lawyer can no longer competently represent the client. Also see Rule 1.16(b) for the circumstances in which a lawyer will be permitted to seek a tribunal’s permission to withdraw. In connection with a request for permission to withdraw that is premised on a client’s misconduct, a lawyer may reveal information relating to the representation only to the extent reasonably necessary to comply with this Rule or as otherwise permitted by Rule 1.6.
+> Normally, a lawyer's compliance with the duty of candor imposed by this Rule does not require that the lawyer withdraw from the representation of a client whose interests will be or have been adversely affected by the lawyer's disclosure. The lawyer may, however, be required by Rule 1.16(a) to seek permission of the tribunal to withdraw if the lawyer's compliance with this Rule's duty of candor results in such an extreme deterioration of the client-lawyer relationship that the lawyer can no longer competently represent the client. Also see Rule 1.16(b) for the circumstances in which a lawyer will be permitted to seek a tribunal's permission to withdraw. In connection with a request for permission to withdraw that is premised on a client's misconduct, a lawyer may reveal information relating to the representation only to the extent reasonably necessary to comply with this Rule or as otherwise permitted by Rule 1.6.
 
 ### False representations or evidence 
 
@@ -199,13 +199,13 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 > 
 > > > (1) promptly disclose that evidence to an appropriate court or authority, and
 > 
-> > > (2) if the conviction was obtained in the prosecutor’s jurisdiction,
+> > > (2) if the conviction was obtained in the prosecutor's jurisdiction,
 > 
 > > > > (i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
 > 
 > > > > (ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
 > 
-> > (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor’s jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
+> > (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
 ##  Fairness to Opposing Parties
 
@@ -278,7 +278,7 @@ Judicial ethics rules (Model Code of Judicial Conduct, Rule 2.9) likewise prohib
 
 ##### Rule 4.3
 
-> In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer’s role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
+> In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer's role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
 
 ### Respect For Rights Of Third Persons
 

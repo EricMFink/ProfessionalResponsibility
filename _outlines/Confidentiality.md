@@ -63,7 +63,7 @@ title: Confidentiality & Privilege
 
 ### Scope 
 
-- Communication by the client (or client’s agent) to the lawyer (or lawyer’s agent)
+- Communication by the client (or client's agent) to the lawyer (or lawyer's agent)
     - Does not apply to information obtained from third parties or public sources
     - Does not apply to client's knowledge about the information communicated
       - Example: Lawyer represents Client in a auto collision suit. Client tells Lawyer, "I ran the red light." At trial, if Client is asked, "Did you tell Lawyer you ran the red light?", the privilege applies. But Client is asked, "Did you run the red light?", the privilege does not apply. 
@@ -90,7 +90,7 @@ title: Confidentiality & Privilege
 
 - Privilege survives termination of representation
 - Privilege survives death of client in majority of jurisdictions
-	- but see, e.g., California: Upon client’s death, privilege belongs to personal representative in charge of estate, and terminates once estate is distributed and representative’s duties are fully discharged
+	- but see, e.g., California: Upon client's death, privilege belongs to personal representative in charge of estate, and terminates once estate is distributed and representative's duties are fully discharged
 
 #### State v. Hunt, 659 S.E.2d 6 (N.C. Sup. Ct. 2008)
 
@@ -237,7 +237,7 @@ The attorney-client privilege applies only to communications with persons in pos
 
 #### CFTC v. Weintraub (U.S. 1985)
 
-- Trustee in bankruptcy may waive privilege over former corporate officer’s objection
+- Trustee in bankruptcy may waive privilege over former corporate officer's objection
 
 #### Tekni-Plex v. Meyner & Landis (NY 1996)
 
@@ -268,14 +268,14 @@ Sarbanes-Oxley requires upward and outward reporting of certain misconduct.
 
 - Is this proper?
 
-2. John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC’s president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
+2. John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC's president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
 
 - Who does she represent?
 - May she represent both ABC and John?
 - Assuming she only represents ABC, will her conversations with the president be privileged?
 - What about her conversations with John?
-- Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney’s ethical obligations?
+- Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney's ethical obligations?
 
-3. Attorney is an in-house Lawyer at ABC Corporation. Attorney recently learned that Jill, ABC’s senior vice-president, has been providing fraudulent financial information to the IRS. If the fraud is discovered, ABC will face serious civil and criminal penalties. 
+3. Attorney is an in-house Lawyer at ABC Corporation. Attorney recently learned that Jill, ABC's senior vice-president, has been providing fraudulent financial information to the IRS. If the fraud is discovered, ABC will face serious civil and criminal penalties. 
 
 - What should Attorney do?
