@@ -261,7 +261,7 @@ No class
 
 #### October 13 & 18 
 
-### Client Communication Privilege and Attorney Work Product 
+### Client Communication Privilege  
 
 - [Restatement §§ 61-67 (Duty of Confidentiality)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
 - [Restatement §§ 68-86 (Client Communication)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
@@ -271,9 +271,6 @@ No class
 - [Jones v. U.S.](https://www.emfink.net/ProfessionalResponsibility/cases/Jones), 828 A. 2d 169 (DC App. 2003)
 - [Hofmann v. Conder](https://www.emfink.net/ProfessionalResponsibility/cases/Hoffman), 712 P. 2d 216 (Utah 1985)
 - [In the Matter of a Grand Jury Investigation](https://www.emfink.net/ProfessionalResponsibility/cases/MatterOfGrandJuryInvestigation), 453 Mass. 453 (Mass. 2009)
-- [Sporck v. Peil](https://www.emfink.net/ProfessionalResponsibility/cases/Sporck), 759 F. 2d 312 (3d Cir. 1985)
-- [U.S. v. Deloitte LLP](https://www.emfink.net/ProfessionalResponsibility/cases/https://www.emfink.net/ProfessionalResponsibility/cases/Deloitte), 610 F. 3d 129 (D.C. Cir. 2010)
-- [Blumenthal v. Kimber Mfg.](https://www.emfink.net/ProfessionalResponsibility/cases/Blumenthal), 265 Conn. 1 (2003)
 
 ## Conflicts of Interest 
 

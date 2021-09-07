@@ -209,7 +209,7 @@ No class
 
 #### October 13 & 18 
 
-### Client Communication Privilege and Attorney Work Product 
+### Client Communication Privilege  
 
 - [Restatement §§ 61-67 (Duty of Confidentiality)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
 - [Restatement §§ 68-86 (Client Communication)](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap5)
