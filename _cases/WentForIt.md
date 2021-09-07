@@ -4,7 +4,7 @@ layout: case
 
 title: 'Florida Bar v. Went for It, Inc.' 
 cite: '515 U.S. 618 (1995)' 
-judge: 'Justice O'CONNOR delivered the opinion of the Court.'
+judge: "Justice O'CONNOR delivered the opinion of the Court."
 
 ---
 
