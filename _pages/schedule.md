@@ -207,7 +207,7 @@ No class
 - [In re Original Grand Jury Investigation](https://www.emfink.net/ProfessionalResponsibility/cases/OriginalGrandJuryInvestigation), 89 Ohio St. 3d 544 (Ohio 2000)
 - [McClure v. Thompson](https://www.emfink.net/ProfessionalResponsibility/cases/McClure), 323 F.3d 1233 (9th Cir. 2003)
 
-#### October 13 & 18 
+#### October 13
 
 ### Client Communication Privilege  
 
@@ -222,7 +222,7 @@ No class
 
 ## Conflicts of Interest 
 
-#### October 25 
+#### October 18 & 20 
 
 ### Conflicts Involving Current Clients 
 
@@ -258,6 +258,8 @@ No class
 #### November 1
 
 ### Review of Confidentiality and Conflicts 
+
+- [Confidentiality & Privilege Comparison](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Confidentiality/ConfidentialityPrivilegeComparison.pdf)
 
 ## Duties to the Legal System, Opposing Parties, & Others 
 
