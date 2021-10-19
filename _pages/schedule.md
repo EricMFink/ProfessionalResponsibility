@@ -228,9 +228,7 @@ No class
 
 - [NCRPC Rules 1.7 & 1.8](https://www.emfink.net/ProfessionalResponsibility/rules/Section1); [6.3, 6.4, 6.5](https://www.emfink.net/ProfessionalResponsibility/rules/Section6)
 - [Restatement §§ 121, 122, 125-127, 128-131, 134-135](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- [Glueck v. Jonathan Logan, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/Glueck), 653 F. 2d 746 (2d Cir. 1981)
 - [Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/WeilGotshal), 10 A.D.3d 267 (NY App. Div. 2004)
-- [Visa USA, Inc. v. First Data Corp.](https://www.emfink.net/ProfessionalResponsibility/cases/VisaUSA), 241 F. Supp. 2d 1100 (N.D. Ca. 2003)
 - [In re Dresser Industries, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/Dresser), 972 F. 2d 540 (5th Cir. 1992)
 - [In re Morse](https://www.emfink.net/ProfessionalResponsibility/cases/Morse), 748 S.E.2d 921 (Ga. 2013)
 - [In re State Grand Jury Investigation](https://www.emfink.net/ProfessionalResponsibility/cases/StateGrandJuryInvestigation), 983 A.2d 1097 (N.J. 2009)
@@ -241,9 +239,9 @@ No class
 
 - [NCRPC Rules 1.9, 1,11, 1.12, & 1.13](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 132-33](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- [Gutting v. Falstaff Brewing Corp.](https://www.emfink.net/ProfessionalResponsibility/cases/Gutting), 710 F. 2d 1309 (8th Cir. 1983)
-- [NuStar Farms, LLC v. Zylstra](https://www.emfink.net/ProfessionalResponsibility/cases/NuStarFarms), 880 N.W.2d 478 (Iowa 2016)
-- [Wilson P. Abraham Construction v. Armco Steel Corp.](https://www.emfink.net/ProfessionalResponsibility/cases/AbrahamConstruction), 559 F. 2d 250 (5th Cir. 1977)
+- [Gutting v. Falstaff Brewing Corp.](https://scholar.google.com/scholar_case?case=4506335581777863485), 710 F. 2d 1309 (8th Cir. 1983)
+- [NuStar Farms, LLC v. Zylstra](https://scholar.google.com/scholar_case?case=1028562501184438949), 880 N.W.2d 478 (Iowa 2016)
+- [Wilson P. Abraham Construction v. Armco Steel Corp.](https://scholar.google.com/scholar_case?case=10957290777699849581), 559 F. 2d 250 (5th Cir. 1977)
 
 #### October 27
 
@@ -251,9 +249,9 @@ No class
 
 - [NCRPC Rules 1.7, 1.8, 1.9, 1.10, 1,11, 1.12, 1.13, 1.18](https://www.emfink.net/ProfessionalResponsibility/rules/Section1)
 - [Restatement §§ 123-124](https://www.emfink.net/ProfessionalResponsibility/restatement/Chap8)
-- [Cinema 5, Ltd. v. Cinerama, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/Cinema5), 528 F. 2d 1384 (2d Cir. 1976)
-- [People ex rel. Dept. of Corporations v. SpeeDee Oil Change Systems, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/SpeeDeeOil), 20 Cal. 4th 1135 (Cal. 1999)
-- [Kala v. Aluminum Smelting & Refining Company, Inc.](https://www.emfink.net/ProfessionalResponsibility/cases/Kala), 81 Ohio St. 3d 1 (1998)
+- [Cinema 5, Ltd. v. Cinerama, Inc.](https://scholar.google.com/scholar_case?case=12185981601498967401), 528 F. 2d 1384 (2d Cir. 1976)
+- [People ex rel. Dept. of Corporations v. SpeeDee Oil Change Systems, Inc.](https://scholar.google.com/scholar_case?case=4067765311132328506), 20 Cal. 4th 1135 (Cal. 1999)
+- [Kala v. Aluminum Smelting & Refining Company, Inc.](https://scholar.google.com/scholar_case?case=6669181594411401164), 81 Ohio St. 3d 1 (1998)
 
 #### November 1
 
