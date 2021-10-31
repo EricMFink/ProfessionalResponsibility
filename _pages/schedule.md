@@ -271,7 +271,7 @@ No class
 - [People v. DePallo](https://www.emfink.net/ProfessionalResponsibility/cases/DePallo), 754 N.E.2d 751 (NY 2001)
 - [State v. Hischke](https://www.emfink.net/ProfessionalResponsibility/cases/Hischke), 639 N.W.2d 6 (Iowa 2002)
 - [U.S. v. Long](https://www.emfink.net/ProfessionalResponsibility/cases/Long), 857 F. 2d 436 (8th Cir. 1988)
-- [In re Litz](https://www.emfink.net/ProfessionalResponsibility/cases/Long), 721 N.E.2d 258 (Ind. 1999)
+- [In re Litz](https://www.emfink.net/ProfessionalResponsibility/cases/Litz), 721 N.E.2d 258 (Ind. 1999)
 
 #### November 15 & 17
 
