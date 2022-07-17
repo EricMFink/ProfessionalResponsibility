@@ -1,10 +1,10 @@
 url: https://www.emfink.net
 baseurl: /ProfessionalResponsibility
 title: Professional Responsibility
-description:  # leave blank if you don't want to display a description 
+description:  # leave blank if you don't want to display a description
 name: Eric M. Fink
 
-last_updated: 31 October 2021 # leave blank if you don't want to display last updated
+last_updated: 17 July 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -17,27 +17,27 @@ email: efink@elon.edu
 phone: 336-279-9334
 web: emfink.net/ElonLaw
 
-collections: 
-  cases: 
-    output: true 
+collections:
+  cases:
+    output: true
   exams:
     output: true
   rules:
     output: true
-  notes: 
-    output: true 
+  notes:
+    output: true
   outlines:
     output: true
   problems:
-    output: true 
+    output: true
   questions:
     output: true
-  readings: 
-    output: true 
-  restatement: 
-    output: true 
-  statutes: 
-    output: true 
+  readings:
+    output: true
+  restatement:
+    output: true
+  statutes:
+    output: true
   visuals:
     output: true
 
