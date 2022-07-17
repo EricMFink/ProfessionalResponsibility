@@ -2,8 +2,8 @@
 layout: casebook
 
 permalink: /LegalProfession/
-title: Law as a Regulated Profession 
-    
+title: Law as a Regulated Profession
+
 ---
 
 # Defining Professions
@@ -79,25 +79,25 @@ The social organization of professions includes:
 - “State Bar Association": professional association
     - Membership is voluntary, except in an "unit" or “integrated" bar
 	- Typically offer continuing legal education, client referrals, and other resources for members
-    - NC is an "integrated bar" (State Bar of North Carolina). 
+    - NC is an "integrated bar" (State Bar of North Carolina).
 		- But there is also a voluntary association, [NCBA](https://www.ncbar.org/)
 
 #### Courts
 
-The highest court in each state generally has authority to regulate the practice of law and the legal profession within the state. This authority may be expressly granted in the state constitution or by statute, or it may be implied as an inherent aspect of judicial power. 
+The highest court in each state generally has authority to regulate the practice of law and the legal profession within the state. This authority may be expressly granted in the state constitution or by statute, or it may be implied as an inherent aspect of judicial power.
 
-Each court also has authority to regulate and discipline lawyers practicing before it. Again, this authority may be expressly defined by statute or implied as an aspect of a court's inherent authority to control it's own proceedings. 
+Each court also has authority to regulate and discipline lawyers practicing before it. Again, this authority may be expressly defined by statute or implied as an aspect of a court's inherent authority to control it's own proceedings.
 
 _See_ In re Creasy, 12 P.3d 214 (Ariz. 2000)
 
 
-## Sources of Law 
+## Sources of Law
 
 ### Disciplinary Rules
 
 Disciplinary rules are part of the profession's self-regulatory apparatus, ideological self-definition, and boundary maintenance.
 
-Most states have adopted a version of the ABA Model Rules of Professional Conduct. These may vary from the ABA Model Rules in particular respects. The state rules are what actually govern. 
+Most states have adopted a version of the ABA Model Rules of Professional Conduct. These may vary from the ABA Model Rules in particular respects. The state rules are what actually govern.
 
 - State rules may vary from Model Rules in particular respects
     - _Riehlman_ (interpreting and applying Louisiana Rule 8.3(a) on duty to report misconduct by another lawyer)
@@ -116,7 +116,7 @@ Earlier versions of ABA standards
 - Canons of Legal Ethics (1908)
 - Model Code of Professional Responsibility (1970)
 
-The Canons reflected and embodied the values and culture of elites (predominantly male, white, Protestant) who dominated the legal profession at the time. 
+The Canons reflected and embodied the values and culture of elites (predominantly male, white, Protestant) who dominated the legal profession at the time.
 
 - Effort to maintain professional boundaries in the face of entry by those from non-elite class, race, and ethnic backgrounds
 - Bordertown (1935)
@@ -127,15 +127,15 @@ Despite the more technocratic framing of the Model Rules, they continue to embod
 
 ### Common Law & Statutes
 
-#### Common Law 
+#### Common Law
 
 - Contract
 - Torts
 - Agency & Fiduciary Duties
 
-#### Statutes 
+#### Statutes
 
-- e.g., Sarbanes-Oxley 
+- e.g., Sarbanes-Oxley
 - See _Milavetz_ (federal statute regulating "debt relief agency" applies to lawyers providing "bankruptcy assistance")
 
 ## Lawyers & the Practice of Law
@@ -146,7 +146,7 @@ A person licensed to engage in the practice of law
 
 #### Practice of Law
 
-NCGS § 84-2.1 
+NCGS § 84-2.1
 
 > The phrase ‘practice law' … is defined to be performing any legal service for any other person, firm or corporation, with or without compensation, specifically including the preparation or aiding in the preparation of deeds, mortgages, wills, trust instruments, inventories, accounts or reports of guardians, trustees, administrators or executors, or preparing or aiding in the preparation of any petitions or orders in any probate or court proceeding; abstracting or passing upon titles, the preparation and filing of petitions for use in any court, including administrative tribunals and other judicial or quasi-judicial bodies, or assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation: Provided, that the above reference to particular acts … shall … be construed to include the foregoing particular acts, as well as all other acts within the general definition. The phrase ‘practice law' does not encompass the writing of memoranda of understanding or other mediation summaries by mediators at community mediation centers ….
 
@@ -154,13 +154,13 @@ NCGS § 84-2.1
 
 ##### Rule 5.5
 
--  An attorney is subject to discipline for engaging in the unauthorized practice of law. 
+-  An attorney is subject to discipline for engaging in the unauthorized practice of law.
     - e.g. appearing in court or otherwise practicing in a jurisdiction where the attorney is not licensed or admitted pro hac vice
 - Both the jurisdiction where the unauthorized practice occurred, and the jurisdiction(s) where the attorrney is licensed, may impose discipline.
 
-#### State Law 
+#### State Law
 
-State law (statute or court rule) prohibits the unauthorized practice of law 
+State law (statute or court rule) prohibits the unauthorized practice of law
 
 - e.g. NCGS § 84-4
 
@@ -169,22 +169,22 @@ Applies to lawyers and non-lawyers
 - See _Creasy_ (holding state court rule against unauthorized practice of law applies to disbarred attorney)
 - But see dissent in _Creasy_ (questioning whether state court rule against unauthorized practice of law may be enforced against non-lawyers in private arbitration)
 
-Consequences of unauthorized practice 
+Consequences of unauthorized practice
 
 - Disciplinary action
     - Applies to lawyers who practice in a jurisdiction where they are not admitted
-        - But non-lawyers are not subject to professional discipline 
+        - But non-lawyers are not subject to professional discipline
     - _Creasy_ (disbarred attorney who engaged in practice of law held in contempt, ordered to cease & desist from further practice of law, and ordered to pay costs and attorneys' fees incurred by State Bar in seeking enforcement)
-- Criminal offense 
+- Criminal offense
     - NCGS § 84-8: Class 1 misdemeanor
 - Civil liability
-    - NCGS § 84-10.1: Any person injured by unauthorized practice may sue for damages, attorneys' fees, and injunctive relief 
+    - NCGS § 84-10.1: Any person injured by unauthorized practice may sue for damages, attorneys' fees, and injunctive relief
 
 ## Entry to the Legal Profession
 
 #### Controlled by Legal Profession
 
-Legal Education: ABA accreditation 
+Legal Education: ABA accreditation
 
 Attorney Licensing: State Board of Law Examiners
 
