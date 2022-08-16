@@ -9,8 +9,8 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Professional Responsibility
-term: Fall 2021
-days: Monday & Wednesday 3:45–5:15 pm
+term: Fall 2022
+days: Monday & Wednesday 9:45–10:45 am
 room: Rooms 207
 
 output: 
@@ -27,9 +27,9 @@ This course is intended to acquaint students with the organization and regulatio
 
 # Course Material
 
-All assigned material will be available online via the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
+[Cases and Materials for Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/Casebook) (Fink 2022). PDF file available through the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
 
-Suggested supplement (optional): Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
+Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
 # Policies
 
@@ -37,9 +37,7 @@ Suggested supplement (optional): Grace M. Giesel, [Mastering Professional Respon
 
 Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. 
 
-### Class Preparation, Attenance, & Participation 
-
-Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
+### Attendance
 
 Elon Law School has adopted the following attendance policy for all courses:
 
