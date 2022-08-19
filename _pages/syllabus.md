@@ -55,6 +55,8 @@ The Law School honor code applies to all activities related to your law school s
 
 # Schedule & Assignments 
 
+\footnotesize
+
  **Date** | **Topic**  | **Assignment**
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
