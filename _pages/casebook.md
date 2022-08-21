@@ -5,4 +5,4 @@ title: Casebook
 
 ---
 
-[Cases & Materials for Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/assets/pdf/Casebook.pdf)
+[Cases & Materials for Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/assets/pdf/PRcasebook.pdf)
