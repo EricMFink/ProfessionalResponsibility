@@ -4,7 +4,7 @@ title: Professional Responsibility
 description:  # leave blank if you don't want to display a description
 name: Eric M. Fink
 
-last_updated: 21 August 2022 # leave blank if you don't want to display last updated
+last_updated: 24 August 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -18,25 +18,11 @@ phone: 336-279-9334
 web: emfink.net/ElonLaw
 
 collections:
-  cases:
-    output: true
   exams:
-    output: true
-  rules:
-    output: true
-  notes:
-    output: true
-  outlines:
     output: true
   problems:
     output: true
   questions:
-    output: true
-  readings:
-    output: true
-  restatement:
-    output: true
-  statutes:
     output: true
   visuals:
     output: true
