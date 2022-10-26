@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Conflicts'
+title: 'Conflicts'
 
 ---
 
@@ -25,7 +25,7 @@ Lawyer represents A in personal injury suit against B.
 
 ### Question 3
 
-Ten years ago, Lawyer represented A in negotiation of employment contract with ABC Corp. During that representation, Lawyer became familiar with A's financial assets. The representation concluded nine years ago and lawyer has not represented A since then. 
+Ten years ago, Lawyer represented A in negotiation of employment contract with ABC Corp. During that representation, Lawyer became familiar with A's financial assets. The representation concluded nine years ago and lawyer has not represented A since then.
 
 - May Lawyer now represent C in a personal injury case against A?
 - May Lawyer now represent H in a divorce against A?
@@ -55,7 +55,7 @@ A, B, & C are charged with armed robbery of a liquor store. A & B met together w
 
 ### Question 6
 
-A & B decide to form a limited partnership. A will contribute 100% of the cash, and B will devote 100% of his time to the partnership. They ask Attorney to represent them both in drafting the partnership agreement and filing the necessary paperwork with the state. 
+A & B decide to form a limited partnership. A will contribute 100% of the cash, and B will devote 100% of his time to the partnership. They ask Attorney to represent them both in drafting the partnership agreement and filing the necessary paperwork with the state.
 
 May Attorney do so?
 

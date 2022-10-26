@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Attorney Fees & Client Property'
+title: 'Attorney Fees & Client Property'
 
 ---
 
@@ -11,14 +11,14 @@ title: 'Review Questions: Attorney Fees & Client Property'
 Client would like to retain Lawyer to represent him in litigation. 
 
 - Assuming Client agrees to the fee, may Lawyer charge more than her hourly rate for any of these reasons?
-	- The case involves complex issues of law and fact.
-	- Lawyer is an experienced litigator in this field.
-	- The urgency of the litigation.
-	- The amount at stake in the litigation.
-	- Lawyer's success rate in prior cases.
-	- The amount charged by other lawyers in town.
-- May Lawyer include a clause in her retainer agreement providing for an increase in her hourly rate of 10% if Client prevails in the litigation?
-- May Lawyer increase her hourly rate during the representation?
+  - The case involves complex issues of law and fact.
+  - Lawyer is an experienced litigator in this field.
+  - The urgency of the litigation.
+  - The amount at stake in the litigation.
+  - Lawyer's success rate in prior cases.
+  - The amount charged by other lawyers in town.
+  - May Lawyer include a clause in her retainer agreement providing for an increase in her hourly rate of 10% if Client prevails in the litigation?
+  - May Lawyer increase her hourly rate during the representation?
 
 ### Question 2
 

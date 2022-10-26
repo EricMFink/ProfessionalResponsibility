@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Organizational Clients'
+title: 'Organizational Clients'
 
 ---
 
@@ -15,12 +15,12 @@ Is this proper?
 ### Question 2
 
 John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC's president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
-	
--  Who does she represent?	
--  May she represent both ABC and John?
--  Assuming she only represents ABC, will her conversations with the president be privileged?
--  What about her conversations with John?
--  Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney's ethical obligations?
+
+- Who does she represent?
+- May she represent both ABC and John?
+- Assuming she only represents ABC, will her conversations with the president be privileged?
+- What about her conversations with John?
+- Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney's ethical obligations?
 
 ### Question 3
 

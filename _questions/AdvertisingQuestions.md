@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Information About Legal Services'
+title: 'Information About Legal Services'
 
 ---
 

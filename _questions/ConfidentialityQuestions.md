@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Confidentiality'
+title: 'Confidentiality'
 
 ---
 
@@ -87,7 +87,6 @@ b. Attorney's communications with John
 c. Both
 
 d. Neither
-
 
 ### Question 12 
 
