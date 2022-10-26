@@ -18,10 +18,10 @@ Your long-time client, John Carter, recently came to your office to tell you tha
 
 Shortly before his death, you were able to interview the prior owner of the house, who told you what he had told Carter about the flooding. You have notes of that interview in which you comment on the former owner's likely credibility at trial. In addition, while at a party, Carter's banker let slip that Carter is in bad financial condition. The buyer has now filed suit against Carter.
 
--  The buyer has subpoenaed you to give a deposition. What information must you disclose?
--  The buyer has subpoenaed any documents you have related to the case. What must you disclose?
--  One of your college friends, who is about to loan money to Carter, has informally asked you about Carter's financial condition. You would like to help your college friend. What may you disclose?
--  If Carter is compelled to testify at trial, may he use the attorney-client privilege as a basis for refusing to disclose the conversation he had with the prior owner?
+- The buyer has subpoenaed you to give a deposition. What information must you disclose?
+- The buyer has subpoenaed any documents you have related to the case. What must you disclose?
+- One of your college friends, who is about to loan money to Carter, has informally asked you about Carter's financial condition. You would like to help your college friend. What may you disclose?
+- If Carter is compelled to testify at trial, may he use the attorney-client privilege as a basis for refusing to disclose the conversation he had with the prior owner?
 
 ### Question 4
 
@@ -71,8 +71,8 @@ May Attorney do so?
 
 Client, who is a fugitive from justice, is seeking an attorney to represent him. Client visits Lawyer for a free initial consultation. During the meeting, Client admits guilt. At the end of the meeting, however, Client decides not to hire Lawyer.
 
--  Is Lawyer required or allowed to disclose Client's admission of guilt?
--  What if, unbeknownst to Client, Lawyer had never passed the bar exam and thus was not a licensed attorney?
+- Is Lawyer required or allowed to disclose Client's admission of guilt?
+- What if, unbeknownst to Client, Lawyer had never passed the bar exam and thus was not a licensed attorney?
 
 ### Question 11
 
@@ -88,3 +88,23 @@ c. Both
 
 d. Neither
 
+
+### Question 12 
+
+You are a public defender representing Jerry Cashwell, who has been charged with murder. Based on witness statements, the police and prosecutor believe that another man, Lee Hunt, planned the murder and that Cashwell acted as Hunt's accomplice in carrying out the killing. To avoid any potential conflict, the court has appointed another lawyer to represent Hunt. 
+
+During your initial meeting with Cashwell, he tells you, "I killed that guy all on my own. Hunt didn't have anything to do with it." Based on the details that Cashwell provides about the crime, and the lack of any apparent motive to falsely claim sole responsibility, you conclude that Cashwell is telling the truth. 
+
+_What are your obligations under Rule 1.6(a)? Do any of the exceptions under Rule 1.6(b) apply at this point?_
+
+Cashwell and Hunt are tried separately. At Hunt's trial, he testifies that he had no role in the crime. Nevertheless, Hunt is convicted and sentenced to life imprisonment. 
+
+Following Hunt's conviction, you reach an agreement with the prosecution under which Cashwell will plead guilty to the murder charge and receive a life sentence. The prosecutor tells you they are offering this deal, "because we know Cashwell & Hunt acted together". You notify Cashwell of the plea offer and explain to him that, if he goes to trial and it comes out that he acted alone, he would likely face the death penalty. Cashwell accepts the deal and enters a guilty plea. At Cashwell's allocution, he does not reveal that Hunt had no involvement. 
+
+_Do you have any obligation to correct the prosecutor's mistaken belief about Hunt's involvement in the murder? Do you have any obligation to inform the court that Hunt was not involved?_
+
+About ten years later, Cashwell commits suicide in prison. Hunt remains in prison serving his life sentence. 
+
+_Does MRPC Rule 1.6 permit you to reveal Cashwell's admission of sole responsbility to Hunt's attorney now that Cashwell is dead?_ 
+
+_Does NC Rule 8.6 permit or require disclosure?_
