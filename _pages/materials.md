@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Study_aids/
+permalink: /study_aids/
 title: 'Study Aids & Additional Reading'
 
 ---

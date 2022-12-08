@@ -1,6 +1,5 @@
 ---
 layout: syllabus
-permalink: /syllabus/
 title: Syllabus
 author: Eric M. Fink
 affiliation: Elon Law School

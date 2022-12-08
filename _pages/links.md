@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Links/
+permalink: /links/
 title: Links
 ---
 

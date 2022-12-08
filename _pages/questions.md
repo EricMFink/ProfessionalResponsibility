@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Questions/
+permalink: /questions/
 title: Review Questions
 
 ---
