@@ -1,5 +1,5 @@
 ---
-layout: statute
+layout: page
 
 course: Professional Responsibility
 title: "Restatement (3d) of the Law Governing Lawyers"
