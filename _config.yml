@@ -6,7 +6,7 @@ name: Eric M. Fink
 course: Professional Responsibility  # enter course name to display on home page
 bookurl: /PRcasebook
 
-last_updated: 30 December 2022 # leave blank if you don't want to display last updated
+last_updated: 27 January 2023 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -48,7 +48,6 @@ markdown: Pandoc
 pandoc:
   extensions:
     - section-divs
-    - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -56,8 +55,7 @@ permalink: /articles/:title
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock', admin, .admin]
-keep_files: [.admin]
+exclude: ['Gemfile.lock']
 post:
   template: _post.txt
   extension: md
@@ -91,24 +89,6 @@ jekyll-spaceship:
     - media-processor
     - emoji-processor
     - element-processor
-  mathjax-processor:
-    src:
-      - https://polyfill.io/v3/polyfill.min.js?features=es6
-      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-    config:
-      tex:
-        inlineMath:
-          - ['$$','$$']
-          - ['\(','\)']
-        displayMath:
-          - ['$$$','$$$']
-          - ['\[','\]']
-      svg:
-        fontCache: 'global'
-    optimize: # optimization on building stage to check and add mathjax scripts
-      enabled: true # value `false` for adding to all pages
-      include: []   # include patterns for math expressions checking (regexp)
-      exclude: []   # exclude patterns for math expressions checking (regexp)
   plantuml-processor:
     mode: default  # mode value 'pre-fetch' for fetching image at building stage
     css:
