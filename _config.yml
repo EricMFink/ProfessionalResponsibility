@@ -1,23 +1,28 @@
 url: https://www.emfink.net
 baseurl: /ProfessionalResponsibility
 title: Professional Responsibility
-description:  # leave blank if you don't want to display a description
-name: Eric M. Fink
-course: Professional Responsibility  # enter course name to display on home page
-bookurl: /PRcasebook
 
-last_updated: 27 January 2023 # leave blank if you don't want to display last updated
+last_updated: 21 June 2023  # leave blank if you don't want to display last updated
 
-author: Eric M. Fink
-position: Associate Professor
-institution: Elon Law School
-street: 201 North Greene Street
-city: Greensboro
-state: North Carolina
-zip: '27401'
-email: efink@elon.edu
-phone: 336-279-9334
-web: emfink.net/ElonLaw
+author:
+  name:  Eric M. Fink
+  positition: Associate Professor
+  affiliation: Elon Law School 
+  address: "201 North Greene Street, Greensboro, North Carolina 27408"
+  email: efink@elon.edu
+  phone: 336-279-9334
+  web: emfink.net/ElonLaw
+
+ta: 
+  name: Elizabeth Kwon
+  email: ekwon@elon.edu
+
+course: 
+  subject: Professional Responsibility
+  term: Fall 2023
+  room: Room 207 
+  meets: "Monday & Wednesday 9:45–10:45 am"
+  repository: ProfessionalResponsibility
 
 collections:
   exams:
@@ -27,6 +32,8 @@ collections:
   questions:
     output: true
   visuals:
+    output: true
+  casebook:
     output: true
 
 # -----------------------------------------------------------------------------
