@@ -1,7 +1,6 @@
 ---
-layout: cover
-permalink: /casebook/
+layout: casebook-cover
 title: Casebook
-
+permalink: /casebook/
 ---
 

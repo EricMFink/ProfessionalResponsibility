@@ -1,23 +1,8 @@
 ---
 layout: syllabus
 title: Syllabus
-author: Eric M. Fink
-affiliation: Elon Law School
-email: efink@elon.edu
-phone: 336-279-9334
-address1: 201 North Greene Street
-address2: Greensboro, North Carolina 27401
-course: Professional Responsibility
-term: Fall 2022
-days: Monday & Wednesday 9:45–10:45 am
-room: Rooms 207
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
-    path: /assets/pdf/syllabus.pdf
-  
+permalink: /syllabus/
+syllabus: true
 ---
 
 # Description
@@ -26,7 +11,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 # Course Material
 
-[Cases and Materials for Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/Casebook) (Fink 2022). PDF file available through the course website: [`emfink.net/ProfessionalResponsibility`](https://www.emfink.net/ProfessionalResponsibility/). The website also has study aids and links to other supplementary material. 
+[Professional Responsibility: An Open-Source Casebook](../casebook) (Fink 2023)
 
 Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
@@ -53,8 +38,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
 # Schedule & Assignments 
-
-\footnotesize
 
  **Date** | **Topic**  | **Assignment**
 --|---|--
