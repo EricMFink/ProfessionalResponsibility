@@ -846,7 +846,8 @@ I hope that in the future, this court will more often utilize probation, as was 
 *** 
 
 <div class="comment">
-### Note on _Sarver_
+
+#### Note on _Sarver_
 
 Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver_](https://scholar.google.com/scholar_case?case=11286210687675325700), 170 NE 3d 799 (Ohio 2020). 
 

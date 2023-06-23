@@ -166,7 +166,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 # Professional Conduct
 
-### Model Rules of Professional Conduct: Preamble and Scope
+### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
@@ -216,28 +216,36 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 [21] The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative.
 
-</div>
 
-### MRPC Rule 1.0
+#### Rule 1.0: Terminology
 
-<div class="legal-code">
+(a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
-#### Terminology
+(b) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
 
-(a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
-(b) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
-(c) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization.
-(d) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive.
-(e) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
-(f) "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
-(g) "Partner" denotes a member of a partnership, a shareholder in a law firm organized as a professional corporation, or a member of an association authorized to practice law.
-(h) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
-(i) "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
-(j) "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
-(k) "Screened" denotes the isolation of a lawyer from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these Rules or other law.
-(l) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
-(m) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
-(n) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
+(c) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization.
+
+(d) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive.
+
+(e) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
+
+(f) "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
+
+(g) "Partner" denotes a member of a partnership, a shareholder in a law firm organized as a professional corporation, or a member of an association authorized to practice law.
+
+(h) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
+
+(i) "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
+
+(j) "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
+
+(k) "Screened" denotes the isolation of a lawyer from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these Rules or other law.
+
+(l) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
+
+(m) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
+
+(n) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
 </div>
 
@@ -245,17 +253,17 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 ## Bar Admission
 
-### Model Rules of Professional Conduct, Rule 8.1
+### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Bar Admission & Disciplinary Matters
+#### Rule 8.1: Bar Admission & Disciplinary Matters
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
-(a) knowingly make a false statement of material fact; or
+(a) knowingly make a false statement of material fact; or
 
-(b) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
+(b) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
 
 </div>
 
@@ -331,15 +339,15 @@ The legal reality is that this court, and only this court, is vested with the po
 
 > An attorney should be one whose record of conduct justifies the trust of clients, adversaries, courts, and others with respect to the professional duties owed to them. A record manifesting a significant deficiency by an applicant in one or more of the following essential eligibility requirements for the practice of law may constitute a basis for denial of admission. In addition to the admission requirements otherwise established by these Rules, the essential eligibility requirements for admission to the practice of law in Nebraska are:
 
-> (a) The ability to conduct oneself with a high degree of honesty, integrity, and trustworthiness in all professional relationships and with respect to all legal obligations;
+> (a) The ability to conduct oneself with a high degree of honesty, integrity, and trustworthiness in all professional relationships and with respect to all legal obligations;
 
 > ....
 
-> (c) The ability to conduct oneself with respect for and in accordance with the law and the Code of Professional Responsibility;
+> (c) The ability to conduct oneself with respect for and in accordance with the law and the Code of Professional Responsibility;
 
 > ....
 
-> (j) The ability to conduct oneself professionally and in a manner that engenders respect for the law and the profession.
+> (j) The ability to conduct oneself professionally and in a manner that engenders respect for the law and the profession.
 
 Under rule 3, Converse must prove that his past conduct is in conformity with the standards set forth by this court, and the record in this case compels the conclusion that he has failed to do so.
 
@@ -399,9 +407,9 @@ The petitioner then left Florida and moved to Wyoming, where he attended the Nor
 
 The applicant's criminal record also includes the following:
 
-(1\) On at least eight occasions from the spring of 1986 to as recently as the winter of 1997, Roots was caught speeding and ordered to pay fines. These moving-traffic violations occurred in Utah, Washington, and Montana.
+(1) On at least eight occasions from the spring of 1986 to as recently as the winter of 1997, Roots was caught speeding and ordered to pay fines. These moving-traffic violations occurred in Utah, Washington, and Montana.
 
-(2\) Roots apparently ignored his previous driver's license suspensions and flouted these dispositions because he later was charged in Georgia not once but twice in 1989 for driving on a suspended license. On the first occasion he not only drove on a suspended license, but also was issued citations for driving without a license, without insurance, and without proper registration. On the second such occasion, he was again driving on an expired registration plate and a suspended license. Roots's bar application explains his conduct thus:
+(2) Roots apparently ignored his previous driver's license suspensions and flouted these dispositions because he later was charged in Georgia not once but twice in 1989 for driving on a suspended license. On the first occasion he not only drove on a suspended license, but also was issued citations for driving without a license, without insurance, and without proper registration. On the second such occasion, he was again driving on an expired registration plate and a suspended license. Roots's bar application explains his conduct thus:
 
 "I was without sufficient money for insurance or registration. I made it to work for several days but was pulled over by another officer only a couple days later. Again, I was arrested for driving without a license, registration, or insurance. * * * To this day I do not know what became of the cases in Georgia."
 
@@ -411,7 +419,7 @@ On the present record, we do not know whether Roots has satisfied whatever lawfu
 
 Every prospective attorney in this state must complete an application that asks for a listing of all the candidate's "violations of * * * traffic law[s] or ordinance[s] other than parking offenses." This part of the application is not superfluous nor a mere incursion into the applicant's privacy, and it should not be so considered. Rather, it bears a logical and appropriate relationship to the ability of a prospective attorney in this state to maintain respect for and to uphold the law. And although repeated violations of various traffic laws, in isolation, may not preclude a candidate from admission to the bar, they certainly are relevant to the moral fitness and good-character determination that must be made when evaluating the qualifications of prospective attorneys.
 
-(3\) In Florida, Roots was convicted of providing a false statement to the authorities. To be sure, Roots has admitted that he provided a false name, but it should go without saying that this crime also reflects upon a candidate's ability to serve the public as an attorney, as well as upon the applicant's candor and truthfulness.
+(3) In Florida, Roots was convicted of providing a false statement to the authorities. To be sure, Roots has admitted that he provided a false name, but it should go without saying that this crime also reflects upon a candidate's ability to serve the public as an attorney, as well as upon the applicant's candor and truthfulness.
 
 In their totality, these various citations, misdemeanors, and felonies that Roots has accumulated over the years present sufficient evidence to warrant, at minimum, a significant delay in acting favorably upon his application for admission to the Rhode Island bar, especially in light of the fact that Roots has admittedly ignored and violated the terms of his two previous probationary periods. Indeed, Roots's first probation required him to perform community services — yet he chose to ignore that mandate from the Florida court. Instead, it was only after he scuffled with an arresting police officer — itself a display of disobedience to the officer's attempt to effect a lawful arrest — and again disobeyed the terms of his probation, that Roots was ultimately forced to serve time in prison.
 
@@ -485,35 +493,33 @@ Applicant passed the February 2008 New York State bar exam and the State Board o
 
 Applicant has disclosed various student loans with balances now totaling about $430,000. He has stated that the loans are currently delinquent but professes good faith intentions to pay them. He has attributed his nonpayment to the downturn in the economy and bad faith negotiations on the part of some of the loan servicers. Our review of the application indicates that the disbursement dates of the loans cover a 20-year period, from as early as 1985. Applicant has not made any substantial payments on the loans. He has not been flexible in his discussions with the loan servicers. Under all the circumstances herein, we conclude that applicant has not presently established the character and general fitness requisite for an attorney and counselor-at-law.
 
-
-
 ## Unauthorized Practice of Law
 
-### Model Rules of Professional Conduct, Rule 5.5
+### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Unauthorized Practice of Law; Multijurisdictional Practiceof Law
+#### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practiceof Law
 
-(a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
+(a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
 
-(b) A lawyer who is not admitted to practice in this jurisdiction shall not:
-	(1) except as authorized by these Rules or other law, establish an office or other systematic and continuous presence in this jurisdiction for the practice of law; or
-	(2) hold out to the public or otherwise represent that the lawyer is admitted to practice law in this jurisdiction.
+(b) A lawyer who is not admitted to practice in this jurisdiction shall not:
+	(1) except as authorized by these Rules or other law, establish an office or other systematic and continuous presence in this jurisdiction for the practice of law; or
+	(2) hold out to the public or otherwise represent that the lawyer is admitted to practice law in this jurisdiction.
 
-(c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
-	(1) are undertaken in association with a lawyer who is admitted to practice in this jurisdiction and who actively participates in the matter;
-	(2) are in or reasonably related to a pending or potential proceeding before a tribunal in this or another jurisdiction, if the lawyer, or a person the lawyer is assisting, is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized;
-	(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative resolution proceeding in this or another jurisdiction, if the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice and are not services for which the forum requires pro hac vice admission; or
-	(4) are not within paragraphs (c) (2) or (c)(3) and arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
+(c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
+	(1) are undertaken in association with a lawyer who is admitted to practice in this jurisdiction and who actively participates in the matter;
+	(2) are in or reasonably related to a pending or potential proceeding before a tribunal in this or another jurisdiction, if the lawyer, or a person the lawyer is assisting, is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized;
+	(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative resolution proceeding in this or another jurisdiction, if the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice and are not services for which the forum requires pro hac vice admission; or
+	(4) are not within paragraphs (c) (2) or (c)(3) and arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
 
-(d) A lawyer admitted in another United States jurisdiction or in a foreign jurisdiction, and not disbarred or suspended from practice in any jurisdiction or the equivalent thereof, or a person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction, may provide legal services through an office or other systematic and continuous presence in this jurisdiction that:
-	(1) are provided to the lawyer's employer or its organizational affiliates, are not services for which the forum requires pro hac vice admission; and when performed by a foreign lawyer and requires advice on the law of this or another U.S. jurisdiction or of the United States, such advice shall be based upon the advice of a lawyer who is duly licensed and authorized by the jurisdiction to provide such advice; or
-	(2) are services that the lawyer is authorized by federal or other law or rule to provide in this jurisdiction.
+(d) A lawyer admitted in another United States jurisdiction or in a foreign jurisdiction, and not disbarred or suspended from practice in any jurisdiction or the equivalent thereof, or a person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction, may provide legal services through an office or other systematic and continuous presence in this jurisdiction that:
+	(1) are provided to the lawyer's employer or its organizational affiliates, are not services for which the forum requires pro hac vice admission; and when performed by a foreign lawyer and requires advice on the law of this or another U.S. jurisdiction or of the United States, such advice shall be based upon the advice of a lawyer who is duly licensed and authorized by the jurisdiction to provide such advice; or
+	(2) are services that the lawyer is authorized by federal or other law or rule to provide in this jurisdiction.
 
-(e) For purposes of paragraph (d):
-	(1) the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and subject to effective regulation and discipline by a duly constituted professional body or a public authority; or,
-	(2) the person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction must be authorized to practice under this Rule by, in the exercise of its discretion, [the highest court of this jurisdiction].
+(e) For purposes of paragraph (d):
+	(1) the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and subject to effective regulation and discipline by a duly constituted professional body or a public authority; or,
+	(2) the person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction must be authorized to practice under this Rule by, in the exercise of its discretion, [the highest court of this jurisdiction].
 
 	</div>
 
@@ -523,12 +529,12 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 #### "Practice law" defined.
 
-(a) The phrase "practice law" as used in this Chapter is defined to be performing any legal service for any other person, firm or corporation, with or without compensation, specifically including the preparation or aiding in the preparation of deeds, mortgages, wills, trust instruments, inventories, accounts or reports of guardians, trustees, administrators or executors, or preparing or aiding in the preparation of any petitions or orders in any probate or court proceeding; abstracting or passing upon titles, the preparation and filing of petitions for use in any court, including administrative tribunals and other judicial or quasi-judicial bodies, or assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation: Provided, that the above reference to particular acts which are specifically included within the definition of the phrase "practice law" shall not be construed to limit the foregoing general definition of the term, but shall be construed to include the foregoing particular acts, as well as all other acts within the general definition.
+(a) The phrase "practice law" as used in this Chapter is defined to be performing any legal service for any other person, firm or corporation, with or without compensation, specifically including the preparation or aiding in the preparation of deeds, mortgages, wills, trust instruments, inventories, accounts or reports of guardians, trustees, administrators or executors, or preparing or aiding in the preparation of any petitions or orders in any probate or court proceeding; abstracting or passing upon titles, the preparation and filing of petitions for use in any court, including administrative tribunals and other judicial or quasi-judicial bodies, or assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation: Provided, that the above reference to particular acts which are specifically included within the definition of the phrase "practice law" shall not be construed to limit the foregoing general definition of the term, but shall be construed to include the foregoing particular acts, as well as all other acts within the general definition.
 
-(b) The phrase "practice law" does not encompass:
-	(1) The drafting or writing of memoranda of understanding or other mediation summaries by mediators at community mediation centers authorized by G.S.7A-38.5 or by mediators of employment-related matters for The University of North Carolina or a constituent institution, or for an agency, commission, or board of the State of North Carolina.
-	(2) The selection or completion of a preprinted form by a real estate broker licensed under Chapter 93A of the General Statutes, when the broker is acting as an agent in a real estate transaction and in accordance with rules adopted by the North Carolina Real Estate Commission, or the selection or completion of a preprinted residential lease agreement by any person or Web site provider. Nothing in this subdivision or in G.S.84-2.2 shall be construed to permit any person or Web site provider who is not licensed to practice law in accordance with this Chapter to prepare for any third person any contract or deed conveying any interest in real property, or to abstract or pass upon title to any real property, which is located in this State.
-	(3) The completion of or assisting a consumer in the completion of various agreements, contracts, forms, and other documents related to the sale or lease of a motor vehicle as defined in G.S.20-286(10), or of products or services ancillary or related to the sale or lease of a motor vehicle, by a motor vehicle dealer licensed under Article 12 of Chapter 20 of the General Statutes.
+(b) The phrase "practice law" does not encompass:
+	(1) The drafting or writing of memoranda of understanding or other mediation summaries by mediators at community mediation centers authorized by G.S.7A-38.5 or by mediators of employment-related matters for The University of North Carolina or a constituent institution, or for an agency, commission, or board of the State of North Carolina.
+	(2) The selection or completion of a preprinted form by a real estate broker licensed under Chapter 93A of the General Statutes, when the broker is acting as an agent in a real estate transaction and in accordance with rules adopted by the North Carolina Real Estate Commission, or the selection or completion of a preprinted residential lease agreement by any person or Web site provider. Nothing in this subdivision or in G.S.84-2.2 shall be construed to permit any person or Web site provider who is not licensed to practice law in accordance with this Chapter to prepare for any third person any contract or deed conveying any interest in real property, or to abstract or pass upon title to any real property, which is located in this State.
+	(3) The completion of or assisting a consumer in the completion of various agreements, contracts, forms, and other documents related to the sale or lease of a motor vehicle as defined in G.S.20-286(10), or of products or services ancillary or related to the sale or lease of a motor vehicle, by a motor vehicle dealer licensed under Article 12 of Chapter 20 of the General Statutes.
 
 </div>
 
@@ -616,17 +622,17 @@ The question of jurisdiction over non-lawyers for activities outside of Article 
 
 ## Pro Hac Vice
 
-### Model Rules of Professional Conduct, Rule 5.5
+### Model Rules of Professional Conduct 
 
 <div class="legal-code">
 
-#### Unauthorized Practice of Law; Multijurisdictional Practice of Law
+#### Rule 5.5: Unauthorized Practice of Law; Multijurisdictional Practice of Law
 
-(c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
-	(1) are undertaken in association with a lawyer who is admitted to practice in this jurisdiction and who actively participates in the matter;
-	(2) are in or reasonably related to a pending or potential proceeding before a tribunal in this or another jurisdiction, if the lawyer, or a person the lawyer is assisting, is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized;
-	(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative resolution proceeding in this or another jurisdiction, if the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice and are not services for which the forum requires pro hac vice admission; or
-	(4) are not within paragraphs (c) (2) or (c)(3) and arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
+(c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
+	(1) are undertaken in association with a lawyer who is admitted to practice in this jurisdiction and who actively participates in the matter;
+	(2) are in or reasonably related to a pending or potential proceeding before a tribunal in this or another jurisdiction, if the lawyer, or a person the lawyer is assisting, is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized;
+	(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative resolution proceeding in this or another jurisdiction, if the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice and are not services for which the forum requires pro hac vice admission; or
+	(4) are not within paragraphs (c) (2) or (c)(3) and arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
 
 </div>
 
@@ -670,108 +676,84 @@ I am revoking my order granting Lin Wood, Esquire the privilege of representing 
 
 ## Misconduct & Discipline
 
-### Model Rules of Professional Conduct Rule 8.2
+### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Judicial & Legal Officials
+#### Rule 8.2: Judicial & Legal Officials
 
-(a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
+(a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 
-(b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
+(b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-</div>
+#### Rule 8.3: Reporting Professional Misconduct
 
-### Model Rules of Professional Conduct, Rule 8.3
+(a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 
-<div class="legal-code">
+(b) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the appropriate authority.
 
-#### Reporting Professional Misconduct
+(c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
 
-(a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
-
-(b) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the appropriate authority.
-
-(c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
-
-</div>
-
-### Model Rules of Professional Conduct, Rule 8.4
-
-<div class="legal-code">
-
-#### Misconduct
+#### Rule 8.4: Misconduct
 
 It is professional misconduct for a lawyer to:
 
-(a) violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
+(a) violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
 
-(b) commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
+(b) commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
 
-(c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
+(c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
 
-(d) engage in conduct that is prejudicial to the administration of justice;
+(d) engage in conduct that is prejudicial to the administration of justice;
 
-(e) state or imply an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law;
+(e) state or imply an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law;
 
-(f) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
+(f) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
 
-(g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
+(g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
 
-</div>
+#### Rule 8.5:  Disciplinary Authority; Choice of Law
 
-### Model Rules of Professional Conduct, Rule 8.5
+(a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
 
-<div class="legal-code">
-
-#### Disciplinary Authority; Choice of Law
-
-(a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
-
-(b) Choice of Law. In any exercise of the disciplinary authority of this jurisdiction, the rules of professional conduct to be applied shall be as follows:
-	(1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
-	(2) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
+(b) Choice of Law. In any exercise of the disciplinary authority of this jurisdiction, the rules of professional conduct to be applied shall be as follows:
+	(1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
+	(2) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
 
 </div>
 
-### N.C. Gen. Stat. § 84-28
+### N.C. Gen. Stat. 
 
 <div class="legal-code">
 
-#### Discipline and disbarment.
+#### § 84-28: Discipline and disbarment.
 
-(a) Any attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
-(b) The following acts or omissions by a member of the North Carolina State Bar or any attorney admitted for limited practice under G.S. 84-4.1, individually or in concert with any other person or persons, shall constitute misconduct and shall be grounds for discipline whether the act or omission occurred in the course of an attorney-client relationship or otherwise:
-	(1) Conviction of, or a tender and acceptance of a plea of guilty or no contest to, a criminal offense showing professional unfitness;
-	(2) The violation of the Rules of Professional Conduct adopted and promulgated by the Council in effect at the time of the act;
-	(3) Knowing misrepresentation of any facts or circumstances surrounding any complaint, allegation or charge of misconduct; failure to answer any formal inquiry or complaint issued by or in the name of the North Carolina State Bar in any disciplinary matter; or contempt of the Council or any committee of the North Carolina State Bar.
-(c) Misconduct by any attorney shall be grounds for:
-	(1) Disbarment;
-	(2) Suspension for a period up to but not exceeding five years, any portion of which may be stayed upon reasonable conditions to which the offending attorney consents;
-	(3) Censure - A censure is a written form of discipline more serious than a reprimand issued in cases in which an attorney has violated one or more provisions of the Rules of Professional Conduct and has caused significant harm or potential significant harm to a client, the administration of justice, the profession or members of the public, but the protection of the public does not require suspension of the attorney's license;
-	(4) Reprimand - A reprimand is a written form of discipline more serious than an admonition issued in cases in which an attorney has violated one or more provisions of the Rules of Professional Conduct, but the protection of the public does not require a censure. A reprimand is generally reserved for cases in which the attorney's conduct has caused harm or potential harm to a client, the administration of justice, the profession, or members of the public; or
-	(5) Admonition - An admonition is a written form of discipline imposed in cases in which an attorney has committed a minor violation of the Rules of Professional Conduct.
+(a) Any attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
+(b) The following acts or omissions by a member of the North Carolina State Bar or any attorney admitted for limited practice under G.S. 84-4.1, individually or in concert with any other person or persons, shall constitute misconduct and shall be grounds for discipline whether the act or omission occurred in the course of an attorney-client relationship or otherwise:
+	(1) Conviction of, or a tender and acceptance of a plea of guilty or no contest to, a criminal offense showing professional unfitness;
+	(2) The violation of the Rules of Professional Conduct adopted and promulgated by the Council in effect at the time of the act;
+	(3) Knowing misrepresentation of any facts or circumstances surrounding any complaint, allegation or charge of misconduct; failure to answer any formal inquiry or complaint issued by or in the name of the North Carolina State Bar in any disciplinary matter; or contempt of the Council or any committee of the North Carolina State Bar.
+(c) Misconduct by any attorney shall be grounds for:
+	(1) Disbarment;
+	(2) Suspension for a period up to but not exceeding five years, any portion of which may be stayed upon reasonable conditions to which the offending attorney consents;
+	(3) Censure - A censure is a written form of discipline more serious than a reprimand issued in cases in which an attorney has violated one or more provisions of the Rules of Professional Conduct and has caused significant harm or potential significant harm to a client, the administration of justice, the profession or members of the public, but the protection of the public does not require suspension of the attorney's license;
+	(4) Reprimand - A reprimand is a written form of discipline more serious than an admonition issued in cases in which an attorney has violated one or more provisions of the Rules of Professional Conduct, but the protection of the public does not require a censure. A reprimand is generally reserved for cases in which the attorney's conduct has caused harm or potential harm to a client, the administration of justice, the profession, or members of the public; or
+	(5) Admonition - An admonition is a written form of discipline imposed in cases in which an attorney has committed a minor violation of the Rules of Professional Conduct.
 
 Any order disbarring or suspending an attorney may impose reasonable conditions precedent to reinstatement. No attorney who has been disbarred by the Disciplinary Hearing Commission, the Council, or by order of any court of this State may seek reinstatement to the practice of law prior to five years from the effective date of the order of disbarment. Any order of the Disciplinary Hearing Commission or the Grievance Committee imposing an admonition, reprimand, censure, or stayed suspension may also require the attorney to complete a reasonable amount of continuing legal education in addition to the minimum amount required by the North Carolina Supreme Court.
 
-(d) Any attorney admitted to practice law in this State, who is convicted of or has tendered and has had accepted, a plea of guilty or no contest to, a criminal offense showing professional unfitness, may be disciplined based upon the conviction, without awaiting the outcome of any appeals of the conviction. An order of discipline based solely upon a conviction of a criminal offense showing professional unfitness shall be vacated immediately upon receipt by the Secretary of the North Carolina State Bar of a certified copy of a judgment or order reversing the conviction. The fact that the attorney's criminal conviction has been overturned on appeal shall not prevent the North Carolina State Bar from conducting a disciplinary proceeding against the attorney based upon the same underlying facts or events that were the subject of the criminal proceeding.
-(d1) An attorney who is disciplined as provided in subsection (d) of this section may petition the court in the trial division in the judicial district where the conviction occurred for an order staying the disciplinary action pending the outcome of any appeals of the conviction. The court may grant or deny the stay in its discretion upon such terms as it deems proper. A stay of the disciplinary action by the court shall not prevent the North Carolina State Bar from going forward with a disciplinary proceeding against the attorney based upon the same underlying facts or events that were the subject of the criminal proceeding.
-(e) Any attorney admitted to practice law in this State who is disciplined in another jurisdiction shall be subject to the same discipline in this State: Provided, that the discipline imposed in the other jurisdiction does not exceed that provided for in subsection (c) above and that the attorney was not deprived of due process in the other jurisdiction.
-(f) Upon application by the North Carolina State Bar, misconduct by an attorney admitted to practice in this State may be restrained or enjoined where the necessity for prompt action exists regardless of whether a disciplinary proceeding in the matter of the conduct is pending. The application shall be filed in the Superior Court of Wake County and shall be governed by the procedure set forth in G.S. 1A-1, Rule 65.
-(g) Any member of the North Carolina State Bar may be transferred to disability inactive status for mental incompetence, physical disability, or substance abuse interfering with the attorney's ability to competently engage in the practice of law under the rules and procedures the Council adopts pursuant to G.S. 84-23.
-(h) There shall be an appeal of right by either party from any final order of the Disciplinary Hearing Commission to the North Carolina Court of Appeals. Review by the appellate division shall be upon matters of law or legal inference. The procedures governing any appeal shall be as provided by statute or court rule for appeals in civil cases. A final order which imposes disbarment or suspension for 18 months or more shall not be stayed except upon application, under the rules of the Court of Appeals, for a writ of supersedeas. A final order imposing suspension for less than 18 months or any other discipline except disbarment shall be stayed pending determination of any appeal of right.
-(i) The North Carolina State Bar may invoke the process of the General Court of Justice to enforce the powers of the Council or any committee to which the Council delegates its authority.
-(j) The North Carolina State Bar may apply to appropriate courts for orders necessary to protect the interests of clients of missing, suspended, disbarred, disabled, or deceased attorneys.
+(d) Any attorney admitted to practice law in this State, who is convicted of or has tendered and has had accepted, a plea of guilty or no contest to, a criminal offense showing professional unfitness, may be disciplined based upon the conviction, without awaiting the outcome of any appeals of the conviction. An order of discipline based solely upon a conviction of a criminal offense showing professional unfitness shall be vacated immediately upon receipt by the Secretary of the North Carolina State Bar of a certified copy of a judgment or order reversing the conviction. The fact that the attorney's criminal conviction has been overturned on appeal shall not prevent the North Carolina State Bar from conducting a disciplinary proceeding against the attorney based upon the same underlying facts or events that were the subject of the criminal proceeding.
+(d1) An attorney who is disciplined as provided in subsection (d) of this section may petition the court in the trial division in the judicial district where the conviction occurred for an order staying the disciplinary action pending the outcome of any appeals of the conviction. The court may grant or deny the stay in its discretion upon such terms as it deems proper. A stay of the disciplinary action by the court shall not prevent the North Carolina State Bar from going forward with a disciplinary proceeding against the attorney based upon the same underlying facts or events that were the subject of the criminal proceeding.
+(e) Any attorney admitted to practice law in this State who is disciplined in another jurisdiction shall be subject to the same discipline in this State: Provided, that the discipline imposed in the other jurisdiction does not exceed that provided for in subsection (c) above and that the attorney was not deprived of due process in the other jurisdiction.
+(f) Upon application by the North Carolina State Bar, misconduct by an attorney admitted to practice in this State may be restrained or enjoined where the necessity for prompt action exists regardless of whether a disciplinary proceeding in the matter of the conduct is pending. The application shall be filed in the Superior Court of Wake County and shall be governed by the procedure set forth in G.S. 1A-1, Rule 65.
+(g) Any member of the North Carolina State Bar may be transferred to disability inactive status for mental incompetence, physical disability, or substance abuse interfering with the attorney's ability to competently engage in the practice of law under the rules and procedures the Council adopts pursuant to G.S. 84-23.
+(h) There shall be an appeal of right by either party from any final order of the Disciplinary Hearing Commission to the North Carolina Court of Appeals. Review by the appellate division shall be upon matters of law or legal inference. The procedures governing any appeal shall be as provided by statute or court rule for appeals in civil cases. A final order which imposes disbarment or suspension for 18 months or more shall not be stayed except upon application, under the rules of the Court of Appeals, for a writ of supersedeas. A final order imposing suspension for less than 18 months or any other discipline except disbarment shall be stayed pending determination of any appeal of right.
+(i) The North Carolina State Bar may invoke the process of the General Court of Justice to enforce the powers of the Council or any committee to which the Council delegates its authority.
+(j) The North Carolina State Bar may apply to appropriate courts for orders necessary to protect the interests of clients of missing, suspended, disbarred, disabled, or deceased attorneys.
 
 The senior regular resident judge of the superior court of any district wherein a member of the North Carolina State Bar resides or maintains an office shall have the authority and power to enter orders necessary to protect the interests of the clients, including the authority to order the payment of compensation by the member or the estate of a deceased or disabled member to any attorney appointed to administer or conserve the law practice of the member. Compensation awarded to a member serving under this section awarded from the estate of a deceased member shall be considered an administrative expense of the estate for purposes of determining priority of payment.
 
-</div>
-
-### N.C. Gen. Stat. § 84-36
-
-<div class="legal-code">
-
-#### Inherent powers of courts unaffected.
+#### § 84-36: Inherent powers of courts unaffected.
 
 Nothing contained in this Article shall be construed as disabling or abridging the inherent powers of the court to deal with its attorneys.
 
@@ -807,14 +789,12 @@ B. That by knowingly giving evasive and misleading answers, in violation of Judg
 
 Upon consideration of the proposed Agreed Order, the entire record before the Court, the advice of counsel, and the Arkansas Model Rules of Professional Conduct (the "Model Rules"), the Court finds:
 
-1\. That Mr. Clinton's conduct, heretofore set forth, in the Jones case violated Model Rule 8.4(d), when he gave knowingly evasive and misleading discovery responses concerning his relationship with Ms. Lewinsky, in violation of Judge Wright's discovery orders. Model Rule 8.4(d) states that it is professional misconduct for a lawyer to "engage in conduct that is prejudicial to the administration of justice."
+1. That Mr. Clinton's conduct, heretofore set forth, in the Jones case violated Model Rule 8.4(d), when he gave knowingly evasive and misleading discovery responses concerning his relationship with Ms. Lewinsky, in violation of Judge Wright's discovery orders. Model Rule 8.4(d) states that it is professional misconduct for a lawyer to "engage in conduct that is prejudicial to the administration of justice."
 
 WHEREFORE, it is the decision and order of this Court that William Jefferson Clinton, Arkansas Bar ID # 73019, be, and hereby is, SUSPENDED for FIVE YEARS for his conduct in this matter, and the payment of fine in the amount of $ 25,000. The suspension shall become effective as of the date of January 19, 2001.
 
 
 ### In re Riehlmann, 891 So.2d 1239 (La. 2005)
-
-
 
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 
@@ -930,8 +910,6 @@ Reporting another lawyer's misconduct to disciplinary authorities is an importan
 
 
 ### Matter of Giuliani, No. 2021-00506 (N.Y. App. Div. June 24, 2021).
-
-
 
 The Attorney Grievance Committee moves for an order immediately suspending respondent from the practice of law based upon claimed violations of rules 3.3(a); 4.1; 8.4(c) and 8.4(h) of the Rules of Professional Conduct. Respondent was admitted to practice as an attorney and counselor at law in the State of New York on June 25, 1969, under the name Rudolph William Giuliani. He maintains a law office within the First Judicial Department.
 
@@ -1090,99 +1068,70 @@ Before Judge Brann in the _Boockvar_ case, respondent himself stated: "I don't k
 
 ## Law Firms
 
-### Model Rules of Professional Conduct, Rule 5.1
+### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Responsibilities of a Partner or Supervisory Lawyer
+#### Rule 5.1: Responsibilities of a Partner or Supervisory Lawyer
 
-(a) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
+(a) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
 
-(b) A lawyer having direct supervisory authority over another lawyer shall make reasonable efforts to ensure that the other lawyer conforms to the Rules of Professional Conduct.
+(b) A lawyer having direct supervisory authority over another lawyer shall make reasonable efforts to ensure that the other lawyer conforms to the Rules of Professional Conduct.
 
-(c) A lawyer shall be responsible for another lawyer's violation of the Rules of Professional Conduct if:
-	(1) the lawyer orders or, with knowledge of the specific conduct, ratifies the conduct involved; or
-	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
+(c) A lawyer shall be responsible for another lawyer's violation of the Rules of Professional Conduct if:
+	(1) the lawyer orders or, with knowledge of the specific conduct, ratifies the conduct involved; or
+	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-</div>
+#### Rule 5.2: Responsibilities of a Subordinate Lawyer
 
-### Model Rules of Professional Conduct, Rule 5.2
+(a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 
-<div class="legal-code">
+(b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer's reasonable resolution of an arguable question of professional duty.
 
-#### Responsibilities of a Subordinate Lawyer
-
-(a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
-
-(b) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer's reasonable resolution of an arguable question of professional duty.
-
-</div>
-
-### Model Rules of Professional Conduct, Rule 5.3
-
-<div class="legal-code">
-
-#### Responsibilities Regarding Nonlawyer Assistance
+#### Rule 5.3: Responsibilities Regarding Nonlawyer Assistance
 
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
-(a) a partner, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that the person's conduct is compatible with the professional obligations of the lawyer;
+(a) a partner, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that the person's conduct is compatible with the professional obligations of the lawyer;
 
-(b) a lawyer having direct supervisory authority over the nonlawyer shall make reasonable efforts to ensure that the person's conduct is compatible with the professional obligations of the lawyer; and
+(b) a lawyer having direct supervisory authority over the nonlawyer shall make reasonable efforts to ensure that the person's conduct is compatible with the professional obligations of the lawyer; and
 
-(c) a lawyer shall be responsible for conduct of such a person that would be a violation of the Rules of Professional Conduct if engaged in by a lawyer if:
-	(1) the lawyer orders or, with the knowledge of the specific conduct, ratifies the conduct involved; or
-	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the person is employed, or has direct supervisory authority over the person, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
+(c) a lawyer shall be responsible for conduct of such a person that would be a violation of the Rules of Professional Conduct if engaged in by a lawyer if:
+	(1) the lawyer orders or, with the knowledge of the specific conduct, ratifies the conduct involved; or
+	(2) the lawyer is a partner or has comparable managerial authority in the law firm in which the person is employed, or has direct supervisory authority over the person, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-</div>
 
-### Model Rules of Professional Conduct, Rule 5.4
+#### Rule 5.4: Professional Independence of a Lawyer
 
-<div class="legal-code">
+(a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
+	(1) an agreement by a lawyer with the lawyer's firm, partner, or associate may provide for the payment of money, over a reasonable period of time after the lawyer's death, to the lawyer's estate or to one or more specified persons;
+	(2) a lawyer who purchases the practice of a deceased, disabled, or disappeared lawyer may, pursuant to the provisions of Rule 1.17, pay to the estate or other representative of that lawyer the agreed-upon purchase price;
+	(3) a lawyer or law firm may include nonlawyer employees in a compensation or retirement plan, even though the plan is based in whole or in part on a profit-sharing arrangement; and
+	(4) a lawyer may share court-awarded legal fees with a nonprofit organization that employed, retained or recommended employment of the lawyer in the matter.
 
-#### Professional Independence of a Lawyer
+(b) A lawyer shall not form a partnership with a nonlawyer if any of the activities of the partnership consist of the practice of law.
 
-(a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
-	(1) an agreement by a lawyer with the lawyer's firm, partner, or associate may provide for the payment of money, over a reasonable period of time after the lawyer's death, to the lawyer's estate or to one or more specified persons;
-	(2) a lawyer who purchases the practice of a deceased, disabled, or disappeared lawyer may, pursuant to the provisions of Rule 1.17, pay to the estate or other representative of that lawyer the agreed-upon purchase price;
-	(3) a lawyer or law firm may include nonlawyer employees in a compensation or retirement plan, even though the plan is based in whole or in part on a profit-sharing arrangement; and
-	(4) a lawyer may share court-awarded legal fees with a nonprofit organization that employed, retained or recommended employment of the lawyer in the matter.
+(c) A lawyer shall not permit a person who recommends, employs, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services.
 
-(b) A lawyer shall not form a partnership with a nonlawyer if any of the activities of the partnership consist of the practice of law.
+(d) A lawyer shall not practice with or in the form of a professional corporation or association authorized to practice law for a profit, if:
+	(1) a nonlawyer owns any interest therein, except that a fiduciary representative of the estate of a lawyer may hold the stock or interest of the lawyer for a reasonable time during administration;
+	(2) a nonlawyer is a corporate director or officer thereof or occupies the position of similar responsibility in any form of association other than a corporation ; or
+	(3) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
-(c) A lawyer shall not permit a person who recommends, employs, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services.
-
-(d) A lawyer shall not practice with or in the form of a professional corporation or association authorized to practice law for a profit, if:
-	(1) a nonlawyer owns any interest therein, except that a fiduciary representative of the estate of a lawyer may hold the stock or interest of the lawyer for a reasonable time during administration;
-	(2) a nonlawyer is a corporate director or officer thereof or occupies the position of similar responsibility in any form of association other than a corporation ; or
-	(3) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
-
-</div>
-
-### Model Rules of Professional Conduct, Rule 5.6
-
-<div class="legal-code">
-
-#### Restrictions on Rights to Practice
+#### Rule 5.6: Restrictions on Rights to Practice
 
 A lawyer shall not participate in offering or making:
 
-(a) a partnership, shareholders, operating, employment, or other similar type of agreement that restricts the right of a lawyer to practice after termination of the relationship, except an agreement concerning benefits upon retirement; or
+(a) a partnership, shareholders, operating, employment, or other similar type of agreement that restricts the right of a lawyer to practice after termination of the relationship, except an agreement concerning benefits upon retirement; or
 
-(b) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
+(b) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-</div>
+#### Rule 5.7: Responsibilities Regarding Law-related Services
 
-### Model Rules of Professional Conduct, Rule 5.7
+(a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
+	(1) by the lawyer in circumstances that are not distinct from the lawyer's provision of legal services to clients; or
+	(2) in other circumstances by an entity controlled by the lawyer individually or with others if the lawyer fails to take reasonable measures to assure that a person obtaining the law-related services knows that the services are not legal services and that the protections of the client-lawyer relationship do not exist.
 
-<div class="legal-code">
-
-#### Responsibilities Regarding Law-related Services
-
-(a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
-	(1) by the lawyer in circumstances that are not distinct from the lawyer's provision of legal services to clients; or
-	(2) in other circumstances by an entity controlled by the lawyer individually or with others if the lawyer fails to take reasonable measures to assure that a person obtaining the law-related services knows that the services are not legal services and that the protections of the client-lawyer relationship do not exist.
-
-(b) The term "law-related services" denotes services that might reasonably be performed in conjunction with and in substance are related to the provision of legal services, and that are not prohibited as unauthorized practice of law when provided by a nonlawyer.
+(b) The term "law-related services" denotes services that might reasonably be performed in conjunction with and in substance are related to the provision of legal services, and that are not prohibited as unauthorized practice of law when provided by a nonlawyer.
 
 </div>

@@ -6,15 +6,15 @@ title: Advertising & Solicitation
 
 # Advertising
 
-### Model Rules of Professional Conduct, Rule 7.1
+### Model Rules of Professional Conduct
 
-#### Communications Concerning a Lawyer's Services
+<div class="legal-code">
+
+#### Rule 7.1: Communications Concerning a Lawyer's Services
 
 A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-### Model Rules of Professional Conduct, Rule 7.2
-
-#### Communications Concerning a Lawyer's Services: Specific Rules
+#### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 (a) A lawyer may communicate information regarding the lawyer’s services through any media.
 
@@ -32,6 +32,8 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 	(2) the name of the certifying organization is clearly identified in the communication.
 
 (d) Any communication made under this Rule must include the name and contact information of at least one lawyer or law firm responsible for its content.
+
+</div>
 
 ### Bates v. State Bar of Arizona, 433 U.S. 350 (1977)
 
@@ -238,7 +240,7 @@ We disapprove the referee's finding that the television commercial at issue is c
 *** 
 <div class="comment">
 
-### Note on _Pape
+#### Note on _Pape_
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). In his [answer](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
 
@@ -442,9 +444,11 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 # Solicitation
 
-### Model Rules of Professional Conduct, Rule 7.3
+### Model Rules of Professional Conduct
 
-#### Solicitation of Clients
+<div class="legal-code">
+
+#### Rule 7.3: Solicitation of Clients
 
 (a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
@@ -461,12 +465,11 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 (e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-### Model Rules of Professional Conduct, Rule 7.6
-
-#### Political Contributions to Obtain Legal Engagements or Appointments by Judges
+#### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
+</div>
 
 ### NAACP v. Button, 371 U.S. 415 (1963)
 

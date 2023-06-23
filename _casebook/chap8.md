@@ -6,9 +6,11 @@ title: Interactions with Non-Clients
 
 # Truthfulness & Fairness 
 
-### Model Rules of Professional Conduct, Rule 4.1
+### Model Rules of Professional Conduct
 
-#### Truthfulness in Statements to Others
+<div class="legal-code">
+
+#### Rule 4.1: Truthfulness in Statements to Others
 
 In the course of representing a client a lawyer shall not knowingly:
 
@@ -16,26 +18,27 @@ In the course of representing a client a lawyer shall not knowingly:
 
 (b) fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
-### Model Rules of Professional Conduct, Rule 4.4
 
-#### Respect for Rights of Third Persons
+#### Rule 4.4: Respect for Rights of Third Persons
 
 (a) In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
 
 (b) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 
-
-
-
+</div>
 
 
 # Represented Persons
 
-### Model Rules of Professional Conduct, Rule 4.2
+### Model Rules of Professional Conduct, 
 
-#### Communication with Person Represented by Counsel
+<div class="legal-code">
+
+#### Rule 4.2: Communication with Person Represented by Counsel
 
 In representing a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order.
+
+</div>
 
 
 ### N.C. State Bar v. Weckworth, No. COA18-866 (N.C, Ct. App. June 4, 2019)
@@ -117,15 +120,17 @@ Here, the matter under discussion was custody of Sally. Louise was represented b
 
 # Unrepresented Persons 
 
-### Model Rules of Professional Conduct, Rule 4.3
+### Model Rules of Professional Conduct
 
-#### Dealing with Unrepresented Person
+<div class="legal-code">
+
+#### Rule 4.3: Dealing with Unrepresented Person
 
 In dealing on behalf of a client with a person who is not represented by counsel, a lawyer shall not state or imply that the lawyer is disinterested. When the lawyer knows or reasonably should know that the unrepresented person misunderstands the lawyer's role in the matter, the lawyer shall make reasonable efforts to correct the misunderstanding. The lawyer shall not give legal advice to an unrepresented person, other than the advice to secure counsel, if the lawyer knows or reasonably should know that the interests of such a person are or have a reasonable possibility of being in conflict with the interests of the client.
 
+</div>
 
-
-### In re Disciplinary Proceeding Against Haley}{126 P.3d 1262}{Wash. 2006}
+### In re Disciplinary Proceeding Against Haley, 126 P.3d 1262 (Wash. 2006)
 
 #### Owens, J.
 
