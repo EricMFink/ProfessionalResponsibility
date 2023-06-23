@@ -123,7 +123,7 @@ This result, we point out, would not be different under the former ethics rules.
 
 We acknowledge that if by statute or valid rule or regulation information concerning the identity of clients of a legal services organization were clearly required to be reported for legitimate governmental purposes, the analysis and result could well be different. A different conclusion as to the propriety of disclosure might also obtain in the event private funding sources sought client information under enforceable rules or regulations. It can reasonably be assumed that in such a context, the welfare and interests of clients would remain a paramount concern and that the disclosure occasioned by such necessary reporting would be attended by suitable protections reflecting needs for confidentiality and privacy.
 
-##### II.
+#### II.
 
 We conclude that client-identifying data with respect to persons receiving legal assistance through the Law Project constitute matters clearly covered by the Rules of Professional Conduct as "information relating to representation." Such material is also covered under the attorney-client privilege and the former Disciplinary Rule as information in the nature of client secrets that could be embarrassing or detrimental to the client if revealed. Under these strictures we are satisfied that it would be improper to reveal such information to either public or private funding sources in the absence of valid consent or reasonable rules clearly requiring such disclosure for legitimate purposes.
 
@@ -223,7 +223,7 @@ In this case, although it would have been possible for Tennant to discover the e
 
 ODC further claims that, absent the Harshmans' redemption of their property, Tennant would have exceeded his fee claim and lien by receiving a windfall from the sheriff's sale of upwards of $80,000---his former clients' equity in their property. ODC submits that this is a clear violation of Rule 1.9(c), MRPC. However, the Harshmans did redeem their property, and ODC's assumptions do not satisfy its burden of proof.
 
-##### _Sanctions_
+##### Sanctions
 
 Finally, ODC argues that the Commission's recommended sanctions are inadequate given Tennant's unethical conduct and will not deter the same type of conduct by other Montana attorneys. ODC had recommended that Tennant be suspended from the practice of law for at least seven months and that he be required to retake and pass the Multistate Professional Responsibility Exam.
 
@@ -292,9 +292,9 @@ Today's opinion will likely have two unfortunate results. First, overzealous pro
 
 Oregon state prisoner Robert A. McClure appeals the district court's denial of his habeas corpus petition challenging his jury trial conviction for three aggravated murders. McClure's original defense attorney, Christopher Mecca, placed an anonymous telephone call to law enforcement officials directing them to the locations of what turned out to be the bodies of two children whom McClure was ultimately convicted of killing. The district court rejected McClure's arguments that the disclosure constituted ineffective assistance of counsel, holding there was no breach of the duty of confidentiality and no actual conflict of interest. We affirm.
 
-##### I. Background
+#### I. Background
 
-##### _A. Offense, Arrest and Conviction_
+##### A. Offense, Arrest and Conviction
 
 On Tuesday, April 24, 1984, the body of Carol Jones was found in her home in Grants Pass, Oregon. She had been struck numerous times on the head, arms and hands with a blunt object. A gun cabinet in the home had been forced open and a .44 caliber revolver was missing. Two of Jones' children---Michael, age 14, and Tanya, age 10---were also missing. The fingerprints of Robert McClure, a friend of Jones, were found in the blood in the home. On Saturday, April 28, McClure was arrested in connection with the death of Carol Jones and the disappearance of the children.
 
@@ -302,7 +302,7 @@ That same day, McClure's mother contacted attorney Christopher Mecca and asked h
 
 Later that day and the following day, sheriff's deputies located the children's bodies, which were in locations more than 60 miles apart. The children had each died from a single gunshot wound to the head. Mecca then withdrew from representation. On May 3, McClure was indicted for the murders of Carol Jones and her children. At trial, the prosecution produced extensive evidence that stemmed from the discovery of the children's bodies and introduced testimony regarding the anonymous phone call. McClure was found guilty of all three murders and was sentenced to three consecutive life sentences with 30-year minimums. On direct appeal, his conviction was affirmed without opinion.
 
-##### _B. Disclosure of the Children's Whereabouts_
+##### B. Disclosure of the Children's Whereabouts
 
 The parties agree that Mecca and McClure met at the jail and spoke on the telephone on a number of occasions between April 28 and May 1. However, the substance of the conversations between McClure and Mecca are the subject of significant dispute.
 
@@ -336,11 +336,11 @@ McClure disagreed with Mecca's account of the events leading up to the anonymous
 
 McClure testified that Mecca never asked him directly if the children were alive or dead, but that the hypothetical conversations that they had were about where Mecca might find dead "bodies," not live "children." He said his disclosure of those locations was his way of admitting to having killed them. He testified that Mecca never told him that he intended to make an anonymous telephone call.
 
-##### III. Discussion
+#### III. Discussion
 
 McClure's single claim is that habeas relief is appropriate because he received ineffective assistance of counsel under the Sixth Amendment. He asserts three independent grounds on which ineffectiveness could be found. The first two are based on alleged breaches of Mecca's professional duty to maintain client confidentiality. McClure argues that this duty was breached both by a failure to obtain informed consent prior to the disclosure of confidential information and by a failure to inquire thoroughly before concluding that disclosure was necessary to prevent the deaths of the children. The third ground is that the primacy of Mecca's concern for the victims constituted a conflict of interest that rendered Mecca's counsel constitutionally ineffective.
 
-##### _A. The Duty of Confidentiality_
+##### A. The Duty of Confidentiality
 
 McClure contends that Mecca's disclosure of McClure's confidential statements about the location of the children violated McClure's Sixth Amendment right to effective assistance of counsel. ABA Model Rule of Professional Conduct 1.6 sets forth a widely recognized duty of confidentiality: "A lawyer shall not reveal information relating to representation of a client." Our legal system is premised on the strict adherence to this principle of confidentiality, and "the Supreme Court has long held attorneys to stringent standards of loyalty and fairness with respect to their clients." There are few professional relationships "involving a higher trust and confidence than that of attorney and client," and "few more anxiously guarded by the law, or governed by sterner principles of morality and justice."
 
@@ -348,7 +348,7 @@ As critical as this confidential relationship is to our system of justice, the d
 
 The duty of an attorney to keep his or her client's confidences in all but a handful of carefully defined circumstances is so deeply ingrained in our legal system and so uniformly acknowledged as a critical component of reasonable representation by counsel that departure from this rule "makes out a deprivation of the Sixth Amendment right to counsel." With this uncontested premise as our starting point, we examine whether the circumstances surrounding Mecca's revelation of a confidential client communication excused his disclosure, such that his performance could have been found by the state court and the district court to be constitutionally adequate. Specifically, we look to see if Mecca's client "consented after consultation" or if Mecca "reasonably believed the revelation was necessary to prevent the client from committing a criminal act that Mecca believed was likely to result in imminent death or substantial bodily harm." We conclude that the first of these exceptions does not apply to justify Mecca's behavior, but that the second does.
 
-##### _1. Consent After Consultation_
+##### 1. Consent After Consultation
 
 McClure argues that Mecca rendered constitutionally ineffective assistance because he breached his duty of confidentiality by not obtaining McClure's informed consent before disclosure. The professional standard that allows disclosure of confidential communications when "the client consents after consultation" has two distinct parts: consent by the client, and consultation by the counsel. Our required deference to both the state court's factual findings and the district court's credibility determination leads us to hold that the first of these elements was met. However, despite this deference, we hold that the second element was not met.
 
@@ -368,7 +368,7 @@ However, the mere fact of consent is not sufficient to excuse what would otherwi
 
 Emphasizing that McClure was "fully engaged" in his defense and that he was told that the obligation to disclose the children's location arose only if the children were alive, the district court held that "under the circumstances, Mecca's failure to advise petitioner of all possible adverse consequences was not unreasonable." We believe this holding is inconsistent with the consultation requirement because it does not attach sufficient importance to the role that an attorney's advice plays in the attorney-client relationship. It is not enough, as the district court suggests, that McClure "did not dissuade Mecca from his intentions" to share the map with authorities. The onus is not on the client to perceive the legal risks himself and then to dissuade his attorney from a particular course of action. The district court's statement that Mecca was relieved of his duty to counsel his client because "common sense dictated that petitioner understood the consequences of his actions" fails to acknowledge the seriousness of those consequences and the importance of good counsel regarding them. Even in cases in which the negative ramifications seem obvious---for example, when criminal defendants opt for self-representation---we require that a criminal defendant's decision be made on the basis of legal guidance and with full cautionary explanation. We disagree with the district court's conclusion that this case was so exceptional that the attorney's basic consultation duties did not apply. It is precisely because the stakes were so high that Mecca had an obligation to consult carefully with his client. In the absence of some other exception to the duty of confidentiality, his failure to obtain informed consent would demonstrate constitutionally deficient performance under the Sixth Amendment.
 
-##### _2. Prevention of Further Criminal Acts_
+##### 2. Prevention of Further Criminal Acts
 
 The State contends that, even if Mecca did not have informed consent, his revelation of client confidences did not amount to ineffective assistance of counsel because he reasonably believed that disclosing the location of the children was necessary in order to prevent further criminal acts. That is, Mecca reasonably believed that revealing the children's locations could have prevented the escalation of kidnapping to murder. This is not a traditional "prevention of further criminal acts" case, because all of the affirmative criminal acts performed by McClure had been completed at the time Mecca made his disclosure. Mecca was thus acting to prevent an earlier criminal act from being transformed by the passage of time into a more serious criminal offense. Nonetheless, we believe that where an attorney's or a client's omission to act could result in "imminent death or substantial bodily harm" constituting a separate and more severe crime from the one already committed, the exception to the duty of confidentiality may be triggered.
 
@@ -482,7 +482,7 @@ Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the att
 
 After a jury trial, appellant was convicted of first-degree burglary, first-degree sexual abuse, first-degree felony murder, and second-degree murder. On appeal he contends that the trial court erred when it ruled that the attorney-client privilege did not require the exclusion of testimony about a conversation that appellant had with his girlfriend (at the time), who was an attorney employed by the federal government. We affirm on the merits, and remand for the sole purpose of vacating a redundant conviction.
 
-##### I
+#### I
 
 On Saturday, March 23, 1996, at about 10:00 a.m., Metropolitan Police officers found Darcie Silver dead in her apartment after they received a call from her concerned co-workers reporting that she had failed to show up for work. The medical examiner determined that the cause of death was asphyxia by strangulation; other injuries indicated that she might also have been smothered. In addition, there were burns around her genital area; pieces of burned newspaper were found in the vicinity of her crotch. A vaginal swab revealed the presence of male deoxyribonucleic acid (DNA). In addition, investigators found semen stains on Ms. Silver's nightgown and on a denim jacket recovered from her apartment. The DNA evidence was later matched to appellant through testing by the FBI.
 
@@ -490,7 +490,7 @@ A police investigation revealed that on Friday evening, March 22, Ms. Silver had
 
 Two neighbors in Ms. Silver's apartment building heard a knocking at the front door of the building at about 2:30 a.m. on Saturday. One of the neighbors looked out a window and saw a "stocky" man with a fair to medium complexion at the door. This description was similar to that of appellant, who is a weightlifter and bodybuilder. Both neighbors heard the man respond to the building intercom using the name "Darcie." They then heard him say that he had locked himself out of his apartment and needed to borrow a telephone. The intercom made a buzzing noise, which unlocked the front door, and the man walked upstairs to the area of Ms. Silver's apartment. About fifteen minutes later, one neighbor heard a "crash" coming from Silver's apartment, and the other heard a loud "thump."
 
-##### II
+#### II
 
 Appellant's primary argument on appeal is that the court erred when it ruled that the attorney-client privilege did not attach to a conversation that he had with his girlfriend at the time, Tina Ducharme, who was also a lawyer.
 
@@ -822,7 +822,7 @@ Based on the record presented by the petitioner, I fail to see how any conclusio
 
 The United States appeals from a district court order denying its motion to compel Dow Chemical Company's independent auditor, Deloitte & Touche USA, LLP, to produce three documents in connection with ongoing tax litigation between Dow and the government. The district court ruled that all three documents were protected from discovery under the work-product doctrine. On appeal, the government contends that one of the documents is not work product because it was prepared by Deloitte during the audit process. In addition, while it concedes that the other two documents are work product, it argues that Dow waived work-product protection when it disclosed them to Deloitte. We vacate the district court's decision that the document prepared by Deloitte is work product and remand for in camera review to determine whether it is entirely work product. With respect to the other two documents, we affirm the district court's decision that Dow did not waive work-product protection when it disclosed them to Deloitte.
 
-##### I. Background
+#### I. Background
 
 This discovery dispute arises from ongoing tax litigation in the U.S. District Court for the Middle District of Louisiana. The litigation concerns the tax treatment of two partnerships owned by Dow Chemical Company and two of its wholly-owned subsidiaries. The first of these partnerships was Chemtech I; it was succeeded by Chemtech II. In 2005, Dow filed a civil suit challenging IRS adjustments to partnership returns filed by Chemtech I and Chemtech II. During discovery, the government subpoenaed documents from Dow's independent auditor, Deloitte & Touche USA, LLP. Since the subpoena sought production in Washington, D.C., it issued from the U.S. District Court for the District of Columbia. Deloitte produced a number of documents, but refused to produce three documents Dow identified as attorney work product. In response, the government filed a motion to compel production.
 
@@ -830,11 +830,11 @@ The three disputed documents are described in Dow's privilege log and in a decla
 
 The district court denied the government's motion to compel without reviewing the disputed documents in camera. It concluded that the Deloitte Memorandum was work product because it was "prepared because of the prospect of litigation with the IRS over the tax treatment of Chemtech." The court further concluded that, although the document was created by Deloitte, it was nonetheless Dow's work product because "its contents record the thoughts of Dow's counsel regarding the prospect of litigation." In addition, the court rejected the government's contention that Dow had waived work-product protection for the three documents. The court acknowledged that disclosing work product to a third party can waive protection if that disclosure is "inconsistent with the maintenance of secrecy from the disclosing party's adversary," but concluded that Dow's disclosure to Deloitte was not inconsistent with maintaining secrecy because (1) Deloitte was not a potential adversary and (2) nothing suggested that it was unreasonable for Dow to expect Deloitte to maintain confidentiality. The government appeals this ruling, and Dow has intervened to assert work-product protection.
 
-##### II. Analysis
+#### II. Analysis
 
 The government contends that the Deloitte Memorandum is not attorney work product. Alternatively, it argues that even if the Deloitte Memorandum is work product, Dow waived work-product protection when it orally disclosed the information recorded therein to Deloitte. Turning to the Dow Documents, the government concedes they are attorney work product, but argues that Dow waived work-product protection when it gave them to Deloitte.
 
-##### _A. The Work-Product Doctrine_
+##### A. The Work-Product Doctrine
 
 The Supreme Court established the work-product doctrine in _Hickman v. Taylor_, which held that an attorney's notes recording his interviews with witnesses to the litigation-prompting incident were protected from discovery. The Court recognized that to prepare for litigation, an attorney must "assemble information, sift what he considers to be the relevant from the irrelevant facts, prepare his legal theories and plan his strategy without undue and needless interference." This preparation "is reflected in interviews, statements, memoranda, correspondence, briefs, mental impressions, personal beliefs, and countless other tangible and intangible ways." The Court reasoned that giving opposing counsel access to such work product would cause significant problems:
 
@@ -848,7 +848,7 @@ The work-product doctrine announced in Hickman was subsequently partially codifi
 
 Rule 26(b)(3) allows a court to order disclosure when the requesting party can show a "substantial need" for the material and an inability to procure equivalent information "without undue hardship." When a court orders disclosure under this exception, however, it must still "protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of a party's attorney or other representative concerning the litigation." This type of work product, which is often described as opinion work product, "is virtually undiscoverable."
 
-##### _B. The Deloitte Memorandum_
+##### B. The Deloitte Memorandum
 
 The government makes two categorical arguments that the Deloitte Memorandum cannot be work product. First, it argues that the Deloitte Memorandum cannot be work product because it was created by Deloitte, not Dow or its representative. Second, it argues that the Deloitte Memorandum cannot be work product because it was generated as part of the routine audit process, not in anticipation of litigation. If either argument is correct, the Deloitte Memorandum cannot be work product, regardless of its contents. We reject both arguments, but nevertheless conclude that the district court lacked sufficient information to determine that the entire Deloitte Memorandum is work product.
 
@@ -876,7 +876,7 @@ In short, a document can contain protected work-product material even though it 
 
 Rejecting the government's categorical arguments establishes only that the Deloitte Memorandum may be protected work product under the law; we must now determine whether it is. On examination of the record, we conclude that the district court did not have a sufficient evidentiary foundation for its holding that the memorandum was purely work product. According to the record, the document was created during Deloitte's preparation of an audit report which in Deloitte's view required consideration of potential litigation. The meeting generating the document included both Deloitte and Dow employees, as well as Dow's outside counsel. The document itself was prepared by a third party. While none of this negates the possibility of work-product privilege, it could make it likely that the document includes other information that is not work product. According to Dow's privilege log and the Curry declaration, the memorandum does contain thoughts and analyses by legal counsel, but this does not rule out or even render unlikely the possibility that it also includes other facts, other thoughts, other analyses by non-attorneys which may not be so intertwined with the legal analysis as to warrant protection under the work-product doctrine. We will therefore remand this question to the district court for the purpose of independently assessing whether the document was entirely work product, or whether a partial or redacted version of the document could have been disclosed. Accordingly, we vacate the district court's decision that the Deloitte Memorandum was work product and remand so that the district court can examine the document in camera to determine whether it is entirely work product.
 
-##### _C. The Dow Documents_
+##### C. The Dow Documents
 
 Although the government concedes that the Dow Documents are work product, it contends that Dow waived work-product protection by disclosing them to Deloitte. To the best of our knowledge, no circuit has addressed whether disclosing work product to an independent auditor constitutes waiver. Among the district courts that have addressed this issue, most have found no waiver.
 
@@ -943,7 +943,7 @@ Unless applicable law otherwise provides, the attorney-client privilege extends 
 
 We granted certiorari in this case to address important questions concerning the scope of the attorney-client privilege in the corporate context and the applicability of the work-product doctrine in proceedings to enforce tax summonses. With respect to the privilege question the parties and various amici have described our task as one of choosing between two "tests" which have gained adherents in the courts of appeals. We are acutely aware, however, that we sit to decide concrete cases and not abstract propositions of law. We decline to lay down a broad rule or series of rules to govern all conceivable future questions in this area, even were we able to do so. We can and do, however, conclude that the attorney-client privilege protects the communications involved in this case from compelled disclosure and that the work-product doctrine does apply in tax summons enforcement proceedings.
 
-##### I
+#### I
 
 Petitioner Upjohn Co. manufactures and sells pharmaceuticals here and abroad. In January 1976 independent accountants conducting an audit of one of Upjohn's foreign subsidiaries discovered that the subsidiary made payments to or for the benefit of foreign government officials in order to secure government business. The accountants so informed petitioner Mr. Gerard Thomas, Upjohn's Vice President, Secretary, and General Counsel. Thomas is a member of the Michigan and New York Bars, and has been Upjohn's General Counsel for 20 years. He consulted with outside counsel and R. T. Parfet, Jr., Upjohn's Chairman of the Board. It was decided that the company would conduct an internal investigation of what were termed "questionable payments." As part of this investigation the attorneys prepared a letter containing a questionnaire which was sent to "All Foreign General and Area Managers" over the Chairman's signature. The letter began by noting recent disclosures that several American companies made "possibly illegal" payments to foreign government officials and emphasized that the management needed full information concerning any such payments made by Upjohn. The letter indicated that the Chairman had asked Thomas, identified as "the company's General Counsel," "to conduct an investigation for the purpose of determining the nature and magnitude of any payments made by the Upjohn Company or any of its subsidiaries to any employee or official of a foreign government." The questionnaire sought detailed information concerning such payments. Managers were instructed to treat the investigation as "highly confidential" and not to discuss it with anyone other than Upjohn employees who might be helpful in providing the requested information. Responses were to be sent directly to Thomas. Thomas and outside counsel also interviewed the recipients of the questionnaire and some 33 other Upjohn officers or employees as part of the investigation.
 
@@ -953,7 +953,7 @@ On March 26, 1976, the company voluntarily submitted a preliminary report to the
 
 The company declined to produce the documents specified in the second paragraph on the grounds that they were protected from disclosure by the attorney-client privilege and constituted the work product of attorneys prepared in anticipation of litigation. On August 31, 1977, the United States filed a petition seeking enforcement of the summons in the United States District Court for the Western District of Michigan. That court adopted the recommendation of a Magistrate who concluded that the summons should be enforced. Petitioners appealed to the Court of Appeals for the Sixth Circuit which rejected the Magistrate's finding of a waiver of the attorney-client privilege, but agreed that the privilege did not apply "to the extent that the communications were made by officers and agents not responsible for directing Upjohn's actions in response to legal advice for the simple reason that the communications were not the 'client's.'" The court reasoned that accepting petitioners' claim for a broader application of the privilege would encourage upper-echelon management to ignore unpleasant facts and create too broad a "zone of silence." Noting that Upjohn's counsel had interviewed officials such as the Chairman and President, the Court of Appeals remanded to the District Court so that a determination of who was within the "control group" could be made. In a concluding footnote the court stated that the work-product doctrine "is not applicable to administrative summonses."
 
-##### II
+#### II
 
 Federal Rule of Evidence 501 provides that "the privilege of a witness shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in light of reason and experience." The attorney-client privilege is the oldest of the privileges for confidential communications known to the common law. Its purpose is to encourage full and frank communication between attorneys and their clients and thereby promote broader public interests in the observance of law and administration of justice. The privilege recognizes that sound legal advice or advocacy serves public ends and that such advice or advocacy depends upon the lawyer's being fully informed by the client. "The lawyer-client privilege rests on the need for the advocate and counselor to know all that relates to the client's reasons for seeking representation if the professional mission is to be carried out." The purpose of the privilege is "to encourage clients to make full disclosure to their attorneys." This rationale for the privilege has long been recognized by the Court. Admittedly complications in the application of the privilege arise when the client is a corporation, which in theory is an artificial creature of the law, and not an individual; but this Court has assumed that the privilege applies when the client is a corporation, and the Government does not contest the general proposition.
 
@@ -988,7 +988,7 @@ Needless to say, we decide only the case before us, and do not undertake to draf
 
 This appeal arises out of two related proceedings currently before the district court: the Chapter 11 reorganization of Bevill, Bresler & Schulman Asset Management Corporation (AMC) and the liquidation of Bevill, Bresler & Schulman, Inc. (BBS) under the Security Investor Protection Act (SIPA). Intervenors John D. Rooney and Robert L. Bevill, two principals of the corporations, appeal the order of the district court directing Gilbert Schulman, president of AMC, and Hellring, Lindeman, Goldstein, Siegal & Greenberg, counsel for BBS, to respond to questions posed in depositions by the trustees for AMC and BBS. The order permits the trustees to discover the substance of certain meetings that took place between the law firm and the principals of the corporations before the Chapter 11 petition was filed. Because Rooney and Bevill allege that the district court's order violates their attorney-client privilege, we have jurisdiction.
 
-##### I.
+#### I.
 
 We turn first to the facts as narrated by the district court. Gilbert Schulman first became aware that AMC was in financial difficulties on March 19, 1985, when Robert Bevill telephoned him in Greece. After talking again with Bevill on the following day, Schulman flew back to the United States. According to Schulman, he was unable to obtain any information about AMC until he consulted with Hellring, Lindeman on March 25, 1985.
 
@@ -1028,13 +1028,13 @@ The court also rejected Bevill's and Rooney's claim of a joint defense privilege
 
 The district court ordered Hellring, Lindeman to testify as to all communications about the corporations and the roles and functions of the officers that took place after the law firm agreed to represent BBS. It further held that no questions could be asked concerning separate representation or the officers' potential personal liabilities, unless the communications also related to the business and assets of the corporations or the roles of the principals in the corporations. Finally, the court stated that Hellring, Lindeman could submit any communications it was doubtful about to the court for in camera inspection. This appeal followed.
 
-##### II.
+#### II.
 
 Bevill and Rooney claim that the district court's order directing disclosure of the substantive communications with counsel between March 31st and April 4th violates their attorney-client privilege. In addition, Bevill claims that such disclosure is barred by the joint defense privilege.
 
 Privileges in federal court are "governed by the principles of common law as they may be interpreted in light of reason and experience." Whether there is a valid claim of privilege is decided on a case-by-case basis. Although the applicability of a privilege is a factual question, determining the scope of a privilege is a question of law, subject to plenary review.
 
-##### _A._
+##### A.
 
 The purpose of the attorney-client privilege "is to encourage full and frank communication between attorneys and their clients and thereby promote broader public interests in observance of the law and administration of justice." This privilege applies to corporations as well as individuals. As the Supreme Court has recognized, however, "the administration of the privilege in the case of corporations presents special problems. As an inanimate entity, a corporation must act through agents."
 
@@ -1058,7 +1058,7 @@ In light of the foregoing analysis, we find that the district court's order prop
 
 In the course of investigating whether a manufacturer of drugs listed its patents properly in the compilation maintained by the Food and Drug Administration, the Federal Trade Commission issued a subpoena directing the company to produce documents relating to a particular drug. When the company resisted, claiming the attorney-client privilege shields the documents, the Commission repaired to the district court, which enforced the subpoena. We reverse the decision of the district court because the court both relied upon an argument to which the company had no opportunity to respond and ruled erroneously that, by failing to keep confidential the contents of the documents, the company had waived the attorney-client privilege.
 
-##### I. Background
+#### I. Background
 
 GlaxoSmithKline manufactures paroxteine hydrochloride hemihydrate under the brand name Paxil, the annual sales of which in the United States exceed $1 billion. Several companies have applied to the Food and Drug Administration for permission to sell generic versions of Paxil when GSK's patents expire. The Federal Trade Commission is investigating whether GSK, in an attempt to prevent or delay competition from generic versions of Paxil, has abused the process for listing its patents in the FDA's compilation of "Approved Drug Products with Therapeutic Evaluations."
 
@@ -1076,7 +1076,7 @@ The Commission then filed a reply brief in which it made yet another argument fo
 
 The district court ordered GSK to produce the 91 documents. The court rejected GSK's claims of attorney-client privilege on the grounds that (1) "GSK had not sustained its burden of demonstrating that the relevant documents were distributed on a 'need to know' basis or to employees that were 'authorized to speak or act' for GSK," and (2) the Company had "failed to provide sufficient evidence that the information contained therein is confidential." The court rejected GSK's claims of attorney work product for the reason withdrawn by the Commission, namely, that "GSK failed to set forth objective facts that support the corporation's assertion that the relevant documents were created in anticipation of litigation." Having determined that "even if GSK is not precluded from asserting the privilege for attorney work product, it has failed to satisfy its burden of showing the applicability of the doctrine to the relevant documents," the district court found it unnecessary to resolve whether the decision in Apotex estopped GSK from claiming otherwise. GSK sought and we granted a stay pending appeal.
 
-##### II. Analysis
+#### II. Analysis
 
 GSK contends the district court erred both by rejecting its claims of privilege based upon arguments the Commission did not raise properly and by misapplying the standard for determining whether a corporation has kept confidential the contents of a communication. The Commission defends the decision of the district court and argues that GSK is collaterally estopped in any event, by reason of the _Apotex_ litigation, from claiming the 34 documents are attorney work product.
 
@@ -1248,7 +1248,7 @@ The following provisions apply, in the circumstances set out, to disclosure of a
 
 The appellant, "Company," appeals from a contempt order of the district court. Company refused to comply with a grand jury subpoena insofar as it was directed to six documents that Company claimed were covered by attorney-client privilege. The district court held the privilege was waived as to all six documents. We agree that there was at least a partial waiver of the privilege, but we remand for the district court to further consider the scope of the waiver.
 
-##### I.
+#### I.
 
 Appellant is a government contractor performing work for the Defense Department on a cost-plus basis. Company and its former chief executive officer are under a grand jury investigation into the possibility of Company's tax evasion as well as a possible conspiracy to defraud the United States. It is thought CEO may have engineered a scheme whereby he received secret rebates (undeclared personal income to him) from subcontractors while the amounts rebated were included on Company's books as payments to the subcontractors and thus business expenses.
 
@@ -1260,7 +1260,7 @@ While the appeal was pending, the government learned that one of the memoranda i
 
 Prior to the remand hearing it was further revealed that the vice president had entered into a personal immunity agreement with the government in October 1987 and, at that time, given all six of the documents to the government without Company's authorization. From that, we infer the government continues to seek the documents through subpoena because it is uncertain as to the use that can be made of the copies voluntarily turned over by the vice president. The government asserts that the attorney handling the grand jury proceedings has not been given access to the documents. Nevertheless, Company urged the district court, in the exercise of its supervisory power over grand jury proceedings, to conduct an evidentiary hearing to determine whether the government had engaged in misconduct, which Company apparently thought might justify quashing the subpoena. The district court declined to do so and Company appeals that determination as well.
 
-##### II.
+#### II.
 
 The government does not dispute that all six documents fall within Company's attorney-client privilege. It is not argued, for instance, that the memoranda from the vice president to the CAO, communicating the advice given by counsel and directing the adjusting entries be made in accordance with that advice, are outside the privilege. Nor is it claimed that the conversation between the corporate officers and the law firm were not intended to be confidential so that the privilege never attached. Instead, the government relies on two grounds for concluding Company waived the privilege for all six documents.
 
@@ -1307,7 +1307,7 @@ This case arises out of the efforts of the Criminal Investigation Division of th
 
 The second issue concerns the testimonial privilege for attorney-client communications and, more particularly, the generally recognized exception to that privilege for communications in furtherance of future illegal conduct---the so-called "crime-fraud" exception. The specific question presented is whether the applicability of the crime-fraud exception must be established by "independent evidence" (_i.e._, without reference to the content of the contested communications themselves), or, alternatively, whether the applicability of that exception can be resolved by an _in camera_ inspection of the allegedly privileged material. We reject the "independent evidence" approach and hold that the district court, under circumstances we explore below, and at the behest of the party opposing the claim of privilege, may conduct an _in camera_ review of the materials in question. Because the Court of Appeals considered only "independent evidence," we vacate its judgment on this issue and remand the case for further proceedings.
 
-##### I
+#### I
 
 In the course of its investigation, the IRS sought access to 51 documents that had been filed with the Clerk of the Los Angeles County Superior Court in connection with a case entitled _Church of Scientology of California v. Armstrong_. The _Armstrong_ litigation involved, among other things, a charge by the Church that one of its former members, Gerald Armstrong, had obtained by unlawful means documentary materials relating to Church activities, including two tapes. Some of the documents sought by the IRS had been filed under seal.
 
@@ -1331,11 +1331,11 @@ Second, the IRS contended that the District Court erred in rejecting the applica
 
 The panel of the Court of Appeals agreed with respondents that, under _Shewfelt_, "the Government's evidence of crime or fraud must come from sources independent of the attorney-client communications recorded on the tapes," thereby implicitly holding that even if the IRS had properly preserved its demand for in camera review, the District Court would have been without power to grant it. The Court of Appeals then reviewed "the Government's independent evidence." That review appears to have excluded the partial transcripts, and thus the Court of Appeals implicitly agreed with respondents that it was improper for the District Court to have considered even the partial transcripts. On the basis of its review of the "independent evidence," the Court of Appeals affirmed the District Court's determination that the IRS had failed to establish the applicability of the crime-fraud exception.
 
-##### II
+#### II
 
 This Court is evenly divided with respect to the issue of the power of a district court to place restrictions upon the dissemination by the IRS of information obtained through a § 7604 subpoena-enforcement action. We therefore affirm the judgment of the Court of Appeals insofar as it upheld the District Court's conditional-enforcement order.
 
-##### III
+#### III
 
 Questions of privilege that arise in the course of the adjudication of federal rights are "governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience." We have recognized the attorney-client privilege under federal law, as "the oldest of the privileges for confidential communications known to the common law." Although the underlying rationale for the privilege has changed over time, courts long have viewed its central concern as one "to encourage full and frank communication between attorneys and their clients and thereby promote broader public interests in the observance of law and administration of justice." That purpose, of course, requires that clients be free to "make full disclosure to their attorneys" of past wrongdoings, in order that the client may obtain "the aid of persons having knowledge of the law and skilled in its practice."
 
@@ -1345,7 +1345,7 @@ The District Court and the Court of Appeals found that the tapes at issue in thi
 
 A variety of questions may arise when a party raises the crime-fraud exception. The parties to this case have not been in complete agreement as to which of these questions are presented here. In an effort to clarify the matter, we observe, first, that we need not decide the quantum of proof necessary ultimately to establish the applicability of the crime-fraud exception. Rather, we are concerned here with the type of evidence that may be used to make that ultimate showing. Within that general area of inquiry, the initial question in this case is whether a district court, at the request of the party opposing the privilege, may review the allegedly privileged communications _in camera_ to determine whether the crime-fraud exception applies. If such _in camera_ review is permitted, the second question we must consider is whether some threshold evidentiary showing is needed before the district court may undertake the requested review. Finally, if a threshold showing is required, we must consider the type of evidence the opposing party may use to meet it: _i.e._, in this case, whether the partial transcripts the IRS possessed may be used for that purpose.
 
-##### _A_
+##### A
 
 We consider first the question whether a district court may ever honor the request of the party opposing the privilege to conduct an in camera review of allegedly privileged communications to determine whether those communications fall within the crime-fraud exception. We conclude that no express provision of the Federal Rules of Evidence bars such use of in camera review, and that it would be unwise to prohibit it in all instances as a matter of federal common law.
 
@@ -1373,7 +1373,7 @@ Once it is clear that _in camera_ review does not destroy the privileged nature 
 
 "No matter how light the burden of proof which confronts the party claiming the exception, there are many blatant abuses of privilege which cannot be substantiated by extrinsic evidence. This is particularly true of situations in which an alleged illegal proposal is made in the context of a relationship which has an apparent legitimate end." A per se rule that the communications in question may never be considered creates, we feel, too great an impediment to the proper functioning of the adversary process. This view is consistent with current trends in the law.
 
-##### _B_
+##### B
 
 We turn to the question whether in camera review at the behest of the party asserting the crime-fraud exception is always permissible, or, in contrast, whether the party seeking in camera review must make some threshold showing that such review is appropriate. In addressing this question, we attend to the detrimental effect, if any, of in camera review on the policies underlying the privilege and on the orderly administration of justice in our courts. We conclude that some such showing must be made.
 
@@ -1391,7 +1391,7 @@ We think that the following standard strikes the correct balance. Before engagin
 
 Once that showing is made, the decision whether to engage in _in camera_ review rests in the sound discretion of the district court. The court should make that decision in light of the facts and circumstances of the particular case, including, among other things, the volume of materials the district court has been asked to review, the relative importance to the case of the alleged privileged information, and the likelihood that the evidence produced through _in camera_ review, together with other available evidence then before the court, will establish that the crime-fraud exception does apply. The district court is also free to defer its _in camera_ review if it concludes that additional evidence in support of the crime-fraud exception may be available that is not allegedly privileged, and that production of the additional evidence will not unduly disrupt or delay the proceedings.
 
-##### _C_
+##### C
 
 The question remains as to what kind of evidence a district court may consider in determining whether it has the discretion to undertake an _in camera_ review of an allegedly privileged communication at the behest of the party opposing the privilege. Here, the issue is whether the partial transcripts may be used by the IRS in support of its request for _in camera_ review of the tapes.
 
@@ -1404,7 +1404,7 @@ Respondents suggest only one serious countervailing consideration. In their view
 
 [^6cc5]: (n.12 in opinion) In addition, we conclude that evidence that is not "independent" of the contents of allegedly privileged communications---like the partial transcripts in this case---may be used not only in the pursuit of in camera review, but also may provide the evidentiary basis for the ultimate showing that the crime-fraud exception applies. We see little to distinguish these two uses: in both circumstances, if the evidence has not itself been determined to be privileged, its exclusion does not serve the policies which underlie the attorney-client privilege.
 
-##### _D_
+##### D
 
 In sum, we conclude that a rigid independent evidence requirement does not comport with "reason and experience," and we decline to adopt it as part of the developing federal common law of evidentiary privileges. We hold that _in camera_ review may be used to determine whether allegedly privileged attorney-client communications fall within the crime-fraud exception. We further hold, however, that before a district court may engage in in camera review at the request of the party opposing the privilege, that party must present evidence sufficient to support a reasonable belief that in camera review may yield evidence that establishes the exception's applicability. Finally, we hold that the threshold showing to obtain _in camera_ review may be met by using any relevant evidence, lawfully obtained, that has not been adjudicated to be privileged.
 
@@ -1428,7 +1428,7 @@ The petitioner contended that the e-mail was not subject to the attorney-client 
 
 On September 10, 2001, the same day as the consent order hearing, the trial court issued an order stating that the e-mail was subject to a valid claim of attorney-client privilege. On January 30, 2002, in response to the petitioner's motion for articulation, the trial court issued a memorandum of decision setting forth the reasons for its decision. Specifically, the trial court set forth and applied the four part test that we articulated in _Shew v. Freedom of Information Commission,_ for determining whether the attorney-client privilege applies to protect communications between corporate employees and attorneys retained by the corporation. The court determined that, under the test, the e-mail qualified for protection from disclosure. Additionally, the court concluded that the crime-fraud exception did not apply because the e-mail "is a patent update of firearms litigation developments and does not advocate any criminal or illegal activity." This appeal followed.
 
-##### I
+#### I
 
 We turn to the petitioner's claim that, even if we were to assume that the privilege generally applied, the trial court improperly determined that the e-mail was not subject to disclosure under the crime-fraud exception to the attorney-client privilege. Specifically, the petitioner contends that other documents submitted as exhibits to the trial court provide probable cause to believe that the respondents engaged in an unlawful boycott of Smith & Wesson and that the e-mail was in direct furtherance of the boycott. We conclude that the trial court properly concluded that the e-mail did not fall under the crime-fraud exception.
 
@@ -1505,7 +1505,7 @@ Issue I---Are the tapes protected by the work product privilege?
 
 Issue II---If the answer to the question in Issue I is yes, is the privilege vitiated in this case?
 
-##### Issue I
+#### Issue I
 
 Federal Rule of Civil Procedure 26(b)(3) addresses the work product privilege. Basically, in order for the privilege to be applicable, the material must be (1) documents or tangible things, (2) prepared in anticipation of litigation or for trial, and (3) prepared by or for another party or by or for that other party's representative. Additionally, the question whether the material was prepared in anticipation of litigation does not turn on whether a suit had already been filed.
 
@@ -1517,7 +1517,7 @@ Moreover, in an identical situation, the United States District Court for the So
 
 Based upon the facts and arguments as now appearing before the Court, the Court is of the opinion that the work product privilege would apply to the tape recordings, and production would be denied unless the Court became convinced that defendants had a substantial need for the recordings and were unable to obtain their equivalent without undue hardship.
 
-##### Issue II
+#### Issue II
 
 The Court need not delve into questions of "substantial need," "undue hardship," or "substantial equivalent." The Court holds that the work product privilege has, in this case, been vitiated.
 

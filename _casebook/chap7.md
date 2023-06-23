@@ -177,7 +177,7 @@ Accordingly, the order of the Appellate Division should be affirmed.
 
 Mark Hischke made an eleventh-hour decision to deny possession of marijuana after previously admitting to the police and his lawyer the marijuana belonged to him. Hischke's trial counsel, John Bishop, informed the court Hischke intended to commit perjury. After a jury trial, the court convicted Hischke of possession of marijuana. Hischke appeals contending he was denied effective assistance of counsel when his trial lawyer alerted the court to his "personal belief" Hischke planned to present perjured testimony. Because we find Bishop had good cause to believe Hischke's proposed testimony would be deliberately untruthful, we affirm.
 
-##### I. Facts
+#### I. Facts
 
 On December 5, 1999, Waterloo police officers executed an arrest warrant on Eric Twesme at his apartment. When the officers arrived, Twesme and Mark Hischke were present in the apartment. Twesme answered the door and permitted the officers to enter. In the apartment, the officers saw syringes, spoons, and cotton. The officers asked Hischke to wait in the hallway where he consented to a search of his person. The officer discovered a syringe in Hischke's shirt pocket. Before going to the police station, Twesme asked the officers for a jacket. One of the officers saw a leather jacket in the apartment draped over the back of the chair where Hischke had been sitting. The officer asked Twesme if the jacket was his and Twesme said it did not belong to him. Hischke admitted ownership of the jacket but said he was not responsible for anything in the pockets. During a consent search, the police officer found a small bag of marijuana in the jacket.
 
@@ -192,7 +192,7 @@ On appeal, Hischke contends he was denied effective assistance of counsel when B
 The State contends an attorney need only have a "firm factual basis" for believing a client plans to lie before taking any measures designed to prevent such perjury. The State argues Bishop satisfied this standard.
 
 
-##### III. Ineffective Assistance of Counsel
+#### III. Ineffective Assistance of Counsel
 
 To prevail on a claim of ineffective assistance of counsel, Hischke must demonstrate both ineffective assistance and prejudice. Both elements must be proven by a preponderance of the evidence. If a claim lacks one of the elements of an ineffective assistance of counsel claim, it is not necessary for us to address the other element.
 
@@ -218,7 +218,7 @@ We decline to adopt the standard of "actual knowledge" suggested by Hischke. Suc
 
 In finding Bishop's performance was within the normal range of competence we are not stating Bishop was required to take the particular course of action he chose to pursue. This has not been presented to us. We recognize when counsel is faced with the situation of client perjury, he or she has competing interests at stake. Counsel must contend with duties of zealous advocacy, confidentiality, and loyalty to the client. On the other hand, these interests are counter-balanced by duties of accountability to the courts and justice. In order to accommodate these competing interests, there are various appropriate options a lawyer may choose among to decide how to handle such a situation.
 
-##### IV. Conclusion
+#### IV. Conclusion
 
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
@@ -482,7 +482,7 @@ The prosecutor in a criminal case shall:
 
 (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
-##### _Comments_
+##### Comments
 
 [1] A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice, that guilt is decided upon the basis of sufficient evidence, and that special precautions are taken to prevent and to rectify the conviction of innocent persons. The extent of mandated remedial action is a matter of debate and varies in different jurisdictions. Many jurisdictions have adopted the ABA Standards of Criminal Justice Relating to the Prosecution Function, which are the product of prolonged and careful deliberation by lawyers experienced in both criminal prosecution and defense. Competent representation of the sovereignty may require a prosecutor to undertake some procedural and remedial measures as a matter of obligation. Applicable law may require other measures by the prosecutor and knowing disregard of those obligations or a systematic abuse of prosecutorial discretion could constitute a violation of Rule 8.4.
 
@@ -564,11 +564,11 @@ In these circumstances prejudice to the cause of the accused is so highly probab
 
 #### 640 F. 2d 450 (2d Cir. 1981)
 
-##### IRVING R. KAUFMAN, Circuit Judge
+#### IRVING R. KAUFMAN, Circuit Judge
 
 Plaintiff Rodney Taylor, _pro se_, instituted this action against Michael Kavanagh, an Assistant District Attorney for Ulster County, New York. Claiming that Kavanagh lied to him during plea negotiations and violated the terms of the negotiated plea agreement, Taylor seeks to set aside a criminal conviction resulting from his guilty plea. He also requests compensatory and punitive damages amounting to $5.5 million.
 
-##### I.
+#### I.
 
 Taylor was arrested in Kingston, New York, in October 1974, and on December 20, 1974, he was indicted and charged with third degree burglary and attempted grand larceny. He was taken into custody again on August 14, 1975, and charged with third degree burglary and criminal possession of a controlled substance in the seventh degree.
 
@@ -582,7 +582,7 @@ Taylor filed the instant action in October 1978, claiming he was induced to plea
 
 The defendant moved for judgment on the pleadings, which Judge Griesa granted in July 1980. He reasoned that because a prosecutor does not have custody over a convicted prisoner, Kavanagh was not a proper defendant in the suit to set aside Taylor's conviction. Extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities. Judge Griesa also held that Kavanagh was immune from liability, and dismissed the action. We affirm.
 
-##### II.
+#### II.
 
 We note at the outset that when a prisoner is challenging his imprisonment in state facilities, his sole federal remedy is a writ of habeas corpus. Taylor followed this approach in September 1979, seeking a writ in the United States District Court for the Northern District of New York. Judge Port dismissed the petition and denied a certificate of probable cause. Taylor did not appeal this order. Accordingly, we hold that he cannot raise this request to be set free in the instant civil rights action.
 
@@ -598,7 +598,7 @@ Decisions to engage in conduct of this character are not directly related to the
 
 This functional approach requires us to evaluate plea bargaining in light of the general purpose of the absolute immunity doctrine. Judge Griesa properly recognized that the purpose of the doctrine "is to insure that a prosecutor will perform his difficult function with complete vigor and independence, undeterred by the spectre of liability for damages with respect to his activities." Learned Hand has told us that the doctrine we apply today supports the just administration of the criminal law, for we all would suffer if prosecutors "who try to do their duty were subject to the constant dread of retaliation." The threat of § 1983 liability would inhibit prosecutors from exercising independent judgment and would divert their attention from the immediate matters at hand.
 
-##### III.
+#### III.
 
 We are satisfied that a prosecutor's activities in the plea bargaining context merit the protection of absolute immunity. The plea negotiation is an "essential component" of our system of criminal justice. It is at this stage that the prosecutor evaluates the evidence before him, determines the strength of the Government's case, and considers the societal interest in disposing of the case by a negotiated guilty plea. The effective negotiation of guilty pleas would be severely chilled if a prosecutor were constantly concerned with the possibility of ruinous personal liability for judgments and decisions made at this critical stage of the criminal process.
 
@@ -647,17 +647,17 @@ Following this court's decision in _Cousin_, the Orleans Parish District Attorne
 
 ##### Disciplinary Proceedings
 
-##### _Disciplinary Complaint_
+##### Disciplinary Complaint
 
 In May 1998, Mr. Cousin and his sister, Tonya Cropper, filed a complaint against respondent with the ODC, alleging, among other things, that respondent wrongfully suppressed _Brady_ evidence by failing to disclose Ms. Babin's second statement. In his July 1998 response to the complaint, respondent asserted his belief that the witness's statement at issue was more inculpatory than exculpatory, and his determination that disclosure of the statement was not required by _Brady_. Respondent reiterated this assertion in his sworn statement taken by the ODC on June 16, 1999.
 
 Following its investigation, the ODC dismissed the complaint against respondent. Ms. Cropper appealed the dismissal, but the hearing committee found that the ODC did not abuse its discretion in dismissing the complaint. Subsequently, the disciplinary board remanded the matter to the ODC with instructions to file formal charges against respondent.
 
-##### _Formal Hearing_
+##### Formal Hearing
 
 The hearing committee conducted a formal hearing on the charges. ODC called several witnesses in its case in chief, including respondent, Shareef Cousin's defense attorney, and the complainant, Tonya Cropper. Respondent presented character testimony from several members of the bench and bar.
 
-##### _Hearing Committee Recommendation_
+##### Hearing Committee Recommendation
 
 In a split decision, the chair and the public member of the committee found that the ODC did not prove a violation of Rules 3.8(d) and 8.4(a) as charged, and recommended that the formal charges against respondent be dismissed. In a nineteen page report, the majority found respondent's testimony credible regarding the nature of the _Brady_ material. The committee acknowledged that respondent was in possession of the statement yet failed to disclose the second statement to the defense. However, the committee found no violation of Rule 3.8, as the committee determined that respondent reasonably believed that Ms. Babin's statement was inculpatory rather than exculpatory. The committee concluded that the defense was aware of the second statement and that it did not believe that the prosecution had an obligation "to help out the defense" by providing the statement. Based on these factual determinations, the majority of the committee concluded that respondent did not violate the Rules of Professional Conduct.
 
@@ -665,7 +665,7 @@ The lawyer member of the committee dissented, noting her objection to the majori
 
 The ODC filed an objection to the hearing committee's report and recommendation.
 
-##### _Ruling of the Disciplinary Board_
+##### Ruling of the Disciplinary Board
 
 The disciplinary board determined that respondent technically violated the Rules of Professional Conduct, but found that no discipline was appropriate and dismissed the formal charges against respondent. While the board adopted the hearing committee's factual findings, it rejected the committee's legal conclusions and application of the Rules of Professional Conduct. The board determined that the committee erred in its finding that respondent did not violate either _Brady_ or Rule 3.8(d) when he failed to produce Ms. Babin's second statement. The board concluded that respondent was ethically bound to voluntarily disclose Statement 2, which tended to negate the guilt of the accused by calling into question Ms. Babin's positive identification of Cousin as the perpetrator of the crime. By failing to do so, respondent violated Rule 3.8(d).
 
@@ -741,7 +741,7 @@ In determining whether respondent caused an actual injury pursuant to Louisiana'
 
 A former assistant district attorney filed this suit alleging that the county wrongfully terminated his employment because he refused his supervisor's order to withhold exculpatory evidence from a criminal defendant. The trial court dismissed the suit for lack of jurisdiction, and the court of appeals affirmed. Because we agree with those courts that governmental immunity bars the suit, we also affirm.
 
-##### I. Background
+#### I. Background
 
 Eric Hillman served as an assistant district attorney in Nueces County for two years. While preparing to prosecute a defendant charged with intoxicated assault and leaving the scene of an accident, Hillman discovered and interviewed a witness who said she was with the defendant the night of the incident and he was not intoxicated. Because the police report did not identify this witness, Hillman told his supervisor that he needed to disclose the witness to the defendant's attorney. The supervisor disagreed and instructed Hillman not to disclose the witness. Believing that he was legally required to disclose the witness, Hillman called the State Bar Ethics Hotline and the Texas Center for Legal Ethics for advice. Both told him he should disclose the information.
 
@@ -749,13 +749,13 @@ Three days before the defendant's trial, the victim confirmed to Hillman that th
 
 Hillman sued the County, the District Attorney's Office, and then-District Attorney Mark Skurka, in his official capacity, seeking actual damages for lost wages and benefits, mental anguish, pain and suffering, and loss of earning capacity, and exemplary damages. The County moved to dismiss on the ground that governmental immunity bars Hillman's claims. The trial court agreed and dismissed the case, and the court of appeals affirmed.
 
-##### II. Governmental Immunity
+#### II. Governmental Immunity
 
 Sovereign immunity—usually called governmental immunity when referring to political subdivisions—protects governmental entities against suits and legal liabilities. The County pleaded immunity from both suit and liability in this case, but only immunity from suit implicates the courts' jurisdiction. Because the trial court dismissed this case for lack of jurisdiction, we focus here solely on governmental immunity from suit. Because Hillman filed suit seeking money damages against a county and its department and official, governmental immunity bars this suit unless immunity has been waived.
 
 Like every court of appeals that has addressed the issue, the court of appeals concluded here that governmental immunity applies to Hillman's wrongful-termination claim and has not been waived. Presenting three alternative grounds for reversal, Hillman argues that (1) this Court abrogated or waived the County's immunity from this type of suit in _Sabine Pilot Service, Inc. v. Hauck_, in which we recognized a cause of action for wrongful termination of an at-will employee for refusal to perform an illegal act, (2) the Texas legislature waived the County's immunity through the Michael Morton Act, or (3) we should abrogate or waive the County's immunity from such suits today. Although Hillman and his supporting amici bolster these grounds with serious and important policy concerns, we ultimately find the grounds themselves unconvincing.
 
-##### _A. Sabine Pilot_
+##### A. Sabine Pilot
 
 Texas—"steadfastly an at-will employment state"—generally permits both employers and employees to terminate their relationship at any time for any reason unless they contractually agree otherwise. The law recognizes, however, a number of exceptions to this rule. One "very narrow exception to the employment-at-will doctrine," which we adopted in _Sabine Pilot_, prohibits employers from terminating at-will employees "for the sole reason that the employee refused to perform an illegal act." An employer who terminates an employee solely for that reason is liable to the employee for all resulting "reasonable tort damages, including punitive damages."
 
@@ -767,7 +767,7 @@ Governmental immunity protects all governmental entities against suits and liabi
 
 Instead of creating or imposing duties, the statutes waive the immunity that would otherwise protect the government, removing the barrier that precludes suits or liability for breach of those preexisting common-law duties. So although we can say that the common-law-tort duty we recognized in _Sabine Pilot_ applies to all Texas employers, Hillman still cannot pursue this suit for the County's alleged breach of that duty unless the legislature has waived the County's governmental immunity. Because _Sabine Pilot_ did not involve a governmental defendant and did not address governmental immunity or its waiver, it does not support Hillman's argument that the trial court had jurisdiction over his claim.
 
-##### _B. The Michael Morton Act_
+##### B. The Michael Morton Act
 
 More than fifty-five years ago, the United States Supreme Court held that the Constitution's due-process clause prohibits criminal prosecutors from suppressing material evidence that is "favorable to an accused." Just over five years ago, the Texas legislature statutorily addressed "Brady violations" by passing the Michael Morton Act. The Michael Morton Act expressly requires prosecutors to
 
@@ -797,7 +797,7 @@ Of course, the legislature could always do more to ensure that prosecutors discl
 
 Nothing in the Michael Morton Act indicates a legislative intent to waive governmental immunity from a wrongful-termination suit under _Sabine Pilot_. No explicit language or even ambiguous language indicates such an intent. We hold that the Michael Morton Act does not waive the County's governmental immunity from this suit.
 
-##### _C. Judicial Abrogation of Immunity_
+##### C. Judicial Abrogation of Immunity
 
 Alternatively, Hillman urges us to abolish the "ancient and antiquated" doctrine of governmental immunity altogether, or at least modify it to allow for _Sabine Pilot_ claims against governmental entities. He notes that sovereign immunity developed and exists as a common-law doctrine, and "it remains the judiciary's responsibility to define the boundaries of the common-law doctrine and to determine under what circumstances sovereign immunity exists in the first instance." But in fulfilling that responsibility, we must respect both our precedent and our limitations under the constitutional separation of powers.
 
@@ -809,7 +809,7 @@ We in no way discount the serious policy concerns that Hillman, his supporting a
 
 As we have repeatedly confirmed, "it is the Legislature's sole province to waive or abrogate sovereign immunity." That the legislature has recently revised the Michael Morton Act to strengthen its protections illustrates its continuing awareness of the Act and its importance, as well as its willingness to take steps to improve it. Whether waiving immunity from _Sabine Pilot_ claims should be the next step in that process is up to the legislature, and we must defer to it to "protect its policymaking function."
 
-##### III. Conclusion
+#### III. Conclusion
 
 "Sovereign immunity from suit defeats a trial court's subject matter jurisdiction." When, as here, a claim falls within the realm of governmental immunity, courts have no jurisdiction to hear the case unless immunity has been waived. We hold that neither _Sabine Pilot_ nor the Michael Morton Act waives the County's governmental immunity from Hillman's wrongful-termination claim, and we defer to the legislature to decide whether such a waiver would be appropriate as a matter of public policy. We affirm the trial court's judgment granting the County's plea to the jurisdiction and dismissing the case.
 
@@ -831,7 +831,7 @@ The tragic story of Michael Morton and Debra Baker compelled the Legislature to 
 
 As this case sadly demonstrates, however, unacceptable gaps remain. When one good man refuses to stay silent, refuses to "just follow orders," and refuses to do the wrong thing under the misguided belief that it's for the greater good, he should not lose his job. While Hillman might have had a viable _ultra vires_ claim, had he chosen to pursue one, the limited remedies available under that theory are manifestly inadequate to ensure accountability in matters of the highest constitutional dimension. The law must—but currently does not—afford a remedy that advances the Legislature's calculated efforts to secure our constitutional guarantees.
 
-##### I
+#### I
 
 > _Injustice anywhere is a threat to justice everywhere._[^4677]
 
@@ -847,7 +847,7 @@ Hillman sued the County, District Attorney Skurka, and the District Attorney's O
 
 I concur in today's judgment and join in much of the Court's reasoning. The gravamen of this case is governmental immunity: whether the County is immune from a wrongful-termination suit alleging a prosecutor was fired because he insisted on doing what the law requires. Under our immunity jurisprudence, this case is fairly straightforward, and the Court's analysis is sound. First, we did not abrogate governmental immunity in _Sabine Pilot_. The employer in that case was not a governmental entity, so the issue of governmental immunity was not before us and cannot be inferred _sub silentio_. Second, immunity has not been waived. We defer to the Legislature to waive immunity, and I agree with the Court that the Morton Act contains no such waiver because no "clear and unambiguous language" expresses that intent. Third, we should not abrogate immunity here. Although we have the power to abrogate immunity, we have rarely done so, and even then we limited it to offset claims rather than allowing unlimited recovery of monetary damages. Sanctioning the recovery of monetary damages—without any legislatively considered limitations like those in the Texas Tort Claims Act—would have significant public-fisc implications that raise separation-of-powers concerns. Finally, though Hillman arguably has a viable _ultra vires_ claim, he has disclaimed any intent to assert one. Accordingly, I agree with the Court that the County is immune from suit in this case and that remand is not appropriate. I write separately, however, to highlight a lacuna in the legislative scheme that neuters the Legislature's efforts to forestall prosecutorial misconduct that could lead to wrongful convictions.
 
-##### II
+#### II
 
 > _If impunity is not demolished, all efforts to bring an end to corruption are in vain._[^b22e]
 

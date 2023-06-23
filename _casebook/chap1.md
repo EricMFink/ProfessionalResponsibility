@@ -29,7 +29,7 @@ The demographic and institutional flexibility of the American lawyers, so distur
 
 ##### Complaints about Unqualified Practice and Other Invasions
 
-##### _General Matters_
+##### General Matters
 
 In the United States, organized concern with unauthorized practice began with the Committee on Unlawful Practice of Law of the New York County Lawyers Association in 1914, and spread from there to such other urban jurisdictions as Chicago, Nashville, Kansas City, and Memphis. In the late 1920s, unauthorized practice became a serious concern of the American Bar Association, which directed a national attack on it throughout the 1930s. Americans generally handled unauthorized practice and external competition by councils and agreements if possible. Direct legal action was a last resort.  [T]he urban origins of the first unauthorized practice committees are significant. Since city lawyers were by this time quite stratified, the first conflicts appeared either in the qualitatively new jurisdictions of the upper-tier or in the oversupply of lower-tier lawyers, who were pushing out for new work.
 
@@ -37,7 +37,7 @@ American unauthorized-practice committees characteristically started with large 
 
 Despite the apparent stability of routine enforcement, lawyers' _sense_ of the degree of unauthorized practice had definite cycles. Partly this reflected phases natural to any social movement. [I]nterest in the problem would suddenly wax, with violent speeches, excited talk, and often some new kind of organization or interprofessional agreement. But then the newly created enforcement organization would go on to a fairly routine existence, indeed often complaining of lawyers' inattention. Agreements like the code of ethics negotiated between the Pennsylvania lawyers and the Pennsylvania Bankers Association in 1922 could endure a decade of benign neglect before grassroots complaints generated renewed Bar Association action.
 
-##### _Areas of Conflict_
+##### Areas of Conflict
 
 The areas about which lawyers complained included all of the chief legal jurisdictions—business affairs like bankruptcy and companies; property matters such as conveyancing, wills, and trusteeship; advocacy before courts and administrative tribunals; and finally, general advice on business, legal, and personal affairs.
 
@@ -51,7 +51,7 @@ This picture complements and expands the predictions made earlier. In the United
 
 The overall pattern thus emerging is one of activity within constraint. Professional groups take certain jurisdictional actions partly for internal reasons involving their own structure and knowledge base, partly for external reasons like status and power, and partly because these actions are constrained by the competitive environment.
 
-##### _Audiences for Jurisdictional Claims_
+##### Audiences for Jurisdictional Claims
 
 Efforts to curb unqualified practice are efforts to make the workplace relations of jurisdiction conform to the legal and public ones. As I argued before, if the lawyers have workplace jurisdiction but not public or legal jurisdiction, then they are expanding into the area. If, by contrast, they have legal and perhaps public jurisdiction, but not workplace jurisdiction, then they are facing an invasion.
 
@@ -73,7 +73,7 @@ Nonetheless, the conveyancers were destroyed, very rapidly, by a convergence of 
 
 The example of the conveyancers shows again how the relative extents of jurisdictional claims can tell us much about the direction of jurisdictional change. For lawyers of the 1930s, the writing of wills was an old expansion jurisdiction, one in which they sought to convert a successful workplace invasion into publicly and legally recognized domination. That the rural public persisted in having wills drawn by banks, trust companies, prothonotaries, and aldermen indicates that this expansion had never had the success in rural areas that it enjoyed in the city.
 
-##### _Competitors_
+##### Competitors
 
 The lawyers had other antagonists besides the vanquished conveyancers. These antagonists, as I have argued throughout, provide the structure that bends the two professions in different directions. They fall into seven groups. The first are the other free professions—the accountants, the bankers, and others. The second are the other professions affiliated with the law. In America this meant notaries, foreign (out-of-state or out-of-country) lawyers, and disbarred individuals working for other lawyers. A third group, the land professions, comprises the simple category of real estate agents in the United States. A fourth group is local officials—justices of the peace, magistrates, police, and other municipal authorities, as well as their various clerks. Fifth, a group of negligible importance in the United States, but of great importance in England, is national officials. Conversely, the sixth group was more important in the United States—corporations. These include title and trust companies, insurance companies, collection agencies, legal aid societies, trade associations, and various other groups. The seventh category of offenders is a miscellaneous group of outsiders—chiefly insurance agents in the United States.
 
@@ -81,7 +81,7 @@ Competition from other free professions is more common in the provincial than th
 
 [T]he amount of American jurisdiction in property was expanding with the population, and the business jurisdiction much more rapidly. Yet in both jurisdictions, American lawyers faced competition not from individuals but from specialized corporations—trust companies, title companies, collection agencies. This competition was directed not against the expanding law firms in the qualitatively new jurisdictions of big business and government, but against individual lawyers and small partnerships working in more slowly expanding areas. This conflict arose out of external invasion of areas under full lawyer jurisdiction, and proceeded by price cutting; it exemplifies the third form of conflict discussed above.
 
-##### _Important Contests_
+##### Important Contests
 
 To gain a clearer picture of the actual settlements of the major jurisdictional disputes, we may analyze problem areas and competitors in detail. This means replacing general classifications (free professions, national officials, land and property) with actual groups and bodies of work (accountants, the Board of Trade, trusts).
 
@@ -377,9 +377,9 @@ Through its hearings and by examining the material submitted in support of and i
 
 [W]e are of the opinion that Roots's application should be denied without prejudice to Roots reapplying at some later date after he has proven that he has truly rehabilitated himself.
 
-##### I
+#### I
 
-##### _Petitioner's Criminal Record_
+##### Petitioner's Criminal Record
 
 In 1985, when he was eighteen years old, Roots was charged with and convicted of shoplifting in the State of Florida. He had relocated there after leaving his home in Montana during his freshman year in high school. In his bar application, Roots admitted that, following his arrest for this crime, he "failed to appear at [his] scheduled hearing on the matter." He conceded that he was aware that he needed to attend the hearing but claims that his immaturity at the time caused him to disregard the court's order. Within two months, however, the Orlando police rearrested him on the same charge. He was then detained until he could be presented to a judge. And even though the court still treated him with leniency, Roots shirked his responsibility to abide by the terms of his probation when he failed to perform the community-service condition of his sentence. (He admitted in his application to the bar that he just "left Orlando without performing the community service.")
 
@@ -409,9 +409,9 @@ We recognize that Roots has not been convicted of violating any criminal laws si
 
 Notwithstanding these more recent positive factors, it is our belief that we have not yet had enough opportunity to conclude that Roots has totally rehabilitated himself, especially because his conduct during the years leading up to and including the filing of his bar application raises further questions about the depth, scope, and extent of his alleged rehabilitation. Indeed, his probationary status on the federal-weapons conviction expired only a mere four years ago, after which he then enrolled in law school and continued to engage in activities that cast doubt on his candor, truthfulness, and ability to take the attorney's oath in good faith.
 
-##### II
+#### II
 
-##### _The Petitioner's Lack of Candor and Truthfulness_
+##### The Petitioner's Lack of Candor and Truthfulness
 
 It has been established that the petitioner was not truthful in applying for the purchase of firearms. It also has been established that petitioner was not truthful in answering a question on the bar application about the use of aliases, although he did admit to having used three aliases: Carl Davis, Rodger Roop, and Roger Bell. He indicated on his application that these aliases were used for the purpose of attending school, writing, and telephone fundraising. In his testimony before the committee, however, he admitted that the use of the alias Carl Davis was to help him evade the law after he was indicted for the weapons charge in Montana. When he assisted in a senatorial campaign, he also used another alias, Roger Bell, in order to hide his true identity when salary payments were made to him. The minority report that Chairman McInnis submitted concluded that Roots's lack of candor in this respect would not be consistent with allowing petitioner to practice law.
 
@@ -429,9 +429,9 @@ Moreover, as mentioned above, Roots already had been convicted criminally of pro
 
 In sum, then, we agree with the minority report that this applicant's lack of candor is inconsistent with admitting him to practice law at this time.
 
-##### III
+#### III
 
-##### _Ability to Abide by the Attorney's Oath_
+##### Ability to Abide by the Attorney's Oath
 
 Pursuant to Article II, Rule 8 of the Supreme Court Rules, "[e]very person who is admitted as attorney and counselor at law shall take in open court the following engagement:"
 
@@ -532,7 +532,7 @@ Creasy, no longer a member of the bar, contests the jurisdiction of this court t
 
 ##### DISCUSSION
 
-##### _A. Jurisdiction_
+##### A. Jurisdiction
 
 We first address Creasy's argument that this court lacks jurisdiction over him because he is a non-lawyer. The argument is without merit. As we have previously said:
 
@@ -552,7 +552,7 @@ We see no reason why we would have jurisdiction over lawyers and not over disbar
 
 Given our authority over the practice of law and those who have been admitted to the bar, we conclude that we have continuing jurisdiction to prevent Creasy from resuming the practice of law. We turn, then, to the question of whether he was engaged in the practice of law.
 
-##### _B. The practice of law_
+##### B. The practice of law
 
 Creasy argues that his actions during the private arbitration proceeding— unconnected to any pending judicial matter— do not constitute the practice of law. We long ago defined the practice of law as
 
@@ -574,7 +574,7 @@ Of course, unlike Illinois, which had no statute authorizing adjusters to invest
 
 The Kansas Supreme Court reached a similar result in a case in which a suspended lawyer continued all his activities except court appearances, finding that his activities were not permissible just because they could have been performed by non-lawyers. The court's rationale was that "some actions which may be taken with impunity by persons who have never been admitted to the practice of law, will be found to be in contempt if undertaken by a suspended or disbarred attorney." Applying this reasoning to our facts, we believe Creasy, who acted as a representative for his client by examining a witness in an adversarial setting, cannot now claim to have merely engaged in insurance adjusting under A.R.S. § 20-281.
 
-##### _C. Legislative authority to license private insurance adjusters_
+##### C. Legislative authority to license private insurance adjusters
 
 Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the legislature has authorized the licensing of private insurance adjusters and that he is therefore subject only to the jurisdiction of the Department of Insurance. This argument is also without merit. In defining adjuster and setting out licensing requirements in A.R.S. §§ 20-281 and 20-312, the legislature has undertaken the regulation of insurance adjusters. Section 20-281(A) defines an adjuster as
 
@@ -789,17 +789,17 @@ On September 30, 1999, respondent gave a sworn statement to the ODC in which he 
 
 ##### Disciplinary Proceedings
 
-##### _Formal Charges_
+##### Formal Charges
 
 On January 4, 2001, the ODC filed one count of formal charges against respondent, alleging that his failure to report his unprivileged knowledge of Mr. Deegan's prosecutorial misconduct violated Rules 8.3(a) (reporting professional misconduct), 8.4(c) (engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 8.4(d) (engaging in conduct prejudicial to the administration of justice) of the Rules of Professional Conduct. The ODC subsequently amended the formal charges to delete the alleged violation of Rule 8.4(c).
 
 On March 5, 2002, respondent answered the amended formal charges and admitted some of the factual allegations therein, but denied that his conduct violated the Rules of Professional Conduct. Specifically, respondent asserted that Rule 8.3(a) "merely requires that an attorney possessing unprivileged knowledge of a violation of this Code shall report such knowledge to the authority empowered to investigate such acts. It is undisputed that respondent did report his knowledge of Deegan's statements to Thompson's attorneys, with the clear understanding that this information would be reported to the District Attorney and the Court, undeniably authorities empowered to investigate Deegan's conduct."
 
-##### _Formal Hearing_
+##### Formal Hearing
 
 When this matter proceeded to a formal hearing before the committee, respondent testified that his best recollection of his conversation with Mr. Deegan in 1994 "is that he told me that he did not turn over evidence to his opponents that might have exculpated the defendant." Nevertheless, when asked whether he recognized during the barroom conversation that Mr. Deegan had violated his ethical duties, respondent replied, "Well, certainly." Respondent admitted that he gave the conversation no further thought after he left the bar because he was "distracted" by his own personal problems.
 
-##### _Hearing Committee Recommendation_
+##### Hearing Committee Recommendation
 
 In its report filed with the disciplinary board, the hearing committee concluded that respondent did not violate Rule 8.3(a), but that he should be publicly reprimanded for his violation of Rule 8.4(d).
 
@@ -815,7 +815,7 @@ In light of the mitigating factors present, and finding that a suspension would 
 
 Both respondent and the ODC filed objections to the hearing committee's recommendation.
 
-##### _Disciplinary Board Recommendation_
+##### Disciplinary Board Recommendation
 
 The disciplinary board adopted the hearing committee's factual findings but rejected its application of Rule 8.3(a) of the Rules of Professional Conduct. The board determined that a finding of a violation of Rule 8.3(a) requires clear and convincing evidence that an attorney (1) possessed unprivileged knowledge of an ethical violation and (2) failed to report such knowledge to a tribunal or other authority empowered to investigate or act upon such violation. Concerning the knowledge requirement, the board considered various legal authorities interpreting both Louisiana Rule 8.3(a) and Model Rule 8.3(a), and determined that a lawyer's duty to report professional misconduct is triggered when, under the circumstances, a reasonable lawyer would have "a firm opinion that the conduct in question more likely than not occurred." The board explained that the requisite knowledge under Rule 8.3(a) is "more than a mere suspicion, but less than absolute or moral certainty."
 
@@ -851,19 +851,19 @@ We now turn to a more in-depth examination of the reporting requirement in Louis
 
 Thus, the rule has three distinct requirements: (1) the lawyer must possess unprivileged knowledge of a violation of the Rules of Professional Conduct; (2) the lawyer must report that knowledge; and (3) the report must be made to a tribunal or other authority empowered to investigate or act on the violation. We will discuss each requirement in turn.
 
-##### _Knowledge_
+##### Knowledge
 
 In its recommendation in this case, the disciplinary board did excellent work in collecting and analyzing the cases and legal commentary interpreting the knowledge requirement of Rule 8.3(a). We need not repeat that analysis here. Considering those authorities, it is clear that absolute certainty of ethical misconduct is not required before the reporting requirement is triggered. The lawyer is not required to conduct an investigation and make a definitive decision that a violation has occurred before reporting; that responsibility belongs to the disciplinary system and this court. On the other hand, knowledge requires more than a mere suspicion of ethical misconduct. We hold that a lawyer will be found to have knowledge of reportable misconduct, and thus reporting is required, where the supporting evidence is such that a reasonable lawyer under the circumstances would form a firm belief that the conduct in question had more likely than not occurred. As such, knowledge is measured by an objective standard that is not tied to the subjective beliefs of the lawyer in question.
 
-##### _When to Report_
+##### When to Report
 
 Once the lawyer decides that a reportable offense has likely occurred, reporting should be made promptly. The need for prompt reporting flows from the need to safeguard the public and the profession against future wrongdoing by the offending lawyer. This purpose is not served unless Rule 8.3(a) is read to require timely reporting under the circumstances presented.
 
-##### _Appropriate Authority_
+##### Appropriate Authority
 
 Louisiana Rule 8.3(a) requires that the report be made to "a tribunal or other authority empowered to investigate or act upon such violation." The term "tribunal or other authority" is not specifically defined. However, as the comments to Model Rule 8.3(a) explain, the report generally should be made to the bar disciplinary authority. Therefore, a report of misconduct by a lawyer admitted to practice in Louisiana must be made to the Office of Disciplinary Counsel.
 
-##### _Determination of Respondent's Misconduct and Appropriate Discipline_
+##### Determination of Respondent's Misconduct and Appropriate Discipline
 
 Applying the principles set forth above to the conduct of respondent in the instant case, we find the ODC proved by clear and convincing evidence that respondent violated Rule 8.3(a). First, we find that respondent should have known that a reportable event occurred at the time of his 1994 barroom conversation with Mr. Deegan. Stated another way, respondent's conversation with Mr. Deegan at that time gave him sufficient information that a reasonable lawyer under the circumstances would have formed a firm opinion that the conduct in question more likely than not occurred. Regardless of the actual words Mr. Deegan said that night, and whether they were or were not "equivocal," respondent understood from the conversation that Mr. Deegan had done something wrong. Respondent admitted as much in his affidavit, during the hearing on the motion for new trial in the criminal case, during his sworn statement to the ODC, and during his testimony at the formal hearing. Indeed, during the sworn statement respondent conceded that he would have reported the matter "immediately" were it not for the personal problems he was then experiencing. Respondent also testified that he was surprised and shocked by his friend's revelation, and that he told him to remedy the situation. There would have been no reason for respondent to react in the manner he did had he not formed a firm opinion that the conduct in question more likely than not occurred. The circumstances under which the conversation took place lend further support to this finding. On the same day that he learned he was dying of cancer, Mr. Deegan felt compelled to tell his best friend about something he had done in a trial that took place nine years earlier. It simply defies logic that respondent would now argue that he could not be sure that Mr. Deegan actually withheld Brady evidence because his statements were vague and non-specific.
 
@@ -920,7 +920,7 @@ Respondent also raises lack or absence of knowledge as a general defense, statin
 
 On this motion, whenever the AGC has sustained its burden of proving that respondent made knowing false and misleading factual statements to support his claim that the presidential election was stolen from his client, respondent must then demonstrate that there is some legitimate dispute about whether the statement is false or whether the statement was made by him without knowledge it was false. Conclusory or vague arguments will not create a controverted issue as to whether there has been misconduct. Consequently, once the AGC has established its prima facie case, respondent's references to affidavits he has not provided, or sources of information he has not disclosed or other nebulous unspecified information, will not prevent the Court from concluding that misconduct has occurred. Respondent cannot create a controverted issue of misconduct based upon what he does not submit to this Court. Nor will offers to provide information at a later time, or only if the Court requests it, suffice.
 
-##### Instances of Attorney Misconduct
+#### Instances of Attorney Misconduct
 
 In making this motion, the AGC primarily relies on claims that respondent made false and misleading factual statements to cast doubt on the reliability of the results of the 2020 presidential election, in which Joseph R. Biden was constitutionally certified and then inaugurated as the 46th President of the United States. We find that the following false statements made by respondent constitute uncontroverted proof of respondent's professional misconduct.
 
@@ -1024,7 +1024,7 @@ _We find that all of these acts of misconduct, when considered separately or tak
 
 We recognize that the AGC has identified other instances of respondent's misconduct. We make no substantive decision on those additional claims at this time because the record is insufficiently developed on those claims in this motion for interim relief. The additional claims may be part of any formal charges that the AGC will interpose in the full disciplinary proceeding that will follow this interim suspension. We find, nonetheless, that the incidents we have identified in this decision satisfy the requirement of uncontroverted misconduct required for an interim suspension.
 
-##### Immediate Threat to the Public Interest
+#### Immediate Threat to the Public Interest
 
 Uncontroverted claims of misconduct alone will not provide a basis for interim suspension, unless there is a concomitant showing of an immediate threat to the public interest. We recognize that this case presents unique circumstances. Nonetheless, there are certain factors we generally consider in connection with whether an immediate threat of harm to the public has been established.
 

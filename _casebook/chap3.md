@@ -165,7 +165,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
-##### I. Factual Background
+#### I. Factual Background
 
 On April 14, 2000, Clark Capital filed a complaint against Annuity alleging trademark infringement. Attorneys with the firm of Woodcock Washburn Kurtz Mackiewicz & Norris LLP have represented Clark Capital from day one of this case. In the fall of 2000, Annuity retained Donald E. Frechette with the firm of Edwards & Angell LLP.
 
@@ -187,7 +187,7 @@ Frechette's second affidavit was submitted in response to Biemer's affidavit. In
 
 Annuity never retained Dilworth. On June 11, 2001, Friedman, a Dilworth attorney, entered an appearance on behalf of Clark Capital.
 
-##### II. Discussion
+#### II. Discussion
 
 Annuity asserts that these several telephone conversations between Frechette and Biemer rose to the level of an attorney-client relationship between Annuity and Biemer, such that Friedman is in violation of the Rules of Professional Conduct. This District has adopted the Pennsylvania Rules of Professional Conduct. These Rules provide that:
 
@@ -474,7 +474,7 @@ Finally, even assuming arguendo that a duty existed based on an attorney/client 
 
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court [argued] that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
-##### I.
+#### I.
 
 In March of 2001, AOL began an internal investigation into its relationship with PurchasePro, Inc. AOL retained the law firm of Wilmer, Cutler & Pickering to assist in the investigation. Over the next several months, AOL's general counsel and counsel from Wilmer Cutler interviewed appellants, AOL employees Kent Wakeford, John Doe 1, and John Doe 2.
 
@@ -496,7 +496,7 @@ The district court denied John Doe 1's and John Doe 2's motions because it found
 
 The court initially granted Wakeford's motion to quash because it found that his communications with the investigating attorneys were privileged under the common interest agreement between counsel for Wakeford and counsel for AOL. Following a motion for reconsideration, the court reversed its earlier ruling and held that the subpoenaed documents relating to Wakeford's interviews were not privileged because it found that Wakeford's common interest agreement with AOL postdated the March-June 2001 interviews. In addition, the court held that Wakeford failed to prove that he was a client of the investigating attorneys at the time the interviews took place. The court based its conclusion on its findings that: (1) none of the investigating attorneys understood that Wakeford was seeking personal legal advice; (2) the investigating attorneys did not provide any personal legal advice to him; and (3) the investigating attorneys believed they represented AOL and not Wakeford. This appeal followed.
 
-##### II.
+#### II.
 
 Appellants argue that because they believed that the investigating attorneys who conducted the interviews were representing them personally, their communications are privileged. However, we agree with the district court that essential touchstones for the formation of an attorney-client relationship between the investigating attorneys and the appellants were missing at the time of the interviews. There is no evidence of an objectively reasonable, mutual understanding that the appellants were seeking legal advice from the investigating attorneys or that the investigating attorneys were rendering personal legal advice. Nor, in light of the investigating attorneys' disclosure that they represented AOL and that the privilege and the right to waive it were AOL's alone, do we find investigating counsel's hypothetical pronouncement that they could represent appellants sufficient to establish the reasonable understanding that they were representing appellants. Accordingly, we find no fault with the district court's opinion that no individual attorney-client privilege attached to the appellants' communications with AOL's attorneys.
 
@@ -535,7 +535,7 @@ Both parties point to the substance of the communications to support their respe
 
 ##### Discussion
 
-##### _A. Scope of Privilege_
+##### A. Scope of Privilege
 
 The question whether employee communications with counsel retained by the employer about matters relating to the employment are privileged vis-a-vis the employee---in other words, whether the employee has a personal attorney-client privilege that only the employee may waive---is troublesome because competing interests are at play.
 
@@ -559,7 +559,7 @@ The First Circuit adopted the Tenth Circuit's interpretation and discussed its a
 
 The Tenth and First Circuits thus have argued persuasively that communications implicating personal liability for acts within the scope of an individual's employment may be protected by individual attorney-client privilege, at least in some circumstances. It is an open question whether such communications involve "personal matters" within the meaning of Teamsters. But it is unnecessary to resolve that issue here. As discussed below, and particularly in light of the fact that the burden of proof lies with the party asserting privilege, Warley fails to meet any standard.
 
-##### _B. Warley's Claims_
+##### B. Warley's Claims
 
 To begin with, there is no evidence that Warley was deceived by KPMG or its attorneys about the nature of her relationship with counsel. Although she claims to have "understood that counsel were representing her personally as a partner in the firm," her subjective belief alone does not support a conclusion that KPMG's acts were responsible for that belief. Accordingly, the analysis of her claims rests on whether the communications involved "personal matters."
 
@@ -775,7 +775,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 The issue in this appeal is whether the appellant attorney violated the Code of Professional Responsibility by repeatedly using special nonrefundable retainer fee agreements with his clients. Essentially, such arrangements are marked by the payment of a nonrefundable fee for specific services, in advance and irrespective of whether any professional services are actually rendered. The local Grievance Committee twice warned the lawyer that he should not use these agreements. After a third complaint and completion of prescribed grievance proceedings, the Appellate Division suspended the lawyer from practice for two years. It held that the particular agreements were per se violative of public policy. We affirm the order of the Appellate Division.
 
-##### I.
+#### I.
 
 In 1990, the petitioner, Grievance Committee for the Tenth Judicial District, initiated a disciplinary proceeding charging attorney Cooperman with 15 specifications of professional misconduct. They relate to his use of three special nonrefundable retainer fee agreements.
 
@@ -789,7 +789,7 @@ Cooperman's persistent refusals to refund any portion of the fees sparked at lea
 
 After an extensive hearing, the Referee made findings supporting violations on all 15 charges. On appropriate motion, the Appellate Division confirmed the Referee's report with respect to charges 2 through 5, 7 through 10, and 12 through 15. The Court disaffirmed the report as to charges 1, 6 and 11, which alleged that the retainer agreements constituted deceit and misrepresentation. In sustaining the remaining charges, the Court held that these retainer agreements were unethical and unconscionable and "violative of an attorney's obligations under the Code of Professional Responsibility to refund unearned fees upon his or her discharge." The Court also concluded that Cooperman's fees were excessive. The Court suspended him from the practice of law for a period of two years but did not order restitution.
 
-##### II.
+#### II.
 
 Whether special nonrefundable retainer fee agreements are against public policy is a question we left open in _Jacobson v. Sassower_, a fee dispute case. We agree with the Appellate Division in this disciplinary matter that special nonrefundable retainer fee agreements clash with public policy and transgress provisions of the Code of Professional Responsibility, essentially because these fee agreements compromise the client's absolute right to terminate the unique fiduciary attorney-client relationship.
 
