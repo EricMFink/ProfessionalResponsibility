@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /ProfessionalResponsibility
 title: Professional Responsibility
 
-last_updated: 21 June 2023  # leave blank if you don't want to display last updated
+last_updated: 23 June 2023  # leave blank if you don't want to display last updated
 
 author:
   name:  Eric M. Fink
@@ -24,9 +24,13 @@ course:
   meets: "Monday & Wednesday 9:45–10:45 am"
   repository: ProfessionalResponsibility
 
+coursebook:
+  title: Professional Responsibility
+  subtitle: An Open-Source Casebook
+  version: '2.0'
+  date: June 2023
+
 collections:
-  exams:
-    output: true
   problems:
     output: true
   questions:
