@@ -122,7 +122,7 @@ Though structured in a slightly different framework, Judge Conner's findings ful
 
 Opinion examines the ethical duties of a lawyer representing both the buyer and the seller on the purchase of a foreclosure property and the lawyer’s duties when the representation is limited to the seller.
 
-##### **Inquiry #1:**
+##### Inquiry #1:
 
 Bank A foreclosed its deed of trust on real property and was the highest bidder at the sale. Bank A listed the property for sale. Buyer entered into a contract to purchase the property.
 
@@ -134,7 +134,7 @@ Law Firm X proposes to send Buyer a letter advising Buyer that it has been chose
 
 May Lawyer at Law Firm X participate in the joint representation of Buyer and Seller as contemplated by the Contract?
 
-##### **Opinion #1:**
+##### Opinion #1:
 
 If a lawyer is named as the closing agent for a residential real estate transaction pursuant to an agreement such as the one set out above, the lawyer has a duty to ensure that he can comply with Rule 1.7 prior to accepting joint representation of the buyer and seller. When contemplating joint representation, a lawyer must consider whether the interests of the parties will be adequately protected if they are permitted to give their informed consent to the representation, and whether an independent lawyer would advise the parties to consent to the conflict of interest. Representation is prohibited if the lawyer cannot reasonably conclude that he will be able to provide competent and diligent representation to all clients. See Rule 1.7, cmt. \[15\]. As stated in comment \[29\] to Rule 1.7, the representation of multiple clients “is improper when it is unlikely that impartiality can be maintained.”
 
@@ -152,13 +152,13 @@ If the above requirements are met, Lawyer may proceed with the common representa
 
 If Lawyer determines at the outset that the common representation will be adverse to the interests of either Buyer or Seller, or that his judgment will be impaired by loyalty to Seller, Lawyer may not represent both parties. Similarly, if Buyer does not consent to the joint representation, Lawyer may not represent both parties.
 
-##### **Inquiry #2:**
+##### Inquiry #2:
 
 Buyer notifies Lawyer at Law Firm X that he wants to have his own lawyer represent him at the closing. Therefore, Law Firm X intends to limit its representation to Seller. To clarify its role in the transaction, Lawyer sends Buyer an Independently Represented Buyer Acknowledgement to sign agreeing that, although Law Firm X was providing services necessary and incidental to effectuating a settlement of the transaction, including providing an opinion of title for the Buyer’s policy to the title insurance company chosen by and affiliated with Bank A, there will be no attorney-client relationship between Law Firm X and Buyer. Law Firm X informs Buyer that the charge for the closing will be reduced to $325.
 
 May Law Firm X limit its representation to Seller and charge Buyer $325 for closing the real estate transaction?
 
-##### **Opinion #2:**
+##### Opinion #2:
 
 Upon notice that Buyer wants to have his own lawyer represent him at the closing, Lawyer must first determine whether Buyer desires Law Firm X to continue to represent his interests in conjunction with his own lawyer. If Buyer desires Law Firm X to continue to represent his interests in the closing, then Law Firm X may continue to advise Buyer and the firm would not be required to adjust its fee.
 
@@ -172,11 +172,11 @@ Whether the contract to purchase the property requires Buyer to pay Lawyer’s f
 
 Similarly, Buyer’s authority to renegotiate the terms of the Contract pertaining to the selection of the closing lawyer, and/or the payment of the closing costs and fees associated with the closing, are outside the purview of the Ethics Committee.
 
-##### **Inquiry #3:**
+##### Inquiry #3:
 
 May Lawyer provide an opinion of title to the title insurance company for Buyer’s title insurance policy under the circumstances described in Inquiry #2?
 
-##### **Opinion #3:**
+##### Opinion #3:
 
 In representing Seller, Law Firm X may provide an opinion on title to the title insurer sufficient and necessary to satisfy the requirements of the Contract and facilitate completion of the transaction on behalf of Seller. See CPR 100, RPC 210, 2006 FEO 3.
 
@@ -187,7 +187,7 @@ CPR 100 and RPC 210 provide that a lawyer who is representing the buyer, the len
 
 Opinion rules that common representation in a commercial real estate loan closing is, in most instances, a “nonconsentable” conflict meaning that a lawyer may not ask the borrower and the lender to consent to common representation.
 
-##### **Background:**
+##### Background:
 
 In the standard closing of a commercial loan secured by real property (a “commercial loan closing”), the borrower and the lender have separate legal counsel. The borrower’s lawyer traditionally handles most aspects of the closing including the preparation of the settlement statement as well as the collection of funds, the payoffs, and the disbursements. The borrower understands that its lawyer represents its interests alone. Unlike a residential real estate closing in which the lender’s documents can rarely be modified once entered into by the borrower/buyer, it is common in a commercial loan closing for the borrower’s lawyer to be actively involved in negotiating provisions of the commitment letter that establishes the basic terms of the mortgage, and to also negotiate specific revisions to the loan documents to address material matters such as default, disbursement of insurance proceeds, permitted transfers, and indemnification.
 
@@ -205,11 +205,11 @@ Lawyers who traditionally represent the borrower in a commercial loan closing ar
 
 - Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
 
-##### **Inquiry #1:**
+##### Inquiry #1:
 
 May a lawyer represent both the borrower and the lender for the closing of a commercial loan secured by real property? If so, is informed consent of both the borrower and the lender required, and what information must be disclosed to obtain informed consent?
 
-##### **Opinion #1:**
+##### Opinion #1:
 
 In most instances, a lawyer may not represent both the borrower and the lender for the closing of a commercial loan even with consent.
 
@@ -237,13 +237,13 @@ In summary, dual representation of the borrower and the lender for the closing o
 
 Regardless of the above conditions allowing common representation of the borrower and lender, consent may never be sought to represent the lender, the borrower, and the seller of real property if the seller will provide secondary financing for the transaction and accept a secondary deed of trust. In this situation, the risks to the interests of the seller are too great to permit a lawyer to seek consent to common representation.
 
-##### **Inquiry #2:**
+##### Inquiry #2:
 
 The bank intends for Bank’s Counsel to represent only the bank (lender) but to handle all aspects of the closing.
 
 May a lawyer represent only the lender but handle all aspects of a commercial loan closing including the title search, title certification, marshalling the necessary documents, and holding and disbursing of the closing funds? If so, what information must be disclosed by Bank’s Counsel to the borrower relative to the role of Bank’s Counsel?
 
-##### **Opinion #2:**
+##### Opinion #2:
 
 Yes, a lawyer may be the lead lawyer for the closing (“the closing lawyer”) provided the lawyer represents only one party—either the lender or the borrower. Because the title work and other due diligence are for the benefit of the lender, there is no prohibition on the lender’s lawyer performing these tasks. See 2004 FEO 10 (because buyer is the intended beneficiary of the deed although not a signatory, buyer’s lawyer may prepare deed without creating a lawyer-client relationship with seller). However, if the closing lawyer represents the lender, certain conditions must be satisfied.
 
@@ -260,15 +260,15 @@ This opinion cannot address all of the concerns expressed in the Background sect
 
 Opinion addresses conflicts of interest, communication, funding issues, and accountings in contemporaneous closings for residential real property.
 
-##### **Facts:**
+##### Facts:
 
 Residential real property is owned by record owner A. The property is to be conveyed from record owner A to B and from B to end buyer C on the same day. The sales price for the A to B transaction is $80,000. The sales price for the B to C transaction is $100,000. The money provided by C would be utilized by B to make B’s purchase from A; B would provide no independent funding. One lawyer, Lawyer, would close both the A to B and B to C transactions. Lawyer would represent B and C; Lawyer would not represent A. Lawyer would be the settlement agent for the closings.
 
-##### **Inquiry #1:**
+##### Inquiry #1:
 
 Can Lawyer represent B and C in these transactions?
 
-##### **Opinion #1:**
+##### Opinion #1:
 
 This scenario presents a concurrent conflict of interest under Rule 1.7(a). Lawyer’s representation of C may be materially limited by Lawyer’s responsibilities to B, and vice versa. 
 
@@ -300,19 +300,19 @@ Lawyer would need to obtain informed consent from both B and C. To obtain inform
 
 With respect to C, the facts and circumstances Lawyer would need to disclose to C to obtain informed consent from C include but are not limited to all of the matters discussed above for required communications to C. To obtain informed consent from C, Lawyer must also discuss with C the advantages and disadvantages of the proposed transactions for C and C’s options and alternatives, including C retaining independent counsel. If Lawyer cannot discuss all of these matters with C for any reason – including B not wanting certain information disclosed to C or disclosure to C being adverse to B’s interests – then Lawyer cannot obtain C’s informed consent and cannot represent C in these transactions.
 
-##### **Inquiry #2:**
+##### Inquiry #2:
 
 Is the answer to Inquiry #1 different if Lawyer maintains that Lawyer only represents B in the A to B transaction and only represents C in the B to C transaction. 
 
-##### **Opinion #2:**
+##### Opinion #2:
 
 No. A concurrent conflict of interest under Rule 1.7(a)(2) exists if a lawyer’s representation of a client may be materially limited by the lawyer’s responsibilities to another client, a former client, a third person, or by a personal interest of the lawyer. The above-identified conflicts would still exist even if Lawyer only represented B with respect to the A to B transaction and C with respect to the B to C transaction. _See_ Opinion #1.
 
-##### **Inquiry #3:**
+##### Inquiry #3:
 
 If Lawyer concludes that Lawyer cannot represent C, can Lawyer proceed with the closings representing only B?
 
-##### **Opinion #3:**
+##### Opinion #3:
 
 It depends. To the extent C consulted with Lawyer or provided Lawyer with information to close the B to C transaction but no attorney-client relationship was formed between Lawyer and C, C would be a prospective client under Rule 1.18(a). If an attorney-client relationship was formed between Lawyer and C but was terminated by Lawyer due to the conflict of interest, then C is a former client under Rule 1.9.
 
@@ -320,11 +320,11 @@ Under Rule 1.18(b) and Rule 1.9(c), Lawyer is prohibited from revealing any info
 
 Additionally, under Rule 1.18(c) and Rule 1.9(b), Lawyer may not represent a client with interests materially adverse to C in the same or substantially related matter if Lawyer received information from C that could be either significantly harmful to C in that matter under Rule 1.18(c) (C as prospective client), or that is material to the matter under Rule 1.9(b) (C as former client). Exceptions are provided under Rule 1.9 and Rule 1.18, including if C gives informed consent confirmed in writing. However, certain disclosures need to be made to C to obtain informed consent, as discussed above. If Lawyer is prohibited from making those disclosures to obtain C’s informed consent, Lawyer is prohibited from representing B under both Rule 1.9, and Rule 1.18 unless another exception under Rule 1.18(d) applies.
 
-##### **Inquiry #4:**
+##### Inquiry #4:
 
 Can Lawyer use the funds provided by C for C’s purchase from B to fund B’s purchase from A?
 
-##### **Opinion #4:**
+##### Opinion #4:
 
 No, not without C’s knowledge and informed consent and some appropriate legal arrangement (e.g. promissory note). Without C’s knowledge and informed consent and an appropriate legal arrangement, use of C’s money for the benefit of B is a misappropriation of C’s funds in violation of Rule 1.15-2(n) and Rule 8.4(b) and (c), as detailed below.
 
@@ -332,11 +332,11 @@ Lawyer cannot disburse funds from a residential real estate transaction until th
 
 The B to C deed cannot be recorded before the A to B deed is recorded. However, the A to B deed – which is entrusted property as defined in Rule 1.15-1(f) – cannot be recorded by Lawyer until Lawyer is in possession of funds the possession and use of which B is then currently entitled as discussed above, to pay the sales price due to A. 
 
-##### **Inquiry #5:**
+##### Inquiry #5:
 
 Can Lawyer represent B and C in developing a legal arrangement under which B would become entitled to the possession and use of C’s funds prior to recordation of the B to C deed and can Lawyer draft the necessary documentation for that arrangement?
 
-##### **Opinion #5:**
+##### Opinion #5:
 
 No. Such joint representation involves a nonconsentable conflict of interest under Rule 1.7.
 
@@ -344,11 +344,11 @@ The making of an appropriate arrangement between B and C under which B would gai
 
 _See_ Opinion #3 above with respect to whether Lawyer could represent only B or only C.
 
-##### **Inquiry #6:**
+##### Inquiry #6:
 
 Are there other concerns about Lawyer’s participation in the closing of these transactions?
 
-##### **Opinion #6:**
+##### Opinion #6:
 
 Yes, there are other issues Lawyer will have to consider before determining whether Lawyer can proceed.
 
@@ -358,11 +358,11 @@ Such issues may include the following:
 
 2\. Whether Lawyer would be engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation, implicating Rule 8.4(c), such as in the identification of the owner in the preliminary opinion of title for the B to C transaction or in any other aspect. All documentation prepared by Lawyer must be accurate, including identifying the record owner in any preliminary opinion of title for a search period during which A is the record owner.
 
-##### **Inquiry #7:**
+##### Inquiry #7:
 
 If all conflicts, confidentiality, and funding issues are properly resolved, the transactions are permitted by law, and no other issues exist that would preclude Lawyer from proceeding with closing these transactions, what accountings must Lawyer do for these closings and to whom must the accountings be provided under Rule 1.15-3(e) and Rule 1.15-3(f)?
 
-##### **Opinion #7:**
+##### Opinion #7:
 
 Accountings are due to A, B, and C pursuant to Rule 1.15-3(e) and (f).
 
@@ -374,19 +374,19 @@ For both transactions, each seller must receive a written accounting of the sale
 
 Opinion #7 is limited to applying Rule 1.15-3(b)(5), Rule 1.15-3(e), and Rule 1.15-3(f); other authorities and obligations may require documents to be provided to other parties.
 
-##### **Inquiry #8:**
+##### Inquiry #8:
 
 Instead of being structured as A to B and B to C transactions, B enters into a contract to purchase with A and assigns his rights under that contract to C. B initially engages Lawyer for representation to close the sale from A to C and expects that Lawyer will also represent C. B does not want A or C to know certain information about the transaction. The assignment documentation does not disclose all information about the transaction such as the purchase price in the A to B purchase contract or the amount of the assignment fee to be paid to B. B wants the settlement statements prepared in a manner that does not disclose all information to A or C. Can Lawyer represent B and C and close this transaction?
 
-##### **Opinion #8:**
+##### Opinion #8:
 
 This scenario presents many of the same issues and considerations discussed above. Lawyer must be able to disclose all information about the transaction to client C and cannot close the transaction if unable to disclose because of a duty of confidentiality to B. In addition, Lawyer must be able to be forthright with all parties and must be able to disclose to all parties any information as required by law. All documents, closing statements, and deeds prepared by Lawyer must be accurate in all respects. Lawyer must also provide accurate accountings to A and C. _See_ Opinions #1, #3, #6, and #7.
 
-##### **Inquiry #9:**
+##### Inquiry #9:
 
 Could Lawyer represent A, B, and C in these transactions?
 
-##### **Opinion #9:**
+##### Opinion #9:
 
 The same issues and considerations discussed above would apply if Lawyer wished to engage in the multiple representation of A, B, and C. _See_ Opinions #1 through #8.
 
@@ -558,7 +558,7 @@ Confronted with a grand jury inquiry that commanded the testimony of several of 
 
 Regardless of the setting—whether administrative, criminal or civil, either as part of an investigation, during grand jury proceedings, or before, during and after trial—whether an attorney may be compensated for his services by someone other than his client is governed in large measure by _RPC_ 1.8(f) and, to a lesser extent, _RPC_ 1.7(a) and _RPC_ 5.4(c). The overarching _Rule,_ which purposely is written in the negative, forbids a lawyer from "accept[ing] compensation for representing a client from one other than the client unless [three factors coalesce]: (1) the client gives informed consent; (2) there is no interference with the lawyer's independence of professional judgment or with the lawyer-client relationship; and (3) information relating to representation of a client is protected" as provided in the _RPCs. RPC_ 1.8(f). A straightforward application of _RPCs_ 1.7(a), 1.8(f) and 5.4(c) requires that we affirm the order of the trial court.
 
-##### **I.**
+##### I.
 
 The operative facts on which this appeal arise are readily stated. The State commenced a grand jury investigation into whether a corporate contractor had submitted fraudulent invoices for services purportedly rendered to a county government. That inquiry focused primarily on the contractor and three of its employees. In response, the company arranged for counsel for its employees. The company entered into four separate retainer agreements with four separate lawyers, three of whom were assigned to represent, respectively, the three specific employees noted, and the fourth was retained to represent "all non-target current and former employees of [the company] ... in connection with the current state grand jury investigation."
 
@@ -604,7 +604,7 @@ The trial court entered an order that denied the State's motion to disqualify co
 
 The State sought leave to appeal that determination and, in an unpublished order, the Appellate Division denied that application. It then moved before this Court, seeking leave to appeal the trial court's order and other ancillary relief. We also granted leave to the Association of Criminal Defense Lawyers of New Jersey (ACDL-NJ) to appear as amicus curiae. For the reasons that follow, we affirm the order of the trial court.
 
-##### **II.**
+##### II.
 
 According to the State, a per se conflict of interest arises whenever, as here, two facts contemporaneously appear: a target in a grand jury investigation unilaterally selects and retains a lawyer to represent potential witnesses against it, _and_ the lawyer relies on the target for payment of legal fees. In the State's view, that arrangement will split the attorney's loyalty and will discourage the lawyer from counseling the client to cooperate with the State, even when cooperation might be in the client's best interest. It asserts that the perceived effect of allowing a target to select and pay for counsel for the witnesses against it is to irreparably taint the proceedings. The State also claims that such a conflict cannot be waived and that, even if it could be waived, a waiver could only be demonstrated through the live testimony of the witnesses, and not, as was done here, via certifications.
 
@@ -612,9 +612,9 @@ The lawyers whose disqualification is sought counter that _RPC_ 1.8(f) clearly c
 
 The company echoes the arguments advanced both by the lawyers whose disqualification is sought and by amicus, and further asserts that, under the laws of its place of incorporation, it has an obligation to provide counsel to its employees, noting that, absent counsel provided by and paid for by the company, most of its employees would be unable to afford a lawyer.
 
-##### **III.**
+##### III.
 
-##### **A.**
+##### A.
 
 "Our evaluation of an actual or apparent conflict ... does not take place in a vacuum, but is, instead, highly fact specific." "In that respect, the Court's attention is directed to something more than a fanciful possibility." "To warrant disqualification in this setting, the asserted conflict must have some reasonable basis."
 
@@ -624,7 +624,7 @@ No doubt, it long has been the law of this State that it is "improper for [the a
 
 > [i]t is inherently wrong to represent both the employer and the employee if the employee's interest may, and the public interest will, be advanced by the employee's disclosure of his employer's criminal conduct. For the same reasons, it is also inherently wrong for an attorney who represents only the employee to accept a promise to pay from one whose criminal liability may turn on the employee's testimony.
 
-##### **B.**
+##### B.
 
 That said, effective September 10, 1984, New Jersey replaced its then extant _Canons of Professional Ethics_ and _Disciplinary Rules_ with the more modern _Rules of Professional Conduct._ Among these was _RPC_ 1.8(f), which then provided that
 
@@ -640,13 +640,13 @@ Thereafter, starting in 2001 and continuing for almost two years, New Jersey eng
 
 > (3) information relating to representation of a client is protected as required by _RPC_ 1.6.
 
-##### **C.**
+##### C.
 
 However, _RPC_ 1.8(f) does not exist in a vacuum: two other _RPCs_ directly touch on the question presented. First, _RPC_ 1.7(a) forbids a lawyer from representing a client "if the representation involves a concurrent conflict of interest." That _RPC_ recognizes "[a] concurrent conflict of interest... if: ... there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to ... a third person or by a personal interest of the lawyer." _RPC_ 1.7(a)(2). Second, _RPC_ 5.4(c) provides that "[a] lawyer shall not permit a person who recommends, employs, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services."
 
 Our task, then, is to harmonize RPC's 1.7(a)(2), 1.8(f) and 5.4(c) seemingly overlapping mandates so as to give proper guidance on whether, and under what circumstances, a lawyer may represent a client when the fees and costs incurred are being paid by another.
 
-##### **D.**
+##### D.
 
 The starting point for analysis must be the _RPC_ that most specifically addresses the question of when a lawyer can represent a client while being paid by another: _RPC_ 1.8(f). That _RPC_ makes clear that three factors must coalesce in order to allow a lawyer paid by a third party to represent a client: the client must give informed consent; the lawyer's independent professional judgment and the lawyer-client relationship must be maintained sacrosanct; and no improper disclosures relating or referring to the representation can be made. However, the considerations that animate _RPC_ 1.7(a)(2)—that there be no concurrent conflict of interest—and _RPC_ 5.4(c)—that no third party may influence the lawyer's professional judgment— also are relevant and must be addressed.
 
@@ -664,7 +664,7 @@ A synthesis of _RPCs_ 1.7(a)(2), 1.8(f) and 5.4(c) yields a salutary, yet practi
 
 (6) Once a third-party payer commits to pay for the representation of another, the third-party payer shall not be relieved of its continuing obligations to pay without leave of court brought on prior written notice to the lawyer and the client. In such an application, the third-party payer shall bear the burden of proving that its obligation to continue to pay for the representation should cease; the fact that the lawyer and the client have elected to pursue a course of conduct deemed in the client's best interests but disadvantageous to the third-party payer shall not be sufficient reason to discontinue the third-party payer's continuing obligation of payment. If a third-party payer fails to pay an employee's legal fees and expenses when due, the employee shall have the right, via a summary action, for an order to show cause why the third-party payer should not be ordered to pay those fees and expenses.
 
-##### **E.**
+##### E.
 
 We now apply this principle, and its conditions, to the case on appeal.
 
@@ -689,11 +689,11 @@ Opinion rules that a lawyer may not negotiate for employment with another firm i
 
 **Note:** This opinion is limited to the explanation of the professional responsibilities of a lawyer moving from one place of private employment to another. Rule 1.11(d)(2)(B) governs the conduct of a government lawyer seeking private employment.
 
-##### **Inquiry:**
+##### Inquiry:
 
 May a lawyer negotiate for employment with a law firm that represents a party on the opposite side of a matter in which the lawyer is also representing a party?
 
-##### **Opinion:**
+##### Opinion:
 
 Yes, with client consent.
 
@@ -733,7 +733,7 @@ In a formal complaint certified to the Board of Professional Conduct on April 6,
 
 The panel adopted the parties' stipulations and recommended sanction, and the board again adopted the panel's report in its entirety, and no objections have been filed. Although we agree with the finding that Sarver committed professional misconduct, we reject the board's recommended sanction and conclude that Sarver's misconduct warrants a suspension from the practice of law for two years, with the last 18 months of the suspension stayed on the conditions recommended by the board.
 
-##### **Misconduct**
+##### Misconduct
 
 Sarver and J.B. met each other in 2012 when Sarver represented J.B.'s then boyfriend in a legal matter. On September 11, 2015, J.B. reached out to Sarver when she needed "a good attorney for felony [408](https://scholar.google.com/scholar_case?case=2320003003991307008&q=Disciplinary+Counsel+v.+Sarver&hl=en&as_sdt=6,34#p408)[\*408](https://scholar.google.com/scholar_case?case=2320003003991307008&q=Disciplinary+Counsel+v.+Sarver&hl=en&as_sdt=6,34#p408)......some stupid shit happened and I really need to talk to u its not good." The next day, Sarver and J.B. met at a Columbus restaurant, discussed J.B.'s criminal case over drinks, and then had sex in Sarver's vehicle in the parking lot.
 
@@ -749,7 +749,7 @@ After we rejected the board's original recommendation to accept the parties' con
 
 The panel adopted the parties' stipulations and recommended sanction. The board adopted the panel's report in its entirety and found that Sarver's conduct violated Prof.Cond.R. 1.8(j) (prohibiting a lawyer from soliciting or engaging in sexual activity with a client unless a consensual sexual relationship between them existed prior to the client-lawyer relationship), 8.4(b) (prohibiting a lawyer from committing an illegal act that adversely reflects on the lawyer's honesty or trustworthiness), 8.4(c) (prohibiting a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 8.4(d) (prohibiting a lawyer from engaging in conduct that is prejudicial to the administration of justice).
 
-##### **Sanction**
+##### Sanction
 
 When imposing sanctions for attorney misconduct, we consider all relevant factors, including the ethical duties that the lawyer violated, the aggravating and mitigating factors listed in Gov.Bar R. V(13), and the sanctions imposed in similar cases.
 
@@ -807,7 +807,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 The sanction recommended by the Board of Professional Conduct, with the inclusion of conditions such as probation, is much improved from the previous discipline-by-consent agreement submitted to this court. I agree with the majority's position, however, that a two-year suspension, with the entire suspension stayed on the conditions recommended by the board, is an unsuitable sanction in this case. Although I agree with much of the majority's analysis, I believe that given the circumstances of this case, a longer actual suspension of respondent Jason Allan Sarver's Ohio law license is warranted and is necessary to protect the public. Specifically, I find that a two-year suspension, with one year stayed on the conditions recommended by the board, would be a more appropriate sanction in this case. Therefore, I respectfully concur in part and dissent in part.
 
-##### **A. An Actual Suspension of One Year is Warranted**
+##### A. An Actual Suspension of One Year is Warranted
 
 I wholeheartedly agree with the majority that the board was incorrect to conclude that because Sarver's client, J.B., was not prejudiced in her criminal case, she was not harmed by Sarver's misconduct. And I further agree with the board and the majority that Sarver acted selfishly and with a dishonest motive.
 
@@ -825,7 +825,7 @@ Perhaps the most disturbing behavior demonstrated by Sarver during this six-mont
 
 While there are some mitigating factors in Sarver's favor, such as his lack of a disciplinary record, his cooperation with the board, and his character references, the mitigating factors do not outweigh Sarver's abhorrent behavior, boorish selfishness, and complete disregard for the legal profession. Sarver engaged in a sexual relationship with his indigent client who was facing serious felony charges, advised his client on how to evade authorities, and then misled and explicitly lied to the court about that relationship. As the majority correctly emphasizes, the most disturbing attorney-disciplinary cases are those in which a lawyer engages in sexual activity with a client while defending the client against criminal charges. Given the facts of this case, I believe that this court should suspend Sarver from the practice of law in Ohio for two years, with one year of the suspension stayed on the conditions recommended by the board.
 
-##### **B. The Additional Conditions Will Help Ensure Protection of the Public**
+##### B. The Additional Conditions Will Help Ensure Protection of the Public
 
 While I believe that an actual one-year suspension of Sarver's law license is necessary to protect the public, I also believe that the board's newly recommended conditions will help to further protect the public.
 
@@ -839,7 +839,7 @@ Further, while on probation, Sarver must (1) have a personal meeting with the mo
 
 These additional requirements will protect the public far more effectively than the sanction originally recommended by the board, as Sarver will be forced to be in regular and repeated contact with both the monitoring attorney or attorneys and OLAP. The written release or waiver that Sarver signs will provide the monitoring attorney or attorneys access to Sarver's medical and mental-health information —a significant intrusion into Sarver's private life—to ensure that he is in compliance with the conditions of his probation. Sarver must also abide by the significant obligations placed on him by his contract with OLAP. Moreover, Sarver has the proverbial "sword of Damocles" of more time without his license "hanging over his head" if he violates any ethical duty or any of the conditions during the suspension period. In other words, this sanction will keep Sarver, in colloquial terms, "on a short leash" once he is able to return to practice. Indeed, these additional conditions on the stay of Sarver's suspension will better help to protect the public.
 
-##### **C. Conclusion**
+##### C. Conclusion
 
 While I agree with much of the majority opinion and agree that the significant conditions attached to Sarver's suspension, specifically probation, will help protect the public more effectively than the board's previously recommended discipline-by-consent agreement, I believe that a longer actual suspension of Sarver's Ohio law license is warranted. Therefore, I concur in part and dissent in part.
 
@@ -935,7 +935,7 @@ Virginia Gutting is the widow of Ferdinand (Ferd) J. Gutting, former member of t
 
 In early 1975, Paul Kalmanovitz purchased voting control of Falstaff and became Chairman of the Board. Subsequently, for reasons in dispute in this lawsuit, Ferd Gutting's employment with Falstaff was terminated and the Board of Directors voted to deny Ferd Gutting all benefits because his termination was for cause. Ferd Gutting died in December 1980. Falstaff has refused to pay the amounts due to Virginia Gutting pursuant to the terms of the Employee's Death Benefit Agreement and she brought suit to recover the proceeds. Throughout this litigation Falstaff has asserted as an affirmative defense that Ferd Gutting was terminated for cause and thus forfeited all benefits due his beneficiary under the agreement. Virginia Gutting claims the termination was not for "proper cause" as that term is defined in the agreement.
 
-##### **Procedural History.**
+##### Procedural History.
 
 Virginia Gutting filed a complaint on July 8, 1981, through her attorney James S. McClellan. On September 30, 1981, Falstaff filed a motion to disqualify McClellan because he formerly had been a member of Falstaff's Board of Directors and outside general counsel to Falstaff. Falstaff asserted that McClellan had material, firsthand knowledge of events relevant to Falstaff's defense and that McClellan would likely be called as a witness. While the motion to disqualify was pending, on October 13, 1981, Falstaff filed its request for admissions, first interrogatories, and request for production of documents. Thereafter, the district court held a conference at which McClellan indicated he would withdraw voluntarily. On December 4, 1981, McClellan formally withdrew.
 
@@ -947,7 +947,7 @@ Falstaff alleges that on February 27, 1982, Wilson again telephoned Sanders to a
 
 On April 9, 1982, Dempsey filed several motions on behalf of Gutting, including a motion for leave to file answers to the request for admissions out of time. On the same date, Falstaff filed a motion for summary judgment on the theory that all fact issues in the case had been admitted by Gutting's failure to make a timely response to the request. On April 21, the court denied Gutting's motion for leave to file the answers and delayed ruling on Falstaff's summary judgment motion. The case was still scheduled to proceed to trial on June 7, 1982, and Falstaff chose to proceed with 11 scheduled discovery depositions. On May 28, 1982, the district court granted Falstaff's summary judgment motion. The court ruled there was no genuine issue of material fact that the death benefits had been properly withheld under the terms of the agreement because the matter of Ferd Gutting's termination for cause had been deemed admitted.
 
-##### **Discussion**
+##### Discussion
 
 ##### _2. Conflicts of Interest of Gutting's Counsel._
 
@@ -969,7 +969,7 @@ We reverse the judgment of the district court and remand for further proceedings
 
 In this interlocutory appeal, we are asked to decide whether an attorney should be disqualified from representing one party in a lawsuit, either because his representation of the two parties was concurrent or because he had previously represented the opposing party in a similar matter. The district court concluded that the attorney need not be disqualified. For the reasons stated below, we conclude that the district court did not abuse its discretion in concluding that the prior attorney-client relationship failed the "substantial relationship" test. However, we conclude that the attorney did have a concurrent conflict of interest. Therefore, we find the district court abused its discretion in not disqualifying the attorney.
 
-##### **Background Facts and Proceedings.**
+##### Background Facts and Proceedings.
 
 Attorney Larry Stoller began representing Robert and Marcia Zylstra in 2002. Stoller represented them in a number of legal matters between 2002 and 2014, including financial issues, business acquisitions, and real estate transactions. Although the Zylstras were represented by Stoller on a number of occasions, they also used the services of other attorneys throughout this time period. At issue for the purposes of this case are a meeting in January 2007 and a small claims case ending in 2014.
 
@@ -993,7 +993,7 @@ On July 9, Stoller filed a multicount petition on behalf of NuStar against the Z
 
 On August 8, the district court held a hearing, and the parties argued both the motion to dismiss and the motion to disqualify Stoller. On October 14, the district court denied both motions. On November 10, the Zylstras filed an application for interlocutory appeal seeking review of the district court's denial of their motion to disqualify Stoller. We granted the application for interlocutory appeal on December 5.
 
-##### **Analysis**
+##### Analysis
 
 The right of a party to choose his or her own attorney is important, but it must be balanced against the need to maintain "the highest ethical standards" that will preserve the public's trust in the bar and in the integrity of the court system. A court must necessarily balance these two competing interests when determining whether to disqualify an attorney. In doing so, the court "must also be vigilant to thwart any misuse of a motion to disqualify for strategic reasons." When we evaluate motions to disqualify an attorney, we use our Iowa Rules of Professional Conduct as the starting point.
 
@@ -1049,7 +1049,7 @@ The final factor we consider is "whether the client might have disclosed a confi
 
 We do not find that a substantial relationship exists sufficient to disqualify Stoller under rule 32:1.9(a). We therefore find that the district court did not abuse its discretion in holding that Stoller could not be disqualified under the substantial relationship test.
 
-##### **Conclusion**
+##### Conclusion
 
 We find that the district court did not abuse its discretion in concluding that any prior relationship between Stoller and Zylstra in regard to the manure easement agreements failed the substantial relationship test. However, we find that Stoller did have a concurrent conflict of interest. Therefore, we conclude that the district court abused its discretion in not disqualifying Stoller from representing NuStar in the action. On remand, the district court should enter an order disqualifying Stoller from further representation of NuStar in this lawsuit.
 
@@ -1135,7 +1135,7 @@ Under the circumstances, Judge Brieant's order of disqualification cannot be con
 
 Opinion rules that a lawyer who represented an organization while employed with another firm must be screened from participation in any matter, or any matter substantially related thereto, in which she previously represented the organization, and from any matter against the organization if she acquired confidential information of the organization that is relevant to the matter and which has not become generally known.
 
-##### **Inquiry #1:**
+##### Inquiry #1:
 
 Attorney J was employed with Law Firm H where she did workers’ compensation defense work. During this time, Attorney J handled many such cases for Large Manufacturer and its insurer. In addition, Attorney J was privy to Large Manufacturer’s workers’ compensation policies and procedures, litigation strategies, and system for case preparation. Attorney J participated in workers’ compensation strategy meetings with representatives of Large Manufacturer as well as with defense counsel from Law Firm Y, another firm providing workers’ compensation defense representation to Large Manufacturer.
 
@@ -1143,7 +1143,7 @@ Attorney J resigned from Law Firm H to work for Law Firm S, a plaintiffs’ pers
 
 May Attorney J work at Law Firm S?
 
-##### **Opinion #1:**
+##### Opinion #1:
 
 Yes, if Attorney J is properly screened from participation in (1) any matter in which Attorney J represented Large Manufacturer or any other adverse party; (2) any matter that is substantially related to a matter in which Attorney J represented Large Manufacturer; and (3) any matter in which a lawyer with Law Firm H represents or represented Large Manufacturer or any other adverse party and about which Attorney J acquired material confidential information while she was employed with Law Firm H. Written notice of the screen must be given to Large Manufacturer and any other affected former client.
 
@@ -1175,13 +1175,13 @@ Comment \[4\] to Rule 1.9, which relates to lawyers moving between firms, elucid
 
 As long as a screen is implemented to isolate Attorney J from participation in these matters, the consent of Large Manufacturer to the representation of the claimants by a lawyer with Law Firm S is not required. _See_ Rule 1.0(l) and 2003 FEO 8 (setting forth screening procedures).
 
-##### **Inquiry #2:**
+##### Inquiry #2:
 
 Large Manufacturer contends that any new workers’ compensation claims against Large Manufacturer that Attorney J handles at Law Firm S will be substantially related to her prior representation of Large Manufacturer because Attorney J was privy to information about Large Manufacturer’s defense of workers’ compensation cases and this information will materially advance the interests of any client with a workers’ compensation claim against Large Manufacturer.
 
 May Attorney J represent claimants on new workers’ compensation cases against Large Manufacturer if the claimant did not seek representation from Law Firm S until after Attorney J’s employment?
 
-##### **Opinion #2:**
+##### Opinion #2:
 
 It depends. If a new matter is not the same or substantially related to Attorney J’s prior representations of Large Manufacturer, she is not disqualified from the representation unless, during her prior employment with Law Firm H, she acquired confidential information of Large Manufacturer that is material or relevant to the representation of the new client, may be used to the disadvantage of Large Manufacturer, and is not generally known. Attorney J has a continuing duty under paragraphs (a) and (b) of Rule 1.9 to monitor any new matter involving Large Manufacturer to determine whether it is substantially related to her prior representation of her former client or she acquired confidential information from Large Manufacturer that is material to the matter. If so, she is personally disqualified and must be screened. _See_ Opinion #1.
 
@@ -1203,28 +1203,28 @@ When evaluating whether a representation is substantially related to a prior rep
 
 [^1a2b3]: (n.1 in opinion) For an example of a timeframe deemed to be sufficient to manage post-employment conflicts of interest for federal government employees, see the Ethics in Government Act of 1978, 18 U.S.C.§207(c).
 
-##### **Inquiry #3:**
+##### Inquiry #3:
 
 May the other lawyers in Law Firm S represent claimants on new workers’ compensation cases against Large Manufacturer?
 
-##### **Opinion #3:**
+##### Opinion #3:
 
 Yes, if Attorney J is screened from those matters for which she acquired confidential information of Large Manufacturer that is disqualifying. _See_ Opinion #2.
 
-##### **Inquiry #4:**
+##### Inquiry #4:
 
 Should Attorney J be screened from participation in workers’ compensation cases against Large Manufacturer that were defended by lawyers from Law Firm Y while Attorney J was employed by Law Firm H?
 
-##### **Opinion #4:**
+##### Opinion #4:
 
 Yes, if she acquired confidential information of Large Manufacturer that is disqualifying. _See_ Opinion #2.
 
-##### **Inquiry #5:**
+##### Inquiry #5:
 
 Large Manufacturer has many long-term employees who over time may file multiple workers’ compensation claims against Large Manufacturer. If Lawyer J or another lawyer with Law Firm H defended Large Manufacturer against a particular employee while Attorney J was employed by the firm, it is contended that there is a substantial risk that Attorney J will have specific confidential information of Large Manufacturer that would be relevant and useful to the representation of the particular claimant. For example, a manager’s thoughts and opinions regarding the claimant could be information that would not be generally known and which might be used to the disadvantage of Large Manufacturer.
 
 May Attorney J represent a claimant on a new workers’ compensation case against Large Manufacturer if the claimant had previously filed a workers’ compensation case against Large Manufacturer that was defended by a lawyer from Law Firm H while Attorney J was employed by the firm?
 
-##### **Opinion #5:**
+##### Opinion #5:
 
 As stated in Opinion #2, Attorney J has a continuing duty to monitor any matter involving Large Manufacturer to be sure that the representation will not result in the use of confidential information of Large Manufacturer that has not become generally known to the disadvantage of Large Manufacturer in violation of Rule 1.9(c). A screen must be promptly implemented to isolate Attorney J from participation in any such matter.

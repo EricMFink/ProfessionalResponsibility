@@ -13,7 +13,7 @@ title: Duty of Care
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
 
-##### **Comment:**
+##### Comment:
 
 ##### _Legal Knowledge and Skill_
 
@@ -266,7 +266,7 @@ Laurel Garrett and the law firm of Slone & Garrett represented the Vimont group 
 
 This case is a complex legal malpractice claim brought by Vimont against Garrett alleging that she negligently advised them during the midst of the shareholder dispute. They claim that Garrett negligently failed to properly advise them as to how to retain control of the corporation; that the methods she advised violated the insurance code; violated a fiduciary duty to shareholders; was unethical, and was substantially more expensive. The circuit judge granted Garrett a partial summary judgment based on his interpretation of the contract which was different from the interpretation made by the circuit judge in the earlier civil case. The other portion of the claim was resolved in favor of Garrett by a jury verdict. The Court of Appeals upheld the decision of the circuit court, and this Court granted discretionary review.
 
-##### **I. Jury Instructions**
+##### I. Jury Instructions
 
 Correct instructions are absolutely essential to an accurate jury verdict. The fundamental function of instructions is to tell the jury what it must believe from the evidence in order to resolve each dispositive factual issue in favor of the party who has the burden of proof on that issue.
 
@@ -451,7 +451,7 @@ What is foreseeable as a result of a failure to produce documents is the reasona
 
 This case requires us to consider the proper standards for judging a criminal defendant's contention that the Constitution requires a conviction or death sentence to be set aside because counsel's assistance at the trial or sentencing was ineffective.
 
-##### **I**
+##### I
 
 ##### _A_
 
@@ -479,7 +479,7 @@ Respondent subsequently sought collateral relief in state court on numerous grou
 
 [Strickland unsuccessfully challenged the conviction in state court, based on ineffective assistance of counsel. He then brought a habeas corpus action in federal court, again based on ineffective assistance of counsel. The Supreme Court "granted certiorari to consider the standards by which to judge a contention that the Constitution requires that a criminal judgment be overturned because of the actual ineffective assistance of counsel."]
 
-##### **II**
+##### II
 
 In a long line of cases [ ... ] this Court has recognized that the Sixth Amendment right to counsel exists, and is needed, in order to protect the fundamental right to a fair trial. The Constitution guarantees a fair trial through the Due Process Clauses, but it defines the basic elements of a fair trial largely through the several provisions of the Sixth Amendment, including the Counsel Clause:
 
@@ -493,7 +493,7 @@ For that reason, the Court has recognized that "the right to counsel is the righ
 
 The Court has not elaborated on the meaning of the constitutional requirement of effective assistance in the latter class of cases---that is, those presenting claims of "actual ineffectiveness." In giving meaning to the requirement, however, we must take its purpose---to ensure a fair trial---as the guide. The benchmark for judging any claim of ineffectiveness must be whether counsel's conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result.
 
-##### **III**
+##### III
 
 A convicted defendant's claim that counsel's assistance was so defective as to require reversal of a conviction or death sentence has two components. First, the defendant must show that counsel's performance was deficient. This requires showing that counsel made errors so serious that counsel was not functioning as the "counsel" guaranteed the defendant by the Sixth Amendment. Second, the defendant must show that the deficient performance prejudiced the defense. This requires showing that counsel's errors were so serious as to deprive the defendant of a fair trial, a trial whose result is reliable. Unless a defendant makes both showings, it cannot be said that the conviction or death sentence resulted from a breakdown in the adversary process that renders the result unreliable.
 
@@ -541,13 +541,13 @@ The governing legal standard plays a critical role in defining the question to b
 
 In making this determination, a court hearing an ineffectiveness claim must consider the totality of the evidence before the judge or jury. Some of the factual findings will have been unaffected by the errors, and factual findings that were affected will have been affected in different ways. Some errors will have had a pervasive effect on the inferences to be drawn from the evidence, altering the entire evidentiary picture, and some will have had an isolated, trivial effect. Moreover, a verdict or conclusion only weakly supported by the record is more likely to have been affected by errors than one with overwhelming record support. Taking the unaffected findings as a given, and taking due account of the effect of the errors on the remaining findings, a court making the prejudice inquiry must ask if the defendant has met the burden of showing that the decision reached would reasonably likely have been different absent the errors.
 
-##### **IV**
+##### IV
 
 A number of practical considerations are important for the application of the standards we have outlined. Most important, in adjudicating a claim of actual ineffectiveness of counsel, a court should keep in mind that the principles we have stated do not establish mechanical rules. Although those principles should guide the process of decision, the ultimate focus of inquiry must be on the fundamental fairness of the proceeding whose result is being challenged. In every case the court should be concerned with whether, despite the strong presumption of reliability, the result of the particular proceeding is unreliable because of a breakdown in the adversarial process that our system counts on to produce just results.
 
 Although we have discussed the performance component of an ineffectiveness claim prior to the prejudice component, there is no reason for a court deciding an ineffective assistance claim to approach the inquiry in the same order or even to address both components of the inquiry if the defendant makes an insufficient showing on one. In particular, a court need not determine whether counsel's performance was deficient before examining the prejudice suffered by the defendant as a result of the alleged deficiencies. The object of an ineffectiveness claim is not to grade counsel's performance. If it is easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice, which we expect will often be so, that course should be followed. Courts should strive to ensure that ineffectiveness claims not become so burdensome to defense counsel that the entire criminal justice system suffers as a result.
 
-##### **V**
+##### V
 
 Having articulated general standards for judging ineffectiveness claims, we think it useful to apply those standards to the facts of this case in order to illustrate the meaning of the general principles. 
 
@@ -568,7 +568,7 @@ Failure to make the required showing of either deficient performance or sufficie
 
 In this case, respondent Alexandre Mirzayance claimed ineffective assistance of counsel because his attorney recommended withdrawing his insanity defense. The California courts rejected this claim on state postconviction review. We must decide whether this decision was contrary to or an unreasonable application of clearly established federal law. We hold that it was not. Mirzayance failed to establish that his counsel's performance was ineffective.
 
-##### **I**
+##### I
 
 Mirzayance confessed that he stabbed his 19-year-old cousin nine times with a hunting knife and then shot her four times. At trial, he entered pleas of not guilty and not guilty by reason of insanity (NGI). Under California law, when both of these pleas are entered, the court must hold a bifurcated trial, with guilt determined during the first phase and the viability of the defendant's NGI plea during the second. During the guilt phase of Mirzayance's trial, he sought to avoid a conviction for first-degree murder by obtaining a verdict on the lesser included offense of second-degree murder. To that end, he presented medical testimony that he was insane at the time of the crime and was, therefore, incapable of the premeditation or deliberation necessary for a first-degree murder conviction. The jury nevertheless convicted Mirzayance of first-degree murder.
 
@@ -604,7 +604,7 @@ Furthermore, even though it had suggested that the District Court unnecessarily 
 
 We granted the petition for writ of certiorari.
 
-##### **III**
+##### III
 
 Even if Mirzayance's ineffective-assistance-of-counsel claim were eligible for de novo review, it would still fail. _Strickland_ requires a defendant to establish deficient performance and prejudice. Mirzayance can establish neither.
 
@@ -630,7 +630,7 @@ In light of the Magistrate Judge's factual findings, the state court's rejection
 
 In addition, Mirzayance has not demonstrated that he suffered prejudice from his counsel's performance. To establish prejudice, "the defendant must show that there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome." To prevail on his ineffective-assistance claim, Mirzayance must show, therefore, that there is a "reasonable probability" that he would have prevailed on his insanity defense had he pursued it. This Mirzayance cannot do. It was highly improbable that a jury, which had just rejected testimony about Mirzayance's mental condition when the State bore the burden of proof, would have reached a different result when Mirzayance presented similar evidence at the NGI phase.
 
-##### **IV**
+##### IV
 
 Mirzayance has not shown that the state court's conclusion that there was no ineffective assistance of counsel "was contrary to, or involved an unreasonable application of, clearly established Federal law." In fact, he has not shown ineffective assistance at all. The judgment of the Court of Appeals is reversed, and the case is remanded with instructions to deny the petition.
 
@@ -643,7 +643,7 @@ Petitioner Jae Lee was indicted on one count of possessing ecstasy with intent t
 
 Lee's attorney was wrong: The conviction meant that Lee was subject to mandatory deportation from this country. Lee seeks to vacate his conviction on the ground that, in accepting the plea, he received ineffective assistance of counsel in violation of the Sixth Amendment. Everyone agrees that Lee received objectively unreasonable representation. The question presented is whether he can show he was prejudiced as a result.
 
-##### **I**
+##### I
 
 Jae Lee moved to the United States from South Korea in 1982. He was 13 at the time. His parents settled the family in New York City, where they opened a small coffee shop. After graduating from a business high school in Manhattan, Lee set out on his own to Memphis, Tennessee, where he started working at a restaurant. After three years, Lee decided to try his hand at running a business. With some assistance from his family, Lee opened the Mandarin Palace Chinese Restaurant in a Memphis suburb. The Mandarin was a success, and Lee eventually opened a second restaurant nearby. In the 35 years he has spent in the country, Lee has never returned to South Korea. He did not become a United States citizen, living instead as a lawful permanent resident.
 
@@ -659,7 +659,7 @@ The District Court, however, denied relief. Applying our two-part test for ineff
 
 The Court of Appeals for the Sixth Circuit affirmed the denial of relief. On appeal, the Government conceded that the performance of Lee's attorney had been deficient. To establish that he was prejudiced by that deficient performance, the court explained, Lee was required to show "a reasonable probability that, but for counsel's errors, he would not have pleaded guilty and would have insisted on going to trial." Lee had "no bona fide defense, not even a weak one," so he "stood to gain nothing from going to trial but more prison time." Relying on Circuit precedent holding that "no rational defendant charged with a deportable offense and facing overwhelming evidence of guilt would proceed to trial rather than take a plea deal with a shorter prison sentence," the Court of Appeals concluded that Lee could not show prejudice. We granted certiorari.
 
-##### **II**
+##### II
 
 The Sixth Amendment guarantees a defendant the effective assistance of counsel at "critical stages of a criminal proceeding," including when he enters a guilty plea. To demonstrate that counsel was constitutionally ineffective, a defendant must show that counsel's representation "fell below an objective standard of reasonableness" and that he was prejudiced as a result. The first requirement is not at issue in today's case: The Government concedes that Lee's plea-stage counsel provided inadequate representation when he assured Lee that he would not be deported if he pleaded guilty. The question is whether Lee can show he was prejudiced by that erroneous advice.
 
@@ -708,7 +708,7 @@ Lee's claim that he would not have accepted a plea had he known it would lead to
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
 
-##### **I**
+##### I
 
 ##### _A_
 
@@ -746,13 +746,13 @@ Finally, the majority does not dispute that the prejudice inquiry in _Frye_ and 
 
 The majority today abandons any pretense of applying _Strickland_ to claims of ineffective assistance of counsel that arise at the plea stage. It instead concludes that one standard applies when a defendant goes to trial (_Strickland_); another standard applies when a defendant accepts a plea (_Hill_); and yet another standard applies when counsel does not apprise the defendant of an available plea or when the defendant rejects a plea (_Frye_ and _Lafler_). That approach leaves little doubt that the Court has "opened a whole new field of constitutionalized criminal procedure"---"plea-bargaining law"---despite its repeated assurances that it has been applying the same _Strickland_ standard all along. In my view, we should take the Court's precedents at their word and conclude that "an error by counsel does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment."
 
-##### **III**
+##### III
 
 Applying the ordinary _Strickland_ standard in this case, I do not think a defendant in petitioner's circumstances could show a reasonable probability that the result of his criminal proceeding would have been different had he not pleaded guilty. Petitioner does not dispute that he possessed large quantities of illegal drugs or that the Government had secured a witness who had purchased the drugs directly from him. In light of this "overwhelming evidence of guilt," the Court of Appeals concluded that petitioner had "no bona fide defense, not even a weak one." His only chance of succeeding would have been to "throw a ‘Hail Mary' at trial." As I have explained, however, the Court in _Strickland_ expressly foreclosed relying on the possibility of a "Hail Mary" to establish prejudice. _Strickland_ made clear that the prejudice assessment should "proceed on the assumption that the decisionmaker is reasonably, conscientiously, and impartially applying the standards that govern the decision."
 
 In the face of overwhelming evidence of guilt and in the absence of a bona fide defense, a reasonable court or jury applying the law to the facts of this case would find the defendant guilty. There is no reasonable probability of any other verdict. A defendant in petitioner's shoes, therefore, would have suffered the same deportation consequences regardless of whether he accepted a plea or went to trial. He is thus plainly better off for having accepted his plea: had he gone to trial, he not only would have faced the same deportation consequences, he also likely would have received a higher prison sentence. Finding that petitioner has established prejudice in these circumstances turns _Strickland_ on its head.
 
-##### **IV**
+##### IV
 
 The Court's decision today will have pernicious consequences for the criminal justice system. This Court has shown special solicitude for the plea process, which brings "stability" and "certainty" to "the criminal justice system." The Court has warned that "the prospect of collateral challenges" threatens to undermine these important values. And we have explained that "prosecutors must have assurance that a plea will not be undone years later," lest they "forgo plea bargains that would benefit defendants," which would be "a result favorable to no one."
 
@@ -768,7 +768,7 @@ In addition to undermining finality, the Court's rule will impose significant co
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
-##### **Facts**
+##### Facts
 
 Psychiatrist Jessy Ang and his wife Editha jointly owned Evergreen Medical Panel, Inc., a company that provided the Washington State Department of Labor and Industries with independent medical examinations of injured workers. As a result of Dr. Ang's contact with a target of a governmental task force investigating social security fraud, Dr. Ang himself became a person of interest. In February 1994, the task force executed a search warrant on Dr. Ang's office and seized copies of two sets of signed tax returns that reported conflicting amounts of income. The Angs were arrested in April 1996, following the execution of a search warrant at their residence. A year later, the Angs were indicted on 18 criminal counts, including conspiracy to defraud the United States, bank and tax fraud, and filing false statements.
 
@@ -780,11 +780,11 @@ The Angs, along with Evergreen Medical, filed the present legal malpractice acti
 
 The plaintiffs appealed, but the Court of Appeals affirmed. This court granted the plaintiffs' petition for review.
 
-##### **Issues**
+##### Issues
 
 Where a legal malpractice suit stems from the representation of clients in a criminal prosecution, must plaintiffs who were acquitted of the criminal charges prove their actual innocence of the crimes, or does their acquittal satisfy the innocence element of their malpractice action?
 
-##### **Analysis**
+##### Analysis
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
@@ -818,7 +818,7 @@ In the alternative, the Angs argue that, if a plaintiff's actual guilt or innoce
 
 In sum, we conclude that the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We therefore affirm the Court of Appeals.
 
-##### **Conclusion**
+##### Conclusion
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
