@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /contents/
+layout: casebook-contents
 title: Table of Contents
 
 ---
@@ -22,5 +21,3 @@ title: Table of Contents
 [Chapter 7: Duties in Litigation](../chap7) <a href='{{ site.baseurl }}/assets/pdf/chap7.pdf'><button class='button syllabus smaller'>PDF</button></a>
 
 [Chapter 8: Interactions with Non-Clients](../chap8) <a href='{{ site.baseurl }}/assets/pdf/chap8.pdf'><button class='button syllabus smaller'>PDF</button></a>
-
-[Colophon](../colophon)
