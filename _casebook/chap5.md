@@ -193,7 +193,7 @@ Our review of the record, in the light most favorable to Appellant as the non-mo
 
 These consolidated proceedings include two formal disciplinary complaints filed against Montana attorney David G. Tennant. The complaints, which arise from Tennant's debt collection practices against clients and former clients, will be referenced in this Opinion and Order as the Ray complaint and the Harshman complaint.
 
-##### Background
+#### Background
 
 Tennant represented Richard and Debbie Harshman in an action for eviction of tenants from, and possession of, real property in Hungry Horse, Montana. The Harshmans obtained a default judgment against their tenants for damages to the property, including attorney fees of $3,063.54. When he was unable to collect the attorney fees through execution on the tenants and the Harshmans did not pay their bill to Tennant's firm, Tennant filed an attorney's lien on the property. He later filed a complaint against the Harshmans alleging breach of contract, account stated, and foreclosure of the attorney's lien, in which action he was granted a default judgment of $8,148.68. Tennant assigned the judgment to a collection agency, which obtained a writ of execution on the Harshmans' property. A sheriff's sale was held, at which the collection agency was the successful bidder. The Harshmans later redeemed their property.
 
@@ -205,7 +205,7 @@ The Commission recommends that, as a result of his violations of the Montana Rul
 
 ODC has filed written objections to the Commission's findings, conclusions, and recommendation, and Tennant has filed a response.
 
-##### Discussion
+#### Discussion
 
 ODC argues that the Commission erred in concluding that it failed to prove violation of Rule 1.9, MRPC, in relation to the Harshmans. Rule 1.9(c) provides:
 
@@ -223,7 +223,7 @@ In this case, although it would have been possible for Tennant to discover the e
 
 ODC further claims that, absent the Harshmans' redemption of their property, Tennant would have exceeded his fee claim and lien by receiving a windfall from the sheriff's sale of upwards of $80,000---his former clients' equity in their property. ODC submits that this is a clear violation of Rule 1.9(c), MRPC. However, the Harshmans did redeem their property, and ODC's assumptions do not satisfy its burden of proof.
 
-##### Sanctions
+#### Sanctions
 
 Finally, ODC argues that the Commission's recommended sanctions are inadequate given Tennant's unethical conduct and will not deter the same type of conduct by other Montana attorneys. ODC had recommended that Tennant be suspended from the practice of law for at least seven months and that he be required to retake and pass the Multistate Professional Responsibility Exam.
 
@@ -567,7 +567,7 @@ It is the decision of this court that Francis R. Belge conducted himself as an o
 
 ### Hofmann v. Conder, 712 P.2d 216 (Utah 1985)
 
-#### Per Curiam
+
 
 This matter comes before the Court in an extraordinary proceeding to prohibit the district court from compelling petitioner's hospital nurse to testify about statements she overheard petitioner make to his attorney. The trial court made no findings of fact, although it prepared a memorandum decision. It appears from that decision that the controlling issue on which the trial court decided the matter was a legal one, namely, the standard determining when the presence of a third party during communications between a lawyer and client results in a waiver of the attorney-client privilege. We hold that the trial court erred in deciding that the attorney-client privilege applies only if the presence of a third person, who overhears a confidential communication, is "necessary for urgent or life-saving procedures." The proper standard is whether the third person's presence is reasonably necessary under the circumstances.
 
@@ -593,7 +593,7 @@ Few problems are as vexing as determining what evidence justifies a lawyer's dis
 
 The matter is before the Court on X Corp.'s motion for a preliminary injunction. For the reasons stated here, the motion is granted in part and denied in part.
 
-##### Facts
+#### Facts
 
 X Corp. hired Doe in March 1989 as a member of its in-house legal staff based in Northern California. Formerly an Associate Deputy Attorney General of the United States and Chief of Staff to the Attorney General, Doe was a member of the bar of the state of Pennsylvania. When he was hired, Doe executed an "Employment, Invention and Confidential Information Agreement", in which he expressly agreed (i) to return to X Corp. all records obtained during, or in connection with, his employment and (ii) to preserve X Corp.'s confidential information. Thereafter, in the course of his employment, Doe regularly received confidential information from X Corp. management and its employees in order to provide legal opinions and advice. During approximately two years with X Corp., Doe apparently excelled; his professional performance was regarded as excellent. Eventually he was promoted to Group Counsel with primary responsibility worldwide for X Corp.'s compliance with numerous government regulations and antitrust laws.
 
@@ -605,7 +605,7 @@ By letter dated February 28, 1992, Doe, through counsel, asserted a state law wr
 
 On April 20, 1992, X Corp. moved this Court for a preliminary injunction (i) to maintain Doe's wrongful termination lawsuit, and all pleadings and papers filed therein, under seal until its conclusion; (ii) to prohibit Doe and his lawyer from making any disclosures of X Corp.'s allegedly privileged and confidential information; and (iii) to compel Doe to return all allegedly misappropriated documents. Doe, by counsel, agreed to refrain from further disclosures of X Corp.'s claimed confidential information until the Court's ruling. On May 4, 1992, Doe filed his counterclaim alleging retaliatory discharge.
 
-##### Analysis
+#### Analysis
 
 Without doubt, this litigation presents "grave or serious questions," questions involving difficult and troubling ethical issues arising in the context of attorney-client confidentiality. Few questions are graver or more serious in the practice of law than determining what evidence of crime or fraud justifies a lawyer's disclosure of his client's confidential information. Moreover, allegations of attorney misconduct, or even potential misconduct, engender significant and serious questions of professional conduct critical to the client, to the accused attorney, and to the bar as a whole. Such allegations, regardless of their veracity, erode the already fragile public confidence in the legal profession and in the administration of justice. And it is undeniable that our legal system cannot function effectively unless the public has confidence in the integrity and competence of the system and its participants. Thus, it is paramount that lawyers understand and abide by settled and accepted norms of professional conduct. But even settled and accepted norms frequently provide inadequate or ambiguous guidance in the face of specific factual circumstances. So it is here.
 
@@ -1349,7 +1349,7 @@ A variety of questions may arise when a party raises the crime-fraud exception. 
 
 We consider first the question whether a district court may ever honor the request of the party opposing the privilege to conduct an in camera review of allegedly privileged communications to determine whether those communications fall within the crime-fraud exception. We conclude that no express provision of the Federal Rules of Evidence bars such use of in camera review, and that it would be unwise to prohibit it in all instances as a matter of federal common law.
 
-##### (1)
+###### (1)
 
 At first blush, two provisions of the Federal Rules of Evidence would appear to be relevant. Rule 104(a) provides: "Preliminary questions concerning the qualification of a person to be a witness, the existence of a privilege, or the admissibility of evidence shall be determined by the court. In making its determination it is not bound by the rules of evidence except those with respect to privileges." Rule 1101(c) provides: "The rule with respect to privileges applies at all stages of all actions, cases, and proceedings." Taken together, these Rules might be read to establish that in a summons-enforcement proceeding, attorney-client communications cannot be considered by the district court in making its crime-fraud ruling: to do otherwise, under this view, would be to make the crime-fraud determination without due regard to the existence of the privilege.
 
@@ -1363,7 +1363,7 @@ Nor does it make sense to us to assume, as respondents have throughout this liti
 
 We see no basis for holding that the tapes in this case must be deemed privileged under Rule 104(a) while the question of crime or fraud remains open. Indeed, respondents concede that "if the proponent of the privilege is able to sustain its burden only by submitting the communications to the court" for _in camera_ review, the court is not required to avert its eyes (or close its ears) once it concludes that the communication would be privileged, if the court found the crime-fraud exception inapplicable. Rather, respondents acknowledge that the court may "then consider the same communications to determine if the opponent of the privilege has established that the crime-fraud exception applies." Were the tapes truly deemed privileged under Rule 104(a) at the moment the trial court concludes they contain potentially privileged attorney-client communications, district courts would be required to draw precisely the counterintuitive distinction that respondents wisely reject. We thus shall not adopt a reading of Rule 104(a) that would treat the contested communications as "privileged" for purposes of the Rule, and we shall not interpret Rule 104(a) as categorically prohibiting the party opposing the privilege on crime-fraud grounds from relying on the results of an in camera review of the communications.
 
-##### (2)
+###### (2)
 
 Having determined that Rule 104(a) does not prohibit the _in camera_ review sought by the IRS, we must address the question as a matter of the federal common law of privileges. We conclude that a complete prohibition against opponents' use of _in camera_ review to establish the applicability of the crime-fraud exception is inconsistent with the policies underlying the privilege.
 
@@ -1485,7 +1485,7 @@ We therefore remand this case for reconsideration of the withholdings from Docum
 
 ### Haigh v. Matsushita Elec. Corp. of America, 676 F. Supp. 1332 (E.D. Va. 1987)
 
-##### SPENCER, District Judge.
+#### SPENCER, District Judge.
 
 Plaintiff Richard Haigh, a Virginia citizen, was employed by defendant Matsushita Electric Corporation of America from October 17, 1974 through January 27, 1987. He is fifty-seven years old, and is Jewish. Plaintiff Norma Haigh, a Virginia citizen, is Haigh's wife.
 

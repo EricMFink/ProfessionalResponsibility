@@ -35,11 +35,9 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 (d) In an ex parte proceeding, a lawyer shall inform the tribunal of all material facts known to the lawyer that will enable the tribunal to make an informed decision, whether or not the facts are adverse.
 
-### Nix v. Whiteside
+### Nix v. Whiteside, 475 U.S. 157 (1986)
 
-#### 475 U.S. 157 (1986)
-
-##### CHIEF JUSTICE BURGER delivered the opinion of the Court.
+#### CHIEF JUSTICE BURGER delivered the opinion of the Court.
 
 We granted certiorari to decide whether the Sixth Amendment right of a criminal defendant to assistance of counsel is violated when an attorney refuses to cooperate with the defendant in presenting perjured testimony at his trial.
 
@@ -132,11 +130,9 @@ The rule adopted by the Court of Appeals, which seemingly would require an attor
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 
 
-### People v. DePallo
+### People v. DePallo, 754 N.E.2d 751 (NY 2001)
 
-#### 754 N.E.2d 751 (NY 2001)
-
-##### Wesley, J.
+#### Wesley, J.
 
 This case calls upon us to clarify a defense attorney's responsibilities when confronted with the dilemma that a client intends to commit perjury.
 
@@ -169,11 +165,9 @@ In this case, defendant was allowed to present his testimony in narrative form t
 Accordingly, the order of the Appellate Division should be affirmed.
 
 
-### State v. Hischke
+### State v. Hischke, 639 N.W.2d 6 (Iowa 2002)
 
-#### 639 N.W.2d 6 (Iowa 2002)
-
-##### Streit, J.
+#### Streit, J.
 
 Mark Hischke made an eleventh-hour decision to deny possession of marijuana after previously admitting to the police and his lawyer the marijuana belonged to him. Hischke's trial counsel, John Bishop, informed the court Hischke intended to commit perjury. After a jury trial, the court convicted Hischke of possession of marijuana. Hischke appeals contending he was denied effective assistance of counsel when his trial lawyer alerted the court to his "personal belief" Hischke planned to present perjured testimony. Because we find Bishop had good cause to believe Hischke's proposed testimony would be deliberately untruthful, we affirm.
 
@@ -223,7 +217,7 @@ In finding Bishop's performance was within the normal range of competence we are
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
 
-##### CARTER, Justice (concurring specially)
+#### CARTER, Justice (concurring specially)
 
 I concur in affirming defendant's conviction.
 
@@ -234,11 +228,9 @@ This case does not discuss, because the issue is not raised, whether the action 
 Counsel who reach the conclusion that a client is about to testify falsely should first attempt to dissuade the client from giving the offending testimony. If unsuccessful, counsel should attempt a quiet withdrawal from the representation. The reasons set forth in the application to withdraw should only identify the existence of an unspecified attorney-client disagreement that might compromise the attorney's ethical responsibilities. At no time should the matter of impending perjury be disclosed. If the attempt to withdraw fails, then counsel should proceed with the case and conduct any questioning of the witness so as not to invite the suspected perjury. If the suspected perjury nonetheless occurs, counsel should make no reference of it in arguing the case to the trier of fact. I believe that if a lawyer proceeds in this manner, he or she may fully satisfy the lawyer's ethical obligation to prevent perjury without the necessity of advising the court as to the client's intent to testify falsely.
 
 
-### U.S. v. Long
+### U.S. v. Long, 857 F. 2d 436 (8th Cir. 1988)
 
-#### 857 F. 2d 436 (8th Cir. 1988)
-
-##### Heaney, Circuit Judge
+#### Heaney, Circuit Judge
 
 Thaddeus Adonis Long and Edward Larry Jackson appeal from their convictions on a number of counts for their involvement in a check forging and bank fraud scheme. We affirm their convictions on all counts.
 
@@ -318,7 +310,7 @@ The trial judge here acted primarily with these concerns in mind. The judge disc
 
 Under such a procedure, the chance for violations of the defendant's constitutional rights will be reduced, the revelation of further client confidences will be prevented, and the defendant can make a knowing waiver of her constitutional right to testify and to counsel. It will also be necessary to establish that the waiver was voluntary and that the defendant's rights were not violated prior to the waiver. Such inquiries, however, are best made at an evidentiary hearing.
 
-##### CONCLUSION
+#### CONCLUSION
 
 The most weighty decision in a case of possible client perjury is made by the lawyer who decides to inform the court, and perhaps incidentally his adversary and the jury, of his client's possible perjury. This occurs when the lawyer makes a motion for withdrawal (usually for unstated reasons) or allows his client to testify in narrative form without questioning from counsel. Once this has been done, the die is cast. The prejudice will have occurred. At a minimum, the trial court will know of the defendant's potential perjury. For this reason, defense counsel must use extreme caution before revealing a belief of impending perjury. It is, as Justice Blackmun noted, "the rarest of cases" where an attorney should take such action.
 
@@ -408,11 +400,9 @@ A lawyer shall not:
 
 (d) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
 
-### In re Litz
+### In re Litz, 721 N.E.2d 258 (Ind. 1999)
 
-#### 721 N.E.2d 258 (Ind. 1999)
 
-##### Per Curiam
 
 The respondent, Steven C. Litz, defended a woman accused of neglect of a dependent. While a retrial of that case proceeded, the respondent caused to be published in several newspapers a letter which stated his client had committed no crime, criticized the prosecutor's decision to retry the case, and mentioned that his client had passed a lie detector test. For that, we find today that the respondent violated Ind. Professional Conduct Rule 3.6(a), which forbids attorneys from making extrajudicial statements which they know or reasonably should have known a substantial likelihood of materially prejudicing an adjudicative proceeding.
 
@@ -534,11 +524,9 @@ The prosecutor generally serves the public and not any particular government age
 
 (c) If, despite the prosecutor's efforts in accordance with sections (a) and (b) above, the chief prosecutor permits, fails to address, or insists upon an action or omission that is clearly a violation of law, the prosecutor should take further remedial action, including revealing information necessary to address, remedy, or prevent the violation to appropriate judicial, regulatory, or other government officials not in the prosecutor's office.
 
-### Berger v. United States
+### Berger v. United States, 295 U.S. 78 (1935)
 
-#### 295 U.S. 78 (1935)
-
-##### MR. JUSTICE SUTHERLAND delivered the opinion of the Court.
+#### MR. JUSTICE SUTHERLAND delivered the opinion of the Court.
 
 Petitioner was indicted in a federal district court charged with having conspired with seven other persons named in the indictment to utter counterfeit notes purporting to be issued by designated federal reserve banks, with knowledge that they had been counterfeited. The indictment contained eight additional counts alleging substantive offenses. Among the persons named in the indictment were Katz, Rice and Jones. Rice and Jones were convicted by the jury upon two of the substantive counts and the conspiracy count. Petitioner was convicted upon the conspiracy count only. Katz pleaded guilty to the conspiracy count, and testified for the government upon an arrangement that a _nolle prosequi_ as to the substantive counts would be entered. It is not necessary now to refer to the evidence further than to say that it tended to establish not a single conspiracy as charged but two conspiracies — one between Rice and Katz and another between Berger, Jones and Katz. The only connecting link between the two was that Katz was in both conspiracies and the same counterfeit money had to do with both. There was no evidence that Berger was a party to the conspiracy between Rice and Katz. During the trial, the United States attorney who prosecuted the case for the government was guilty of misconduct, both in connection with his cross-examination of witnesses and in his argument to the jury.
 
@@ -560,9 +548,7 @@ It is fair to say that the average jury, in a greater or less degree, has confid
 
 In these circumstances prejudice to the cause of the accused is so highly probable that we are not justified in assuming its non-existence. If the case against Berger had been strong, or, as some courts have said, the evidence of his guilt "overwhelming," a different conclusion might be reached. Moreover, we have not here a case where the misconduct of the prosecuting attorney was slight or confined to a single instance, but one where such misconduct was pronounced and persistent, with a probable cumulative effect upon the jury which cannot be disregarded as inconsequential. A new trial must be awarded.
 
-### Taylor v. Kavanagh
-
-#### 640 F. 2d 450 (2d Cir. 1981)
+### Taylor v. Kavanagh, 640 F. 2d 450 (2d Cir. 1981)
 
 #### IRVING R. KAUFMAN, Circuit Judge
 
@@ -607,17 +593,15 @@ Moreover, reference to the type of harm suffered from the alleged misconduct dur
 Finally, we note that by extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities, we do not condone Kavanagh's alleged misconduct. Prosecutorial abuses can and should be remedied at the trial and appellate levels, as well as by state and federal post-conviction collateral procedures. Relief for misconduct committed during a plea negotiation includes the setting aside of the plea or ordering specific performance of the agreement. In this case, Taylor raised vigorous objections to Kavanagh's conduct in state court. He also employed the federal habeas corpus procedure, without success. His failure to prevail in both the state and federal forums cannot justify the creation of another remedy, one which would impose a tremendous burden on society by severely undercutting prosecutorial independence and morale.
 
 
-### In re Jordan
+### In re Jordan, 913 So. 2d 775 (La. 2005)
 
-#### 913 So. 2d 775 (La. 2005)
-
-##### TRAYLOR, J.
+#### TRAYLOR, J.
 
 This attorney disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel against respondent, Roger W. Jordan, Jr., a former Orleans Parish prosecutor.
 
 On April 22, 2003, the ODC filed one count of formal charges against respondent, alleging that he violated Rules 3.8(d) and 8.4(a) of the Rules of Professional Conduct by failing to timely disclose to the defense evidence tending to negate the guilt of the accused or mitigate the offense. The formal charges against respondent arise from the capital prosecution of Shareef Cousin and respondent's undisputed failure to turn over an eyewitness's statement to the defense.
 
-##### Facts and Procedural History of _State v. Cousin_:
+#### Facts and Procedural History of _State v. Cousin_:
 
 Before addressing the merits of the case, it is necessary to discuss, in some detail, the underlying facts and procedural history of Shareef Cousin's criminal case.
 
@@ -645,7 +629,7 @@ Several days after the completion of the guilt phase of the trial but before the
 
 Following this court's decision in _Cousin_, the Orleans Parish District Attorney's Office elected not to retry Mr. Cousin for the murder of Michael Gerardi.
 
-##### Disciplinary Proceedings
+#### Disciplinary Proceedings
 
 ##### Disciplinary Complaint
 
@@ -677,7 +661,7 @@ Based on this reasoning, the formal charges against respondent were dismissed.
 
 The ODC sought review of the board's ruling in this Court. We ordered the parties to submit briefs addressing the issue of whether the record supports the disciplinary board's report. After reviewing the briefs filed by both parties, we docketed the matter for oral argument.
 
-##### Discussion
+#### Discussion
 
 In our system of justice, we entrust vast discretion to a prosecutor. Because a prosecutor is given such great power and discretion, he is also charged with a high ethical standard. A prosecutor stands as the representative of the people of the State of Louisiana. He is entrusted with upholding the integrity of the criminal justice system by ensuring that justice is served for both the victims of crimes and the accused. "Society wins not only when the guilty are convicted but when criminal trials are fair; our system of the administration of justice suffers when any accused is treated unfairly." The actions, or inactions in this case, of the prosecutor are paramount to a fair administration of justice; and the people of this state must have confidence in a prosecutor's integrity in performing his duty to disclose exculpatory evidence in order for the system to be just. Any intentional deviation from the principle of the fair administration of justice will be dealt with harshly by this Court.
 
@@ -695,7 +679,7 @@ Exculpatory evidence includes evidence which impeaches the testimony of a witnes
 
 Accordingly, we agree with the factual findings of the disciplinary board that respondent violated Rule 3.8(d) by failing to disclose the second statement of Ms. Babin to the defendant.
 
-##### Sanctions
+#### Sanctions
 
 In considering the issue of sanctions, we are mindful that disciplinary proceedings are designed to maintain high standards of conduct, protect the public, preserve the integrity of the profession, and deter future misconduct. The discipline to be imposed depends upon the facts of each case and the seriousness of the offenses involved, considered in light of any aggravating and mitigating circumstances. Thus, we must consider the facts as they are presented herein in deciding the type of discipline to impose on respondent.
 
@@ -717,7 +701,7 @@ As to the issue of aggravating and mitigating factors, we find the only aggravat
 
 As stated above, the issue of discipline against a prosecutor for his violation of Rule 3.8 is _res nova_ in the State of Louisiana. While this Court has the benefit of Rule XIX considerations, we have no prior case law on the issue. However, Louisiana is not the first jurisdiction to address the issue of a prosecutor's failure to disclose evidence to a defendant. Our brethren in North Carolina, Kansas, South Carolina, Ohio and Iowa have imposed discipline against an attorney who fails to disclose evidence pursuant to Brady. Thus, we find some guidance in their decisions. The sanctions imposed in other jurisdictions range from public reprimand or censure to a six-month suspension from the practice of law. Based upon the facts of this case, we conclude the appropriate baseline sanction for respondent's misconduct is a three-month suspension from the practice of law. However, in light of the mitigating factors, we will defer this suspension in its entirety, subject to the condition that any misconduct during a one-year period following the finality of this judgment may be grounds for making the deferred suspension executory, or imposing additional discipline, as appropriate.
 
-##### JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.
+#### JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.
 
 I concur in the majority's opinion that respondent knowingly withheld _Brady_ evidence, that respondent's experience as a prosecutor was an aggravating factor, that the Court's actions in reversing defendant's conviction failed to invalidate the potential injury to the criminal justice system, or to defendant, and that respondent's behavior warrants discipline by this Court. However, because of the actual injury caused by respondent's prosecutorial misconduct, I dissent from the majority's conclusion that respondent's suspension should be deferred.
 
@@ -733,11 +717,9 @@ In 1976, the United States Supreme Court held that individual prosecutors have a
 
 In determining whether respondent caused an actual injury pursuant to Louisiana's Supreme Court Rule XIX, § 10(c), our focus should be on the unnecessary and unlawful suffering of the wrongfully convicted as a result of the prosecutorial misconduct, not just the reversal of the wrongfully imposed sentence. Because, in my view, loss of a liberty interest is more valuable than financial loss or injury to one's credit, I would impose an actual period of suspension.
 
-### Hillman v. Nueces County
+### Hillman v. Nueces County, 579 S.W.3d 354 (Tex. 2019)
 
-#### 579 S.W.3d 354 (Tex. 2019)
-
-##### JEFFREY S. BOYD, Justice.
+#### JEFFREY S. BOYD, Justice.
 
 A former assistant district attorney filed this suit alleging that the county wrongfully terminated his employment because he refused his supervisor's order to withhold exculpatory evidence from a criminal defendant. The trial court dismissed the suit for lack of jurisdiction, and the court of appeals affirmed. Because we agree with those courts that governmental immunity bars the suit, we also affirm.
 
@@ -813,7 +795,7 @@ As we have repeatedly confirmed, "it is the Legislature's sole province to waive
 
 "Sovereign immunity from suit defeats a trial court's subject matter jurisdiction." When, as here, a claim falls within the realm of governmental immunity, courts have no jurisdiction to hear the case unless immunity has been waived. We hold that neither _Sabine Pilot_ nor the Michael Morton Act waives the County's governmental immunity from Hillman's wrongful-termination claim, and we defer to the legislature to decide whether such a waiver would be appropriate as a matter of public policy. We affirm the trial court's judgment granting the County's plea to the jurisdiction and dismissing the case.
 
-##### Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.
+#### Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.
 
 > _No tyranny is more cruel than the one practiced in the shadow of the laws and under color of justice._[^4852]
 

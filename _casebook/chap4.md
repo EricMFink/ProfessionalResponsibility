@@ -12,7 +12,6 @@ title: Duty of Care
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-
 ##### Comment:
 
 ##### Legal Knowledge and Skill

@@ -169,7 +169,7 @@ In this case we impose discipline on two attorneys for their use of television a
 
 We conclude that attorneys Pape and Chandler violated the Rules Regulating the Florida Bar by using the image of a pit bull and displaying the term "pit bull" as part of their firm's phone number in their commercial. Further, because the use of an image of a pit bull and the phrase "pit bull" in the firm's advertisement and logo does not assist the public in ensuring that an informed decision is made prior to the selection of the attorney, we conclude that the First Amendment does not prevent this Court from sanctioning the attorneys based on the rule violations. We determine that the appropriate sanctions for the attorneys' misconduct are public reprimands and required attendance at the Florida Bar Advertising Workshop.
 
-##### Background and Procedural History
+#### Background and Procedural History
 
 On January 12, 2004, The Florida Bar filed complaints against the attorneys, alleging that their law firm's television advertisement was an improper communication concerning the services provided, in violation of the Rules of Professional Conduct. The advertisement included a logo that featured an image of a pit bull wearing a spiked collar and prominently displayed the firm's phone number, 1-800-PIT-BULL. The Bar asserted that this advertisement violated the 2004 version of Rules Regulating the Florida Bar 4-7.2(b)(3) and 4-7.2(b)(4), which state:
 
@@ -181,7 +181,7 @@ The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying o
 
 The referee also concluded that the ad was protected speech and therefore that an interpretation of rules to prohibit the ad would render the rules unconstitutional as applied.
 
-##### Analysis
+#### Analysis
 
 ##### A. Violation of Attorney Advertising Rules
 
@@ -231,15 +231,18 @@ The most recent United States Supreme Court decision to address restrictions on 
 
 The pit bull logo and "1-800-PIT-BULL" phone number are in marked contrast to the illustration of the Dalkon Shield intrauterine device at issue in _Zauderer_, which the United States Supreme Court found to be "an accurate representation and have no features that are likely to deceive, mislead, or confuse the reader." The Dalkon Shield illustration informed the public that the lawyer represented clients in cases involving this device. The "pit bull" commercial produced by the attorneys in this case contains no indication that they specialize in either dog bite cases generally or in litigation arising from attacks by pit bulls specifically. Consequently, the logo and phone number do not convey objectively relevant information about the attorneys' practice. Instead, the image and words "pit bull" are intended to convey an image about the nature of the lawyers' litigation tactics. We conclude that an advertising device that connotes combativeness and viciousness without providing accurate and objectively verifiable factual information falls outside the protections of the First Amendment.
 
-##### Conclusion
+#### Conclusion
 
 We disapprove the referee's finding that the television commercial at issue is constitutionally protected speech that does not violate our attorney advertising rules. We find John Robert Pape and Marc Andrew Chandler guilty of violating the Rules Regulating the Florida Bar. We order that each attorney receive a public reprimand, which shall be administered by the Board of Governors of The Florida Bar upon proper notice to appear. We also direct Pape and Chandler to attend and complete the Florida Bar Advertising Workshop within six months of the date of this opinion.
 
-\halfsep 
+*** 
+<div class="comment">
 
-#### Note on _Pape
+### Note on _Pape
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). In his [answer](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
+
+</div>
 
 
 ### Hunter v. Virginia State Bar, 744 S.E.2d 611 (Va. 2013)
@@ -405,7 +408,7 @@ Rule 7.2 is only applicable to advertisements. Rule 7.2(a)(3) states:
 
 Hunter's blog contains articles about legal and policy issues in the news, as well as detailed descriptions of criminal trials, the majority of which are cases where Hunter was the defense attorney. The articles also contain Hunter's commentary and critique of the criminal justice system. He uses the case descriptions to illustrate his views.
 
-##### The First Amendment
+#### The First Amendment
 
 I believe that the articles on Hunter's blog are political speech that is protected by the First Amendment. The Bar concedes that if Hunter's blog is political speech, the First Amendment protects him and the Bar cannot force Hunter to post an advertising disclaimer on his blog.
 
@@ -707,7 +710,7 @@ Contrary to appellee's suggestion, the ACLU's policy of requesting an award of c
 
 Appellant's letter of August 30, 1973, to Mrs. Williams thus comes within the generous zone of First Amendment protection reserved for associational freedoms. The ACLU engages in litigation as a vehicle for effective political expression and association, as well as a means of communicating useful information to the public. As _Button_ indicates, and as appellant offered to prove at the disciplinary hearing, the efficacy of litigation as a means of advancing the cause of civil liberties often depends on the ability to make legal assistance available to suitable litigants. "'Free trade in ideas' means free trade in the opportunity to persuade to action, not merely to describe facts." The First and Fourteenth Amendments require a measure of protection for "advocating lawful means of vindicating legal rights," including "advis[ing] another that his legal rights have been infringed and refer[ring] him to a particular attorney or group of attorneys ... for assistance".
 
-##### V
+#### V
 
 South Carolina's action in punishing appellant for soliciting a prospective litigant by mail, on behalf of the ACLU, must withstand the "exacting scrutiny applicable to limitations on core First Amendment rights ...." South Carolina must demonstrate "a subordinating interest which is compelling," and that the means employed in furtherance of that interest are "closely drawn to avoid unnecessary abridgment of associational freedoms."
 
@@ -731,7 +734,7 @@ The State's interests in preventing the "stirring up" of frivolous or vexatious 
 
 At bottom, the case against appellant rests on the proposition that a State may regulate in a prophylactic fashion all solicitation activities of lawyers because there may be some potential for overreaching, conflict of interest, or other substantive evils whenever a lawyer gives unsolicited advice and communicates an offer of representation to a layman. Under certain circumstances, that approach is appropriate in the case of speech that simply "propose[s] a commercial transaction". In the context of political expression and association, however, a State must regulate with significantly greater precision.
 
-##### VI
+#### VI
 
 The State is free to fashion reasonable restrictions with respect to the time, place, and manner of solicitation by members of its Bar. The State's special interest in regulating members of a profession it licenses, and who serve as officers of its courts, amply justifies the application of narrowly drawn rules to proscribe solicitation that in fact is misleading, overbearing, or involves other features of deception or improper influence. As we decide today in _Ohralik_, a State also may forbid in-person solicitation for pecuniary gain under circumstances likely to result in these evils. And a State may insist that lawyers not solicit on behalf of lay organizations that exert control over the actual conduct of any ensuing litigation. Accordingly, nothing in this opinion should be read to foreclose carefully tailored regulation that does not abridge unnecessarily the associational freedom of nonprofit organizations, or their members, having characteristics like those of the NAACP or the ACLU.
 
@@ -813,7 +816,7 @@ We are not convinced. The State's arguments amount to little more than unsupport
 
 Thus, acceptance of the State's argument would be tantamount to adoption of the principle that a State may prohibit the use of pictures or illustrations in connection with advertising of any product or service simply on the strength of the general argument that the visual content of advertisements may, under some circumstances, be deceptive or manipulative. But as we stated above, broad prophylactic rules may not be so lightly justified if the protections afforded commercial speech are to retain their force. We are not persuaded that identifying deceptive or manipulative uses of visual media in advertising is so intrinsically burden-some that the State is entitled to forgo that task in favor of the more convenient but far more restrictive alternative of a blanket ban on the use of illustrations. The experience of the FTC is, again, instructive. Although that agency has not found the elimination of deceptive uses of visual media in advertising to be a simple task, neither has it found the task an impossible one: in many instances, the agency has succeeded in identifying and suppressing visually deceptive advertising. Given the possibility of policing the use of illustrations in advertisements on a case-by-case basis, the prophylactic approach taken by Ohio cannot stand; hence, appellant may not be disciplined for his use of an accurate and nondeceptive illustration.
 
-##### V
+#### V
 
 Appellant contends that assessing the validity of the Ohio Supreme Court's decision to discipline him for his failure to include in the Dalkon Shield advertisement the information that clients might be liable for significant litigation costs even if their lawsuits were unsuccessful entails precisely the same inquiry as determining the validity of the restrictions on advertising content discussed above. In other words, he suggests that the State must establish either that the advertisement, absent the required disclosure, would be false or deceptive or that the disclosure requirement serves some substantial governmental interest other than preventing deception; moreover, he contends that the State must establish that the disclosure requirement directly advances the relevant governmental interest and that it constitutes the least restrictive means of doing so. Not surprisingly, appellant claims that the State has failed to muster substantial evidentiary support for any of the findings required to support the restriction.
 
@@ -825,13 +828,13 @@ We do not suggest that disclosure requirements do not implicate the advertiser's
 
 The State's application to appellant of the requirement that an attorney advertising his availability on a contingent-fee basis disclose that clients will have to pay costs even if their lawsuits are unsuccessful (assuming that to be the case) easily passes muster under this standard. Appellant's advertisement informed the public that "if there is no recovery, no legal fees are owed by our clients." The advertisement makes no mention of the distinction between "legal fees" and "costs," and to a layman not aware of the meaning of these terms of art, the advertisement would suggest that employing appellant would be a no-lose proposition in that his representation in a losing cause would come entirely free of charge. The assumption that substantial numbers of potential clients would be so misled is hardly a speculative one: it is a commonplace that members of the public are often unaware of the technical meanings of such terms as "fees" and "costs"---terms that, in ordinary usage, might well be virtually interchangeable. When the possibility of deception is as self-evident as it is in this case, we need not require the State to "conduct a survey of the . . . public before it [may] determine that the [advertisement] had a tendency to mislead." The State's position that it is deceptive to employ advertising that refers to contingent-fee arrangements without mentioning the client's liability for costs is reasonable enough to support a requirement that information regarding the client's liability for costs be disclosed.
 
-##### VI
+#### VI
 
 Finally, we address appellant's argument that he was denied procedural due process by the manner in which discipline was imposed on him in connection with his drunken driving advertisement. Appellant's contention is that the theory relied on by the Ohio Supreme Court and its Board of Commissioners as to how the advertisement was deceptive was different from the theory asserted by the Office of Disciplinary Counsel in its complaint. We cannot agree that this discrepancy violated the constitutional guarantee of due process.
 
 Under the law of Ohio, bar discipline is the responsibility of the Ohio Supreme Court. Ohio Const., Art. IV, § 2(B)(1)(g). The Board of Commissioners on Grievances and Discipline formally serves only as a body that recommends discipline to the Supreme Court; it has no authority to impose discipline itself. See Govt. Bar Rule V(2), (16)-(20). That the Board of Commissioners chose to make its recommendation of discipline on the basis of reasoning different from that of the Office of Disciplinary Counsel is of little moment: what is important is that the Board's recommendations put appellant on notice of the charges he had to answer to the satisfaction of the Supreme Court of Ohio. Appellant does not contend that he was afforded no opportunity to respond to the Board's recommendation; indeed, the Ohio rules appear to provide ample opportunity for response to Board recommendations, and it appears that appellant availed himself of that opportunity. The notice and opportunity to respond afforded appellant were sufficient to satisfy the demands of due process.
 
-##### VII
+#### VII
 
 The Supreme Court of Ohio issued a public reprimand incorporating by reference its opinion finding that appellant had violated Disciplinary Rules 2-101(A), 2-101(B), 2-101 (B)(15), 2-103(A), and 2-104(A). That judgment is affirmed to the extent that it is based on appellant's advertisement involving his terms of representation in drunken driving cases and on the omission of information regarding his contingent-fee arrangements in his Dalkon Shield advertisement. But insofar as the reprimand was based on appellant's use of an illustration in his advertisement in violation of DR 2-101(B) and his offer of legal advice in his advertisement in violation of DR 2-103(A) and 2-104(A), the judgment is reversed.
 
@@ -1037,7 +1040,7 @@ Based on our reading of the Supreme Court's decision in _Batson_, and other lear
 
 [^0951]: (n.2 in Opinion) We also note that application of N.C.G.S. § 84–38 to prohibit licensed attorneys from soliciting legal business through targeted, direct-mail solicitations would raise serious constitutional questions in light of the United States Supreme Court's decision in _Shapero v. Kentucky Bar Assn._, 486 U.S. 466 (1988).
 
-##### VI. Conclusion
+#### VI. Conclusion
 
 We conclude that Plaintiff has failed to show a reasonable likelihood of success on the merits of its case, and has failed to show a reasonable probability of substantial injury if the injunction does not stand. Thus, we hold that it was error to grant the preliminary injunction and it is hereby dissolved. Having so concluded, we need not consider the First Amendment arguments advanced by Defendants concerning the nature and scope of the injunctive relief.
 

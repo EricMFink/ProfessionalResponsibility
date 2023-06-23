@@ -42,7 +42,7 @@ In representing a client, a lawyer shall not communicate about the subject of th
 
 #### HAMPSON, Judge. 
 
-##### Factual and Procedural Background
+#### Factual and Procedural Background
 
 Robert N. Weckworth, Jr. (Defendant) appeals from an Order of Discipline entered by a Disciplinary Hearing Panel of the Disciplinary Hearing Commission (DHC) of the North Carolina State Bar (State Bar), censuring him for violations of the North Carolina Rules of Professional Conduct (RPC). Defendant also noticed appeal from several interlocutory rulings by the DHC, which are also before us on appeal. The Record, including the evidence presented before the DHC over a two-day hearing on 7 April and 20 June 2017, reflects the following:
 
@@ -90,7 +90,7 @@ On 6 October 2017, the DHC entered its Order of Discipline. In its Order, the DH
 
 The DHC entered additional findings regarding discipline, noting Defendant's prior disciplinary offenses in North Carolina, Defendant's substantial experience in the practice of law, Defendant's refusal to acknowledge wrongdoing, and Louise's vulnerability resulting from her history of substance abuse and ongoing recovery treatment. Based on these findings, the DHC concluded Defendant's conduct, while not serious enough to warrant a suspension of his license, warranted Censure "because entry of an order imposing less severe discipline would fail to acknowledge the seriousness of the conduct and would send the wrong message to attorneys and the public about the conduct expected of members of the Bar of this State." The DHC censured Defendant and taxed him with fees and costs. Defendant timely filed Notice of Appeal.
 
-##### Analysis
+#### Analysis
 
 #### I. Violations of the Rules of Professional Conduct
 
@@ -133,7 +133,7 @@ Attorney Jeffrey T. Haley appeals the recommendation of the Disciplinary Board o
 
 Although we hold that, under RPC 4.2(a), a lawyer acting pro se is prohibited from contacting a party represented by counsel in the matter, we apply our interpretation of RPC 4.2(a) prospectively only and dismiss the violation.
 
-##### Facts
+#### Facts
 
 In 1994, Haley filed a lawsuit against Carl Highland, the former chief executive officer of a defunct closely held corporation, Coresoft, of which Haley was formerly a shareholder and board member. Initially, Haley acted pro se in the matter but hired counsel when the case went to trial in November 1995. After the trial ended, Haley's counsel filed notice of withdrawal and Haley reverted to pro se status as to appeal and collection issues. Highland was represented by various attorneys at all times during this matter, and Haley knew that Highland was consistently represented by counsel.
 
@@ -153,7 +153,7 @@ The hearing officer recommended that Haley be reprimanded for the violation. The
 
 Does RPC 4.2(a) prohibit a lawyer who is acting pro se from contacting a party who is represented by counsel? If so, should the rule be applied in the present case?
 
-##### Analysis
+#### Analysis
 
 _Applicability of RPC 4.2(a) to Lawyer Acting Pro Se._ RPC 4.2(a) reads in full as follows:
 
@@ -181,7 +181,7 @@ The absence of an explicit prohibition in RPC 4.2(a) could have suggested that W
 
 In sum, consistent with the resolution of the same issue in _Schaefer_, we hold that a lawyer acting pro se is "representing a client" for purposes of RPC 4.2(a), but given the absence of a prior decision from this court, along with the presence of conflicting or equivocal authority from other jurisdictions and legal commentaries, we find the rule impermissibly vague as to its applicability to pro se attorneys and thus apply our interpretation of the rule prospectively only. We therefore dismiss the violation alleged in count 2.
 
-##### Conclusion
+#### Conclusion
 
 We hold that RPC 4.2(a) prohibits a lawyer who is representing his own interests in a matter from contacting another party whom he knows to be represented by counsel. However, because we conclude that RPC 4.2(a) was impermissibly vague as applied to Haley, we apply our interpretation of RPC 4.2(a) prospectively only and thus dismiss.
 

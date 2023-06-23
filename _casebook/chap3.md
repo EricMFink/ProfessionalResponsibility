@@ -35,7 +35,7 @@ A lawyer shall not seek to avoid appointment by a tribunal to represent a person
 
 ### Togstad v. Vesely, Otto, Miller & Keefe, 291 N.W.2d 686 (Minn. 1980)
 
-#### Per Curiam
+
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
@@ -116,11 +116,9 @@ There is also sufficient evidence in the record establishing that, but for Mille
 Based on the foregoing, we hold that the jury's findings are adequately supported by the record. Accordingly we uphold the trial court's denial of defendants' motion for judgment notwithstanding the jury verdict.
 
 
-### Ferranti Intern. PLC v. Clark
+### Ferranti Intern. PLC v. Clark, 767 F. Supp. 670 (E.D. Pa. 1991)
 
-#### 767 F. Supp. 670 (E.D. Pa. 1991)
-
-##### Ludwig, District Judge
+#### Ludwig, District Judge
 
 Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 
@@ -319,7 +317,7 @@ Appellants argue that the result reached today enables unscrupulous clients to d
 
 ### Whiting v. Lacara, 187 F. 3d 317 (2d Cir. 1999)
 
-#### Per Curiam
+
 
 Garrett R. Lacara appeals from two orders of Judge Spatt denying Lacara's motions to withdraw as counsel for plaintiff-appellee Joseph M. Whiting. Although the record before Judge Spatt justified denial of the motions, amplification of Whiting's position at oral argument persuades us to reverse.
 
@@ -420,11 +418,9 @@ A lawyer representing a governmental client must proceed in the representation a
 
 (4) must observe other applicable restrictions imposed by law on those similarly functioning for the governmental client.
 
-### In the Matter of Silva
+### In the Matter of Silva, 636 A.2d 316 (R.I. 1994)
 
-#### 636 A.2d 316 (R.I. 1994)
 
-##### Per Curiam
 
 The respondent, Daniel J. Silva, appeared before this court on December 2, 1993, pursuant to an order to show cause why discipline should not be imposed. The Disciplinary Board conducted an evidentiary hearing and received legal memoranda from the respondent and disciplinary counsel. The board has filed with us its decision and a concurring opinion signed by three members of the board.
 
@@ -443,11 +439,9 @@ Silva did not appear to appreciate and understand to whom he owed the duty of co
 This court concurs with the findings of the disciplinary board that Silva exercised very poor judgment and that he engaged in serious misconduct. We are constrained however to depart from the board's recommendation for sanction. We believe that Rule 1.6 has created a great deal of confusion among the members of the Rhode Island Bar. We therefore censure Silva for his failure to fulfill his ethical obligations to the parties to these transactions. The court's issuance of this sanction rather than the three-month suspension of Silva's license is due in part to the absence of any motive for personal gain and Silva's ten years at the bar without a disciplinary complaint. The court's position on the appropriate level of sanction, however, would be more severe were it not for the apparent confusion in the mind of this attorney concerning whom he represented and the silence of Rule 1.6 on that question.
 
 
-### Brennan v. Ruffner
+### Brennan v. Ruffner, 640 So.2d 143 (Fla. 1994)
 
-#### 640 So.2d 143 (Fla. 1994)
-
-##### Pariente, J.
+#### Pariente, J.
 
 We affirm a final summary judgment entered in favor of a lawyer and against a disgruntled minority shareholder of a closely held corporation. We find that an attorney/client relationship did not exist between the individual shareholder and the attorney representing the corporation. Consequently, there is no basis for a legal malpractice action. We further reject the other theories of liability asserted by appellant.
 
@@ -466,11 +460,9 @@ We reject the notion that the lawyer in this case could be held liable to one of
 Finally, even assuming arguendo that a duty existed based on an attorney/client relationship, a third party beneficiary theory or a breach of fiduciary relationship, we simply do not find any factual dispute concerning the issue of proximate cause. It is undisputed that Dr. Brennan was aware of the provisions in the agreement and chose to take his chances upon being reassured by Dr. Mirmelli that he would never use the provisions against Dr. Brennan.
 
 
-### In re Grand Jury Subpoena: Under Seal
+### In re Grand Jury Subpoena: Under Seal, 415 F.3d 334 (4th Cir. 2005)
 
-#### 415 F.3d 334 (4th Cir. 2005)
-
-##### Wilson, District Judge (sitting by designation)
+#### Wilson, District Judge (sitting by designation)
 
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court [argued] that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
@@ -511,17 +503,15 @@ The appellants argue that the phrase "we can represent you as long as no conflic
 We note, however, that our opinion should not be read as an implicit acceptance of the watered-down "Upjohn warnings" the investigating attorneys gave the appellants. It is a potential legal and ethical mine field. Had the investigating attorneys, in fact, entered into an attorney-client relationship with appellants, as their statements to the appellants professed they could, they would not have been free to waive the appellants' privilege when a conflict arose. It should have seemed obvious that they could not have jettisoned one client in favor of another. Rather, they would have had to withdraw from all representation and to maintain all confidences. Indeed, the court would be hard pressed to identify how investigating counsel could robustly investigate and report to management or the board of directors of a publicly-traded corporation with the necessary candor if counsel were constrained by ethical obligations to individual employees. However, because we agree with the district court that the appellants never entered into an attorney-client relationship with the investigating attorneys, they averted these troubling issues.
 
 
-### U.S. v. Stein
+### U.S. v. Stein, 463 F. Supp.2d 459 (S.D.N.Y. 2006)
 
-#### 463 F. Supp.2d 459 (S.D.N.Y. 2006)
-
-##### Kaplan, District Judge
+#### Kaplan, District Judge
 
 Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest accounting firms. She was questioned in the course of an IRS investigation by attorneys hired by KPMG. When that investigation gave way to a threatened indictment of KPMG, the firm, in an effort to curry favor with prosecutors and avoid prosecution, waived its attorney-client privilege and gave the government documents embodying the substance of the attorneys' communications with Ms. Warley. Warley contends that the attorneys were representing her as well as KPMG, that her attorney-client privilege was compromised by the actions of the government and KPMG, and that the evidence should be suppressed. She thus raises a troublesome question that arises whenever an employee of a business organization consults with counsel retained by the entity about matters involving both the employee and the entity---when does the lawyer represent the employee as well as the entity?
 
 This problem could be avoided if counsel in these situations routinely made clear to employees that they represent the employer alone and that the employee has no attorney-client privilege with respect to his or her communications with employer-retained counsel. Indeed, the Second Circuit advised that they do so years before the communications here in question. But there is no evidence that the attorneys who spoke to Ms. Warley followed that course.
 
-##### Facts
+#### Facts
 
 Ms. Warley was a partner of KPMG at all relevant times. In 2003, the IRS was investigating KPMG's tax shelter activities, including some in which clients of Warley had participated. In the course of the investigation, Warley communicated with KPMG's in-house counsel and with two law firms retained by KPMG, Kronish Lieb Weiner & Hellman LLP and King & Spalding LLP. Warley does not recall having been told that the attorneys represented only KPMG or that any privilege belonged solely to the firm and could be waived by the firm without her consent.
 
@@ -533,7 +523,7 @@ The second allegedly privileged communication is an email exchange in January an
 
 Both parties point to the substance of the communications to support their respective claims that privilege did or did not attach. Warley further relies upon KPMG's 2003 partnership agreement, which provided that "the General Counsel shall act on behalf of all Members, except where a dispute arises between an individual Member and the Firm." Finally, Warley alleges that counsel retained by KPMG jointly represented KPMG and her personally in two lawsuits prior to the events at issue here.
 
-##### Discussion
+#### Discussion
 
 ##### A. Scope of Privilege
 
@@ -573,7 +563,7 @@ To begin with, the occasions on which Warley and KPMG were jointly represented o
 
 Nor has Warley offered any evidence that she in fact subjectively relied either upon the language in the partnership agreement or the previous litigation experience in concluding that Kronish, King & Spalding, or Gremminger was representing her individually.
 
-##### Conclusion
+#### Conclusion
 
 In the end, Warley's showings amount merely to a claim of her subjective belief which, without more, is insufficient to meet her burden of proving privilege. For the foregoing reasons, Warley's motion for relief from the government's alleged violation of her attorney-client privilege is denied.
 
@@ -767,11 +757,9 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 	(2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
 	(3) information relating to representation of a client is protected as required by Rule 1.6.
 
-### Matter of Cooperman
+### Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
 
-#### 633 N.E.2d 1069 (N.Y. 1994)
-
-##### Bellicosa, J.
+#### Bellicosa, J.
 
 The issue in this appeal is whether the appellant attorney violated the Code of Professional Responsibility by repeatedly using special nonrefundable retainer fee agreements with his clients. Essentially, such arrangements are marked by the payment of a nonrefundable fee for specific services, in advance and irrespective of whether any professional services are actually rendered. The local Grievance Committee twice warned the lawyer that he should not use these agreements. After a third complaint and completion of prescribed grievance proceedings, the Appellate Division suspended the lawyer from practice for two years. It held that the particular agreements were per se violative of public policy. We affirm the order of the Appellate Division.
 
@@ -826,11 +814,9 @@ Our holding today makes the conduct of trading in special nonrefundable retainer
 The Court is also mindful of the arguments of some of the amici curiae concerned about sweeping sequelae from this case in the form of disciplinary complaints or investigations that may seek to unearth or examine into past conduct and to declare all sorts of unobjectionable, settled fee arrangements unethical. We are confident that the Appellate Divisions, in the highest tradition of their regulatory and adjudicatory roles, will exercise their unique disciplinary responsibility with prudence, so as not to overbroadly brand past individualized attorney fee arrangements as unethical, and will, instead, fairly assess the varieties of these practices, if presented, on an individualized basis. Therefore, we decline to render our ruling prospectively, as requested.
 
 
-### In the Matter of Fordham
+### In the Matter of Fordham, 423 Mass. 481 (1996)
 
-#### 423 Mass. 481 (1996)
-
-##### O'Connor J.
+#### O'Connor J.
 
 On March 4, 1989, the Acton police department arrested Timothy, then twenty-one years old, and charged him with OUI, operating a motor vehicle after suspension, speeding, and operating an unregistered motor vehicle. At the time of the arrest, the police discovered a partially full quart of vodka in the vehicle. After failing a field sobriety test, Timothy was taken to the Acton police station where he submitted to two breathalyzer tests which registered .10 and .12 respectively.
 
@@ -915,15 +901,13 @@ Fordham argues that our imposition of discipline would offend his right to due p
 In charging a clearly excessive fee, Fordham departed substantially from the obligation of professional responsibility that he owed to his client. The ABA Model Standards for Imposing Lawyer Sanctions § 7.3 endorses a public reprimand as the appropriate sanction for charging a clearly excessive fee. We deem such a sanction appropriate in this case. Accordingly, a judgment is to be entered in the county court imposing a public censure. The record in this case is to be unimpounded.
 
 
-### Culpepper & Carroll, PLLC v. Cole
+### Culpepper & Carroll, PLLC v. Cole, 929 So.2d 1224 (La. 2006)
 
-#### 929 So.2d 1224 (La. 2006)
 
-##### Per Curiam
 
 Connie Daniel Cole seeks review of a judgment of the court of appeal affirming an award of attorney's fees to his former counsel. For the reasons that follow, we reverse the judgment of the court of appeal.
 
-##### Facts and Procedural History
+#### Facts and Procedural History
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
@@ -941,7 +925,7 @@ Judge Caraway dissented. He recognized that a contingent fee contract existed in
 
 Upon Mr. Cole's application, we granted certiorari to review the correctness of the court of appeal's ruling.
 
-##### Discussion
+#### Discussion
 
 As a threshold matter, we note the trial court made a finding of fact that a contingent fee contract existed between Mr. Cole and Mr. Culpepper. Based on our review of the record, we find no manifest error in this determination.
 

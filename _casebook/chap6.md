@@ -187,7 +187,7 @@ CPR 100 and RPC 210 provide that a lawyer who is representing the buyer, the len
 
 Opinion rules that common representation in a commercial real estate loan closing is, in most instances, a “nonconsentable” conflict meaning that a lawyer may not ask the borrower and the lender to consent to common representation.
 
-##### Background:
+#### Background:
 
 In the standard closing of a commercial loan secured by real property (a “commercial loan closing”), the borrower and the lender have separate legal counsel. The borrower’s lawyer traditionally handles most aspects of the closing including the preparation of the settlement statement as well as the collection of funds, the payoffs, and the disbursements. The borrower understands that its lawyer represents its interests alone. Unlike a residential real estate closing in which the lender’s documents can rarely be modified once entered into by the borrower/buyer, it is common in a commercial loan closing for the borrower’s lawyer to be actively involved in negotiating provisions of the commitment letter that establishes the basic terms of the mortgage, and to also negotiate specific revisions to the loan documents to address material matters such as default, disbursement of insurance proceeds, permitted transfers, and indemnification.
 
@@ -260,7 +260,7 @@ This opinion cannot address all of the concerns expressed in the Background sect
 
 Opinion addresses conflicts of interest, communication, funding issues, and accountings in contemporaneous closings for residential real property.
 
-##### Facts:
+#### Facts:
 
 Residential real property is owned by record owner A. The property is to be conveyed from record owner A to B and from B to end buyer C on the same day. The sales price for the A to B transaction is $80,000. The sales price for the B to C transaction is $100,000. The money provided by C would be utilized by B to make B’s purchase from A; B would provide no independent funding. One lawyer, Lawyer, would close both the A to B and B to C transactions. Lawyer would represent B and C; Lawyer would not represent A. Lawyer would be the settlement agent for the closings.
 
@@ -439,8 +439,6 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 (k) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
 
 ### In re Morse, 748 S.E.2d 921 (Ga. 2013)
-
-#### Per Curiam
 
 This disciplinary matter is before the Court on a Petition for Voluntary Discipline filed by Respondent Jack O. Morse pursuant to Bar Rule 4-227(b)(2) before a formal complaint was issued. In his petition, Morse admits violating Rule 1.8(e) of the Georgia Rules of Professional Conduct set forth in Bar Rule 4-102(d). Although such a violation is punishable by public reprimand, Morse requests the imposition of a Review Panel reprimand. The State Bar has no objection.
 
@@ -733,7 +731,7 @@ In a formal complaint certified to the Board of Professional Conduct on April 6,
 
 The panel adopted the parties' stipulations and recommended sanction, and the board again adopted the panel's report in its entirety, and no objections have been filed. Although we agree with the finding that Sarver committed professional misconduct, we reject the board's recommended sanction and conclude that Sarver's misconduct warrants a suspension from the practice of law for two years, with the last 18 months of the suspension stayed on the conditions recommended by the board.
 
-##### Misconduct
+#### Misconduct
 
 Sarver and J.B. met each other in 2012 when Sarver represented J.B.'s then boyfriend in a legal matter. On September 11, 2015, J.B. reached out to Sarver when she needed "a good attorney for felony [408](https://scholar.google.com/scholar_case?case=2320003003991307008&q=Disciplinary+Counsel+v.+Sarver&hl=en&as_sdt=6,34#p408)[\*408](https://scholar.google.com/scholar_case?case=2320003003991307008&q=Disciplinary+Counsel+v.+Sarver&hl=en&as_sdt=6,34#p408)......some stupid shit happened and I really need to talk to u its not good." The next day, Sarver and J.B. met at a Columbus restaurant, discussed J.B.'s criminal case over drinks, and then had sex in Sarver's vehicle in the parking lot.
 
@@ -749,7 +747,7 @@ After we rejected the board's original recommendation to accept the parties' con
 
 The panel adopted the parties' stipulations and recommended sanction. The board adopted the panel's report in its entirety and found that Sarver's conduct violated Prof.Cond.R. 1.8(j) (prohibiting a lawyer from soliciting or engaging in sexual activity with a client unless a consensual sexual relationship between them existed prior to the client-lawyer relationship), 8.4(b) (prohibiting a lawyer from committing an illegal act that adversely reflects on the lawyer's honesty or trustworthiness), 8.4(c) (prohibiting a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 8.4(d) (prohibiting a lawyer from engaging in conduct that is prejudicial to the administration of justice).
 
-##### Sanction
+#### Sanction
 
 When imposing sanctions for attorney misconduct, we consider all relevant factors, including the ethical duties that the lawyer violated, the aggravating and mitigating factors listed in Gov.Bar R. V(13), and the sanctions imposed in similar cases.
 
@@ -845,11 +843,14 @@ While I agree with much of the majority opinion and agree that the significant c
 
 I hope that in the future, this court will more often utilize probation, as was done in this case, as a means of protecting the citizens of Ohio from attorney misconduct.
 
-\halfsep 
+*** 
 
-#### Note on _Sarver_
+<div class="comment">
+### Note on _Sarver_
 
 Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver_](https://scholar.google.com/scholar_case?case=11286210687675325700), 170 NE 3d 799 (Ohio 2020). 
+
+</div>
 
 
 # Conflicts Involving Former Clients
@@ -935,7 +936,7 @@ Virginia Gutting is the widow of Ferdinand (Ferd) J. Gutting, former member of t
 
 In early 1975, Paul Kalmanovitz purchased voting control of Falstaff and became Chairman of the Board. Subsequently, for reasons in dispute in this lawsuit, Ferd Gutting's employment with Falstaff was terminated and the Board of Directors voted to deny Ferd Gutting all benefits because his termination was for cause. Ferd Gutting died in December 1980. Falstaff has refused to pay the amounts due to Virginia Gutting pursuant to the terms of the Employee's Death Benefit Agreement and she brought suit to recover the proceeds. Throughout this litigation Falstaff has asserted as an affirmative defense that Ferd Gutting was terminated for cause and thus forfeited all benefits due his beneficiary under the agreement. Virginia Gutting claims the termination was not for "proper cause" as that term is defined in the agreement.
 
-##### Procedural History.
+#### Procedural History.
 
 Virginia Gutting filed a complaint on July 8, 1981, through her attorney James S. McClellan. On September 30, 1981, Falstaff filed a motion to disqualify McClellan because he formerly had been a member of Falstaff's Board of Directors and outside general counsel to Falstaff. Falstaff asserted that McClellan had material, firsthand knowledge of events relevant to Falstaff's defense and that McClellan would likely be called as a witness. While the motion to disqualify was pending, on October 13, 1981, Falstaff filed its request for admissions, first interrogatories, and request for production of documents. Thereafter, the district court held a conference at which McClellan indicated he would withdraw voluntarily. On December 4, 1981, McClellan formally withdrew.
 
@@ -947,7 +948,7 @@ Falstaff alleges that on February 27, 1982, Wilson again telephoned Sanders to a
 
 On April 9, 1982, Dempsey filed several motions on behalf of Gutting, including a motion for leave to file answers to the request for admissions out of time. On the same date, Falstaff filed a motion for summary judgment on the theory that all fact issues in the case had been admitted by Gutting's failure to make a timely response to the request. On April 21, the court denied Gutting's motion for leave to file the answers and delayed ruling on Falstaff's summary judgment motion. The case was still scheduled to proceed to trial on June 7, 1982, and Falstaff chose to proceed with 11 scheduled discovery depositions. On May 28, 1982, the district court granted Falstaff's summary judgment motion. The court ruled there was no genuine issue of material fact that the death benefits had been properly withheld under the terms of the agreement because the matter of Ferd Gutting's termination for cause had been deemed admitted.
 
-##### Discussion
+#### Discussion
 
 ##### 2. Conflicts of Interest of Gutting's Counsel.
 
@@ -969,7 +970,7 @@ We reverse the judgment of the district court and remand for further proceedings
 
 In this interlocutory appeal, we are asked to decide whether an attorney should be disqualified from representing one party in a lawsuit, either because his representation of the two parties was concurrent or because he had previously represented the opposing party in a similar matter. The district court concluded that the attorney need not be disqualified. For the reasons stated below, we conclude that the district court did not abuse its discretion in concluding that the prior attorney-client relationship failed the "substantial relationship" test. However, we conclude that the attorney did have a concurrent conflict of interest. Therefore, we find the district court abused its discretion in not disqualifying the attorney.
 
-##### Background Facts and Proceedings.
+#### Background Facts and Proceedings.
 
 Attorney Larry Stoller began representing Robert and Marcia Zylstra in 2002. Stoller represented them in a number of legal matters between 2002 and 2014, including financial issues, business acquisitions, and real estate transactions. Although the Zylstras were represented by Stoller on a number of occasions, they also used the services of other attorneys throughout this time period. At issue for the purposes of this case are a meeting in January 2007 and a small claims case ending in 2014.
 
@@ -993,7 +994,7 @@ On July 9, Stoller filed a multicount petition on behalf of NuStar against the Z
 
 On August 8, the district court held a hearing, and the parties argued both the motion to dismiss and the motion to disqualify Stoller. On October 14, the district court denied both motions. On November 10, the Zylstras filed an application for interlocutory appeal seeking review of the district court's denial of their motion to disqualify Stoller. We granted the application for interlocutory appeal on December 5.
 
-##### Analysis
+#### Analysis
 
 The right of a party to choose his or her own attorney is important, but it must be balanced against the need to maintain "the highest ethical standards" that will preserve the public's trust in the bar and in the integrity of the court system. A court must necessarily balance these two competing interests when determining whether to disqualify an attorney. In doing so, the court "must also be vigilant to thwart any misuse of a motion to disqualify for strategic reasons." When we evaluate motions to disqualify an attorney, we use our Iowa Rules of Professional Conduct as the starting point.
 
@@ -1049,14 +1050,12 @@ The final factor we consider is "whether the client might have disclosed a confi
 
 We do not find that a substantial relationship exists sufficient to disqualify Stoller under rule 32:1.9(a). We therefore find that the district court did not abuse its discretion in holding that Stoller could not be disqualified under the substantial relationship test.
 
-##### Conclusion
+#### Conclusion
 
 We find that the district court did not abuse its discretion in concluding that any prior relationship between Stoller and Zylstra in regard to the manure easement agreements failed the substantial relationship test. However, we find that Stoller did have a concurrent conflict of interest. Therefore, we conclude that the district court abused its discretion in not disqualifying Stoller from representing NuStar in the action. On remand, the district court should enter an order disqualifying Stoller from further representation of NuStar in this lawsuit.
 
 
 ### Wilson P. Abraham Construction v. Armco Steel Corp., 559 F. 2d 250 (5th Cir. 1977)
-
-#### Per Curiam
 
 This dispute centers around exactly what relationship cocounsel for the plaintiff, a Mr. Stephen D. Susman, had with the various defendants in this suit in a prior legal matter. The factual background which leads up to this current dispute is somewhat detailed and complicated. It begins in 1972 when Mr. Susman was associated with the firm of Fulbright and Jaworski in Houston, Texas. At that time, he undertook to represent Whitlow Steel Company, Inc., an independent rebar fabricator in Houston. This representation was in connection with a Federal Grand Jury investigation of the rebar steel industry in Texas. In August 1973, charges of antitrust violations were levied against Whitlow, Armco Steel Corp., The Ceco Corp., and Laclede Steel Company. Armco, Ceco, and Laclede are the defendants in the present action before this court. As counsel for Whitlow, Mr. Susman met on more than one occasion with the representatives of Armco, Ceco, and Laclede. At these meetings some efforts allegedly were made to develop a cooperative defense. Exactly what information was exchanged, and the importance of that information, is hotly disputed. Mr. Susman contends that the meetings were disorganized and nothing of substance was ever discussed. The defendants contend that documents were in fact discussed and disseminated, grand jury witness lists were prepared, and reports were given as to exactly what testimony was being presented before the grand jury by the various witnesses. The gist of the defendantsbid rigging. motion at that time saying that the motion presented such a close factual question that it could not be ruled on until the court heard all the evidence at trial. This ruling prompted the defendants to enter pleas in order to avoid trial.
 
