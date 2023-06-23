@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap4/
-chapter: Chapter 4
+chapter: 4
 title: Duty of Care
 ---
 

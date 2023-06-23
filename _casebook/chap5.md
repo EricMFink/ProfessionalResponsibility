@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap5/
-chapter: Chapter 5
+chapter: 5
 title: Confidentiality & Privileges
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap2/
-chapter: Chapter 2
+chapter: 2
 title: Advertising & Solicitation
 ---
 

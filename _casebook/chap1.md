@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap1/
-chapter: Chapter 1
+chapter: 1
 title: Law as a Regulated Profession
 ---
 

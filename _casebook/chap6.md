@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap6/
-chapter: Chapter 6
+chapter: 6
 title: Conflicts of Interest 
 ---
 

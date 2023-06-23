@@ -1,7 +1,6 @@
 ---
 layout: casebook-contents
 title: Table of Contents
-
 ---
 
 [Preface](../preface)

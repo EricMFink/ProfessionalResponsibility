@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap8/
-chapter: Chapter 8
+chapter: 8
 title: Interactions with Non-Clients
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: casebook
-permalink: /chap7/
-chapter: Chapter 7
+chapter: 7
 title: Duties in Litigation
 ---
 
