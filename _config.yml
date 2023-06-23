@@ -40,6 +40,7 @@ collections:
   casebook:
     output: true
 
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -59,14 +60,16 @@ markdown: Pandoc
 pandoc:
   extensions:
     - section-divs
+    - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:title
+permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock']
+exclude: ['Gemfile.lock', admin, .admin]
+keep_files: [.admin]
 post:
   template: _post.txt
   extension: md
@@ -85,7 +88,6 @@ transfer:
 jquery_version: "1.12.4"
 anchorjs_version: "3.2.2"
 
-
 plugins:
   - jekyll-spaceship
 
@@ -94,20 +96,11 @@ jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-    - plantuml-processor
     - mermaid-processor
     - polyfill-processor
     - media-processor
     - emoji-processor
     - element-processor
-  plantuml-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
-    css:
-      class: plantuml
-    syntax:
-      code: 'plantuml!'
-      custom: ['@startuml', '@enduml']
-    src: http://www.plantuml.com/plantuml/svg/
   mermaid-processor:
     mode: default  # mode value 'pre-fetch' for fetching image at building stage
     css:
