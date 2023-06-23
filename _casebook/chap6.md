@@ -13,8 +13,8 @@ title: Conflicts of Interest
 #### Conflict of Interest: Current Clients
 
 (a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
-	(1) the representation of one client will be directly adverse to another client; or
-	(2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer.
+> (1) the representation of one client will be directly adverse to another client; or
+> (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer.
 
 ### Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc., 10 A.D.3d 267 (N.Y. App. Div. 2004)
 
@@ -112,10 +112,10 @@ Though structured in a slightly different framework, Judge Conner's findings ful
 #### Conflict of Interest: Current Clients
 
 (b) Notwithstanding the existence of a concurrent conflict of interest under paragraph (a), a lawyer may represent a client if:
-	(1) the lawyer reasonably believes that the lawyer will be able to provide competent and diligent representation to each affected client;
-	(2) the representation is not prohibited by law;
-	(3) the representation does not involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation or other proceeding before a tribunal; and
-	(4) each affected client gives informed consent, confirmed in writing.
+> (1) the lawyer reasonably believes that the lawyer will be able to provide competent and diligent representation to each affected client;
+> (2) the representation is not prohibited by law;
+> (3) the representation does not involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation or other proceeding before a tribunal; and
+> (4) each affected client gives informed consent, confirmed in writing.
 
 
 ### Representation in Purchase of Foreclosed Property, 2013 Formal Ethics Op. 4 (N.C. State Bar, July 19, 2013)
@@ -399,9 +399,9 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 #### Current Clients: Specific Rules
 
 (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
-	(1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
-	(2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
-	(3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
+> (1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
+> (2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
+> (3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
 
 (b) A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
 
@@ -410,29 +410,29 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 (d) Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
 
 (e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
-	(1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
-	(2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
-	(3) a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
-		(i) may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
-		(ii) may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
-		(iii) may not publicize or advertise a willingness to provide such gifts to prospective clients.
+> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
+> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
+> (3) a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
+> > (i) may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
+> > (ii) may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
+> > (iii) may not publicize or advertise a willingness to provide such gifts to prospective clients.
 
-	Financial assistance under this Rule may be provided even if the representation is eligible for fees under a fee-shifting statute.
+> Financial assistance under this Rule may be provided even if the representation is eligible for fees under a fee-shifting statute.
 
 (f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
-	(1) the client gives informed consent;
-	(2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
-	(3) information relating to representation of a client is protected as required by Rule 1.6.
+> (1) the client gives informed consent;
+> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+> (3) information relating to representation of a client is protected as required by Rule 1.6.
 
 (g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
 (h) A lawyer shall not:
-	(1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
-	(2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
 
 (i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
-	(1) acquire a lien authorized by law to secure the lawyer's fee or expenses; and
-	(2) contract with a client for a reasonable contingent fee in a civil case.
+> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses; and
+> (2) contract with a client for a reasonable contingent fee in a civil case.
 
 [ … ]
 
@@ -1079,16 +1079,16 @@ Under these circumstances it is impossible for us to resolve this matter without
 #### Imputation of Conflicts of Interest: General Rule
 
 (a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless 
-	(1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
-	(2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
-		(i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
-		(ii) written notice is promptly given to any affected former client to enable the former client to ascertain compliance with the provisions of this Rule, which shall include a description of the screening procedures employed; a statement of the firm's and of the screened lawyer's compliance with these Rules; a statement that review may be available before a tribunal; and an agreement by the firm to respond promptly to any written inquiries or objections by the former client about the screening procedures; and
-	(iii) certifications of compliance with these Rules and with the screening procedures are provided to the former client by the screened lawyer and by a partner of the firm, at reasonable intervals upon the former client's written request and upon termination of the screening procedures.
+> (1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
+> (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
+> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
+> > (ii) written notice is promptly given to any affected former client to enable the former client to ascertain compliance with the provisions of this Rule, which shall include a description of the screening procedures employed; a statement of the firm's and of the screened lawyer's compliance with these Rules; a statement that review may be available before a tribunal; and an agreement by the firm to respond promptly to any written inquiries or objections by the former client about the screening procedures; and
+> (iii) certifications of compliance with these Rules and with the screening procedures are provided to the former client by the screened lawyer and by a partner of the firm, at reasonable intervals upon the former client's written request and upon termination of the screening procedures.
 
 (b) When a lawyer has terminated an association with a firm, the firm is not prohibited from thereafter representing a person with interests materially adverse to those of a client represented by the formerly associated lawyer and not currently represented by the firm, unless:
-	(1) the matter is the same or substantially related to that in which the formerly associated lawyer represented the client; and
-	(2) any lawyer remaining in the firm has information protected by Rules 1.6 and 1.9(c) that is material to the matter.
-	
+> (1) the matter is the same or substantially related to that in which the formerly associated lawyer represented the client; and
+> (2) any lawyer remaining in the firm has information protected by Rules 1.6 and 1.9(c) that is material to the matter.
+> 
 (c) A disqualification prescribed by this rule may be waived by the affected client under the conditions stated in Rule 1.7.
 
 (d) The disqualification of lawyers associated in a firm with former or current government lawyers is governed by Rule 1.11.

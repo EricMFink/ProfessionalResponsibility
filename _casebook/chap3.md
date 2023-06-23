@@ -8,34 +8,41 @@ title: The Attorney-Client Relationship
 
 ## Undertaking Representation 
 
-### Rest. (2d) of the Law Governing Lawyers § 14
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### Formation of a Client-Lawyer Relationship
+<div class="legal-code">
+
+#### § 14: Formation of a Client-Lawyer Relationship
 
 A relationship of client and lawyer arises when:
 
-(1) a person manifests to a lawyer the person's intent that the lawyer provide legal services for the person; and either
+(1) a person manifests to a lawyer the person's intent that the lawyer provide legal services for the person; and either
 
-	(a) the lawyer manifests to the person consent to do so; or
+> (a) the lawyer manifests to the person consent to do so; or
 
-	(b) the lawyer fails to manifest lack of consent to do so, and the lawyer knows or reasonably should know that the person reasonably relies on the lawyer to provide the services; or
+> (b) the lawyer fails to manifest lack of consent to do so, and the lawyer knows or reasonably should know that the person reasonably relies on the lawyer to provide the services; or
 
-(2) a tribunal with power to do so appoints the lawyer to provide the services.
+(2) a tribunal with power to do so appoints the lawyer to provide the services.
 
+</div>
 
-### Model Rules of Professional Conduct, Rule 6.2
+### Model Rules of Professional Conduct
 
-#### Accepting Appointments
+<div class="legal-code">
+
+#### Rule 6.2: Accepting Appointments
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
-(a) representing the client is likely to result in violation of the Rules of Professional Conduct or other law;
-(b) representing the client is likely to result in an unreasonable financial burden on the lawyer; or
-(c) the client or the cause is so repugnant to the lawyer as to be likely to impair the client-lawyer relationship or the lawyer's ability to represent the client.
+(a) representing the client is likely to result in violation of the Rules of Professional Conduct or other law;
+
+(b) representing the client is likely to result in an unreasonable financial burden on the lawyer; or
+
+(c) the client or the cause is so repugnant to the lawyer as to be likely to impair the client-lawyer relationship or the lawyer's ability to represent the client.
+
+</div>
 
 ### Togstad v. Vesely, Otto, Miller & Keefe, 291 N.W.2d 686 (Minn. 1980)
-
-
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
@@ -140,22 +147,31 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 8\. Although it became a Hogan & Hartson client through defendant, plaintiff has a cognizable interest in being permitted to continue to be represented by this firm. Moreover, disqualification—which is an increasingly frequent issue in the courts— may be the subject of tactical abuse. A party's choice of counsel should be set aside only where the circumstances legally require doing so.
 
-
 ## Prospective Clients
 
-### Model Rules of Professional Conduct, Rule 1.18
+### Model Rules of Professional Conduct
 
-#### Duties to Prospective Client
+<div class="legal-code">
 
-(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
-(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
-(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
-(d) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
-	(1) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
-	(2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
-		(i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
-		(ii) written notice is promptly given to the prospective client.
+#### Rule 1.18: Duties to Prospective Client
 
+(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+
+(d) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
+
+> (1) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+
+> (2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
+
+> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+
+> > (ii) written notice is promptly given to the prospective client.
+
+</div>
 
 ### Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co., 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
@@ -217,74 +233,117 @@ In the event that confidential information was disclosed, I find that disqualifi
 
 I am not persuaded by Annuity's argument that disqualification of Dilworth is necessary to protect against the "mere appearance of an impropriety" and to maintain the integrity of the legal profession. While the ethical rules are designed, in part, to encourage attorney-client candor, attorneys that have already been retained in a matter and who are well versed in the perimeters of the attorney-client relationship, should be encouraged to take care with their client's confidences in the course of preliminary inquiries with potential co-counsel in another firm. Such inquiries should not form the basis for disqualification of an entire firm in situations, such as this, where it was clear to both parties that an attorney-client relationship was never established. Allowing Friedman to be retained by Clark Capital in this matter requires effective screening of only a single attorney out of approximately 100 attorneys at Dilworth. In light of this, the fact that Annuity is not a former client of Dilworth, and the minimal likelihood that Dilworth's involvement in this case would taint the pending litigation, I will deny Annuity's motion to disqualify Friedman and Dilworth. I will require that Dilworth continue to screen Biemer from any involvement in this case.
 
-
-
 ## Declining and Terminating Representation
 
-### Model Rules of Professional Conduct, Rule 1.16
+### Model Rules of Professional Conduct
 
-#### Declining or Terminating Representation
+<div class="legal-code">
 
-(a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
-	(1) the representation will result in violation of the rules of professional conduct or other law;
-	(2) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
-	(3) the lawyer is discharged.
-(b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if:
-	(1) withdrawal can be accomplished without material adverse effect on the interests of the client;
-	(2) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
-	(3) the client has used the lawyer's services to perpetrate a crime or fraud;
-	(4) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
-	(5) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
-	(6) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
-	(7) other good cause for withdrawal exists.
-(c) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
-(d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
+#### Rule 1.16: Declining or Terminating Representation
 
-### Rest. (2d) of the Law Governing Lawyers § 31
+(a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
-#### Termination of a Lawyer's Authority
+> (1) the representation will result in violation of the rules of professional conduct or other law;
 
-(1) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with an order of a tribunal requiring the representation to continue.
-(2) Subject to Subsection (1) and § 33, a lawyer's actual authority to represent a client ends when:
-	(a) the client discharges the lawyer;
-	(b) the client dies or, in the case of a corporation or similar organization, loses its capacity to function as such;
-	(c) the lawyer withdraws;
-	(d) the lawyer dies or becomes physically or mentally incapable of providing representation, is disbarred or suspended from practicing law, or is ordered by a tribunal to cease representing a client; or
-	(e) the representation ends as provided by contract or because the lawyer has completed the contemplated services.
-(3) A lawyer's apparent authority to act for a client with respect to another person ends when the other person knows or should know of facts from which it can be reasonably inferred that the lawyer lacks actual authority, including knowledge of any event described in Subsection (2).
+> (2) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
 
-### Rest. (2d) of the Law Governing Lawyers § 32
+> (3) the lawyer is discharged.
 
-#### Discharge by a Client and Withdrawal by a Lawyer
+(b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if:
 
-(1) Subject to Subsection (5), a client may discharge a lawyer at any time.
-(2) Subject to Subsection (5), a lawyer may not represent a client or, where representation has commenced, must withdraw from the representation of a client if:
-	(a) the representation will result in the lawyer's violating rules of professional conduct or other law;
-	(b) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
-	(c) the client discharges the lawyer.
-(3) Subject to Subsections (4) and (5), a lawyer may withdraw from representing a client if:
-	(a) withdrawal can be accomplished without material adverse effect on the interests of the client;
-	(b) the lawyer reasonably believes withdrawal is required in circumstances stated in Subsection (2);
-	(c) the client gives informed consent;
-	(d) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal, fraudulent, or in breach of the client's fiduciary duty;
-	(e) the lawyer reasonably believes the client has used or threatens to use the lawyer's services to perpetrate a crime or fraud;
-	(f) the client insists on taking action that the lawyer considers repugnant or imprudent;
-	(g) the client fails to fulfill a substantial financial or other obligation to the lawyer regarding the lawyer's services and the lawyer has given the client reasonable warning that the lawyer will withdraw unless the client fulfills the obligation;
-	(h) the representation has been rendered unreasonably difficult by the client or by the irreparable breakdown of the client-lawyer relationship; or
-	(i) other good cause for withdrawal exists.
-(4) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
-(5) Notwithstanding Subsections (1)-(4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
+> (1) withdrawal can be accomplished without material adverse effect on the interests of the client;
 
-### Rest. (2d) of the Law Governing Lawyers § 33
+> (2) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
 
-#### A Lawyer's Duties When a Representation Terminates
+> (3) the client has used the lawyer's services to perpetrate a crime or fraud;
 
-(1) In terminating a representation, a lawyer must take steps to the extent reasonably practicable to protect the client's interests, such as giving notice to the client of the termination, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled, and refunding any advance payment of fee the lawyer has not earned.
-(2) Following termination of a representation, a lawyer must:
-	(a) observe obligations to a former client such as those dealing with client confidences (see Chapter 5), conflicts of interest (see Chapter 8), client property and documents (see §§ 44-46), and fee collection (see § 41);
-	(b) take no action on behalf of a former client without new authorization and give reasonable notice, to those who might otherwise be misled, that the lawyer lacks authority to act for the client;
-	(c) take reasonable steps to convey to the former client any material communication the lawyer receives relating to the matter involved in the representation; and
-	(d) take no unfair advantage of a former client by abusing knowledge or trust acquired by means of the representation.
+> (4) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
+
+> (5) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
+
+> (6) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
+
+> (7) other good cause for withdrawal exists.
+
+(c) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
+
+(d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
+
+</div>
+
+### Rest. (2d) of the Law Governing Lawyers 
+
+<div class="legal-code">
+
+#### § 31: Termination of a Lawyer's Authority
+
+(1) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with an order of a tribunal requiring the representation to continue.
+
+(2) Subject to Subsection (1) and § 33, a lawyer's actual authority to represent a client ends when:
+
+> (a) the client discharges the lawyer;
+
+> (b) the client dies or, in the case of a corporation or similar organization, loses its capacity to function as such;
+
+> (c) the lawyer withdraws;
+
+> (d) the lawyer dies or becomes physically or mentally incapable of providing representation, is disbarred or suspended from practicing law, or is ordered by a tribunal to cease representing a client; or
+
+> (e) the representation ends as provided by contract or because the lawyer has completed the contemplated services.
+
+(3) A lawyer's apparent authority to act for a client with respect to another person ends when the other person knows or should know of facts from which it can be reasonably inferred that the lawyer lacks actual authority, including knowledge of any event described in Subsection (2).
+
+#### § 32: Discharge by a Client and Withdrawal by a Lawyer
+
+(1) Subject to Subsection (5), a client may discharge a lawyer at any time.
+
+(2) Subject to Subsection (5), a lawyer may not represent a client or, where representation has commenced, must withdraw from the representation of a client if:
+
+> (a) the representation will result in the lawyer's violating rules of professional conduct or other law;
+
+> (b) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
+
+> (c) the client discharges the lawyer.
+
+(3) Subject to Subsections (4) and (5), a lawyer may withdraw from representing a client if:
+
+> (a) withdrawal can be accomplished without material adverse effect on the interests of the client;
+
+> (b) the lawyer reasonably believes withdrawal is required in circumstances stated in Subsection (2);
+
+> (c) the client gives informed consent;
+
+> (d) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal, fraudulent, or in breach of the client's fiduciary duty;
+
+> (e) the lawyer reasonably believes the client has used or threatens to use the lawyer's services to perpetrate a crime or fraud;
+
+> (f) the client insists on taking action that the lawyer considers repugnant or imprudent;
+
+> (g) the client fails to fulfill a substantial financial or other obligation to the lawyer regarding the lawyer's services and the lawyer has given the client reasonable warning that the lawyer will withdraw unless the client fulfills the obligation;
+
+> (h) the representation has been rendered unreasonably difficult by the client or by the irreparable breakdown of the client-lawyer relationship; or
+
+> (i) other good cause for withdrawal exists.
+
+(4) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
+
+(5) Notwithstanding Subsections (1)-(4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
+
+#### § 33: A Lawyer's Duties When a Representation Terminates
+
+(1) In terminating a representation, a lawyer must take steps to the extent reasonably practicable to protect the client's interests, such as giving notice to the client of the termination, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled, and refunding any advance payment of fee the lawyer has not earned.
+
+(2) Following termination of a representation, a lawyer must:
+
+> (a) observe obligations to a former client such as those dealing with client confidences (see Chapter 5), conflicts of interest (see Chapter 8), client property and documents (see §§ 44-46), and fee collection (see § 41);
+
+> (b) take no action on behalf of a former client without new authorization and give reasonable notice, to those who might otherwise be misled, that the lawyer lacks authority to act for the client;
+
+> (c) take reasonable steps to convey to the former client any material communication the lawyer receives relating to the matter involved in the representation; and
+
+> (d) take no unfair advantage of a former client by abusing knowledge or trust acquired by means of the representation.
+
+</div>
 
 ### Demov, Morris, Levine & Shein v. Glantz, 53 N.Y.2d 553 (N.Y. 1981)
 
@@ -370,57 +429,63 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 # Organizational Clients 
 
-### Model Rules of Professional Conduct, Rule 1.13
+### Model Rules of Professional Conduct
 
-#### Organization as Client
+<div class="legal-code">
 
-(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+#### Rule 1.13: Organization as Client
 
-(b) If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
+(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
-(c) Except as provided in paragraph (d), if
-	(1) despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
+(b) If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
 
-	(2) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
+(c) Except as provided in paragraph (d), if
 
-(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+> (1) despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
 
-(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under either of those paragraphs, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal.
+> (2) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
 
-(f) In dealing with an organization's directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
 
-(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under either of those paragraphs, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal.
 
-### Rest. (2d) of the Law Governing Lawyers § 96
+(f) In dealing with an organization's directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
 
-#### Representing an Organization as Client
+(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
-(1) When a lawyer is employed or retained to represent an organization:
-	(a) the lawyer represents the interests of the organization as defined by its responsible agents acting pursuant to the organization's decision-making procedures; and
+</div>
 
-	(b) subject to Subsection (2), the lawyer must follow instructions in the representation, as stated in § 21(2), given by persons authorized so to act on behalf of the organization.
+### Rest. (2d) of the Law Governing Lawyers 
 
-(2) If a lawyer representing an organization knows of circumstances indicating that a constituent of the organization has engaged in action or intends to act in a way that violates a legal obligation to the organization that will likely cause substantial injury to it, or that reasonably can be foreseen to be imputable to the organization and likely to result in substantial injury to it, the lawyer must proceed in what the lawyer reasonably believes to be the best interests of the organization.
+<div class="legal-code">
 
-(3) In the circumstances described in Subsection (2), the lawyer may, in circumstances warranting such steps, ask the constituent to reconsider the matter, recommend that a second legal opinion be sought, and seek review by appropriate supervisory authority within the organization, including referring the matter to the highest authority that can act in behalf of the organization.
+#### § 96: Representing an Organization as Client
 
-### Rest. (2d) of the Law Governing Lawyers § 97
+(1) When a lawyer is employed or retained to represent an organization:
 
-#### Representing a Governmental Client
+> (a) the lawyer represents the interests of the organization as defined by its responsible agents acting pursuant to the organization's decision-making procedures; and
+
+> (b) subject to Subsection (2), the lawyer must follow instructions in the representation, as stated in § 21(2), given by persons authorized so to act on behalf of the organization.
+
+(2) If a lawyer representing an organization knows of circumstances indicating that a constituent of the organization has engaged in action or intends to act in a way that violates a legal obligation to the organization that will likely cause substantial injury to it, or that reasonably can be foreseen to be imputable to the organization and likely to result in substantial injury to it, the lawyer must proceed in what the lawyer reasonably believes to be the best interests of the organization.
+
+(3) In the circumstances described in Subsection (2), the lawyer may, in circumstances warranting such steps, ask the constituent to reconsider the matter, recommend that a second legal opinion be sought, and seek review by appropriate supervisory authority within the organization, including referring the matter to the highest authority that can act in behalf of the organization.
+
+#### § 97: Representing a Governmental Client
 
 A lawyer representing a governmental client must proceed in the representation as stated in § 96, except that the lawyer:
 
-(1) possesses such rights and responsibilities as may be defined by law to make decisions on behalf of the governmental client that are within the authority of a client under §§ 22 and 21(2);
+(1) possesses such rights and responsibilities as may be defined by law to make decisions on behalf of the governmental client that are within the authority of a client under §§ 22 and 21(2);
 
-(2) except as otherwise provided by law, must proceed as stated in §§ 96(2) and 96(3) with respect to an act of a constituent of the governmental client that violates a legal obligation that will likely cause substantial public or private injury or that reasonably can be foreseen to be imputable to and thus likely result in substantial injury to the client;
+(2) except as otherwise provided by law, must proceed as stated in §§ 96(2) and 96(3) with respect to an act of a constituent of the governmental client that violates a legal obligation that will likely cause substantial public or private injury or that reasonably can be foreseen to be imputable to and thus likely result in substantial injury to the client;
 
-(3) if a prosecutor or similar lawyer determining whether to file criminal proceedings or take other steps in such proceedings, must do so only when based on probable cause and the lawyer's belief, formed after due investigation, that there are good factual and legal grounds to support the step taken; and
+(3) if a prosecutor or similar lawyer determining whether to file criminal proceedings or take other steps in such proceedings, must do so only when based on probable cause and the lawyer's belief, formed after due investigation, that there are good factual and legal grounds to support the step taken; and
 
-(4) must observe other applicable restrictions imposed by law on those similarly functioning for the governmental client.
+(4) must observe other applicable restrictions imposed by law on those similarly functioning for the governmental client.
+
+</div>
 
 ### In the Matter of Silva, 636 A.2d 316 (R.I. 1994)
-
-
 
 The respondent, Daniel J. Silva, appeared before this court on December 2, 1993, pursuant to an order to show cause why discipline should not be imposed. The Disciplinary Board conducted an evidentiary hearing and received legal memoranda from the respondent and disciplinary counsel. The board has filed with us its decision and a concurring opinion signed by three members of the board.
 
@@ -572,72 +637,78 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 ## Scope of Representation & Authority
 
-### Model Rules of Professional Conduct, Rule 1.2
+### Model Rules of Professional Conduct
 
-#### Scope of Representation & Allocation of Authority Between Client & Lawyer
+<div class="legal-code">
 
-(a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
-(b) A lawyer's representation of a client, including representation by appointment, does not constitute an endorsement of the client's political, economic, social or moral views or activities.
-(c) A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent.
-(d) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
+#### Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
 
-### Model Rules of Professional Conduct, Rule 1.8
+(a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
 
-#### Current Clients: Specific Rules
+(b) A lawyer's representation of a client, including representation by appointment, does not constitute an endorsement of the client's political, economic, social or moral views or activities.
 
-(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+(c) A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent.
 
-### Rest. (2d) of the Law Governing Lawyers § 21
+(d) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
 
-#### Allocating the Authority to Decide Between a Client and a Lawyer
+#### Rule 1.8: Current Clients: Specific Rules
+
+(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+
+</div>
+
+### Rest. (2d) of the Law Governing Lawyers 
+
+<div class="legal-code">
+
+#### § 21: Allocating the Authority to Decide Between a Client and a Lawyer
 
 As between client and lawyer:
 
-(1) A client and lawyer may agree which of them will make specified decisions, subject to the requirements stated in §§ 18, 19, 22, 23, and other provisions of this Restatement. The agreement may be superseded by another valid agreement.
-(2) A client may instruct a lawyer during the representation, subject to the requirements stated in §§ 22, 23, and other provisions of this Restatement.
-(3) Subject to Subsections (1) and (2) a lawyer may take any lawful measure within the scope of representation that is reasonably calculated to advance a client's objectives as defined by the client, consulting with the client as required by § 20.
-(4) A client may ratify an act of a lawyer that was not previously authorized.
+(1) A client and lawyer may agree which of them will make specified decisions, subject to the requirements stated in §§ 18, 19, 22, 23, and other provisions of this Restatement. The agreement may be superseded by another valid agreement.
 
-### Rest. (2d) of the Law Governing Lawyers § 22
+(2) A client may instruct a lawyer during the representation, subject to the requirements stated in §§ 22, 23, and other provisions of this Restatement.
 
-#### Authority Reserved to a Client
+(3) Subject to Subsections (1) and (2) a lawyer may take any lawful measure within the scope of representation that is reasonably calculated to advance a client's objectives as defined by the client, consulting with the client as required by § 20.
 
-(1) As between client and lawyer, subject to Subsection (2) and § 23, the following and comparable decisions are reserved to the client except when the client has validly authorized the lawyer to make the particular decision: whether and on what terms to settle a claim; how a criminal defendant should plead; whether a criminal defendant should waive jury trial; whether a criminal defendant should testify; and whether to appeal in a civil proceeding or criminal prosecution.
-(2) A client may not validly authorize a lawyer to make the decisions described in Subsection (1) when other law (such as criminal-procedure rules governing pleas, jury-trial waiver, and defendant testimony) requires the client's personal participation or approval.
-(3) Regardless of any contrary contract with a lawyer, a client may revoke a lawyer's authority to make the decisions described in Subsection (1).
+(4) A client may ratify an act of a lawyer that was not previously authorized.
 
-### Rest. (2d) of the Law Governing Lawyers § 23
+#### § 22: Authority Reserved to a Client
 
-#### Authority Reserved to a Lawyer
+(1) As between client and lawyer, subject to Subsection (2) and § 23, the following and comparable decisions are reserved to the client except when the client has validly authorized the lawyer to make the particular decision: whether and on what terms to settle a claim; how a criminal defendant should plead; whether a criminal defendant should waive jury trial; whether a criminal defendant should testify; and whether to appeal in a civil proceeding or criminal prosecution.
+
+(2) A client may not validly authorize a lawyer to make the decisions described in Subsection (1) when other law (such as criminal-procedure rules governing pleas, jury-trial waiver, and defendant testimony) requires the client's personal participation or approval.
+
+(3) Regardless of any contrary contract with a lawyer, a client may revoke a lawyer's authority to make the decisions described in Subsection (1).
+
+#### § 23: Authority Reserved to a Lawyer
 
 As between client and lawyer, a lawyer retains authority that may not be overridden by a contract with or an instruction from the client:
 
-(1) to refuse to perform, counsel, or assist future or ongoing acts in the representation that the lawyer reasonably believes to be unlawful;
-(2) to make decisions or take actions in the representation that the lawyer reasonably believes to be required by law or an order of a tribunal.
+(1) to refuse to perform, counsel, or assist future or ongoing acts in the representation that the lawyer reasonably believes to be unlawful;
 
-### Rest. (2d) of the Law Governing Lawyers § 25
+(2) to make decisions or take actions in the representation that the lawyer reasonably believes to be required by law or an order of a tribunal.
 
-#### Appearance Before a Tribunal
+#### § 25: Appearance Before a Tribunal
 
 A lawyer who enters an appearance before a tribunal on behalf of a person is presumed to represent that person as a client. The presumption may be rebutted.
 
-
-### Rest. (2d) of the Law Governing Lawyers § 26
-
-#### A Lawyer's Actual Authority
+#### § 26: A Lawyer's Actual Authority
 
 A lawyer's act is considered to be that of a client in proceedings before a tribunal or in dealings with third persons when:
 
-(1) the client has expressly or impliedly authorized the act;
-(2) authority concerning the act is reserved to the lawyer as stated in § 23; or
-(3) the client ratifies the act.
+(1) the client has expressly or impliedly authorized the act;
+
+(2) authority concerning the act is reserved to the lawyer as stated in § 23; or
+
+(3) the client ratifies the act.
 
 
-### Rest. (2d) of the Law Governing Lawyers § 27
-
-#### A Lawyer's Apparent Authority
+#### § 27: A Lawyer's Apparent Authority
 
 A lawyer's act is considered to be that of the client in proceedings before a tribunal or in dealings with a third person if the tribunal or third person reasonably assumes that the lawyer is authorized to do the act on the basis of the client's (and not the lawyer's) manifestations of such authorization.
+
+</div>
 
 ### Makins v. District of Columbia, 861 A.2d 590 (D.C. 2004)
 
@@ -680,9 +751,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 ## Clients with Diminished Capacity
 
-### Model Rules of Professional Conduct, Rule 1.14
+### Model Rules of Professional Conduct
 
-#### Clients with Diminished Capacity 
+<div class="legal-code">
+
+#### Rule 1.14: Clients with Diminished Capacity 
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -690,9 +763,13 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 (c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
 
-### Rest. (2d) of the Law Governing Lawyers § 24
+</div>
 
-#### A Client with Diminished Capacity
+### Rest. (2d) of the Law Governing Lawyers 
+
+<div class="legal-code">
+
+#### § 24: A Client with Diminished Capacity
 
 (1) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
 
@@ -700,62 +777,69 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 (3) If a client with diminished capacity as described in Subsection (1) has a guardian or other person legally entitled to act for the client, the client's lawyer must treat that person as entitled to act with respect to the client's interests in the matter, unless:
 
-	(a) the lawyer represents the client in a matter against the interests of that person; or
+> (a) the lawyer represents the client in a matter against the interests of that person; or
 
-	(b) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
-	
+> (b) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
+> 
 (4) A lawyer representing a client with diminished capacity as described in Subsection (1) may seek the appointment of a guardian or take other protective action within the scope of the representation when doing so is practical and will advance the client's objectives or interests, determined as stated in Subsection (2).
+
+</div>
 
 # Attorney Fees 
 
-### Model Rules of Professional Conduct, Rule 1.5
+### Model Rules of Professional Conduct
 
-#### Fees
+<div class="legal-code">
 
-(a) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
+#### Rule 1.5: Fees
 
-	(1) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
+(a) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 
-	(2) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer;
+> (1) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
 
-	(3) the fee customarily charged in the locality for similar legal services;
+> (2) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer;
 
-	(4) the amount involved and the results obtained;
+> (3) the fee customarily charged in the locality for similar legal services;
 
-	(5) the time limitations imposed by the client or by the circumstances;
+> (4) the amount involved and the results obtained;
 
-	(6) the nature and length of the professional relationship with the client;
+> (5) the time limitations imposed by the client or by the circumstances;
 
-	(7) the experience, reputation, and ability of the lawyer or lawyers performing the services; and
+> (6) the nature and length of the professional relationship with the client;
 
-	(8) whether the fee is fixed or contingent.
+> (7) the experience, reputation, and ability of the lawyer or lawyers performing the services; and
 
-(b) The scope of the representation and the basis or rate of the fee and expenses for which the client will be responsible shall be communicated to the client, preferably in writing, before or within a reasonable time after commencing the representation, except when the lawyer will charge a regularly represented client on the same basis or rate. Any changes in the basis or rate of the fee or expenses shall also be communicated to the client.
+> (8) whether the fee is fixed or contingent.
 
-(c) A fee may be contingent on the outcome of the matter for which the service is rendered, except in a matter in which a contingent fee is prohibited by paragraph (d) or other law. A contingent fee agreement shall be in a writing signed by the client and shall state the method by which the fee is to be determined, including the percentage or percentages that shall accrue to the lawyer in the event of settlement, trial or appeal; litigation and other expenses to be deducted from the recovery; and whether such expenses are to be deducted before or after the contingent fee is calculated. The agreement must clearly notify the client of any expenses for which the client will be liable whether or not the client is the prevailing party. Upon conclusion of a contingent fee matter, the lawyer shall provide the client with a written statement stating the outcome of the matter and, if there is a recovery, showing the remittance to the client and the method of its determination.
+(b) The scope of the representation and the basis or rate of the fee and expenses for which the client will be responsible shall be communicated to the client, preferably in writing, before or within a reasonable time after commencing the representation, except when the lawyer will charge a regularly represented client on the same basis or rate. Any changes in the basis or rate of the fee or expenses shall also be communicated to the client.
 
-(d) A lawyer shall not enter into an arrangement for, charge, or collect:
+(c) A fee may be contingent on the outcome of the matter for which the service is rendered, except in a matter in which a contingent fee is prohibited by paragraph (d) or other law. A contingent fee agreement shall be in a writing signed by the client and shall state the method by which the fee is to be determined, including the percentage or percentages that shall accrue to the lawyer in the event of settlement, trial or appeal; litigation and other expenses to be deducted from the recovery; and whether such expenses are to be deducted before or after the contingent fee is calculated. The agreement must clearly notify the client of any expenses for which the client will be liable whether or not the client is the prevailing party. Upon conclusion of a contingent fee matter, the lawyer shall provide the client with a written statement stating the outcome of the matter and, if there is a recovery, showing the remittance to the client and the method of its determination.
 
-	(1) any fee in a domestic relations matter, the payment or amount of which is contingent upon the securing of a divorce or upon the amount of alimony or support, or property settlement in lieu thereof; or
+(d) A lawyer shall not enter into an arrangement for, charge, or collect:
 
-	(2) a contingent fee for representing a defendant in a criminal case.
+> (1) any fee in a domestic relations matter, the payment or amount of which is contingent upon the securing of a divorce or upon the amount of alimony or support, or property settlement in lieu thereof; or
 
-(e) A division of a fee between lawyers who are not in the same firm may be made only if:
+> (2) a contingent fee for representing a defendant in a criminal case.
 
-	(1) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation;
+(e) A division of a fee between lawyers who are not in the same firm may be made only if:
 
-	(2) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
+> (1) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation;
 
-	(3) the total fee is reasonable.
+> (2) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
 
-### Model Rules of Professional Conduct, Rule 1.8
+> (3) the total fee is reasonable.
 
-#### Current Clients: Specific Rules
+#### Rule 1.8: Current Clients: Specific Rules
 
-(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
-	(1) the client gives informed consent;
-	(2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
-	(3) information relating to representation of a client is protected as required by Rule 1.6.
+(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
+
+> (1) the client gives informed consent;
+
+> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+
+> (3) information relating to representation of a client is protected as required by Rule 1.6.
+
+</div>
 
 ### Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
 
@@ -943,17 +1027,20 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 # Client Property
 
-### Model Rules of Professional Conduct, Rule 1.15
+### Model Rules of Professional Conduct
 
-#### Safekeeping property
+<div class="legal-code">
 
-(a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
+#### Rule 1.15: Safekeeping property
 
-(b) A lawyer may deposit the lawyer's own funds in a client trust account for the sole purpose of paying bank service charges on that account, but only in an amount necessary for that purpose.
+(a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
 
-(c) A lawyer shall deposit into a client trust account legal fees and expenses that have been paid in advance, to be withdrawn by the lawyer only as fees are earned or expenses incurred.
+(b) A lawyer may deposit the lawyer's own funds in a client trust account for the sole purpose of paying bank service charges on that account, but only in an amount necessary for that purpose.
 
-(d) Upon receiving funds or other property in which a client or third person has an interest, a lawyer shall promptly notify the client or third person. Except as stated in this rule or otherwise permitted by law or by agreement with the client, a lawyer shall promptly deliver to the client or third person any funds or other property that the client or third person is entitled to receive and, upon request by the client or third person, shall promptly render a full accounting regarding such property.
+(c) A lawyer shall deposit into a client trust account legal fees and expenses that have been paid in advance, to be withdrawn by the lawyer only as fees are earned or expenses incurred.
 
-(e) When in the course of representation a lawyer is in possession of property in which two or more persons (one of whom may be the lawyer) claim interests, the property shall be kept separate by the lawyer until the dispute is resolved. The lawyer shall promptly distribute all portions of the property as to which the interests are not in dispute.
+(d) Upon receiving funds or other property in which a client or third person has an interest, a lawyer shall promptly notify the client or third person. Except as stated in this rule or otherwise permitted by law or by agreement with the client, a lawyer shall promptly deliver to the client or third person any funds or other property that the client or third person is entitled to receive and, upon request by the client or third person, shall promptly render a full accounting regarding such property.
 
+(e) When in the course of representation a lawyer is in possession of property in which two or more persons (one of whom may be the lawyer) claim interests, the property shall be kept separate by the lawyer until the dispute is resolved. The lawyer shall promptly distribute all portions of the property as to which the interests are not in dispute.
+
+</div>

@@ -4,36 +4,31 @@ chapter: 7
 title: Duties in Litigation
 ---
 
-# Fairness & Integrity of the Proceedings 
+# Integrity of the Proceedings 
 
-## Meritorious Claims & Defenses 
+## Truthfulness
 
-### Model Rules of Professional Conduct, Rule 3.1
+### Model Rules of Professional Conduct, 
 
-A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
+<div class="legal-code">
 
-## Expediting Litigation 
+#### Rule 3.3: Candor Toward the Tribunal
 
-### Model Rules of Professional Conduct, Rule 3.2
+(a) A lawyer shall not knowingly:
 
-A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
+> (1) make a false statement of fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer;
 
-## Candor Toward the Tribunal
+> (2) fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
 
-### Model Rules of Professional Conduct, Rule 3.3
+> (3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer's client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
 
-(a) A lawyer shall not knowingly:
-	(1) make a false statement of fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer;
+(b) A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal.
 
-	(2) fail to disclose to the tribunal legal authority in the controlling jurisdiction known to the lawyer to be directly adverse to the position of the client and not disclosed by opposing counsel; or
+(c) The duties stated in paragraphs (a) and (b) continue to the conclusion of the proceeding, and apply even if compliance requires disclosure of information otherwise protected by Rule 1.6.
 
-	(3) offer evidence that the lawyer knows to be false. If a lawyer, the lawyer's client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal. A lawyer may refuse to offer evidence, other than the testimony of a defendant in a criminal matter, that the lawyer reasonably believes is false.
+(d) In an ex parte proceeding, a lawyer shall inform the tribunal of all material facts known to the lawyer that will enable the tribunal to make an informed decision, whether or not the facts are adverse.
 
-(b) A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, disclosure to the tribunal.
-
-(c) The duties stated in paragraphs (a) and (b) continue to the conclusion of the proceeding, and apply even if compliance requires disclosure of information otherwise protected by Rule 1.6.
-
-(d) In an ex parte proceeding, a lawyer shall inform the tribunal of all material facts known to the lawyer that will enable the tribunal to make an informed decision, whether or not the facts are adverse.
+</div>
 
 ### Nix v. Whiteside, 475 U.S. 157 (1986)
 
@@ -322,87 +317,115 @@ The determination whether the prejudice was undue must occur at an evidentiary h
 
 We therefore affirm the judgment of the district court but without prejudice to Jackson to claim in a section 2255 proceeding an infringement of his rights to effective assistance of counsel and to testify.
 
+## Fairness & Impartiality
 
-## Fairness to Opposing Party & Counsel
+### Model Rules of Professional Conduct, 
 
-### Model Rules of Professional Conduct, Rule 3.4
+<div class="legal-code">
 
-A lawyer shall not:
+#### Rule 3.1: Meritorious Claims & Defenses 
 
-(a) unlawfully obstruct another party' s access to evidence or unlawfully alter, destroy or conceal a document or other material having potential evidentiary value. A lawyer shall not counsel or assist another person to do any such act;
+A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
-(b) falsify evidence, counsel or assist a witness to testify falsely, or offer an inducement to a witness that is prohibited by law;
+#### Rule 3.2: Expediting Litigation 
 
-(c) knowingly disobey an obligation under the rules of a tribunal except for an open refusal based on an assertion that no valid obligation exists;
+A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
-(d) in pretrial procedure, make a frivolous discovery request or fail to make reasonably diligent effort to comply with a legally proper discovery request by an opposing party;
-
-(e) in trial, allude to any matter that the lawyer does not reasonably believe is relevant or that will not be supported by admissible evidence, assert personal knowledge of facts in issue except when testifying as a witness, or state a personal opinion as to the justness of a cause, the credibility of a witness, the culpability of a civil litigant or the guilt or innocence of an accused; or
-
-(f) request a person other than a client to refrain from voluntarily giving relevant information to another party unless:
-	(1) the person is a relative or an employee or other agent of a client; and
-
-	(2) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
-
-
-## Impartiality & Decorum of the Tribunal
-
-### Model Rules of Professional Conduct, Rule 3.5
+#### Rule 3.4: Fairness to Opposing Party & Counsel
 
 A lawyer shall not:
 
-(a) seek to influence a judge, juror, prospective juror or other official by means prohibited by law;
+(a) unlawfully obstruct another party's access to evidence or unlawfully alter, destroy or conceal a document or other material having potential evidentiary value. A lawyer shall not counsel or assist another person to do any such act;
 
-(b) communicate ex parte with such a person during the proceeding unless authorized to do so by law or court order;
+(b) falsify evidence, counsel or assist a witness to testify falsely, or offer an inducement to a witness that is prohibited by law;
 
-(c) communicate with a juror or prospective juror after discharge of the jury if:
-	(1) the communication is prohibited by law or court order;
+(c) knowingly disobey an obligation under the rules of a tribunal except for an open refusal based on an assertion that no valid obligation exists;
 
-	(2) the juror has made known to the lawyer a desire not to communicate; or
+(d) in pretrial procedure, make a frivolous discovery request or fail to make reasonably diligent effort to comply with a legally proper discovery request by an opposing party;
 
-	(3) the communication involves misrepresentation, coercion, duress or harassment; or
+(e) in trial, allude to any matter that the lawyer does not reasonably believe is relevant or that will not be supported by admissible evidence, assert personal knowledge of facts in issue except when testifying as a witness, or state a personal opinion as to the justness of a cause, the credibility of a witness, the culpability of a civil litigant or the guilt or innocence of an accused; or
 
-(d) engage in conduct intended to disrupt a tribunal.
+(f) request a person other than a client to refrain from voluntarily giving relevant information to another party unless:
 
+> (1) the person is a relative or an employee or other agent of a client; and
 
-## Trial Publicity 
+> (2) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
-### Model Rules of Professional Conduct, Rule 3.6
+</div>
 
-#### Trial Publicity
+#### Rule 3.5: Impartiality and Decorum of the Tribunal
 
-(a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
+A lawyer shall not:
 
-(b) Notwithstanding paragraph (a), a lawyer may state:
-	(1) the claim, offense or defense involved and, except when prohibited by law, the identity of the persons involved;
+(a) seek to influence a judge, juror, prospective juror or other official by means prohibited by law;
 
-	(2) information contained in a public record;
+(b) communicate ex parte with such a person during the proceeding unless authorized to do so by law or court order;
 
-	(3) that an investigation of a matter is in progress;
+(c) communicate with a juror or prospective juror after discharge of the jury if:
 
-	(4) the scheduling or result of any step in litigation;
+> (1) the communication is prohibited by law or court order;
 
-	(5) a request for assistance in obtaining evidence and information necessary thereto;
+> (2) the juror has made known to the lawyer a desire not to communicate; or
 
-	(6) a warning of danger concerning the behavior of a person involved, when there is reason to believe that there exists the likelihood of substantial harm to an individual or to the public interest; and
+> (3) the communication involves misrepresentation, coercion, duress or harassment; or
 
-	(7) in a criminal case, in addition to subparagraphs (1) through (6):
+(d) engage in conduct intended to disrupt a tribunal.
 
-		(i) the identity, residence, occupation and family status of the accused;
+#### Rule 3.7: Lawyer as Witness
 
-		(ii) if the accused has not been apprehended, information necessary to aid in apprehension of that person;
+(a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 
-		(iii) the fact, time and place of arrest; and
+> (1) the testimony relates to an uncontested issue;
 
-		(iv) the identity of investigating and arresting officers or agencies and the length of the investigation.
+> (2) the testimony relates to the nature and value of legal services rendered in the case; or
 
-(c) Notwithstanding paragraph (a), a lawyer may make a statement that a reasonable lawyer would believe is required to protect a client from the substantial undue prejudicial effect of recent publicity not initiated by the lawyer or the lawyer's client. A statement made pursuant to this paragraph shall be limited to such information as is necessary to mitigate the recent adverse publicity.
+> (3) disqualification of the lawyer would work substantial hardship on the client.
 
-(d) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
+(b) A lawyer may act as advocate in a trial in which another lawyer in the lawyer's firm is likely to be called as a witness unless precluded from doing so by Rule 1.7 or Rule 1.9.)
+
+</div>
+
+## Extrajudicial Statements 
+
+### Model Rules of Professional Conduct, 
+
+<div class="legal-code">
+
+#### Rule 3.6: Trial Publicity
+
+(a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
+
+(b) Notwithstanding paragraph (a), a lawyer may state:
+
+> (1) the claim, offense or defense involved and, except when prohibited by law, the identity of the persons involved;
+
+> (2) information contained in a public record;
+
+> (3) that an investigation of a matter is in progress;
+
+> (4) the scheduling or result of any step in litigation;
+
+> (5) a request for assistance in obtaining evidence and information necessary thereto;
+
+> (6) a warning of danger concerning the behavior of a person involved, when there is reason to believe that there exists the likelihood of substantial harm to an individual or to the public interest; and
+
+> (7) in a criminal case, in addition to subparagraphs (1) through (6):
+
+> > (i) the identity, residence, occupation and family status of the accused;
+
+> > (ii) if the accused has not been apprehended, information necessary to aid in apprehension of that person;
+
+> > (iii) the fact, time and place of arrest; and
+
+> > (iv) the identity of investigating and arresting officers or agencies and the length of the investigation.
+
+(c) Notwithstanding paragraph (a), a lawyer may make a statement that a reasonable lawyer would believe is required to protect a client from the substantial undue prejudicial effect of recent publicity not initiated by the lawyer or the lawyer's client. A statement made pursuant to this paragraph shall be limited to such information as is necessary to mitigate the recent adverse publicity.
+
+(d) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
+
+</div>
 
 ### In re Litz, 721 N.E.2d 258 (Ind. 1999)
-
-
 
 The respondent, Steven C. Litz, defended a woman accused of neglect of a dependent. While a retrial of that case proceeded, the respondent caused to be published in several newspapers a letter which stated his client had committed no crime, criticized the prosecutor's decision to retry the case, and mentioned that his client had passed a lie detector test. For that, we find today that the respondent violated Ind. Professional Conduct Rule 3.6(a), which forbids attorneys from making extrajudicial statements which they know or reasonably should have known a substantial likelihood of materially prejudicing an adjudicative proceeding.
 
@@ -424,79 +447,76 @@ The parties agree that the appropriate sanction for the misconduct is a public r
 
 We view the respondent's actions as a purposeful attempt to gain an unfair advantage in retrial of his client's case. Although the respondent had no real selfish motive (and instead apparently sought only to advocate zealously his client's cause), he nonetheless was bound to do so only within the bounds of our ethical rules. His public comments were inappropriate because they threatened or in fact impinged the prospect of a fair trial for his client. Whether extrajudicial statements of this sort warrant reprimand or suspension is fact sensitive. Here, we take into account the fact that the respondent's primary motivation appears to have been the welfare of his client. We are also cognizant while assessing the proposed sanction of our policy of encouraging agreed resolution of disciplinary cases. We find that, in this case, the agreed sanction of a public reprimand is appropriate.
 
-
-## Lawyer as Witness
-
-### Model Rules of Professional Conduct, Rule 3.7
-
-(a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
-
-	(1) the testimony relates to an uncontested issue;
-
-	(2) the testimony relates to the nature and value of legal services rendered in the case; or
-
-	(3) disqualification of the lawyer would work substantial hardship on the client.
-
-(b) A lawyer may act as advocate in a trial in which another lawyer in the lawyer's firm is likely to be called as a witness unless precluded from doing so by Rule 1.7 or Rule 1.9.)
-
-
-
 # Prosecutorial Misconduct
 
-### Model Rules of Professional Conduct, Rule 3.8
+### Model Rules of Professional Conduct
 
-#### Special Responsibilities of a Prosecutor
+</div class="legal-code">
+
+#### Rule 3.8: Special Responsibilities of a Prosecutor
 
 The prosecutor in a criminal case shall:
 
-(a) refrain from prosecuting a charge that the prosecutor knows is not supported by probable cause;
+(a) refrain from prosecuting a charge that the prosecutor knows is not supported by probable cause;
 
-(b) make reasonable efforts to assure that the accused has been advised of the right to, and the procedure for obtaining, counsel and has been given reasonable opportunity to obtain counsel;
+(b) make reasonable efforts to assure that the accused has been advised of the right to, and the procedure for obtaining, counsel and has been given reasonable opportunity to obtain counsel;
 
-(c) not seek to obtain from an unrepresented accused a waiver of important pretrial rights, such as the right to a preliminary hearing;
+(c) not seek to obtain from an unrepresented accused a waiver of important pretrial rights, such as the right to a preliminary hearing;
 
-(d) make timely disclosure to the defense of all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all unprivileged mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal;
+(d) make timely disclosure to the defense of all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all unprivileged mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal;
 
-(e) not subpoena a lawyer in a grand jury or other criminal proceeding to present evidence about a past or present client unless the prosecutor reasonably believes:
-	(1) the information sought is not protected from disclosure by any applicable privilege;
-	(2) the evidence sought is essential to the successful completion of an ongoing investigation or prosecution; and
-	(3) there is no other feasible alternative to obtain the information;
+(e) not subpoena a lawyer in a grand jury or other criminal proceeding to present evidence about a past or present client unless the prosecutor reasonably believes:
 
-(f) except for statements that are necessary to inform the public of the nature and extent of the prosecutor's action and that serve a legitimate law enforcement purpose, refrain from making extrajudicial comments that have a substantial likelihood of heightening public condemnation of the accused and exercise reasonable care to prevent investigators, law enforcement personnel, employees or other persons assisting or associated with the prosecutor in a criminal case from making an extrajudicial statement that the prosecutor would be prohibited from making under Rule 3.6 or this Rule.
+> (1) the information sought is not protected from disclosure by any applicable privilege;
 
-(g) When a prosecutor knows of new, credible and material evidence creating a reasonable likelihood that a convicted defendant did not commit an offense of which the defendant was convicted, the prosecutor shall:
-	(1) promptly disclose that evidence to an appropriate court or authority, and
-	(2) if the conviction was obtained in the prosecutor's jurisdiction,
-		(i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
-	(ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
+> (2) the evidence sought is essential to the successful completion of an ongoing investigation or prosecution; and
 
-(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
+> (3) there is no other feasible alternative to obtain the information;
 
-##### Comments
+(f) except for statements that are necessary to inform the public of the nature and extent of the prosecutor's action and that serve a legitimate law enforcement purpose, refrain from making extrajudicial comments that have a substantial likelihood of heightening public condemnation of the accused and exercise reasonable care to prevent investigators, law enforcement personnel, employees or other persons assisting or associated with the prosecutor in a criminal case from making an extrajudicial statement that the prosecutor would be prohibited from making under Rule 3.6 or this Rule.
 
-[1] A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice, that guilt is decided upon the basis of sufficient evidence, and that special precautions are taken to prevent and to rectify the conviction of innocent persons. The extent of mandated remedial action is a matter of debate and varies in different jurisdictions. Many jurisdictions have adopted the ABA Standards of Criminal Justice Relating to the Prosecution Function, which are the product of prolonged and careful deliberation by lawyers experienced in both criminal prosecution and defense. Competent representation of the sovereignty may require a prosecutor to undertake some procedural and remedial measures as a matter of obligation. Applicable law may require other measures by the prosecutor and knowing disregard of those obligations or a systematic abuse of prosecutorial discretion could constitute a violation of Rule 8.4.
+(g) When a prosecutor knows of new, credible and material evidence creating a reasonable likelihood that a convicted defendant did not commit an offense of which the defendant was convicted, the prosecutor shall:
 
-[7] When a prosecutor knows of new, credible and material evidence creating a reasonable likelihood that a person outside the prosecutor’s jurisdiction was convicted of a crime that the person did not commit, paragraph (g) requires prompt disclosure to the court or other appropriate authority, such as the chief prosecutor of the jurisdiction where the conviction occurred. If the conviction was obtained in the prosecutor’s jurisdiction, paragraph (g) requires the prosecutor to examine the evidence and undertake further investigation to determine whether the defendant is in fact innocent or make reasonable efforts to cause another appropriate authority to undertake the necessary investigation, and to promptly disclose the evidence to the court and, absent court-authorized delay, to the defendant. Consistent with the objectives of Rules 4.2 and 4.3, disclosure to a represented defendant must be made through the defendant’s counsel, and, in the case of an unrepresented defendant, would ordinarily be accompanied by a request to a court for the appointment of counsel to assist the defendant in taking such legal measures as may be appropriate.
 
-[8] Under paragraph (h), once the prosecutor knows of clear and convincing evidence that the defendant was convicted of an offense that the defendant did not commit, the prosecutor must seek to remedy the conviction. Necessary steps may include disclosure of the evidence to the defendant, requesting that the court appoint counsel for an unrepresented indigent defendant and, where appropriate, notifying the court that the prosecutor has knowledge that the defendant did not commit the offense of which the defendant was convicted.
+> (1) promptly disclose that evidence to an appropriate court or authority, and
 
-[9] A prosecutor’s independent judgment, made in good faith, that the new evidence is not of such nature as to trigger the obligations of sections (g) and (h), though subsequently determined to have been erroneous, does not constitute a violation of this Rule.
+> (2) if the conviction was obtained in the prosecutor's jurisdiction,
+
+> > (i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
+
+> (ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
+
+(h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
+
+###### Comments
+
+[1] A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice, that guilt is decided upon the basis of sufficient evidence, and that special precautions are taken to prevent and to rectify the conviction of innocent persons. The extent of mandated remedial action is a matter of debate and varies in different jurisdictions. Many jurisdictions have adopted the ABA Standards of Criminal Justice Relating to the Prosecution Function, which are the product of prolonged and careful deliberation by lawyers experienced in both criminal prosecution and defense. Competent representation of the sovereignty may require a prosecutor to undertake some procedural and remedial measures as a matter of obligation. Applicable law may require other measures by the prosecutor and knowing disregard of those obligations or a systematic abuse of prosecutorial discretion could constitute a violation of Rule 8.4.
+
+[7] When a prosecutor knows of new, credible and material evidence creating a reasonable likelihood that a person outside the prosecutor’s jurisdiction was convicted of a crime that the person did not commit, paragraph (g) requires prompt disclosure to the court or other appropriate authority, such as the chief prosecutor of the jurisdiction where the conviction occurred. If the conviction was obtained in the prosecutor’s jurisdiction, paragraph (g) requires the prosecutor to examine the evidence and undertake further investigation to determine whether the defendant is in fact innocent or make reasonable efforts to cause another appropriate authority to undertake the necessary investigation, and to promptly disclose the evidence to the court and, absent court-authorized delay, to the defendant. Consistent with the objectives of Rules 4.2 and 4.3, disclosure to a represented defendant must be made through the defendant’s counsel, and, in the case of an unrepresented defendant, would ordinarily be accompanied by a request to a court for the appointment of counsel to assist the defendant in taking such legal measures as may be appropriate.
+
+[8] Under paragraph (h), once the prosecutor knows of clear and convincing evidence that the defendant was convicted of an offense that the defendant did not commit, the prosecutor must seek to remedy the conviction. Necessary steps may include disclosure of the evidence to the defendant, requesting that the court appoint counsel for an unrepresented indigent defendant and, where appropriate, notifying the court that the prosecutor has knowledge that the defendant did not commit the offense of which the defendant was convicted.
+
+[9] A prosecutor’s independent judgment, made in good faith, that the new evidence is not of such nature as to trigger the obligations of sections (g) and (h), though subsequently determined to have been erroneous, does not constitute a violation of this Rule.
+
+</div>
 
 ### ABA Criminal Justice Standards for the Prosecution Function (2017)
 
+<class="legal-code">
+
 #### Standard 3-1.2: Functions and Duties of the Prosecutor
 
-(a) The prosecutor is an administrator of justice, a zealous advocate, and an officer of the court. The prosecutor's office should exercise sound discretion and independent judgment in the performance of the prosecution function.
+(a) The prosecutor is an administrator of justice, a zealous advocate, and an officer of the court. The prosecutor's office should exercise sound discretion and independent judgment in the performance of the prosecution function.
 
-(b) The primary duty of the prosecutor is to seek justice within the bounds of the law, not merely to convict. The prosecutor serves the public interest and should act with integrity and balanced judgment to increase public safety both by pursuing appropriate criminal charges of appropriate severity, and by exercising discretion to not pursue criminal charges in appropriate circumstances. The prosecutor should seek to protect the innocent and convict the guilty, consider the interests of victims and witnesses, and respect the constitutional and legal rights of all persons, including suspects and defendants.
+(b) The primary duty of the prosecutor is to seek justice within the bounds of the law, not merely to convict. The prosecutor serves the public interest and should act with integrity and balanced judgment to increase public safety both by pursuing appropriate criminal charges of appropriate severity, and by exercising discretion to not pursue criminal charges in appropriate circumstances. The prosecutor should seek to protect the innocent and convict the guilty, consider the interests of victims and witnesses, and respect the constitutional and legal rights of all persons, including suspects and defendants.
 
-(c) The prosecutor should know and abide by the standards of professional conduct as expressed in applicable law and ethical codes and opinions in the applicable jurisdiction. The prosecutor should avoid an appearance of impropriety in performing the prosecution function. A prosecutor should seek out, and the prosecutor's office should provide, supervisory advice and ethical guidance when the proper course of prosecutorial conduct seems unclear. A prosecutor who disagrees with a governing ethical rule should seek its change if appropriate, and directly challenge it if necessary, but should comply with it unless relieved by court order.
+(c) The prosecutor should know and abide by the standards of professional conduct as expressed in applicable law and ethical codes and opinions in the applicable jurisdiction. The prosecutor should avoid an appearance of impropriety in performing the prosecution function. A prosecutor should seek out, and the prosecutor's office should provide, supervisory advice and ethical guidance when the proper course of prosecutorial conduct seems unclear. A prosecutor who disagrees with a governing ethical rule should seek its change if appropriate, and directly challenge it if necessary, but should comply with it unless relieved by court order.
 
-(d) The prosecutor should make use of ethical guidance offered by existing organizations, and should seek to establish and make use of an ethics advisory group akin to that described in Defense Function Standard 4-1.11.
+(d) The prosecutor should make use of ethical guidance offered by existing organizations, and should seek to establish and make use of an ethics advisory group akin to that described in Defense Function Standard 4-1.11.
 
-(e) The prosecutor should be knowledgeable about, consider, and where appropriate develop or assist in developing alternatives to prosecution or conviction that may be applicable in individual cases or classes of cases. The prosecutor's office should be available to assist community efforts addressing problems that lead to, or result from, criminal activity or perceived flaws in the criminal justice system.
+(e) The prosecutor should be knowledgeable about, consider, and where appropriate develop or assist in developing alternatives to prosecution or conviction that may be applicable in individual cases or classes of cases. The prosecutor's office should be available to assist community efforts addressing problems that lead to, or result from, criminal activity or perceived flaws in the criminal justice system.
 
-(f) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
+(f) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
 
 #### Standard 3-1.3: The Client of the Prosecutor
 
@@ -504,25 +524,27 @@ The prosecutor generally serves the public and not any particular government age
 
 #### Standard 3-1.4: The Prosecutor's Heightened Duty of Candor
 
-(a) In light of the prosecutor's public responsibilities, broad authority and discretion, the prosecutor has a heightened duty of candor to the courts and in fulfilling other professional obligations. However, the prosecutor should be circumspect in publicly commenting on specific cases or aspects of the business of the office.
+(a) In light of the prosecutor's public responsibilities, broad authority and discretion, the prosecutor has a heightened duty of candor to the courts and in fulfilling other professional obligations. However, the prosecutor should be circumspect in publicly commenting on specific cases or aspects of the business of the office.
 
-(b) The prosecutor should not make a statement of fact or law, or offer evidence, that the prosecutor does not reasonably believe to be true, to a court, lawyer, witness, or third party, except for lawfully authorized investigative purposes. In addition, while seeking to accommodate legitimate confidentiality, safety or security concerns, a prosecutor should correct a prosecutor's representation of material fact or law that the prosecutor reasonably believes is, or later learns was, false, and should disclose a material fact or facts when necessary to avoid assisting a fraudulent or criminal act or to avoid misleading a judge or factfinder.
+(b) The prosecutor should not make a statement of fact or law, or offer evidence, that the prosecutor does not reasonably believe to be true, to a court, lawyer, witness, or third party, except for lawfully authorized investigative purposes. In addition, while seeking to accommodate legitimate confidentiality, safety or security concerns, a prosecutor should correct a prosecutor's representation of material fact or law that the prosecutor reasonably believes is, or later learns was, false, and should disclose a material fact or facts when necessary to avoid assisting a fraudulent or criminal act or to avoid misleading a judge or factfinder.
 
-(c) The prosecutor should disclose to a court legal authority in the controlling jurisdiction known to the prosecutor to be directly adverse to the prosecution's position and not disclosed by others.
+(c) The prosecutor should disclose to a court legal authority in the controlling jurisdiction known to the prosecutor to be directly adverse to the prosecution's position and not disclosed by others.
 
 #### Standard 3-1.6: Improper Bias Prohibited
 
-(a) The prosecutor should not manifest or exercise, by words or conduct, bias or prejudice based upon race, sex, religion, national origin, disability, age, sexual orientation, gender identity, or socioeconomic status. A prosecutor should not use other improper considerations, such as partisan or political or personal considerations, in exercising prosecutorial discretion. A prosecutor should strive to eliminate implicit biases, and act to mitigate any improper bias or prejudice when credibly informed that it exists within the scope of the prosecutor's authority.
+(a) The prosecutor should not manifest or exercise, by words or conduct, bias or prejudice based upon race, sex, religion, national origin, disability, age, sexual orientation, gender identity, or socioeconomic status. A prosecutor should not use other improper considerations, such as partisan or political or personal considerations, in exercising prosecutorial discretion. A prosecutor should strive to eliminate implicit biases, and act to mitigate any improper bias or prejudice when credibly informed that it exists within the scope of the prosecutor's authority.
 
-(b) A prosecutor's office should be proactive in efforts to detect, investigate, and eliminate improper biases, with particular attention to historically persistent biases like race, in all of its work. A prosecutor's office should regularly assess the potential for biased or unfairly disparate impacts of its policies on communities within the prosecutor's jurisdiction, and eliminate those impacts that cannot be properly justified.
+(b) A prosecutor's office should be proactive in efforts to detect, investigate, and eliminate improper biases, with particular attention to historically persistent biases like race, in all of its work. A prosecutor's office should regularly assess the potential for biased or unfairly disparate impacts of its policies on communities within the prosecutor's jurisdiction, and eliminate those impacts that cannot be properly justified.
 
 #### Standard 3-1.12: Duty to Report and Respond to Prosecutorial Misconduct
 
-(a) The prosecutor's office should adopt policies to address allegations of professional misconduct, including violations of law, by prosecutors. At a minimum such policies should require internal reporting of reasonably suspected misconduct to supervisory staff within the office, and authorize supervisory staff to quickly address the allegations. Investigations of allegations of professional misconduct within the prosecutor's office should be handled in an independent and conflict-free manner.
+(a) The prosecutor's office should adopt policies to address allegations of professional misconduct, including violations of law, by prosecutors. At a minimum such policies should require internal reporting of reasonably suspected misconduct to supervisory staff within the office, and authorize supervisory staff to quickly address the allegations. Investigations of allegations of professional misconduct within the prosecutor's office should be handled in an independent and conflict-free manner.
 
-(b) When a prosecutor reasonably believes that another person associated with the prosecutor's office intends or is about to engage in misconduct, the prosecutor should attempt to dissuade the person. If such attempt fails or is not possible, and the prosecutor reasonably believes that misconduct is ongoing, will occur, or has occurred, the prosecutor should promptly refer the matter to higher authority in the prosecutor's office including, if warranted by the seriousness of the matter, to the chief prosecutor.
+(b) When a prosecutor reasonably believes that another person associated with the prosecutor's office intends or is about to engage in misconduct, the prosecutor should attempt to dissuade the person. If such attempt fails or is not possible, and the prosecutor reasonably believes that misconduct is ongoing, will occur, or has occurred, the prosecutor should promptly refer the matter to higher authority in the prosecutor's office including, if warranted by the seriousness of the matter, to the chief prosecutor.
 
-(c) If, despite the prosecutor's efforts in accordance with sections (a) and (b) above, the chief prosecutor permits, fails to address, or insists upon an action or omission that is clearly a violation of law, the prosecutor should take further remedial action, including revealing information necessary to address, remedy, or prevent the violation to appropriate judicial, regulatory, or other government officials not in the prosecutor's office.
+(c) If, despite the prosecutor's efforts in accordance with sections (a) and (b) above, the chief prosecutor permits, fails to address, or insists upon an action or omission that is clearly a violation of law, the prosecutor should take further remedial action, including revealing information necessary to address, remedy, or prevent the violation to appropriate judicial, regulatory, or other government officials not in the prosecutor's office.
+
+</div>
 
 ### Berger v. United States, 295 U.S. 78 (1935)
 

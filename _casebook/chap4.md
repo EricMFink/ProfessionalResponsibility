@@ -6,179 +6,208 @@ title: Duty of Care
 
 # Competence, Diligence, & Communication
 
-### Model Rules of Professional Conduct, Rule 1.1
+### Model Rules of Professional Conduct
 
-#### Competence
+<div class=}legal-code">
+
+#### Rule 1.1: Competence
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-##### Comment:
+###### Comment:
 
-##### Legal Knowledge and Skill
+_Legal Knowledge and Skill_
 
-1. In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
-2. A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
-3. In an emergency a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to or consultation or association with another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that reasonably necessary in the circumstances, for illconsidered action under emergency conditions can jeopardize the client's interest.
-4. A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person. See also Rule 6.2.
+1. In determining whether a lawyer employs the requisite knowledge and skill in a particular matter, relevant factors include the relative complexity and specialized nature of the matter, the lawyer's general experience, the lawyer's training and experience in the field in question, the preparation and study the lawyer is able to give the matter and whether it is feasible to refer the matter to, or associate or consult with, a lawyer of established competence in the field in question. In many instances, the required proficiency is that of a general practitioner. Expertise in a particular field of law may be required in some circumstances.
 
-##### Thoroughness and Preparation
+2. A lawyer need not necessarily have special training or prior experience to handle legal problems of a type with which the lawyer is unfamiliar. A newly admitted lawyer can be as competent as a practitioner with long experience. Some important legal skills, such as the analysis of precedent, the evaluation of evidence and legal drafting, are required in all legal problems. Perhaps the most fundamental legal skill consists of determining what kind of legal problems a situation may involve, a skill that necessarily transcends any particular specialized knowledge. A lawyer can provide adequate representation in a wholly novel field through necessary study. Competent representation can also be provided through the association of a lawyer of established competence in the field in question.
 
-5. Competent handling of a particular matter includes inquiry into and analysis of the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined in part by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity and consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
+3. In an emergency a lawyer may give advice or assistance in a matter in which the lawyer does not have the skill ordinarily required where referral to or consultation or association with another lawyer would be impractical. Even in an emergency, however, assistance should be limited to that reasonably necessary in the circumstances, for illconsidered action under emergency conditions can jeopardize the client's interest.
 
-##### Retaining or Contracting With Other Lawyers
+4. A lawyer may accept representation where the requisite level of competence can be achieved by reasonable preparation. This applies as well to a lawyer who is appointed as counsel for an unrepresented person. See also Rule 6.2.
 
-6. Before a lawyer retains or contracts with other lawyers outside the lawyer's own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers' services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee sharing), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer's own firm will depend upon the circumstances, including the education, experience and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
-7. When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
+_Thoroughness and Preparation_
 
-##### Maintaining Competence
+5. Competent handling of a particular matter includes inquiry into and analysis of the factual and legal elements of the problem, and use of methods and procedures meeting the standards of competent practitioners. It also includes adequate preparation. The required attention and preparation are determined in part by what is at stake; major litigation and complex transactions ordinarily require more extensive treatment than matters of lesser complexity and consequence. An agreement between the lawyer and the client regarding the scope of the representation may limit the matters for which the lawyer is responsible. See Rule 1.2(c).
 
-8. To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology, engage in continuing study and education and comply with all continuing legal education requirements to which the lawyer is subject.
+_Retaining or Contracting With Other Lawyers_
 
-### Model Rules of Professional Conduct, Rule 1.3
+6. Before a lawyer retains or contracts with other lawyers outside the lawyer's own firm to provide or assist in the provision of legal services to a client, the lawyer should ordinarily obtain informed consent from the client and must reasonably believe that the other lawyers' services will contribute to the competent and ethical representation of the client. See also Rules 1.2 (allocation of authority), 1.4 (communication with client), 1.5(e) (fee sharing), 1.6 (confidentiality), and 5.5(a) (unauthorized practice of law). The reasonableness of the decision to retain or contract with other lawyers outside the lawyer's own firm will depend upon the circumstances, including the education, experience and reputation of the nonfirm lawyers; the nature of the services assigned to the nonfirm lawyers; and the legal protections, professional conduct rules, and ethical environments of the jurisdictions in which the services will be performed, particularly relating to confidential information.
 
-#### Diligence
+7. When lawyers from more than one law firm are providing legal services to the client on a particular matter, the lawyers ordinarily should consult with each other and the client about the scope of their respective representations and the allocation of responsibility among them. See Rule 1.2. When making allocations of responsibility in a matter pending before a tribunal, lawyers and parties may have additional obligations that are a matter of law beyond the scope of these Rules.
+
+_Maintaining Competence_
+
+8. To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology, engage in continuing study and education and comply with all continuing legal education requirements to which the lawyer is subject.
+
+#### Rule 1.3: Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-### Model Rules of Professional Conduct, Rule 1.4
+#### Rule 1.4: Communication
 
-#### Communication
+(a) A lawyer shall:
 
-(a) A lawyer shall:
-	(1) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
-	(2) reasonably consult with the client about the means by which the client's objectives are to be accomplished;
-	(3) keep the client reasonably informed about the status of the matter;
-	(4) promptly comply with reasonable requests for information; and
-	(5) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
-(b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+> (1) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
 
-### Model Rules of Professional Conduct, Rule 2.1
+> (2) reasonably consult with the client about the means by which the client's objectives are to be accomplished;
 
-#### Advisor
+> (3) keep the client reasonably informed about the status of the matter;
+
+> (4) promptly comply with reasonable requests for information; and
+
+> (5) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
+
+(b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+
+#### Rule 2.1: Advisor
 
 In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
 
-### Model Rules of Professional Conduct, Rule 2.2
+#### Rule 2.2: Evaluation for Use by Third Persons
 
-#### Evaluation for Use by Third Persons
+(a) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
 
-(a) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
-(b) When the lawyer knows or reasonably should know that the evaluation is likely to affect the client's interests materially and adversely, the lawyer shall not provide the evaluation unless the client gives informed consent.
-(c) Except as disclosure is authorized in connection with a report of an evaluation, information relating to the evaluation is otherwise protected by Rule 1.6.
+(b) When the lawyer knows or reasonably should know that the evaluation is likely to affect the client's interests materially and adversely, the lawyer shall not provide the evaluation unless the client gives informed consent.
+
+(c) Except as disclosure is authorized in connection with a report of an evaluation, information relating to the evaluation is otherwise protected by Rule 1.6.
+
+</div>
 
 # Malpractice
 
 The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
 
 
-### Rest. (2d) of the Law Governing Lawyers § 48
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### Professional Negligence—Elements and Defenses Generally
+<div class="legal-code">
+
+#### § 48: Professional Negligence—Elements and Defenses Generally
 
 In addition to the other possible bases of civil liability described in §§ 49, 55, and 56, a lawyer is civilly liable for professional negligence to a person to whom the lawyer owes a duty of care within the meaning of § 50 or § 51, if the lawyer fails to exercise care within the meaning of § 52 and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
-### Rest. (2d) of the Law Governing Lawyers § 49
-
-#### Breach of Fiduciary Duty—Generally
+#### § 49: Breach of Fiduciary Duty—Generally
 
 In addition to the other possible bases of civil liability described in §§ 48, 55, and 56, a lawyer is civilly liable to a client if the lawyer breaches a fiduciary duty to the client set forth in § 16(3) and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
-### Rest. (2d) of the Law Governing Lawyers § 50
-
-#### Duty of Care to a Client
+#### § 50: Duty of Care to a Client
 
 For purposes of liability under § 48, a lawyer owes a client the duty to exercise care within the meaning of § 52 in pursuing the client's lawful objectives in matters covered by the representation.
 
-### Rest. (2d) of the Law Governing Lawyers § 51
-
-#### Duty of Care to Certain Nonclients
+#### § 51: Duty of Care to Certain Nonclients
 
 For purposes of liability under § 48, a lawyer owes a duty to use care within the meaning of § 52 in each of the following circumstances:
 
-(1) to a prospective client, as stated in § 15;
-(2) to a nonclient when and to the extent that:
-	(a) the lawyer or (with the lawyer's acquiescence) the lawyer's client invites the nonclient to rely on the lawyer's opinion or provision of other legal services, and the nonclient so relies; and
-	(b) the nonclient is not, under applicable tort law, too remote from the lawyer to be entitled to protection;
-(3) to a nonclient when and to the extent that:
-	(a) the lawyer knows that a client intends as one of the primary objectives of the representation that the lawyer's services benefit the nonclient;
-	(b) such a duty would not significantly impair the lawyer's performance of obligations to the client; and
-	(c) the absence of such a duty would make enforcement of those obligations to the client unlikely; and
-(4) to a nonclient when and to the extent that:
-	(a) the lawyer's client is a trustee, guardian, executor, or fiduciary acting primarily to perform similar functions for the nonclient;
-	(b) the lawyer knows that appropriate action by the lawyer is necessary with respect to a matter within the scope of the representation to prevent or rectify the breach of a fiduciary duty owed by the client to the nonclient, where (i) the breach is a crime or fraud or (ii) the lawyer has assisted or is assisting the breach;
-	(c) the nonclient is not reasonably able to protect its rights; and
-	(d) such a duty would not significantly impair the performance of the lawyer's obligations to the client.
+(1) to a prospective client, as stated in § 15;
 
-### Rest. (2d) of the Law Governing Lawyers § 52
+(2) to a nonclient when and to the extent that:
 
-#### The Standard of Care
+> (a) the lawyer or (with the lawyer's acquiescence) the lawyer's client invites the nonclient to rely on the lawyer's opinion or provision of other legal services, and the nonclient so relies; and
 
-(1) For purposes of liability under §§ 48 and 49, a lawyer who owes a duty of care must exercise the competence and diligence normally exercised by lawyers in similar circumstances.
-(2) Proof of a violation of a rule or statute regulating the conduct of lawyers:
-	(a) does not give rise to an implied cause of action for professional negligence or breach of fiduciary duty;
-	(b) does not preclude other proof concerning the duty of care in Subsection (1) or the fiduciary duty; and
-	(c) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
+> (b) the nonclient is not, under applicable tort law, too remote from the lawyer to be entitled to protection;
 
-### Rest. (2d) of the Law Governing Lawyers § 53
+(3) to a nonclient when and to the extent that:
 
-#### Causation and Damages
+> (a) the lawyer knows that a client intends as one of the primary objectives of the representation that the lawyer's services benefit the nonclient;
+
+> (b) such a duty would not significantly impair the lawyer's performance of obligations to the client; and
+
+> (c) the absence of such a duty would make enforcement of those obligations to the client unlikely; and
+
+(4) to a nonclient when and to the extent that:
+
+> (a) the lawyer's client is a trustee, guardian, executor, or fiduciary acting primarily to perform similar functions for the nonclient;
+
+> (b) the lawyer knows that appropriate action by the lawyer is necessary with respect to a matter within the scope of the representation to prevent or rectify the breach of a fiduciary duty owed by the client to the nonclient, where (i) the breach is a crime or fraud or (ii) the lawyer has assisted or is assisting the breach;
+
+> (c) the nonclient is not reasonably able to protect its rights; and
+
+> (d) such a duty would not significantly impair the performance of the lawyer's obligations to the client.
+
+#### § 52: The Standard of Care
+
+(1) For purposes of liability under §§ 48 and 49, a lawyer who owes a duty of care must exercise the competence and diligence normally exercised by lawyers in similar circumstances.
+
+(2) Proof of a violation of a rule or statute regulating the conduct of lawyers:
+
+> (a) does not give rise to an implied cause of action for professional negligence or breach of fiduciary duty;
+
+> (b) does not preclude other proof concerning the duty of care in Subsection (1) or the fiduciary duty; and
+
+> (c) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
+
+#### § 53: Causation and Damages
 
 A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of care or breach of fiduciary duty was a legal cause of injury, as determined under generally applicable principles of causation and damages.
 
-### Rest. (2d) of the Law Governing Lawyers § 54
+#### § 54: Defenses; Prospective Liability Waiver; Settlement with a Client
 
-#### Defenses; Prospective Liability Waiver; Settlement with a Client
+(1) Except as otherwise provided in this Section, liability under §§ 48 and 49 is subject to the defenses available under generally applicable principles of law governing respectively actions for professional negligence and breach of fiduciary duty. A lawyer is not liable under § 48 or § 49 for any action or inaction the lawyer reasonably believed to be required by law, including a professional rule.
 
-(1) Except as otherwise provided in this Section, liability under §§ 48 and 49 is subject to the defenses available under generally applicable principles of law governing respectively actions for professional negligence and breach of fiduciary duty. A lawyer is not liable under § 48 or § 49 for any action or inaction the lawyer reasonably believed to be required by law, including a professional rule.
-(2) An agreement prospectively limiting a lawyer's liability to a client for malpractice is unenforceable.
-(3) The client or former client may rescind an agreement settling a claim by the client or former client against the person's lawyer if:
-	(a) the client or former client was subjected to improper pressure by the lawyer in reaching the settlement; or
-	(b) (i) the client or former client was not independently represented in negotiating the settlement, and (ii) the settlement was not fair and reasonable to the client or former client.
-(4) For purposes of professional discipline, a lawyer may not:
-	(a) make an agreement prospectively limiting the lawyer's liability to a client for malpractice; or
-	(b) settle a claim for such liability with an unrepresented client or former client
-	
-	without first advising that person in writing that independent representation is appropriate in connection therewith.
+(2) An agreement prospectively limiting a lawyer's liability to a client for malpractice is unenforceable.
 
-### Rest. (2d) of the Law Governing Lawyers § 55
+(3) The client or former client may rescind an agreement settling a claim by the client or former client against the person's lawyer if:
 
-#### Civil Remedies of a Client Other Than for Malpractice
+> (a) the client or former client was subjected to improper pressure by the lawyer in reaching the settlement; or
 
-(1) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
-(2) A client is entitled to restitutionary, injunctive, or declaratory remedies against a lawyer in the circumstances and to the extent provided by generally applicable law governing such remedies.
+> (b) (i) the client or former client was not independently represented in negotiating the settlement, and (ii) the settlement was not fair and reasonable to the client or former client.
 
-### Rest. (2d) of the Law Governing Lawyers § 56
+(4) For purposes of professional discipline, a lawyer may not:
 
-#### Liability to a Client or Nonclient Under General Law
+> (a) make an agreement prospectively limiting the lawyer's liability to a client for malpractice; or
+
+> (b) settle a claim for such liability with an unrepresented client or former client
+ 
+without first advising that person in writing that independent representation is appropriate in connection therewith.
+
+#### § 55: Civil Remedies of a Client Other Than for Malpractice
+
+(1) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
+
+(2) A client is entitled to restitutionary, injunctive, or declaratory remedies against a lawyer in the circumstances and to the extent provided by generally applicable law governing such remedies.
+
+#### § 56: Liability to a Client or Nonclient Under General Law
 
 Except as provided in § 57 and in addition to liability under §§ 48-55, a lawyer is subject to liability to a client or nonclient when a nonlawyer would be in similar circumstances.
 
-### Rest. (2d) of the Law Governing Lawyers § 57
+#### § 57: Nonclient Claims—Certain Defenses and Exceptions to Liability
 
-#### Nonclient Claims—Certain Defenses and Exceptions to Liability
+(1) In addition to other absolute or conditional privileges, a lawyer is absolutely privileged to publish matter concerning a nonclient if:
 
-(1) In addition to other absolute or conditional privileges, a lawyer is absolutely privileged to publish matter concerning a nonclient if:
-	(a) the publication occurs in communications preliminary to a reasonably anticipated proceeding before a tribunal or in the institution or during the course and as a part of such a proceeding;
-	(b) the lawyer participates as counsel in that proceeding; and
-	(c) the matter is published to a person who may be involved in the proceeding, and the publication has some relation to the proceeding.
-(2) A lawyer representing a client in a civil proceeding or procuring the institution of criminal proceedings by a client is not liable to a nonclient for wrongful use of civil proceedings or for malicious prosecution if the lawyer has probable cause for acting, or if the lawyer acts primarily to help the client obtain a proper adjudication of the client's claim in that proceeding.
-(3) A lawyer who advises or assists a client to make or break a contract, to enter or dissolve a legal relationship, or to enter or not enter a contractual relation, is not liable to a nonclient for interference with contract or with prospective contractual relations or with a legal relationship, if the lawyer acts to advance the client's objectives without using wrongful means.
+> (a) the publication occurs in communications preliminary to a reasonably anticipated proceeding before a tribunal or in the institution or during the course and as a part of such a proceeding;
 
-### Rest. (2d) of the Law Governing Lawyers § 58
+> (b) the lawyer participates as counsel in that proceeding; and
 
-#### Vicarious Liability
+> (c) the matter is published to a person who may be involved in the proceeding, and the publication has some relation to the proceeding.
 
-(1) A law firm is subject to civil liability for injury legally caused to a person by any wrongful act or omission of any principal or employee of the firm who was acting in the ordinary course of the firm's business or with actual or apparent authority.
-(2) Each of the principals of a law firm organized as a general partnership without limited liability is liable jointly and severally with the firm.
-(3) A principal of a law firm organized other than as a general partnership without limited liability as authorized by law is vicariously liable for the acts of another principal or employee of the firm to the extent provided by law.
+(2) A lawyer representing a client in a civil proceeding or procuring the institution of criminal proceedings by a client is not liable to a nonclient for wrongful use of civil proceedings or for malicious prosecution if the lawyer has probable cause for acting, or if the lawyer acts primarily to help the client obtain a proper adjudication of the client's claim in that proceeding.
 
-### Model Rules of Professional Conduct, Rule 1.8
+(3) A lawyer who advises or assists a client to make or break a contract, to enter or dissolve a legal relationship, or to enter or not enter a contractual relation, is not liable to a nonclient for interference with contract or with prospective contractual relations or with a legal relationship, if the lawyer acts to advance the client's objectives without using wrongful means.
 
-#### Current Clients: Specific Rules
+#### § 58: Vicarious Liability
 
-(h) A lawyer shall not:
-	(1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
-	(2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+(1) A law firm is subject to civil liability for injury legally caused to a person by any wrongful act or omission of any principal or employee of the firm who was acting in the ordinary course of the firm's business or with actual or apparent authority.
+
+(2) Each of the principals of a law firm organized as a general partnership without limited liability is liable jointly and severally with the firm.
+
+(3) A principal of a law firm organized other than as a general partnership without limited liability as authorized by law is vicariously liable for the acts of another principal or employee of the firm to the extent provided by law.
+
+</div>
+
+### Model Rules of Professional Conduct
+
+<div class="legal-code">
+
+#### Rule 1.8: Current Clients: Specific Rules
+
+(h) A lawyer shall not:
+
+> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+
+> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+
+</div>
 
 
 ### Marker v. Greenberg, 313 N.W.2d 4 (Minn. 1981)
@@ -361,9 +390,9 @@ The issue of Runner's negligence was submitted to the jury under the following i
 
 > (1) It was the duty of the defendant, E. Michael Runner, Attorney at Law, in undertaking the legal representation of the Estate of Lula Daugherty Roach, to exercise that degree of care and skill expected of a reasonably competent lawyer acting in the same or similar circumstances about which you have heard evidence, and this general duty, included the following specific duties:
 >
-> >	(a) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
+> >> (a) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
 >
-> >	(b) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
+> >> (b) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
 >
 > (2) The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
 
