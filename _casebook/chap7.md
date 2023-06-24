@@ -351,8 +351,6 @@ A lawyer shall not:
 
 > (2) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
-</div>
-
 #### Rule 3.5: Impartiality and Decorum of the Tribunal
 
 A lawyer shall not:

@@ -18,7 +18,6 @@ In the course of representing a client a lawyer shall not knowingly:
 
 (b) fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
-
 #### Rule 4.4: Respect for Rights of Third Persons
 
 (a) In representing a client, a lawyer shall not use means that have no substantial purpose other than to embarrass, delay, or burden a third person, or use methods of obtaining evidence that violate the legal rights of such a person.
@@ -26,7 +25,6 @@ In the course of representing a client a lawyer shall not knowingly:
 (b) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 
 </div>
-
 
 # Represented Persons
 
@@ -39,7 +37,6 @@ In the course of representing a client a lawyer shall not knowingly:
 In representing a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order.
 
 </div>
-
 
 ### N.C. State Bar v. Weckworth, No. COA18-866 (N.C, Ct. App. June 4, 2019)
 
@@ -114,9 +111,6 @@ However, Defendant ignores the DHC's finding that he did communicate directly wi
 Moreover, Defendant's interpretation of RPC 4.2 is too narrow. Comment 8 to the Rule makes clear the Rule "applies to communications with any person, whether or not a party to a formal adjudicative proceeding, contract or negotiation, who is represented by counsel concerning the matter to which the communication relates." N.C. St. B. Rev. R. Prof'l Conduct r. 4.2 cmt. 8.
 
 Here, the matter under discussion was custody of Sally. Louise was represented by Caldwell in the Juvenile Case, which concerned custody of Sally. Defendant filed the Civil Case on behalf of the Connors, seeking custody of Sally and naming Louise and DSS as adverse parties, as an alternative to the Juvenile Case. Defendant was clearly aware the Juvenile Case and Civil Case overlapped on the issue of custody of Sally. Indeed, Defendant specifically approached Judge Fletcher on his emergency custody motion precisely because Judge Fletcher was presiding over the Juvenile Case. Applying the whole-record test, the DHC's findings were supported by substantial evidence rising to the level of clear, cogent, and convincing, and its findings support the conclusion Defendant violated RPC 4.2 by communicating with Louise regarding custody of Sally while knowing Louise was represented by Caldwell.
-
-
-
 
 # Unrepresented Persons 
 

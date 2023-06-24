@@ -8,13 +8,17 @@ title: Conflicts of Interest
 
 ## Identifying Conflicts 
 
-### Model Rules of Professional Conduct, Rule 1.7
+### Model Rules of Professional Conduct
 
-#### Conflict of Interest: Current Clients
+#### Rule 1.7: Conflict of Interest: Current Clients
 
-(a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
-> (1) the representation of one client will be directly adverse to another client; or
-> (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer.
+(a) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
+
+> (1) the representation of one client will be directly adverse to another client; or
+
+> (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer.
+
+</div>
 
 ### Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc., 10 A.D.3d 267 (N.Y. App. Div. 2004)
 
@@ -107,15 +111,21 @@ Though structured in a slightly different framework, Judge Conner's findings ful
 
 ## Waiving Conflicts 
 
-### Model Rules of Professional Conduct, Rule 1.7
+### Model Rules of Professional Conduct
 
-#### Conflict of Interest: Current Clients
+<div class="legal-code>
 
-(b) Notwithstanding the existence of a concurrent conflict of interest under paragraph (a), a lawyer may represent a client if:
-> (1) the lawyer reasonably believes that the lawyer will be able to provide competent and diligent representation to each affected client;
-> (2) the representation is not prohibited by law;
-> (3) the representation does not involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation or other proceeding before a tribunal; and
-> (4) each affected client gives informed consent, confirmed in writing.
+#### Rule 1.7: Conflict of Interest: Current Clients
+
+(b) Notwithstanding the existence of a concurrent conflict of interest under paragraph (a), a lawyer may represent a client if:
+
+> (1) the lawyer reasonably believes that the lawyer will be able to provide competent and diligent representation to each affected client;
+
+> (2) the representation is not prohibited by law;
+
+> (3) the representation does not involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation or other proceeding before a tribunal; and
+
+> (4) each affected client gives informed consent, confirmed in writing.
 
 
 ### Representation in Purchase of Foreclosed Property, 2013 Formal Ethics Op. 4 (N.C. State Bar, July 19, 2013)
@@ -124,7 +134,7 @@ Opinion examines the ethical duties of a lawyer representing both the buyer and 
 
 #### Inquiry #1:
 
-Bank A foreclosed its deed of trust on real property and was the highest bidder at the sale. Bank A listed the property for sale. Buyer entered into a contract to purchase the property.
+Bank A foreclosed its deed of trust on real property and was the highest bidder at the sale. Bank A listed the property for sale. Buyer entered into a contract to purchase the property.
 
 An addendum to the Offer to Purchase and Contract (“Contract”) signed by the parties states that the closing shall be held in Seller’s lawyer’s office by a date certain and that Seller, Bank A, “shall only pay those closing costs and fees associated with the transfer of the Property that local custom or practice clearly allocates to Seller ... and the Buyer shall pay all remaining fees and costs.” Bank B is providing financing for the transaction.
 
@@ -394,49 +404,67 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ## Business & Financial Interests
 
-### Model Rules of Professional Conduct, Rule 1.8
+### Model Rules of Professional Conduct
 
-#### Current Clients: Specific Rules
+#### Rule 1.8: Current Clients: Specific Rules
 
-(a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
-> (1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
-> (2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
-> (3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
+(a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
 
-(b) A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
+> (1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
 
-(c) A lawyer shall not solicit any substantial gift from a client, including a testamentary gift, or prepare on behalf of a client an instrument giving the lawyer or a person related to the lawyer any substantial gift unless the lawyer or other recipient of the gift is related to the client. For purposes of this paragraph, related persons include a spouse, child, grandchild, parent, grandparent or other relative or individual with whom the lawyer or the client maintains a close, familial relationship.
+> (2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
 
-(d) Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
+> (3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
 
-(e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
-> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
-> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
-> (3) a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
-> > (i) may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
-> > (ii) may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
-> > (iii) may not publicize or advertise a willingness to provide such gifts to prospective clients.
+(b) A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
+
+(c) A lawyer shall not solicit any substantial gift from a client, including a testamentary gift, or prepare on behalf of a client an instrument giving the lawyer or a person related to the lawyer any substantial gift unless the lawyer or other recipient of the gift is related to the client. For purposes of this paragraph, related persons include a spouse, child, grandchild, parent, grandparent or other relative or individual with whom the lawyer or the client maintains a close, familial relationship.
+
+(d) Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
+
+(e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
+
+> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
+
+> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
+
+> (3) a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
+
+> > (i) may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
+
+> > (ii) may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
+
+> > (iii) may not publicize or advertise a willingness to provide such gifts to prospective clients.
 
 > Financial assistance under this Rule may be provided even if the representation is eligible for fees under a fee-shifting statute.
 
-(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
-> (1) the client gives informed consent;
-> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
-> (3) information relating to representation of a client is protected as required by Rule 1.6.
+(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
-(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+> (1) the client gives informed consent;
 
-(h) A lawyer shall not:
-> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
-> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
 
-(i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
-> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses; and
-> (2) contract with a client for a reasonable contingent fee in a civil case.
+> (3) information relating to representation of a client is protected as required by Rule 1.6.
+
+(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+
+(h) A lawyer shall not:
+
+> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+
+> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+
+(i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
+
+> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses; and
+
+> (2) contract with a client for a reasonable contingent fee in a civil case.
 
 [ … ]
 
-(k) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
+(k) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
+
+</div>
 
 ### In re Morse, 748 S.E.2d 921 (Ga. 2013)
 
@@ -678,7 +706,6 @@ _Prompt and continued payment._ Once an employer commits to paying the legal fee
 
 In sum, through the combined product of the good faith of an employer, the diligence of competent counsel and the exercise of a trial court's supervisory authority, the net result of the company's retention and payment of counsel for its employees complies with the _Rules of Professional Conduct._ For these reasons, the trial court properly denied the State's motion to disqualify counsel.
 
-
 ## Personal Interests
 
 ### Negotiating Private Employment with Opposing Counsel, 2016 Formal Ethics Op. 3 (N.C. State Bar Jan. 27, 2017)
@@ -719,7 +746,11 @@ Similarly, the hiring law firm must not engage in substantive employment negotia
 
 ### Model Rules of Professional Conduct, Rule 1.8
 
-(j) A lawyer shall not have sexual relations with a client unless a consensual sexual relationship existed between them when the client-lawyer relationship commenced.
+<div class="legal-code>
+
+(j) A lawyer shall not have sexual relations with a client unless a consensual sexual relationship existed between them when the client-lawyer relationship commenced.
+
+</div>
 
 ### Disciplinary Counsel v. Sarver, 119 N.E.3d 405 (Ohio 2018)
 
@@ -853,79 +884,75 @@ Sarver's disciplinary woes did not end here. Two years after his suspension, he 
 
 </div>
 
-
 # Conflicts Involving Former Clients
 
-### Model Rules of Professional Conduct, Rule 1.9
+### Model Rules of Professional Conduct
 
-#### Duties to Former Clients
+<div class="legal-code">
 
-(a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
+#### Rule 1.9: Duties to Former Clients
 
-(b) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
+(a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 
-> (1) whose interests are materially adverse to that person; and
->
-> (2) about whom the lawyer had acquired information protected by Rules 1.6 and 1.9(c) that is material to the matter;  unless the former client gives informed consent, confirmed in writing.
+(b) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
 
-(c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
+> (1) whose interests are materially adverse to that person; and
 
-> (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
->
-> (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
+> (2) about whom the lawyer had acquired information protected by Rules 1.6 and 1.9(c) that is material to the matter;  unless the former client gives informed consent, confirmed in writing.
 
+(c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
 
+> (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 
-### Model Rules of Professional Conduct, Rule 1.11
+> (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-#### Special Conflicts of Interest for Former & Current Government Officers & Employees
+#### Rule 1.11: Special Conflicts of Interest for Former & Current Government Officers & Employees
 
-(a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
+(a) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 
-> (1) is subject to Rule 1.9(c); and
->
-> (2) shall not otherwise represent a client in connection with a matter in which the lawyer participated personally and substantially as a public officer or employee, unless the appropriate government agency gives its informed consent, confirmed in writing, to the representation.
+> (1) is subject to Rule 1.9(c); and
 
-(b) When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
+> (2) shall not otherwise represent a client in connection with a matter in which the lawyer participated personally and substantially as a public officer or employee, unless the appropriate government agency gives its informed consent, confirmed in writing, to the representation.
 
-> (1) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
->
-> (2) written notice is promptly given to the appropriate government agency to enable it to ascertain compliance with the provisions of this rule.
+(b) When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
 
-(c) Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom.
+> (1) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 
-(d) Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
+> (2) written notice is promptly given to the appropriate government agency to enable it to ascertain compliance with the provisions of this rule.
 
-> (1) is subject to Rules 1.7 and 1.9; and
->
-> (2) shall not:
->
-> > (i) participate in a matter in which the lawyer participated personally and substantially while in private practice or nongovernmental employment, unless the appropriate government agency gives its informed consent, confirmed in writing; or
-> >
-> > (ii) negotiate for private employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially, except that a lawyer serving as a law clerk to a judge, other adjudicative officer or arbitrator may negotiate for private employment as permitted by Rule 1.12(b) and subject to the conditions stated in Rule 1.12(b).
+(c) Except as law may otherwise expressly permit, a lawyer having information that the lawyer knows is confidential government information about a person acquired when the lawyer was a public officer or employee, may not represent a private client whose interests are adverse to that person in a matter in which the information could be used to the material disadvantage of that person. As used in this Rule, the term "confidential government information" means information that has been obtained under governmental authority and which, at the time this Rule is applied, the government is prohibited by law from disclosing to the public or has a legal privilege not to disclose and which is not otherwise available to the public. A firm with which that lawyer is associated may undertake or continue representation in the matter only if the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom.
 
-(e) As used in this Rule, the term "matter" includes:
+(d) Except as law may otherwise expressly permit, a lawyer currently serving as a public officer or employee:
 
-> (1) any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
->
-> (2) any other matter covered by the conflict of interest rules of the appropriate government agency.
+> (1) is subject to Rules 1.7 and 1.9; and
 
-### Model Rules of Professional Conduct, Rule 1.12: Former Judge, Arbitrator, Mediator or Other Third-Party Neutral}
+> (2) shall not:
 
-(a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
+> > (i) participate in a matter in which the lawyer participated personally and substantially while in private practice or nongovernmental employment, unless the appropriate government agency gives its informed consent, confirmed in writing; or
 
-(b) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
+> > (ii) negotiate for private employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially, except that a lawyer serving as a law clerk to a judge, other adjudicative officer or arbitrator may negotiate for private employment as permitted by Rule 1.12(b) and subject to the conditions stated in Rule 1.12(b).
 
-(c) If a lawyer is disqualified by paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in the matter unless:
+(e) As used in this Rule, the term "matter" includes:
 
-> (1) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
->
-> (2) written notice is promptly given to the parties and any appropriate tribunal to enable them to ascertain compliance with the provisions of this Rule.
+> (1) any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
 
-(d) An arbitrator selected as a partisan of a party in a multimember arbitration panel is not prohibited from subsequently representing that party.
+> (2) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
+#### Rule 1.12: Former Judge, Arbitrator, Mediator or Other Third-Party Neutral}
 
+(a) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 
+(b) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
+
+(c) If a lawyer is disqualified by paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in the matter unless:
+
+> (1) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+
+> (2) written notice is promptly given to the parties and any appropriate tribunal to enable them to ascertain compliance with the provisions of this Rule.
+
+(d) An arbitrator selected as a partisan of a party in a multimember arbitration panel is not prohibited from subsequently representing that party.
+
+</div>
 
 ### Gutting v. Falstaff Brewing Corp., 710 F. 2d 1309 (8th Cir. 1983)
 
@@ -1074,25 +1101,35 @@ Under these circumstances it is impossible for us to resolve this matter without
 
 # Imputed Conflicts
 
-### Model Rules of Professional Conduct, Rule 1.10
+### Model Rules of Professional Conduct
 
-#### Imputation of Conflicts of Interest: General Rule
+<div class="legal-code">
 
-(a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless 
-> (1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
-> (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
-> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
-> > (ii) written notice is promptly given to any affected former client to enable the former client to ascertain compliance with the provisions of this Rule, which shall include a description of the screening procedures employed; a statement of the firm's and of the screened lawyer's compliance with these Rules; a statement that review may be available before a tribunal; and an agreement by the firm to respond promptly to any written inquiries or objections by the former client about the screening procedures; and
-> (iii) certifications of compliance with these Rules and with the screening procedures are provided to the former client by the screened lawyer and by a partner of the firm, at reasonable intervals upon the former client's written request and upon termination of the screening procedures.
+#### Rule 1.10: Imputation of Conflicts of Interest: General Rule
 
-(b) When a lawyer has terminated an association with a firm, the firm is not prohibited from thereafter representing a person with interests materially adverse to those of a client represented by the formerly associated lawyer and not currently represented by the firm, unless:
-> (1) the matter is the same or substantially related to that in which the formerly associated lawyer represented the client; and
-> (2) any lawyer remaining in the firm has information protected by Rules 1.6 and 1.9(c) that is material to the matter.
-> 
-(c) A disqualification prescribed by this rule may be waived by the affected client under the conditions stated in Rule 1.7.
+(a) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless 
 
-(d) The disqualification of lawyers associated in a firm with former or current government lawyers is governed by Rule 1.11.
+> (1) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
 
+> (2) the prohibition is based upon Rule 1.9(a) or (b) and arises out of the disqualified lawyer’s association with a prior firm, and
+
+> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom;
+
+> > (ii) written notice is promptly given to any affected former client to enable the former client to ascertain compliance with the provisions of this Rule, which shall include a description of the screening procedures employed; a statement of the firm's and of the screened lawyer's compliance with these Rules; a statement that review may be available before a tribunal; and an agreement by the firm to respond promptly to any written inquiries or objections by the former client about the screening procedures; and
+
+> > (iii) certifications of compliance with these Rules and with the screening procedures are provided to the former client by the screened lawyer and by a partner of the firm, at reasonable intervals upon the former client's written request and upon termination of the screening procedures.
+
+(b) When a lawyer has terminated an association with a firm, the firm is not prohibited from thereafter representing a person with interests materially adverse to those of a client represented by the formerly associated lawyer and not currently represented by the firm, unless:
+
+> (1) the matter is the same or substantially related to that in which the formerly associated lawyer represented the client; and
+
+> (2) any lawyer remaining in the firm has information protected by Rules 1.6 and 1.9(c) that is material to the matter.
+ 
+(c) A disqualification prescribed by this rule may be waived by the affected client under the conditions stated in Rule 1.7.
+
+(d) The disqualification of lawyers associated in a firm with former or current government lawyers is governed by Rule 1.11.
+
+</div>
 
 ### Cinema 5, Ltd. v. Cinerama, Inc., 528 F. 2d 1384 (2d Cir. 1976)
 
@@ -1164,10 +1201,10 @@ Rule 1.9(b) prohibits a lawyer from representing anyone in the same or a substan
 If Attorney J is disqualified under any provision of Rule 1.9, Rule 1.10(c) permits screening of Attorney J to avoid imputing her disqualification to the other lawyers in her new firm. The rule provides:
 
 > \[w\]hen a lawyer becomes associated with a firm, no lawyer associated in the firm shall knowingly represent a person in a matter in which that lawyer is disqualified under Rule 1.9 unless:
-> 
-> > (1) the personally disqualified lawyer is timely screened from any participation in the matter; and
-> > 
-> > (2) written notice is promptly given to any affected former client to enable it to ascertain compliance with the provisions of this Rule.
+ 
+> > (1) the personally disqualified lawyer is timely screened from any participation in the matter; and
+
+> > (2) written notice is promptly given to any affected former client to enable it to ascertain compliance with the provisions of this Rule.
 
 Comment \[4\] to Rule 1.9, which relates to lawyers moving between firms, elucidates the policy considerations justifying the use of screens in this situation:
 

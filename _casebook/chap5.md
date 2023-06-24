@@ -8,65 +8,83 @@ title: Confidentiality & Privileges
 
 ## Scope of Protection
 
-### Model Rules of Professional Conduct, Rule 1.6
+### Model Rules of Professional Conduct
 
-#### Confidentiality of Information
+<div class="legal-code">
 
-(a) A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
+#### Rule 1.6: Confidentiality of Information
 
-(b) A lawyer may reveal information relating to the representation of a client to the extent the lawyer reasonably believes necessary:
-> (1) to prevent reasonably certain death or substantial bodily harm;
-> (2) to prevent the client from committing a crime or fraud that is reasonably certain to result in substantial injury to the financial interests or property of another and in furtherance of which the client has used or is using the lawyer's services;
-> (3) to prevent, mitigate or rectify substantial injury to the financial interests or property of another that is reasonably certain to result or has resulted from the client's commission of a crime or fraud in furtherance of which the client has used the lawyer's services;
-> (4) to secure legal advice about the lawyer's compliance with these Rules;
-> (5) to establish a claim or defense on behalf of the lawyer in a controversy between the lawyer and the client, to establish a defense to a criminal charge or civil claim against the lawyer based upon conduct in which the client was involved, or to respond to allegations in any proceeding concerning the lawyer's representation of the client;
-> (6) to comply with other law or a court order; or
-> (7) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client.
+(a) A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
-(c) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
+(b) A lawyer may reveal information relating to the representation of a client to the extent the lawyer reasonably believes necessary:
 
-### Model Rules of Professional Conduct, Rule 1.9
+> (1) to prevent reasonably certain death or substantial bodily harm;
 
-#### Duties to Former Clients
+> (2) to prevent the client from committing a crime or fraud that is reasonably certain to result in substantial injury to the financial interests or property of another and in furtherance of which the client has used or is using the lawyer's services;
 
-(c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
-> (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
-> (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
+> (3) to prevent, mitigate or rectify substantial injury to the financial interests or property of another that is reasonably certain to result or has resulted from the client's commission of a crime or fraud in furtherance of which the client has used the lawyer's services;
 
-### Model Rules of Professional Conduct, Rule 1.18
+> (4) to secure legal advice about the lawyer's compliance with these Rules;
 
-#### Duties to Prospective Client
+> (5) to establish a claim or defense on behalf of the lawyer in a controversy between the lawyer and the client, to establish a defense to a criminal charge or civil claim against the lawyer based upon conduct in which the client was involved, or to respond to allegations in any proceeding concerning the lawyer's representation of the client;
 
-(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+> (6) to comply with other law or a court order; or
 
-(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+> (7) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client.
 
-(d) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
-> (1) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
-> (2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
-> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
-> > (ii) written notice is promptly given to the prospective client.
+(c) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
-### Model Rules of Professional Conduct, Rule 4.4
+#### Rule 1.9: Duties to Former Clients
 
-#### Respect for Rights of Third Persons
+(c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
 
-(b) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
+> (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 
-### NC Rules of Professional Conduct, Rule 8.6 
+> (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-#### Information About a Possible Wrongful Conviction
+#### Rule 1.18: Duties to Prospective Client
 
-(a) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 
-(b) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
-> (1) the evidence or information is protected from disclosure by law, court order, or 27 N.C. Admin. Code Ch. 1B §.0129;
-> (2) disclosure would criminally implicate a current or former client or otherwise substantially prejudice a current or former client's interests; or
-> (3) disclosure would violate the attorney-client privilege applicable to communications between the lawyer and a current or former client.
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
 
-(c) A lawyer who in good faith concludes that information is not subject to disclosure under this rule does not violate the rule even if that conclusion is subsequently determined to be erroneous.
+(d) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
 
-(d) This rule does not require disclosure if the lawyer knows an appropriate governmental authority, the convicted defendant, or the defendant's lawyer already possesses the information.
+> (1) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+
+> (2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
+
+> > (i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+
+> > (ii) written notice is promptly given to the prospective client.
+
+#### Rule 4.4: Respect for Rights of Third Persons
+
+(b) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
+
+</div>
+
+### NC Rules of Professional Conduct
+
+<div class="legal-code">
+
+#### Rule 8.6: Information About a Possible Wrongful Conviction
+
+(a) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
+
+(b) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
+
+> (1) the evidence or information is protected from disclosure by law, court order, or 27 N.C. Admin. Code Ch. 1B §.0129;
+
+> (2) disclosure would criminally implicate a current or former client or otherwise substantially prejudice a current or former client's interests; or
+
+> (3) disclosure would violate the attorney-client privilege applicable to communications between the lawyer and a current or former client.
+
+(c) A lawyer who in good faith concludes that information is not subject to disclosure under this rule does not violate the rule even if that conclusion is subsequently determined to be erroneous.
+
+(d) This rule does not require disclosure if the lawyer knows an appropriate governmental authority, the convicted defendant, or the defendant's lawyer already possesses the information.
+
+</div>
 
 
 ### In re Advisory Opinion No. 544 of NJ Sup. Court, 511 A. 2d 609 (N.J. 1986)
@@ -170,11 +188,11 @@ In reaching its determination, the Court in _Maritrans_ emphasized the confident
 
 Pennsylvania Rule of Professional Conduct 1.9 further addresses attorney duties to former clients and provides, in relevant part, as follows:
 
-> (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent. (c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter: (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
+> (a) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent. (c) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter: (1) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or (2) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
 The explanatory comment to Rule 1.9(c) offers the following pertinent insight:
 
-> [8] Paragraph (c) provides that information acquired by the lawyer in the course of representing a client may not subsequently be used or revealed by the lawyer to the disadvantage of the client. However, the fact that a lawyer has once served a client does not preclude the lawyer from using generally known information about that client when later representing another client.
+> [8] Paragraph (c) provides that information acquired by the lawyer in the course of representing a client may not subsequently be used or revealed by the lawyer to the disadvantage of the client. However, the fact that a lawyer has once served a client does not preclude the lawyer from using generally known information about that client when later representing another client.
 
 In addition, section 59 of the Restatement (Third) of the Law Governing Lawyers defines the term "Confidential Client Information" as "Confidential client information consists of information relating to representation of a client, other than information that is generally known." Comment b to the above definition explains that "the definition includes information that becomes known by others, so long as the information does not become generally known." Furthermore, comment d states the following:
 
@@ -273,7 +291,6 @@ Since the letter sought in this case contains evidence of a possible crime, we f
 Other provisions of the code support our holding that appellant must relinquish the letter to the grand jury. DR 7-109(A) provides, "A lawyer shall not suppress any evidence that he or his client has a legal obligation to reveal or produce." Furthermore, DR 7-102(A)(3) provides, "In his representation of a client, a lawyer shall not conceal or knowingly fail to disclose that which he is required by law to reveal." Reading these rules together, we believe that under the facts presented in this case, appellant has a legal obligation to turn the letter over to the grand jury.
 
 We agree with the court of appeals that the sanction imposed against appellant stemming from the contempt proceedings should be vacated, given that appellant challenged the subpoena on confidentiality grounds in good faith. Under these circumstances, we do not believe appellant should be punished and held in contempt. The finding of contempt is vacated on condition that appellant comply with the subpoena. Accordingly, we affirm the judgment of the court of appeals and order appellant to relinquish the letter in question to the grand jury.
-
 
 #### PFEIFER, J., concurring in part and dissenting in part.
 
@@ -396,85 +413,78 @@ This is a close case, even after we give the required deference to the state and
 
 ## Attorney-Client Privilege
 
-### Rest. (2d) of the Law Governing Lawyers § 68
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### Attorney-Client Privilege
+<div class="legal-code")
+
+#### § 68: Attorney-Client Privilege
 
 Except as otherwise provided in this Restatement, the attorney-client privilege may be invoked as provided in § 86 with respect to:
 
-(1) a communication
+(1) a communication
 
-(2) made between privileged persons
+(2) made between privileged persons
 
-(3) in confidence
+(3) in confidence
 
-(4) for the purpose of obtaining or providing legal assistance for the client.
+(4) for the purpose of obtaining or providing legal assistance for the client.
 
 
-### Rest. (2d) of the Law Governing Lawyers § 69
-
-#### Attorney-Client Privilege—"Communication"
+#### § 69: Attorney-Client Privilege—"Communication"
 
 A communication within the meaning of § 68 is any expression through which a privileged person, as defined in § 70, undertakes to convey information to another privileged person and any document or other record revealing such an expression.
 
-### Rest. (2d) of the Law Governing Lawyers § 70
-
-#### Attorney-Client Privilege—"Privileged Persons"
+#### § 70: Attorney-Client Privilege—"Privileged Persons"
 
 Privileged persons within the meaning of § 68 are the client (including a prospective client), the client's lawyer, agents of either who facilitate communications between them, and agents of the lawyer who facilitate the representation.
 
-### Rest. (2d) of the Law Governing Lawyers § 71
-
-#### Attorney-Client Privilege—"In Confidence"
+#### § 71: Attorney-Client Privilege—"In Confidence"
 
 A communication is in confidence within the meaning of § 68 if, at the time and in the circumstances of the communication, the communicating person reasonably believes that no one will learn the contents of the communication except a privileged person as defined in § 70 or another person with whom communications are protected under a similar privilege.
 
-### Rest. (2d) of the Law Governing Lawyers § 72
-
-#### Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
+#### § 72: Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
 
 A communication is made for the purpose of obtaining or providing legal assistance within the meaning of § 68 if it is made to or to assist a person:
 
-(1) who is a lawyer or who the client or prospective client reasonably believes to be a lawyer; and
+(1) who is a lawyer or who the client or prospective client reasonably believes to be a lawyer; and
 
-(2) whom the client or prospective client consults for the purpose of obtaining legal assistance.
+(2) whom the client or prospective client consults for the purpose of obtaining legal assistance.
 
-### Rest. (2d) of the Law Governing Lawyers § 75
+#### § 75: The Privilege of Co-Clients
 
-#### The Privilege of Co-Clients
+(1) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
 
-(1) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
+(2) Unless the co-clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
 
-(2) Unless the co-clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
+#### § 76: The Privilege in Common-Interest Arrangements
 
-### Rest. (2d) of the Law Governing Lawyers § 76
+(1) If two or more clients with a common interest in a litigated or nonlitigated matter are represented by separate lawyers and they agree to exchange information concerning the matter, a communication of any such client that otherwise qualifies as privileged under §§ 68-72 that relates to the matter is privileged as against third persons. Any such client may invoke the privilege, unless it has been waived by the client who made the communication.
 
-#### The Privilege in Common-Interest Arrangements
+(2) Unless the clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between clients described in Subsection (1) in a subsequent adverse proceeding between them.
 
-(1) If two or more clients with a common interest in a litigated or nonlitigated matter are represented by separate lawyers and they agree to exchange information concerning the matter, a communication of any such client that otherwise qualifies as privileged under §§ 68-72 that relates to the matter is privileged as against third persons. Any such client may invoke the privilege, unless it has been waived by the client who made the communication.
-
-(2) Unless the clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between clients described in Subsection (1) in a subsequent adverse proceeding between them.
-
-### Rest. (2d) of the Law Governing Lawyers § 77
-
-#### Duration of the Privilege
+#### § 77: Duration of the Privilege
 
 Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the attorney-client privilege may be invoked as provided in § 86 at any time during or after termination of the relationship between client or prospective client and lawyer.
 
-### Rest. (2d) of the Law Governing Lawyers § 86
+#### § 86: Invoking the Privilege and Its Exceptions
 
-#### Invoking the Privilege and Its Exceptions
+(1) When an attempt is made to introduce in evidence or obtain discovery of a communication privileged under § 68:
 
-(1) When an attempt is made to introduce in evidence or obtain discovery of a communication privileged under § 68:
-> (a) A client, a personal representative of an incompetent or deceased client, or a person succeeding to the interest of a client may invoke or waive the privilege, either personally or through counsel or another authorized agent.
-> (b) A lawyer, an agent of the lawyer, or an agent of a client from whom a privileged communication is sought must invoke the privilege when doing so appears reasonably appropriate, unless the client:
-> > (i) has waived the privilege; or
-> > (ii) has authorized the lawyer or agent to waive it.
-> (c) Notwithstanding failure to invoke the privilege as specified in Subsections (1)(a) and (1)(b), the tribunal has discretion to invoke the privilege.
+> (a) A client, a personal representative of an incompetent or deceased client, or a person succeeding to the interest of a client may invoke or waive the privilege, either personally or through counsel or another authorized agent.
 
-(2) A person invoking the privilege must ordinarily object contemporaneously to an attempt to disclose the communication and, if the objection is contested, demonstrate each element of the privilege under § 68.
+> (b) A lawyer, an agent of the lawyer, or an agent of a client from whom a privileged communication is sought must invoke the privilege when doing so appears reasonably appropriate, unless the client:
 
-(3) A person invoking a waiver of or exception to the privilege (§§ 78-85) must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
+> > (i) has waived the privilege; or
+
+> > (ii) has authorized the lawyer or agent to waive it.
+
+> (c) Notwithstanding failure to invoke the privilege as specified in Subsections (1)(a) and (1)(b), the tribunal has discretion to invoke the privilege.
+
+(2) A person invoking the privilege must ordinarily object contemporaneously to an attempt to disclose the communication and, if the objection is contested, demonstrate each element of the privilege under § 68.
+
+(3) A person invoking a waiver of or exception to the privilege (§§ 78-85) must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
+
+</div>
 
 ### Jones v. U.S., 828 A. 2d 169 (D.C. Ct. App. 2003)
 
@@ -690,56 +700,63 @@ In sum, we reaffirm that a client's communications to his lawyer threatening har
 
 ## Attorney Work Product
 
-### Rest. (2d) of the Law Governing Lawyers § 87
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### Lawyer Work-Product Immunity
+<div class="legal-code">
 
-(1) Work product consists of tangible material or its intangible equivalent in unwritten or oral form, other than underlying facts, prepared by a lawyer for litigation then in progress or in reasonable anticipation of future litigation.
+#### § 87: Lawyer Work-Product Immunity
 
-(2) Opinion work product consists of the opinions or mental impressions of a lawyer; all other work product is ordinary work product.
+(1) Work product consists of tangible material or its intangible equivalent in unwritten or oral form, other than underlying facts, prepared by a lawyer for litigation then in progress or in reasonable anticipation of future litigation.
 
-(3) Except for material which by applicable law is not so protected, work product is immune from discovery or other compelled disclosure to the extent stated in §§ 88 (ordinary work product) and 89 (opinion work product) when the immunity is invoked as described in § 90.
+(2) Opinion work product consists of the opinions or mental impressions of a lawyer; all other work product is ordinary work product.
 
-### Rest. (2d) of the Law Governing Lawyers § 88
+(3) Except for material which by applicable law is not so protected, work product is immune from discovery or other compelled disclosure to the extent stated in §§ 88 (ordinary work product) and 89 (opinion work product) when the immunity is invoked as described in § 90.
 
-#### Ordinary Work Product
+#### § 88: Ordinary Work Product
 
 When work product protection is invoked as described in § 90, ordinary work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either an exception recognized in §§ 91-93 applies or the inquiring party:
 
-(1) has a substantial need for the material in order to prepare for trial; and
+(1) has a substantial need for the material in order to prepare for trial; and
 
-(2) is unable without undue hardship to obtain the substantial equivalent of the material by other means.
+(2) is unable without undue hardship to obtain the substantial equivalent of the material by other means.
 
-### Rest. (2d) of the Law Governing Lawyers § 89
-
-#### Opinion Work Product
+#### § 89: Opinion Work Product
 
 When work product protection is invoked as described in § 90, opinion work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either the immunity is waived or an exception applies (§§ 91-93) or extraordinary circumstances justify disclosure.
 
-### Rest. (2d) of the Law Governing Lawyers § 90
+#### § 90: Invoking the Lawyer Work-Product Immunity and Its Exceptions
 
-#### Invoking the Lawyer Work-Product Immunity and Its Exceptions
+(1) Work-product immunity may be invoked by or for a person on whose behalf the work product was prepared.
 
-(1) Work-product immunity may be invoked by or for a person on whose behalf the work product was prepared.
+(2) The person invoking work-product immunity must object and, if the objection is contested, demonstrate each element of the immunity.
 
-(2) The person invoking work-product immunity must object and, if the objection is contested, demonstrate each element of the immunity.
+(3) Once a claim of work product has been adequately supported, a person entitled to invoke a waiver or exception must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
 
-(3) Once a claim of work product has been adequately supported, a person entitled to invoke a waiver or exception must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
+</div>
 
+### Federal Rules of Civil Procedure, 
 
-### Federal Rules of Civil Procedure, Rule 26
+<div class="legal-code">
 
-#### Duty to Disclose; General Provisions Governing Discovery
+#### Rule 26: Duty to Disclose; General Provisions Governing Discovery
 
-(b) Discovery Scope and Limits.
-> (3) Trial Preparation: Materials.
-> > (A) Documents and Tangible Things. Ordinarily, a party may not discover documents and tangible things that are prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent). But, subject to Rule 26(b)(4), those materials may be discovered if:
-> > > (i) they are otherwise discoverable under Rule 26(b)(1); and
-> > > (ii) the party shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means.
-> > (B) Protection Against Disclosure. If the court orders discovery of those materials, it must protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of a party's attorney or other representative concerning the litigation.
-> > (C) Previous Statement. Any party or other person may, on request and without the required showing, obtain the person's own previous statement about the action or its subject matter. If the request is refused, the person may move for a court order, and Rule 37(a)(5) applies to the award of expenses. A previous statement is either:
-> > > (i) a written statement that the person has signed or otherwise adopted or approved; or
-> > > (ii) a contemporaneous stenographic, mechanical, electrical, or other recording—or a transcription of it—that recites substantially verbatim the person's oral statement.
+(b) Discovery Scope and Limits.
+
+> (3) Trial Preparation: Materials.
+
+> > (A) Documents and Tangible Things. Ordinarily, a party may not discover documents and tangible things that are prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent). But, subject to Rule 26(b)(4), those materials may be discovered if:
+
+> > > (i) they are otherwise discoverable under Rule 26(b)(1); and
+
+> > > (ii) the party shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means.
+
+> > (B) Protection Against Disclosure. If the court orders discovery of those materials, it must protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of a party's attorney or other representative concerning the litigation.
+
+> > (C) Previous Statement. Any party or other person may, on request and without the required showing, obtain the person's own previous statement about the action or its subject matter. If the request is refused, the person may move for a court order, and Rule 37(a)(5) applies to the award of expenses. A previous statement is either:
+
+> > > (i) a written statement that the person has signed or otherwise adopted or approved; or
+
+> > > (ii) a contemporaneous stenographic, mechanical, electrical, or other recording—or a transcription of it—that recites substantially verbatim the person's oral statement.
 
 
 ### Sporck v. Peil, 759 F.2d 312 (3d Cir. 1985)
@@ -915,27 +932,29 @@ Furthermore, we are mindful that independent auditors have significant leverage 
 
 ## Attorney-Client Privilege & Work Product for Organizational Clients
 
-### Rest. (2d) of the Law Governing Lawyers § 73
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### The Privilege for an Organizational Client
+<div class="legal-code">
+
+#### § 73: The Privilege for an Organizational Client
 
 When a client is a corporation, unincorporated association, partnership, trust, estate, sole proprietorship, or other for-profit or not-for-profit organization, the attorney-client privilege extends to a communication that:
 
-(1) otherwise qualifies as privileged under §§ 68-72;
+(1) otherwise qualifies as privileged under §§ 68-72;
 
-(2) is between an agent of the organization and a privileged person as defined in § 70;
+(2) is between an agent of the organization and a privileged person as defined in § 70;
 
-(3) concerns a legal matter of interest to the organization; and
+(3) concerns a legal matter of interest to the organization; and
 
-(4) is disclosed only to:
-> (a) privileged persons as defined in § 70; and
-> (b) other agents of the organization who reasonably need to know of the communication in order to act for the organization.
+(4) is disclosed only to:
+> (a) privileged persons as defined in § 70; and
+> (b) other agents of the organization who reasonably need to know of the communication in order to act for the organization.
 
-### Rest. (2d) of the Law Governing Lawyers § 74
-
-#### The Privilege for a Governmental Client
+#### § 74: The Privilege for a Governmental Client
 
 Unless applicable law otherwise provides, the attorney-client privilege extends to a communication of a governmental organization as stated in § 73 and of an individual employee or other agent of a governmental organization as a client with respect to his or her personal interest as stated in §§ 68-72.
+
+</div>
 
 ### Upjohn Co. v. United States, 449 U.S. 383 (1981)
 
@@ -1097,149 +1116,157 @@ Our conclusion that the documents are protected by the attorney-client privilege
 
 ## Exceptions to Attorney-Client Privilege and Work Product Protection
 
-### Rest. (2d) of the Law Governing Lawyers § 78
+### Rest. (2d) of the Law Governing Lawyers 
 
-#### Agreement, Disclaimer, or Failure to Object
+<div class="legal-code">
+
+#### § 78: Agreement, Disclaimer, or Failure to Object
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client:
 
-(1) agrees to waive the privilege;
+(1) agrees to waive the privilege;
 
-(2) disclaims protection of the privilege and
-> (a) another person reasonably relies on the disclaimer to that person's detriment; or
-> (b) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
+(2) disclaims protection of the privilege and
 
-(3) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of a privileged communication.
+> (a) another person reasonably relies on the disclaimer to that person's detriment; or
 
-### Rest. (2d) of the Law Governing Lawyers § 79
+> (b) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
 
-#### Subsequent Disclosure
+(3) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of a privileged communication.
+
+#### § 79: Subsequent Disclosure
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client voluntarily discloses the communication in a nonprivileged communication.
 
-### Rest. (2d) of the Law Governing Lawyers § 80
+#### § 80: Putting Assistance or a Communication in Issue
 
-#### Putting Assistance or a Communication in Issue
+(1) The attorney-client privilege is waived for any relevant communication if the client asserts as to a material issue in a proceeding that:
 
-(1) The attorney-client privilege is waived for any relevant communication if the client asserts as to a material issue in a proceeding that:
-> (a) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
-> (b) a lawyer's assistance was ineffective, negligent, or otherwise wrongful.
+> (a) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
 
-(2) The attorney-client privilege is waived for a recorded communication if a witness:
-> (a) employs the communication to aid the witness while testifying; or
-> (b) employed the communication in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
+> (b) a lawyer's assistance was ineffective, negligent, or otherwise wrongful.
 
-### Rest. (2d) of the Law Governing Lawyers § 81
+(2) The attorney-client privilege is waived for a recorded communication if a witness:
 
-#### A Dispute Concerning a Decedent's Disposition of Property
+> (a) employs the communication to aid the witness while testifying; or
+
+> (b) employed the communication in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
+
+#### § 81: A Dispute Concerning a Decedent's Disposition of Property
 
 The attorney-client privilege does not apply to a communication from or to a decedent relevant to an issue between parties who claim an interest through the same deceased client, either by testate or intestate succession or by an inter vivos transaction.
 
-### Rest. (2d) of the Law Governing Lawyers § 82
-
-#### Client Crime or Fraud
+#### § 82: Client Crime or Fraud
 
 The attorney-client privilege does not apply to a communication occurring when a client:
 
-(a) consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or aiding a third person to do so, or
+(a) consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or aiding a third person to do so, or
 
-(b) regardless of the client's purpose at the time of consultation, uses the lawyer's advice or other services to engage in or assist a crime or fraud.
+(b) regardless of the client's purpose at the time of consultation, uses the lawyer's advice or other services to engage in or assist a crime or fraud.
 
-### Rest. (2d) of the Law Governing Lawyers § 83
-
-#### Lawyer Self-Protection
+#### § 83: Lawyer Self-Protection
 
 The attorney-client privilege does not apply to a communication that is relevant and reasonably necessary for a lawyer to employ in a proceeding:
 
-(1) to resolve a dispute with a client concerning compensation or reimbursement that the lawyer reasonably claims the client owes the lawyer; or
+(1) to resolve a dispute with a client concerning compensation or reimbursement that the lawyer reasonably claims the client owes the lawyer; or
 
-(2) to defend the lawyer or the lawyer's associate or agent against a charge by any person that the lawyer, associate, or agent acted wrongfully during the course of representing a client.
+(2) to defend the lawyer or the lawyer's associate or agent against a charge by any person that the lawyer, associate, or agent acted wrongfully during the course of representing a client.
 
-### Rest. (2d) of the Law Governing Lawyers § 84
-
-#### Fiduciary-Lawyer Communications
+#### § 84: Fiduciary-Lawyer Communications
 
 In a proceeding in which a trustee of an express trust or similar fiduciary is charged with breach of fiduciary duties by a beneficiary, a communication otherwise within § 68 is nonetheless not privileged if the communication:
 
-(a) is relevant to the claimed breach; and
+(a) is relevant to the claimed breach; and
 
-(b) was between the trustee and a lawyer (or other privileged person within the meaning of § 70) who was retained to advise the trustee concerning the administration of the trust.
+(b) was between the trustee and a lawyer (or other privileged person within the meaning of § 70) who was retained to advise the trustee concerning the administration of the trust.
 
-### Rest. (2d) of the Law Governing Lawyers § 85
-
-#### Communications Involving a Fiduciary Within an Organization
+#### § 85: Communications Involving a Fiduciary Within an Organization
 
 In a proceeding involving a dispute between an organizational client and shareholders, members, or other constituents of the organization toward whom the directors, officers, or similar persons managing the organization bear fiduciary responsibilities, the attorney-client privilege of the organization may be withheld from a communication otherwise within § 68 if the tribunal finds that:
 
-(a) those managing the organization are charged with breach of their obligations toward the shareholders, members, or other constituents or toward the organization itself;
+(a) those managing the organization are charged with breach of their obligations toward the shareholders, members, or other constituents or toward the organization itself;
 
-(b) the communication occurred prior to the assertion of the charges and relates directly to those charges; and
+(b) the communication occurred prior to the assertion of the charges and relates directly to those charges; and
 
-(c) the need of the requesting party to discover or introduce the communication is sufficiently compelling and the threat to confidentiality sufficiently confined to justify setting the privilege aside.
+(c) the need of the requesting party to discover or introduce the communication is sufficiently compelling and the threat to confidentiality sufficiently confined to justify setting the privilege aside.
 
-### Rest. (2d) of the Law Governing Lawyers § 91
-
-#### Voluntary Acts
+#### § 91: Voluntary Acts
 
 Work-product immunity is waived if the client, the client's lawyer, or another authorized agent of the client:
 
-(1) agrees to waive the immunity;
+(1) agrees to waive the immunity;
 
-(2) disclaims protection of the immunity and:
-> (a) another person reasonably relies on the disclaimer to that person's detriment; or
-> (b) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
+(2) disclaims protection of the immunity and:
 
-(3) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of work product; or
+> (a) another person reasonably relies on the disclaimer to that person's detriment; or
 
-(4) discloses the material to third persons in circumstances in which there is a significant likelihood that an adversary or potential adversary in anticipated litigation will obtain it.
+> (b) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
 
-### Rest. (2d) of the Law Governing Lawyers § 92
+(3) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of work product; or
 
-#### Use of Lawyer Work Product in Litigation
+(4) discloses the material to third persons in circumstances in which there is a significant likelihood that an adversary or potential adversary in anticipated litigation will obtain it.
 
-(1) Work-product immunity is waived for any relevant material if the client asserts as to a material issue in a proceeding that:
-> (a) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
-> (b) a lawyer's assistance was ineffective, negligent, or otherwise wrongful.
+#### § 92: Use of Lawyer Work Product in Litigation
 
-(2) The work-product immunity is waived for recorded material if a witness:
-> (a) employs the material to aid the witness while testifying, or
-> (b) employed the material in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
+(1) Work-product immunity is waived for any relevant material if the client asserts as to a material issue in a proceeding that:
 
-### Rest. (2d) of the Law Governing Lawyers § 93
+> (a) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
 
-#### Client Crime or Fraud
+> (b) a lawyer's assistance was ineffective, negligent, or otherwise wrongful.
+
+(2) The work-product immunity is waived for recorded material if a witness:
+
+> (a) employs the material to aid the witness while testifying, or
+
+> (b) employed the material in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
+
+#### § 93: Client Crime or Fraud
 
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 
-### Federal Rules of Evidence, Rule 502
+</div>
 
-#### Attorney-Client Privilege and Work Product; Limitations on Waiver
+### Federal Rules of Evidence
+
+<div class-="legal-code">
+
+#### Rule 502: Attorney-Client Privilege and Work Product; Limitations on Waiver
 
 The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection.
 
-(a) Disclosure Made in a Federal Proceeding or to a Federal Office or Agency; Scope of a Waiver. When the disclosure is made in a federal proceeding or to a federal office or agency and waives the attorney-client privilege or work-product protection, the waiver extends to an undisclosed communication or information in a federal or state proceeding only if:
-> (1) the waiver is intentional;
-> (2) the disclosed and undisclosed communications or information concern the same subject matter; and
-> (3) they ought in fairness to be considered together.
+(a) Disclosure Made in a Federal Proceeding or to a Federal Office or Agency; Scope of a Waiver. When the disclosure is made in a federal proceeding or to a federal office or agency and waives the attorney-client privilege or work-product protection, the waiver extends to an undisclosed communication or information in a federal or state proceeding only if:
 
-(b) Inadvertent Disclosure. When made in a federal proceeding or to a federal office or agency, the disclosure does not operate as a waiver in a federal or state proceeding if:
-> (1) the disclosure is inadvertent;
-> (2) the holder of the privilege or protection took reasonable steps to prevent disclosure; and
-> (3) the holder promptly took reasonable steps to rectify the error, including (if applicable) following Federal Rule of Civil Procedure 26 (b)(5)(B).
+> (1) the waiver is intentional;
 
-(c) Disclosure Made in a State Proceeding. When the disclosure is made in a state proceeding and is not the subject of a state-court order concerning waiver, the disclosure does not operate as a waiver in a federal proceeding if the disclosure:
-> (1) would not be a waiver under this rule if it had been made in a federal proceeding; or
-> (2) is not a waiver under the law of the state where the disclosure occurred.
+> (2) the disclosed and undisclosed communications or information concern the same subject matter; and
 
-(d) Controlling Effect of a Court Order. A federal court may order that the privilege or protection is not waived by disclosure connected with the litigation pending before the court — in which event the disclosure is also not a waiver in any other federal or state proceeding.
+> (3) they ought in fairness to be considered together.
 
-(e) Controlling Effect of a Party Agreement. An agreement on the effect of disclosure in a federal proceeding is binding only on the parties to the agreement, unless it is incorporated into a court order.
+(b) Inadvertent Disclosure. When made in a federal proceeding or to a federal office or agency, the disclosure does not operate as a waiver in a federal or state proceeding if:
 
-(f) Controlling Effect of this Rule. Notwithstanding Rules 101 and 1101, this rule applies to state proceedings and to federal court-annexed and federal court-mandated arbitration proceedings, in the circumstances set out in the rule. And notwithstanding Rule 501, this rule applies even if state law provides the rule of decision.
+> (1) the disclosure is inadvertent;
 
-(g) Definitions. In this rule:
-> (1) “attorney-client privilege” means the protection that applicable law provides for confidential attorney-client communications; and
-> (2) “work-product protection” means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
+> (2) the holder of the privilege or protection took reasonable steps to prevent disclosure; and
+
+> (3) the holder promptly took reasonable steps to rectify the error, including (if applicable) following Federal Rule of Civil Procedure 26 (b)(5)(B).
+
+(c) Disclosure Made in a State Proceeding. When the disclosure is made in a state proceeding and is not the subject of a state-court order concerning waiver, the disclosure does not operate as a waiver in a federal proceeding if the disclosure:
+
+> (1) would not be a waiver under this rule if it had been made in a federal proceeding; or
+
+> (2) is not a waiver under the law of the state where the disclosure occurred.
+
+(d) Controlling Effect of a Court Order. A federal court may order that the privilege or protection is not waived by disclosure connected with the litigation pending before the court — in which event the disclosure is also not a waiver in any other federal or state proceeding.
+
+(e) Controlling Effect of a Party Agreement. An agreement on the effect of disclosure in a federal proceeding is binding only on the parties to the agreement, unless it is incorporated into a court order.
+
+(f) Controlling Effect of this Rule. Notwithstanding Rules 101 and 1101, this rule applies to state proceedings and to federal court-annexed and federal court-mandated arbitration proceedings, in the circumstances set out in the rule. And notwithstanding Rule 501, this rule applies even if state law provides the rule of decision.
+
+(g) Definitions. In this rule:
+
+> (1) “attorney-client privilege” means the protection that applicable law provides for confidential attorney-client communications; and
+
+> (2) “work-product protection” means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
 
 
 ### In re Sealed Case, 877 F.2d 976 (D.C. Cir. 1989)

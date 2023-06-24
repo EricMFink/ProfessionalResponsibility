@@ -703,7 +703,6 @@ A lawyer's act is considered to be that of a client in proceedings before a trib
 
 (3) the client ratifies the act.
 
-
 #### § 27: A Lawyer's Apparent Authority
 
 A lawyer's act is considered to be that of the client in proceedings before a tribunal or in dealings with a third person if the tribunal or third person reasonably assumes that the lawyer is authorized to do the act on the basis of the client's (and not the lawyer's) manifestations of such authorization.
@@ -757,11 +756,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Rule 1.14: Clients with Diminished Capacity 
 
-(a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
+(a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
-(b) When the lawyer reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the lawyer may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem, conservator or guardian.
+(b) When the lawyer reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the lawyer may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem, conservator or guardian.
 
-(c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
+(c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
 
 </div>
 
@@ -771,17 +770,17 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### § 24: A Client with Diminished Capacity
 
-(1) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
+(1) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
 
-(2) A lawyer representing a client with diminished capacity as described in Subsection (1) and for whom no guardian or other representative is available to act, must, with respect to a matter within the scope of the representation, pursue the lawyer's reasonable view of the client's objectives or interests as the client would define them if able to make adequately considered decisions on the matter, even if the client expresses no wishes or gives contrary instructions.
+(2) A lawyer representing a client with diminished capacity as described in Subsection (1) and for whom no guardian or other representative is available to act, must, with respect to a matter within the scope of the representation, pursue the lawyer's reasonable view of the client's objectives or interests as the client would define them if able to make adequately considered decisions on the matter, even if the client expresses no wishes or gives contrary instructions.
 
-(3) If a client with diminished capacity as described in Subsection (1) has a guardian or other person legally entitled to act for the client, the client's lawyer must treat that person as entitled to act with respect to the client's interests in the matter, unless:
+(3) If a client with diminished capacity as described in Subsection (1) has a guardian or other person legally entitled to act for the client, the client's lawyer must treat that person as entitled to act with respect to the client's interests in the matter, unless:
 
-> (a) the lawyer represents the client in a matter against the interests of that person; or
+> (a) the lawyer represents the client in a matter against the interests of that person; or
 
-> (b) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
+> (b) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
 > 
-(4) A lawyer representing a client with diminished capacity as described in Subsection (1) may seek the appointment of a guardian or take other protective action within the scope of the representation when doing so is practical and will advance the client's objectives or interests, determined as stated in Subsection (2).
+(4) A lawyer representing a client with diminished capacity as described in Subsection (1) may seek the appointment of a guardian or take other protective action within the scope of the representation when doing so is practical and will advance the client's objectives or interests, determined as stated in Subsection (2).
 
 </div>
 
@@ -879,13 +878,13 @@ DR 2-110 (A) and (B) of the Code of Professional Responsibility add further inst
 
 > Withdrawal from Employment 
 > 
-> \(A\) In general. 
+> (A) In general. 
 > 
-> \(3\) A lawyer who withdraws from employment shall refund promptly any part of a fee paid in advance that has not been earned. 
+> > (3) A lawyer who withdraws from employment shall refund promptly any part of a fee paid in advance that has not been earned. 
 > 
-> \(B\) Mandatory withdrawal. A lawyer representing a client before a tribunal, with its permission if required by its rules, shall withdraw from employment, and a lawyer representing a client in other matters shall withdraw from employment, if: 
+> (B) Mandatory withdrawal. A lawyer representing a client before a tribunal, with its permission if required by its rules, shall withdraw from employment, and a lawyer representing a client in other matters shall withdraw from employment, if: 
 > 
-> \(4\) The lawyer is discharged by the client.
+> > (4) The lawyer is discharged by the client.
 
 We believe that if an attorney is prohibited from keeping any part of a prepaid fee that has not been earned because of discharge by the client, it is reasonable to conclude also that an attorney may not negotiate and keep fees such as those at issue here. In each of Cooperman's retainer agreements, the Appellate Division found that the lawyer transgressed professional ethical norms. The fee arrangements expressed an absoluteness which deprived his clients of entitlement to any refund and, thus, conflicted with DR 2-110(A)(3).
 

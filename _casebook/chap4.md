@@ -8,7 +8,7 @@ title: Duty of Care
 
 ### Model Rules of Professional Conduct
 
-<div class=}legal-code">
+<div class="legal-code">
 
 #### Rule 1.1: Competence
 
@@ -388,13 +388,13 @@ This is true especially in light of the fact that there was disputed testimony c
 
 The issue of Runner's negligence was submitted to the jury under the following instructions:
 
-> (1) It was the duty of the defendant, E. Michael Runner, Attorney at Law, in undertaking the legal representation of the Estate of Lula Daugherty Roach, to exercise that degree of care and skill expected of a reasonably competent lawyer acting in the same or similar circumstances about which you have heard evidence, and this general duty, included the following specific duties:
+> (1) It was the duty of the defendant, E. Michael Runner, Attorney at Law, in undertaking the legal representation of the Estate of Lula Daugherty Roach, to exercise that degree of care and skill expected of a reasonably competent lawyer acting in the same or similar circumstances about which you have heard evidence, and this general duty, included the following specific duties:
 >
-> >> (a) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
+> > (a) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
 >
-> >> (b) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
+> >> (b) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
 >
-> (2) The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
+> (2) The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
 
 Nine of the jurors answered the question in the negative. While we may have found differently had we sat as jurors in this case, we believe there is sufficient evidence to support this jury's verdict, and we therefore will not disturb it. Based upon the conflicting evidence, we fail to see how Runner was negligent as a matter of law.
 
@@ -816,7 +816,7 @@ Where a legal malpractice suit stems from the representation of clients in a cri
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
-> (1) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2) an act or omission by the attorney in breach of the duty of care; (3) damage to the client; and (4) proximate causation between the attorney's breach of the duty and the damage incurred.
+> (1) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2) an act or omission by the attorney in breach of the duty of care; (3) damage to the client; and (4) proximate causation between the attorney's breach of the duty and the damage incurred.
 
 The fourth element, proximate causation, includes "cause in fact and legal causation." Cause in fact, or "but for" causation, refers to "the physical connection between an act and an injury." In a legal malpractice trial, the "trier of fact will be asked to decide what a reasonable jury or fact finder in the underlying trial or ‘trial within the trial' would have done but for the attorney's negligence." Legal causation, however, presents a question of law: "It involves a determination of whether liability should attach as a matter of law given the existence of cause in fact." To determine whether the cause in fact of a plaintiff's harm should also be deemed the legal cause of that harm, a court may consider, among other things, the public policy implications of holding the defendant liable. In "criminal malpractice" suits, two elements related to proximate causation have been added. In _Falkner v. Foshaug_, the Court of Appeals "concluded that postconviction relief is a prerequisite to maintaining a criminal malpractice suit and proof of innocence is an additional element a criminal defendant/malpractice plaintiff must prove to prevail at trial in his legal malpractice action."
 
