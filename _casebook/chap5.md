@@ -1569,3 +1569,16 @@ The Court would not be so troubled if it were faced with the situation where a p
 The ruling today should not be taken as an indictment of counsel's ethics or professionalism. To be sure, the law on this point is in an infant, perhaps even fetal, state. The Court in no way assumes or believes that counsel's intent was to run afoul of ethical strictures.
 
 Additionally, it should be noted that this ruling may be interpreted by some as punishment for Haigh's retention of counsel. Indeed, if Haigh were proceeding pro se, the privilege would not be vitiated. However, an attorney's clients may not reap the benefits of the attorney's expertise in a vacuum-like state. Rather, the client must realize that the attorney is bound by a Code of Professional Responsibility, and, when he retains the attorney, he also retains the responsibilities imposed on that attorney.
+
+# Confidentiality & Evidentiary Privileges Comparison 
+
+
+|                        | Duty of Confidentiality                          | Attorney-Client Communication                                     | Attorney Work Product                                                   |
+| ---------------------: |--------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------|
+| *Information Protected*      | Any information relating to the representation   | Private communication between attorney & client (or their agents) | Attorney's mental impressions                                           |
+| *Source of Information*  | Any source                                       | Communication between attorney & client                           | Attorney                                                                |
+| *Form of Information*    | Any form                                         | Communication (verbal or non-verbal)                              | Tangible (e.g. documents) or intangible (e.g. attorney's recollections) |
+| *Purpose of Information* | Any purpose                                      | Securing legal representation or advice                           | Preparing for litigation                                                |
+| *When Acquired/Created*  | Any time                                         | During representation (or consultation by prospective client)     | In anticipation of litigation                                           |
+| *Effect of Protection*   | Attorney may not disclose or use for any purpose | No compelled testimony or disclosure by client or attorney        | Protected against discovery                                             |
+| *Waiver*                 | Only client                                      | Only client                                                       | Attorney or client                                                      |
