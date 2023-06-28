@@ -1,7 +1,10 @@
-_site
+.*.sw[nop]
+tags
+
+*.gem
+.bundle
 .sass-cache
+_site
 .jekyll-cache
 .DS\_Store
 config.codekit
-admin
-.admin
