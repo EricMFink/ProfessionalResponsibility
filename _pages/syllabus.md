@@ -60,4 +60,4 @@ The Law School honor code applies to all activities related to your law school s
  November 20  | Final Review |  &nbsp;
  December 2 | Final Exam | &nbsp;
  
- N.B. This class will not meet on Sept. 4 and Sept. 25.
+ #### Note: This class will not meet on Sept. 4 and 25.
