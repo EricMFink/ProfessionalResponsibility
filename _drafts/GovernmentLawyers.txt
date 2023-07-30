@@ -2,13 +2,13 @@
 date: 2020-05-27T23:00:00
 
 course: Professional Responsibility
-title: "Review Questions: Government Lawyers 
+title: "Review Questions: Government Lawyers"
 author: Eric M. Fink
 
     
 ---
 
-﻿## Special Issues for Government Lawyers
+## Special Issues for Government Lawyers
 
 1. Conflicts when a lawyer moves from the government to private practice
 a) lawyer who leaves government employment (as a lawyer or otherwise) shall not represent a private client in connection with a matter on which the lawyer participated personally and substantially at the government, unless the government agency gives informed consent.
