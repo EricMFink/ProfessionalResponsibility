@@ -36,11 +36,11 @@ Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/b
 
 # Policies
 
-### Grading
+## Grading
 
 Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. 
 
-### Attendance
+## Attendance
 
 Elon Law School has adopted the following attendance policy for all courses:
 
@@ -48,11 +48,11 @@ Elon Law School has adopted the following attendance policy for all courses:
 >   
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student's instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-### Disability Accommodations
+## Disability Accommodations
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/u/law/academics/registrar/).
 
-### Honor Code
+## Honor Code
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
