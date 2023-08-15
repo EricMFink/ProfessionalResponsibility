@@ -2,16 +2,35 @@
 layout: syllabus
 title: Syllabus
 permalink: /syllabus/
+
 syllabus: true
+course: Professional Responsibility
+author: Eric M. Fink
+affiliation: Elon Law School
+email: efink@elon.edu
+phone: 336-279-9334
+address1: 201 North Greene Street
+address2: Greensboro, North Carolina 27401
+term: 'Fall 2023'
+days: 'Monday & Wednesday 9:45–10:45 am'
+room: 'Room 207'
+ta: Elizabeth Kwon
+ta-email: ekwon@elon.edu
+
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: master.tex
+    path: /assets/pdf/syllabus.pdf
 ---
 
 # Description
 
 This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam. 
 
-# Course Material
+# Required Materials
 
-[Professional Responsibility: An Open-Source Casebook](../casebook) (Fink 2023)
+[Professional Responsibility: An Open-Source Casebook](../casebook) (Fink 2023). The casebook is posted online as part of the course website: [emfink.net/ProfessionalResponsibility](http://www.emfink.net/CivilProcedure). PDF copies of each chapter are available for download on the [Table of Contents](https://www.emfink.net/ProfessionalResponsibility/casebook/contents/) page. 
 
 Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
@@ -58,6 +77,6 @@ The Law School honor code applies to all activities related to your law school s
  November 13 | Prosecutorial Misconduct | Giesel, Chap. 33; Casebook, Chap. 13
  November 15| Duties to Non-Clients | Giesel, Chap. 35-37; Casebook, Chap. 14 
  November 20  | Final Review |  &nbsp;
- December 2 | Final Exam | &nbsp;
+ December 1 | Final Exam | &nbsp;
  
- #### Note: This class will not meet on Sept. 4 and 25.
+#### Note: This class will not meet on Sept. 4 and 25.
