@@ -4,17 +4,17 @@ chapter: 2
 title: Advertising & Solicitation
 ---
 
-# Advertising
+## Advertising
 
-### Model Rules of Professional Conduct
+#### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Rule 7.1: Communications Concerning a Lawyer's Services
+##### Rule 7.1: Communications Concerning a Lawyer's Services
 
 A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-#### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
+##### Rule 7.2: Communications Concerning a Lawyer's Services: Specific Rules
 
 (a) A lawyer may communicate information regarding the lawyer’s services through any media.
 
@@ -44,13 +44,13 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 </div>
 
-### Bates v. State Bar of Arizona, 433 U.S. 350 (1977)
+#### Bates v. State Bar of Arizona, 433 U.S. 350 (1977)
 
-#### MR. JUSTICE BLACKMUN delivered the opinion of the Court.
+##### MR. JUSTICE BLACKMUN delivered the opinion of the Court.
 
 As part of its regulation of the Arizona Bar, the Supreme Court of that State has imposed and enforces a disciplinary rule that restricts advertising by attorneys. This case presents two issues: whether §§ 1 and 2 of the Sherman Act, 15 U. S. C. §§ 1 and 2, forbid such state regulation, and whether the operation of the rule violates the First Amendment, made applicable to the States through the Fourteenth.
 
-#### I
+##### I
 
 Appellants John R. Bates and Van O'Steen are attorneys licensed to practice law in the State of Arizona. As such, they are members of the appellee, the State Bar of Arizona. After admission to the bar in 1972, appellants worked as attorneys with the Maricopa County Legal Aid Society.
 
@@ -74,9 +74,9 @@ Of particular interest here is the opinion of Mr. Justice Holohan in dissent. In
 
 Although the dissenter acknowledged that some types of advertising might cause confusion and deception, he felt that the remedy was to ban that form, rather than all advertising. Thus, despite his "personal dislike of the concept of advertising by attorneys," he found the ban unconstitutional.
 
-#### III The First Amendment
+##### III The First Amendment
 
-##### B
+###### B
 
 The issue presently before us is a narrow one. First, we need not address the peculiar problems associated with advertising claims relating to the quality of legal services. Such claims probably are not susceptible of precise measurement or verification and, under some circumstances, might well be deceptive or misleading to the public, or even false. Appellee does not suggest, nor do we perceive, that appellants' advertisement contained claims, extravagant or otherwise, as to the quality of services. Accordingly, we leave that issue for another day. Second, we also need not resolve the problems associated with in-person solicitation of clients—at the hospital room or the accident site, or in any other situation that breeds undue influence—by attorneys or their agents or "runners." Activity of that kind might well pose dangers of overreaching and misrepresentation not encountered in newspaper announcement advertising. Hence, this issue also is not before us. Third, we note that appellee's criticism of advertising by attorneys does not apply with much force to some of the basic factual content of advertising: information as to the attorney's name, address, and telephone number, office hours, and the like. The American Bar Association itself has a provision in its current Code of Professional Responsibility that would allow the disclosure of such information, and more, in the classified section of the telephone directory. We recognize, however, that an advertising diet limited to such spartan fare would provide scant nourishment.
 
@@ -118,7 +118,7 @@ It is at least somewhat incongruous for the opponents of advertising to extol th
 
 In sum, we are not persuaded that any of the proffered justifications rise to the level of an acceptable reason for the suppression of all advertising by attorneys.
 
-#### IV
+##### IV
 
 In holding that advertising by attorneys may not be subjected to blanket suppression, and that the advertisement at issue is protected, we, of course, do not hold that advertising by attorneys may not be regulated in any way. We mention some of the clearly permissible limitations on advertising not foreclosed by our holding.
 
@@ -126,13 +126,13 @@ Advertising that is false, deceptive, or misleading of course is subject to rest
 
 The constitutional issue in this case is only whether the State may prevent the publication in a newspaper of appellants' truthful advertisement concerning the availability and terms of routine legal services. We rule simply that the flow of such information may not be restrained, and we therefore hold the present application of the disciplinary rule against appellants to be violative of the First Amendment.
 
-#### MR. JUSTICE POWELL, with whom MR. JUSTICE STEWART joins, concurring in part and dissenting in part.
+##### MR. JUSTICE POWELL, with whom MR. JUSTICE STEWART joins, concurring in part and dissenting in part.
 
 I cannot join the Court's holding that under the First Amendment "truthful" newspaper advertising of a lawyer's prices for "routine legal services" may not be restrained. Although the Court appears to note some reservations, it is clear that within undefined limits today's decision will effect profound changes in the practice of law, viewed for centuries as a learned profession. The supervisory power of the courts over members of the bar, as officers of the courts, and the authority of the respective States to oversee the regulation of the profession have been weakened. Although the Court's opinion professes to be framed narrowly, and its reach is subject to future clarification, the holding is explicit and expansive with respect to the advertising of undefined "routine legal services." In my view, this result is neither required by the First Amendment, nor in the public interest.
 
-#### I
+##### I
 
-##### A
+###### A
 
 It has long been thought that price advertising of legal services inevitably will be misleading because such services are individualized with respect to content and quality and because the lay consumer of legal services usually does not know in advance the precise nature and scope of the services he requires. Although the Court finds some force in this reasoning and recognizes that "many services performed by attorneys are indeed unique," its first answer is the optimistic expression of hope that few lawyers "would or could advertise fixed prices for services of that type." But the Court's basic response in view of the acknowledged potential for deceptive advertising of "unique" services is to divide the immense range of the professional product of lawyers into two categories: "unique" and "routine." The only insight afforded by the opinion as to how one draws this line is the finding that services similar to those in appellants' advertisement are routine: "the uncontested divorce, the simple adoption, the uncontested personal bankruptcy, the change of name, and the like." What the phrase "the like" embraces is not indicated. But the advertising of such services must, in the Court's words, flow "both freely and cleanly."
 
@@ -142,7 +142,7 @@ This definitional problem is well illustrated by appellants' advertised willingn
 
 The advertising of specified services at a fixed price is not the only infirmity of the advertisement at issue. Appellants also assert that these services are offered at "very reasonable fees." That Court finds this to be an accurate statement since the advertised fee fell at the lower end of the range of customary charges. But the fee customarily charged in the locality for similar services has never been considered the sole determinant of the reasonableness of a fee. This is because reasonableness reflects both the quantity and quality of the service. A $195 fee may be reasonable for one divorce and unreasonable for another; and a $195 fee may be reasonable when charged by an experienced divorce lawyer and unreasonable when charged by a recent law school graduate. For reasons that are not readily apparent, the Court today discards the more discriminating approach which the profession long has used to judge the reasonableness of a fee, and substitutes an approach based on market averages. Whether a fee is "very reasonable" is a matter of opinion, and not a matter of verifiable fact as the Court suggests. One unfortunate result of today's decision is that lawyers may feel free to use a wide variety of adjectives—such as "fair," "moderate," "low-cost," or "lowest in town"—to describe the bargain they offer to the public.
 
-##### B
+###### B
 
 Even if one were to accept the view that some legal services are sufficiently routine to minimize the possibility of deception, there nonetheless remains a serious enforcement problem. The Court does recognize some problems. It notes that misstatements that may be immaterial in "other advertising may be found quite inappropriate in legal advertising" precisely because "the public lacks sophistication concerning legal services." It also recognizes that "advertising claims as to the quality of services are not susceptible of measurement or verification" and therefore "may be so likely to be misleading as to warrant restriction." After recognizing that problems remain in defining the boundary between deceptive and nondeceptive advertising, the Court then observes that the bar may be expected to have "a special role to play in assuring that advertising by attorneys flows both freely and cleanly."
 
@@ -150,7 +150,7 @@ The Court seriously understates the difficulties, and overestimates the capabili
 
 The Court's almost casual assumption that its authorization of price advertising can be policed effectively by the bar reflects a striking underappreciation of the nature and magnitude of the disciplinary problem. The very reasons that tend to make price advertising of services inherently deceptive make its policing wholly impractical. With respect to commercial advertising, MR. JUSTICE STEWART, concurring in _Virginia Pharmacy_, noted that since "the factual claims contained in commercial price or product advertisements relate to tangible goods or services, they may be tested empirically and corrected to reflect the truth." But there simply is no way to test "empirically" the claims made in appellants' advertisement of legal services. There are serious difficulties in determining whether the advertised services fall within the Court's undefined category of "routine services"; whether they are described accurately and understandably; and whether appellants' claim as to reasonableness of the fees is accurate. These are not factual questions for which there are "truthful" answers; in most instances, the answers would turn on relatively subjective judgments as to which there could be wide differences of opinion. These difficulties with appellants' advertisement will inhere in any comparable price advertisement of specific legal services. Even if public agencies were established to oversee professional price advertising, adequate protection of the public from deception, and of ethical lawyers from unfair competition, could prove to be a wholly intractable problem.
 
-#### II
+##### II
 
 The Court emphasizes the need for information that will assist persons desiring legal services to choose lawyers. Under our economic system, advertising is the most commonly used and useful means of providing information as to goods and other services, but it generally has not been used with respect to legal and certain other professional services. Until today, controlling weight has been given to the danger that general advertising of such services too often would tend to mislead rather than inform. Moreover, there has been the further concern that the characteristics of the legal profession thought beneficial to society—a code of professional ethics, an imbued sense of professional and public responsibility, a tradition of self-discipline, and duties as officers of the courts—would suffer if the restraints on advertising were significantly diluted.
 
@@ -158,7 +158,7 @@ Pressures toward some relaxation of the proscription against general advertising
 
 The Court observes, and I agree, that there is nothing inherently misleading in the advertisement of the cost of an initial consultation. Indeed, I would not limit the fee information to the initial conference. Although the skill and experience of lawyers vary so widely as to negate any equivalence between hours of service by different lawyers, variations in quality of service by duly licensed lawyers are inevitable. Lawyers operate, at least for the purpose of internal control and accounting, on the basis of specified hourly rates, and upon request—or in an appropriate case—most lawyers are willing to undertake employment at such rates. The advertisement of these rates, in an appropriate medium, duly designated, would not necessarily be misleading if this fee information also made clear that the total charge for the representation would depend on the number of hours devoted to the client's problem—a variable difficult to predict. Where the price content of the advertisement is limited to the finite item of rate per hour devoted to the client's problem, the likelihood of deceiving or misleading is considerably less than when specific services are advertised at a fixed price.
 
-#### III
+##### III
 
 Although I disagree strongly with the Court's holding as to price advertisements of undefined—and I believe undefinable—routine legal services, there are reservations in its opinion worthy of emphasis since they may serve to narrow its ultimate reach. First, the Court notes that it has not addressed "the peculiar problems associated with advertising claims relating to the quality of legal services." There are inherent questions of quality in almost any type of price advertising by lawyers, and I do not view appellants' advertisement as entirely free from quality implications. Nevertheless the Court's reservation in this respect could be a limiting factor.
 
@@ -166,21 +166,21 @@ Second, the Court notes that there may be reasonable restrictions on the time, p
 
 Finally, the Court's opinion does not "foreclose the possibility that some limited supplementation, by way of warning or disclaimer or the like, might be required of even an advertisement of the kind ruled upon today so as to assure that the consumer is not misled." I view this as at least some recognition of the potential for deception inherent in fixed-price advertising of specific legal services. This recognition, though ambiguous in light of other statements in the opinion, may be viewed as encouragement to those who believe—as I do—that if we are to have price advertisement of legal services, the public interest will require the most particularized regulation.
 
-#### IV
+##### IV
 
 The area into which the Court now ventures has, until today, largely been left to self-regulation by the profession within the framework of canons or standards of conduct prescribed by the respective States and enforced where necessary by the courts. The problem of bringing clients and lawyers together on a mutually fair basis, consistent with the public interest, is as old as the profession itself. It is one of considerable complexity, especially in view of the constantly evolving nature of the need for legal services. The problem has not been resolved with complete satisfaction despite diligent and thoughtful efforts by the organized bar and others over a period of many years, and there is no reason to believe that today's best answers will be responsive to future needs.
 
 I am apprehensive, despite the Court's expressed intent to proceed cautiously, that today's holding will be viewed by tens of thousands of lawyers as an invitation—by the public-spirited and the selfish lawyers alike—to engage in competitive advertising on an escalating basis. Some lawyers may gain temporary advantages; others will suffer from the economic power of stronger lawyers, or by the subtle deceit of less scrupulous lawyers. Some members of the public may benefit marginally, but the risk is that many others will be victimized by simplistic price advertising of professional services "almost infinite in variety and nature." Until today, in the long history of the legal profession, it was not thought that this risk of public deception was required by the marginal First Amendment interests asserted by the Court.
 
-### Florida Bar v. Pape, 918 So.2d 240 (Fla. 2005)
+#### Florida Bar v. Pape, 918 So.2d 240 (Fla. 2005)
 
-#### Pariente, C.J.
+##### Pariente, C.J.
 
 In this case we impose discipline on two attorneys for their use of television advertising devices that violate the Rules of Professional Conduct. These devices, which invoke the breed of dog known as the pit bull, demean all lawyers and thereby harm both the legal profession and the public's trust and confidence in our system of justice.
 
 We conclude that attorneys Pape and Chandler violated the Rules Regulating the Florida Bar by using the image of a pit bull and displaying the term "pit bull" as part of their firm's phone number in their commercial. Further, because the use of an image of a pit bull and the phrase "pit bull" in the firm's advertisement and logo does not assist the public in ensuring that an informed decision is made prior to the selection of the attorney, we conclude that the First Amendment does not prevent this Court from sanctioning the attorneys based on the rule violations. We determine that the appropriate sanctions for the attorneys' misconduct are public reprimands and required attendance at the Florida Bar Advertising Workshop.
 
-#### Background and Procedural History
+##### Background and Procedural History
 
 On January 12, 2004, The Florida Bar filed complaints against the attorneys, alleging that their law firm's television advertisement was an improper communication concerning the services provided, in violation of the Rules of Professional Conduct. The advertisement included a logo that featured an image of a pit bull wearing a spiked collar and prominently displayed the firm's phone number, 1-800-PIT-BULL. The Bar asserted that this advertisement violated the 2004 version of Rules Regulating the Florida Bar 4-7.2(b)(3) and 4-7.2(b)(4), which state:
 
@@ -192,9 +192,9 @@ The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying o
 
 The referee also concluded that the ad was protected speech and therefore that an interpretation of rules to prohibit the ad would render the rules unconstitutional as applied.
 
-#### Analysis
+##### Analysis
 
-##### A. Violation of Attorney Advertising Rules
+###### A. Violation of Attorney Advertising Rules
 
 As a preliminary matter, the pit bull logo and 1-800-PIT-BULL telephone number in the ad by the attorneys do not comport with the general criteria for permissible attorney advertisements set forth in the comments to section 4-7 of the Rules of Professional Conduct. The rules contained in section 4-7 are designed to permit lawyer advertisements that provide objective information about the cost of legal services, the experience and qualifications of the lawyer and law firm, and the types of cases the lawyer handles. The comment to rule 4-7.1 provides that "a lawyer's advertisement should provide only useful, factual information presented in a nonsensational manner. Advertisements using slogans fail to meet these standards and diminish public confidence in the legal system." The television commercial at issue here uses both a sensationalistic image and a slogan, contrary to the purpose of section 4-7.
 
@@ -220,7 +220,7 @@ Further, we reject the referee's finding that the use of the words "pit bull" in
 
 Indeed, permitting this type of advertisement would make a mockery of our dedication to promoting public trust and confidence in our system of justice. Prohibiting advertisements such as the one in this case is one step we can take to maintain the dignity of lawyers, as well as the integrity of, and public confidence in, the legal system. Were we to approve the referee's finding, images of sharks, wolves, crocodiles, and piranhas could follow. For the good of the legal profession and the justice system, and consistent with our Rules of Professional Conduct, this type of non-factual advertising cannot be permitted. We therefore conclude that the 1-800-PIT-BULL ad aired by the attorneys violates rules 4-7.2(b)(3) and 4-7.2(b)(4).
 
-##### B. First Amendment Protection of Lawyer Advertising
+###### B. First Amendment Protection of Lawyer Advertising
 
 We also disagree with the referee's conclusion that the application of rules 4-7.2(b)(3) and 4-7.2(b)(4) to prohibit this advertisement violates the First Amendment. Lawyer advertising enjoys First Amendment protection only to the extent that it provides accurate factual information that can be objectively verified. This thread runs throughout the pertinent United State Supreme Court precedent.
 
@@ -242,27 +242,27 @@ The most recent United States Supreme Court decision to address restrictions on 
 
 The pit bull logo and "1-800-PIT-BULL" phone number are in marked contrast to the illustration of the Dalkon Shield intrauterine device at issue in _Zauderer_, which the United States Supreme Court found to be "an accurate representation and have no features that are likely to deceive, mislead, or confuse the reader." The Dalkon Shield illustration informed the public that the lawyer represented clients in cases involving this device. The "pit bull" commercial produced by the attorneys in this case contains no indication that they specialize in either dog bite cases generally or in litigation arising from attacks by pit bulls specifically. Consequently, the logo and phone number do not convey objectively relevant information about the attorneys' practice. Instead, the image and words "pit bull" are intended to convey an image about the nature of the lawyers' litigation tactics. We conclude that an advertising device that connotes combativeness and viciousness without providing accurate and objectively verifiable factual information falls outside the protections of the First Amendment.
 
-#### Conclusion
+##### Conclusion
 
 We disapprove the referee's finding that the television commercial at issue is constitutionally protected speech that does not violate our attorney advertising rules. We find John Robert Pape and Marc Andrew Chandler guilty of violating the Rules Regulating the Florida Bar. We order that each attorney receive a public reprimand, which shall be administered by the Board of Governors of The Florida Bar upon proper notice to appear. We also direct Pape and Chandler to attend and complete the Florida Bar Advertising Workshop within six months of the date of this opinion.
 
 *** 
 <div class="comment">
 
-#### Note on _Pape_
+##### Note on _Pape_
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). In his answer(https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited sic violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a reprimand(https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
 
 </div>
 
 
-### Hunter v. Virginia State Bar, 744 S.E.2d 611 (Va. 2013)
+#### Hunter v. Virginia State Bar, 744 S.E.2d 611 (Va. 2013)
 
-#### Opinion by Justice Cleo E. Powell
+##### Opinion by Justice Cleo E. Powell
 
 In this appeal of right by an attorney from a Virginia State Bar ("VSB") disciplinary proceeding, we consider whether an attorney's blog posts are commercial speech, whether an attorney may discuss public information related to a client without the client's consent, and whether the panel ordered the attorney to post a disclaimer that is insufficient under Rule 7.2(a)(3) of the Virginia Rules of Professional Conduct.
 
-#### I. Facts and Proceedings
+##### I. Facts and Proceedings
 
 Horace Frazier Hunter, an attorney with the law firm of Hunter & Lipton, PC, authors a trademarked blog titled "This Week in Richmond Criminal Defense," which is accessible from his law firm's website, www.hunterlipton.com. This blog, which is not interactive, contains posts discussing a myriad of legal issues and cases, although the overwhelming majority are posts about cases in which Hunter obtained favorable results for his clients. Nowhere in these posts or on his website did Hunter include disclaimers.
 
@@ -282,9 +282,9 @@ Following the hearing, the VSB held that Hunter violated Rule 1.6 by "disseminat
 
 Hunter appealed to a three judge panel of the circuit court and the court heard argument. The court disagreed with Hunter that _de novo_ was the proper standard of review and instead applied the following standard: "whether the decision is contrary to the law or whether there is substantial evidence in the record upon which the district committee could reasonably have found as it did." The court further ruled that the VSB's interpretation of Rule 1.6 violated the First Amendment and dismissed that charge. The court held VSB's interpretation of Rules 7.1 and 7.2 do not violate the First Amendment and that the record contained substantial evidence to support the VSB's determination that Hunter had violated those rules. The court imposed a public admonition and required Hunter to post the following disclaimer: "Case results depend upon a variety of factors unique to each case. Case results do not guarantee or predict a similar result in any future case." This appeal followed.
 
-#### II. Analysis
+##### II. Analysis
 
-##### A. Whether "the Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
+###### A. Whether "the Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
 
 Rule 7.1(a)(4), which is the specific portion of the Rule that the VSB argued that Hunter violated, states:
 
@@ -352,7 +352,7 @@ Rule 7.2(a)(3). This requirement ensures that the disclaimer is noticeable and w
 
 Hunter's blog posts discuss lawful activity and are not inherently misleading, but the VSB has asserted a substantial governmental interest to protect the public from potentially misleading lawyer advertising. These regulations directly advance this interest and are not more restrictive than necessary, unlike outright bans on advertising. We thus conclude that the VSB's Rules 7.1 and 7.2 do not violate the First Amendment. As applied to Hunter's blog posts, they are constitutional and the panel did not err.
 
-##### B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
+###### B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
 
 Rule 1.6(a) states, that with limited exceptions,
 
@@ -374,7 +374,7 @@ State action that punishes the publication of truthful information can rarely su
 
 The VSB argues that it can prohibit an attorney from repeating truthful information made in a public judicial proceeding even though others can disseminate this information because an attorney repeating it could inhibit clients from freely communicating with their attorneys or because it would undermine public confidence in the legal profession. Such concerns, however, are unsupported by the evidence. To the extent that the information is aired in a public forum, privacy considerations must yield to First Amendment protections. In that respect, a lawyer is no more prohibited than any other citizen from reporting what transpired in the courtroom. Thus, the circuit court did not err in concluding that the VSB's interpretation of Rule 1.6 violated the First Amendment.
 
-##### C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
+###### C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
 
 The VSB argues that the single disclaimer that the circuit court ordered Hunter to post on his blog was insufficient to comport with Rule 7.2(a)(3) because it did not eliminate the misleading nature of the posts.
 
@@ -388,12 +388,12 @@ Here, the VSB required Hunter to post a disclaimer that complies with Rule 7.2(a
 
 While the substantive meaning of the imposed disclaimer may conform to the requirements stated in Rule 7.2(a)(3)(i) through (iii), it nevertheless is less than what the rule requires. In contrast to the committee's determination, there is no provision in the circuit court's order requiring that the disclaimer be formatted and presented in the manner required by Rule 7.2(a)(3), and the text of the disclaimer prescribed by the circuit court is not itself formatted and presented in that manner. Even so, Hunter does not argue that the disclaimer required by the circuit court is an appropriate, less restrictive means of regulating his speech and, therefore, we decline to so hold. Based on the arguments presented to it, the circuit court erred by imposing a disclaimer that conflicted with the rule.
 
-#### III. Conclusion
+##### III. Conclusion
 
 For the foregoing reasons, we hold that Hunter's blog posts are potentially misleading commercial speech that the VSB may regulate. We further hold that circuit court did not err in determining that the VSB's interpretation of Rule 1.6 violated the First Amendment. Finally, we hold that because the circuit court erred in imposing one disclaimer did not fully comply with Rule 7.2(a)(3), we reverse and remand for imposition of disclaimers that fully comply with that Rule.
 
 
-#### Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
+##### Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
 
 I agree with the majority's resolution of the Rule 1.6 issue. However, I dissent from the majority's determination that Hunter is guilty of violating Rules 7.1(a)(4) and 7.2(a)(3) and that Hunter must post a disclaimer that complies with Rule 7.2(a)(3).
 
@@ -411,7 +411,7 @@ Rule 7.2 is only applicable to advertisements. Rule 7.2(a)(3) states:
 
 Hunter's blog contains articles about legal and policy issues in the news, as well as detailed descriptions of criminal trials, the majority of which are cases where Hunter was the defense attorney. The articles also contain Hunter's commentary and critique of the criminal justice system. He uses the case descriptions to illustrate his views.
 
-#### The First Amendment
+##### The First Amendment
 
 I believe that the articles on Hunter's blog are political speech that is protected by the First Amendment. The Bar concedes that if Hunter's blog is political speech, the First Amendment protects him and the Bar cannot force Hunter to post an advertising disclaimer on his blog.
 
@@ -443,13 +443,13 @@ In this case, the policies the Bar advances have no persuasive force when applie
 
 Accordingly, I would hold that Hunter's speech is political, is entitled to the heightened scrutiny test, and that he cannot be forced to include the advertising disclaimer under Rule 7.2 that the Bar seeks to force upon his writings.
 
-# Solicitation
+## Solicitation
 
-### Model Rules of Professional Conduct
+#### Model Rules of Professional Conduct
 
 <div class="legal-code">
 
-#### Rule 7.3: Solicitation of Clients
+##### Rule 7.3: Solicitation of Clients
 
 (a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 
@@ -471,15 +471,15 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 (e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-#### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
+##### Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
 </div>
 
-### NAACP v. Button, 371 U.S. 415 (1963)
+#### NAACP v. Button, 371 U.S. 415 (1963)
 
-#### MR. JUSTICE BRENNAN delivered the opinion of the Court.
+##### MR. JUSTICE BRENNAN delivered the opinion of the Court.
 
 This case originated in companion suits by the National Association for the Advancement of Colored People, Inc. (NAACP), and the NAACP Legal Defense and Educational Fund, Inc. (Defense Fund), brought in 1957 in the United States District Court for the Eastern District of Virginia. The suits sought to restrain the enforcement of Chapters 31, 32, 33, 35 and 36 of the Virginia Acts of Assembly, 1956 Extra Session, on the ground that the statutes, as applied to the activities of the plaintiffs, violated the Fourteenth Amendment. A three-judge court convened pursuant to 28 U. S. C. § 2281, after hearing evidence and making fact-findings, struck down Chapters 31, 32 and 35 but abstained from passing upon the validity of Chapters 33 and 36 pending an authoritative interpretation of these statutes by the Virginia courts. The complainants thereupon petitioned in the Circuit Court of the City of Richmond to declare Chapters 33 and 36 inapplicable to their activities, or, if applicable, unconstitutional. The record in the Circuit Court was that made before the three-judge court supplemented by additional evidence. The Circuit Court held the chapters to be both applicable and constitutional. The holding was sustained by the Virginia Supreme Court of Appeals as to Chapter 33, but reversed as to Chapter 36, which was held unconstitutional under both state and federal law. Thereupon the Defense Fund returned to the Federal District Court, where its case is presently pending, while the NAACP filed the instant petition. We granted certiorari, and ordered reargument this Term. The only issue before us is the constitutionality of Chapter 33 as applied to the activities of the NAACP.
 
@@ -497,13 +497,13 @@ These meetings are sometimes prompted by letters and bulletins from the Conferen
 
 Statutory regulation of unethical and nonprofessional conduct by attorneys has been in force in Virginia since 1849. These provisions outlaw, _inter alia,_ solicitation of legal business in the form of "running" or "capping." Prior to 1956, however, no attempt was made to proscribe under such regulations the activities of the NAACP, which had been carried on openly for many years in substantially the manner described. In 1956, however, the legislature amended, by the addition of Chapter 33, the provisions of the Virginia Code forbidding solicitation of legal business by a "runner" or "capper" to include, in the definition of "runner" or "capper," an agent for an individual or organization which retains a lawyer in connection with an action to which it is not a party and in which it has no pecuniary right or liability. The Virginia Supreme Court of Appeals held that the chapter's purpose "was to strengthen the existing statutes to further control the evils of solicitation of legal business." The court held that the activities of NAACP, the Virginia Conference, the Defense Fund, and the lawyers furnished by them, fell within, and could constitutionally be proscribed by, the chapter's expanded definition of improper solicitation of legal business, and also violated Canons 35 and 47 of the American Bar Association's Canons of Professional Ethics, which the court had adopted in 1938. Specifically the court held that, under the expanded definition, such activities on the part of NAACP, the Virginia Conference, and the Defense Fund constituted "fomenting and soliciting legal business in which they are not parties and have no pecuniary right or liability, and which they channel to the enrichment of certain lawyers employed by them, at no cost to the litigants and over which the litigants have no control." Finally, the court restated the decree of the Richmond Circuit Court.
 
-#### II.
+##### II.
 
 Petitioner challenges the decision of the Supreme Court of Appeals on many grounds. But we reach only one: that Chapter 33 as construed and applied abridges the freedoms of the First Amendment, protected against state action by the Fourteenth. More specifically, petitioner claims that the chapter infringes the right of the NAACP and its members and lawyers to associate for the purpose of assisting persons who seek legal redress for infringements of their constitutionally guaranteed and other rights. We think petitioner may assert this right on its own behalf, because, though a corporation, it is directly engaged in those activities, claimed to be constitutionally protected, which the statute would curtail. We also think petitioner has standing to assert the corresponding rights of its members.
 
 We reverse the judgment of the Virginia Supreme Court of Appeals. We hold that the activities of the NAACP, its affiliates and legal staff shown on this record are modes of expression and association protected by the First and Fourteenth Amendments which Virginia may not prohibit, under its power to regulate the legal profession, as improper solicitation of legal business violative of Chapter 33 and the Canons of Professional Ethics.
 
-##### A.
+###### A.
 
 We meet at the outset the contention that "solicitation" is wholly outside the area of freedoms protected by the First Amendment. To this contention there are two answers. The first is that a State cannot foreclose the exercise of constitutional rights by mere labels. The second is that abstract discussion is not the only species of communication which the Constitution protects; the First Amendment also protects vigorous advocacy, certainly of lawful ends, against governmental intrusion. In the context of NAACP objectives, litigation is not a technique of resolving private differences; it is a means for achieving the lawful objectives of equality of treatment by all government, federal, state and local, for the members of the Negro community in this country. It is thus a form of political expression. Groups which find themselves unable to achieve their objectives through the ballot frequently turn to the courts. Just as it was true of the opponents of New Deal legislation during the 1930s, for example, no less is it true of the Negro minority today. And under the conditions of modern government, litigation may well be the sole practicable avenue open to a minority to petition for redress of grievances.
 
@@ -513,7 +513,7 @@ We need not, in order to find constitutional protection for the kind of cooperat
 
 The NAACP is not a conventional political party; but the litigation it assists, while serving to vindicate the legal rights of members of the American Negro community, at the same time and perhaps more importantly, makes possible the distinctive contribution of a minority group to the ideas and beliefs of our society. For such a group, association for litigation may be the most effective form of political association.
 
-##### B.
+###### B.
 
 Our concern is with the impact of enforcement of Chapter 33 upon First Amendment freedoms. We start, of course, from the decree of the Supreme Court of Appeals. Although the action before it was one basically for declaratory relief, that court not only expounded the purpose and reach of the chapter but held concretely that certain of petitioner's activities had, and certain others had not,  violated the chapter. These activities had been explored in detail at the trial and were spread out plainly on the record. We have no doubt that the opinion of the Supreme Court of Appeals in the instant case was intended as a full and authoritative construction of Chapter 33 as applied in a detailed factual context. That construction binds us. For us, the words of Virginia's highest court are the words of the statute. We are not left to speculate at large upon the possible implications of bare statutory language.
 
@@ -527,7 +527,7 @@ It is apparent, therefore, that Chapter 33 as construed limits First Amendment f
 
 We hold that Chapter 33 as construed violates the Fourteenth Amendment by unduly inhibiting protected freedoms of expression and association. In so holding, we reject two further contentions of respondents. The first is that the Virginia Supreme Court of Appeals has guaranteed free expression by expressly confirming petitioner's right to continue its advocacy of civil-rights litigation. But in light of the whole decree of the court, the guarantee is of purely speculative value. As construed by the Court, Chapter 33, at least potentially, prohibits every cooperative activity that would make advocacy of litigation meaningful. If there is an internal tension between proscription and protection in the statute, we cannot assume that, in its subsequent enforcement, ambiguities will be resolved in favor of adequate protection of First Amendment rights. Broad prophylactic rules in the area of free expression are suspect. Precision of regulation must be the touchstone in an area so closely touching our most precious freedoms.
 
-##### C.
+###### C.
 
 The second contention is that Virginia has a subordinating interest in the regulation of the legal profession, embodied in Chapter 33, which justifies limiting petitioner's First Amendment rights. Specifically, Virginia contends that the NAACP's activities in furtherance of litigation, being "improper solicitation" under the state statute, fall within the traditional purview of state regulation of professional conduct. However, the State's attempt to equate the activities of the NAACP and its lawyers with common-law barratry, maintenance and champerty, and to outlaw them accordingly, cannot obscure the serious encroachment worked by Chapter 33 upon protected freedoms of expression. The decisions of this Court have consistently held that only a compelling state interest in the regulation of a subject within the State's constitutional power to regulate can justify limiting First Amendment freedoms. Thus it is no answer to the constitutional claims asserted by petitioner to say, as the Virginia Supreme Court of Appeals has said, that the purpose of these regulations was merely to insure high professional standards and not to curtail free expression. For a State may not, under the guise of prohibiting professional misconduct, ignore constitutional rights. In _NAACP v. Alabama ex rel. Patterso,_, we said, "In the domain of these indispensable liberties, whether of speech, press, or association the decisions of this Court recognize that abridgment of such rights, even though unintended, may inevitably follow from varied forms of governmental action." Later, in _Bates v. Little Rock_, we said, "where there is a significant encroachment upon personal liberty, the State may prevail only upon showing a subordinating interest which is compelling." Most recently, in _Louisiana ex rel. Gremillion v. NAACP_, we reaffirmed this principle: "regulatory measures no matter how sophisticated, cannot be employed in purpose or in effect to stifle, penalize, or curb the exercise of First Amendment rights."
 
@@ -544,7 +544,7 @@ We conclude that although the petitioner has amply shown that its activities fal
 A final observation is in order. Because our disposition is rested on the First Amendment as absorbed in the Fourteenth, we do not reach the considerations of race or racial discrimination which are the predicate of petitioner's challenge to the statute under the Equal Protection Clause. That the petitioner happens to be engaged in activities of expression and association on behalf of the rights of Negro children to equal opportunity is constitutionally irrelevant to the ground of our decision. The course of our decisions in the First Amendment area makes plain that its protections would apply as fully to those who would arouse our society against the objectives of the petitioner. For the Constitution protects expression and association without regard to the race, creed, or political or religious affiliation of the members of the group which invokes its shield, or to the truth, popularity, or social utility of the ideas and beliefs which are offered.
 
 
-#### MR. JUSTICE DOUGLAS, concurring.
+##### MR. JUSTICE DOUGLAS, concurring.
 
 While I join the opinion of the Court, I add a few words. This Virginia Act is not applied across the board to all groups that use this method of obtaining and managing litigation, but instead reflects a legislative purpose to penalize the N. A. A. C. P. because it promotes desegregation of the races. Our decision in _Brown v. Board of Education,_, holding that maintenance of public schools segregated by race violated the Equal Protection Clause of the Fourteenth Amendment, was announced May 17, 1954. The amendments to Virginia's code, here in issue, were enacted in 1956. Arkansas, Florida, Georgia, Mississippi, South Carolina, and Tennessee also passed laws following our 1954 decision which brought within their barratry statutes attorneys paid by an organization such as the N.A.A.C.P. and representing litigants without charge.
 
@@ -552,13 +552,13 @@ The bill, here involved, was one of five that Virginia enacted "as parts of the 
 
 Discrimination also appears on the face of this Act. The line drawn in § 54-78 is between an organization which has "no pecuniary right or liability" in a judicial proceeding and one that does. As we said in _N.A.A.C.P. v. Alabama_, the N.A.A.C.P. and its members are "in every practical sense identical. The Association is but the medium through which its individual members seek to make more effective the expression of their own views." Under the statute those who protect a "pecuniary right or liability" against unconstitutional invasions may indulge in "the solicitation of business for an attorney," while those who protect other civil rights may not. This distinction helps make clear the purpose of the legislation, which, as Judge Soper said, was part of the program of "massive resistance" against _Brown v. Board of Education_.
 
-### Ohralik v. Ohio State Bar Assn., 436 U.S. 447 (1978)
+#### Ohralik v. Ohio State Bar Assn., 436 U.S. 447 (1978)
 
-#### MR. JUSTICE POWELL delivered the opinion of the Court.
+##### MR. JUSTICE POWELL delivered the opinion of the Court.
 
 In _Bates v. State Bar of Arizona_, this Court held that truthful advertising of "routine" legal services is protected by the First and Fourteenth Amendments against blanket prohibition by a State. The Court expressly reserved the question of the permissible scope of regulation of "in-person solicitation of clients—at the hospital room or the accident site, or in any other situation that breeds undue influence—by attorneys or their agents or 'runners.'" Today we answer part of the question so reserved, and hold that the State—or the Bar acting with state authorization— constitutionally may discipline a lawyer for soliciting clients in person, for pecuniary gain, under circumstances likely to pose dangers that the State has a right to prevent.
 
-#### I
+##### I
 
 Appellant, a member of the Ohio Bar, lives in Montville, Ohio. Until recently he practiced law in Montville and Cleveland. On February 13, 1974, while picking up his mail at the Montville Post Office, appellant learned from the postmaster's brother about an automobile accident that had taken place on February 2 in which Carol McClintock, a young woman with whom appellant was casually acquainted, had been injured. Appellant made a telephone call to Ms. McClintock's parents, who informed him that their daughter was in the hospital. Appellant suggested that he might visit Carol in the hospital. Mrs. McClintock assented to the idea, but requested that appellant first stop by at her home.
 
@@ -576,11 +576,11 @@ Both Carol McClintock and Wanda Lou Holbert filed complaints against appellant w
 
 The decision in _Bates_ was handed down after the conclusion of proceedings in the Ohio Supreme Court. We noted probable jurisdiction in this case to consider the scope of protection of a form of commercial speech, and an aspect of the State's authority to regulate and discipline members of the bar, not considered in _Bates_. We now affirm the judgment of the Supreme Court of Ohio.
 
-#### II
+##### II
 
 The solicitation of business by a lawyer through direct, in-person communication with the prospective client has long been viewed as inconsistent with the profession's ideal of the attorney-client relationship and as posing a significant potential for harm to the prospective client. It has been proscribed by the organized Bar for many years. Last Term the Court ruled that the justifications for prohibiting truthful, "restrained" advertising concerning "the availability and terms of routine legal services" are insufficient to override society's interest, safeguarded by the First and Fourteenth Amendments, in assuring the free flow of commercial information. The balance struck in _Bates_ does not predetermine the outcome in this case. The entitlement of in-person solicitation of clients to the protection of the First Amendment differs from that of the kind of advertising approved in _Bates_, as does the strength of the State's countervailing interest in prohibition.
 
-##### A
+###### A
 
 Appellant contends that his solicitation of the two young women as clients is indistinguishable, for purposes of constitutional analysis, from the advertisement in _Bates_. Like that advertisement, his meetings with the prospective clients apprised them of their legal rights and of the availability of a lawyer to pursue their claims. According to appellant, such conduct is "presumptively an exercise of his free speech rights" which cannot be curtailed in the absence of proof that it actually caused a specific harm that the State has a compelling interest in preventing. Brief for Appellant 39. But in-person solicitation of professional employment by a lawyer does not stand on a par with truthful advertising about the availability and terms of routine legal services, let alone with forms of speech more traditionally within the concern of the First Amendment.
 
@@ -596,7 +596,7 @@ It also is argued that in-person solicitation may provide the solicited individu
 
 Appellant does not contend, and on the facts of this case could not contend, that his approaches to the two young women involved political expression or an exercise of associational freedom, "employ ing constitutionally privileged means of expression to secure constitutionally guaranteed civil rights." Nor can he compare his solicitation to the mutual assistance in asserting legal rights that was at issue in [cases involving labor unions assisting their members in pursuing legal claims arising from their employment]. A lawyer's procurement of remunerative employment is a subject only marginally affected with First Amendment concerns. It falls within the State's proper sphere of economic and professional regulation. While entitled to some constitutional protection, appellant's conduct is subject to regulation in furtherance of important state interests.
 
-##### B
+###### B
 
 The state interests implicated in this case are particularly strong. In addition to its general interest in protecting consumers and regulating commercial transactions, the State bears a special responsibility for maintaining standards among members of the licensed professions. "The interest of the States in regulating lawyers is especially great since lawyers are essential to the primary governmental function of administering justice, and have historically been 'officers of the courts.'" While lawyers act in part as "self-employed businessmen," they also act "as trusted agents of their clients, and as assistants to the court in search of a just solution to disputes."
 
@@ -606,7 +606,7 @@ The substantive evils of solicitation have been stated over the years in sweepin
 
 We need not discuss or evaluate each of these interests in detail as appellant has conceded that the State has a legitimate and indeed "compelling" interest in preventing those aspects of solicitation that involve fraud, undue influence, intimidation, overreaching, and other forms of "vexatious conduct." We agree that protection of the public from these aspects of solicitation is a legitimate and important state interest.
 
-#### III
+##### III
 
 Appellant's concession that strong state interests justify regulation to prevent the evils he enumerates would end this case but for his insistence that none of those evils was found to be present in his acts of solicitation. He challenges what he characterizes as the "indiscriminate application" of the Rules to him and thus attacks the validity of DR 2-103 (A) and DR 2-104 (A) not facially, but as applied to his acts of solicitation. And because no allegations or findings were made of the specific wrongs appellant concedes would justify disciplinary action, appellant terms his solicitation "pure," meaning "soliciting and obtaining agreements from Carol McClintock and Wanda Lou Holbert to represent each of them," without more. Appellant therefore argues that we must decide whether a State may discipline him for solicitation _per se_ without offending the First and Fourteenth Amendments.
 
@@ -623,11 +623,11 @@ On the basis of the undisputed facts of record, we conclude that the Disciplinar
 The court below did not hold that these or other facts were proof of actual harm to Wanda Holbert or Carol McClintock but rested on the conclusion that appellant had engaged in the general misconduct proscribed by the Disciplinary Rules. Under our view of the State's interest in averting harm by prohibiting solicitation in circumstances where it is likely to occur, the absence of explicit proof or findings of harm or injury is immaterial. The facts in this case present a striking example of the potential for overreaching that is inherent in a lawyer's in-person solicitation of professional employment. They also demonstrate the need for prophylactic regulation in furtherance of the State's interest in protecting the lay public. We hold that the application of DR 2-103 (A) and 2-104 (A) to appellant does not offend the Constitution.
 
 
-#### MR. JUSTICE MARSHALL, concurring in part and concurring in the judgment.
+##### MR. JUSTICE MARSHALL, concurring in part and concurring in the judgment.
 
 I agree with the majority that the factual circumstances presented by appellant Ohralik's conduct "pose dangers that the State has a right to prevent," and accordingly that he may constitutionally be disciplined by the disciplinary Board and the Ohio Supreme Court. I further agree that appellant Primus' activity in advising a Medicaid patient who had been sterilized that the American Civil Liberties Union (ACLU) would be willing to represent her without fee in a lawsuit against the doctor and the hospital was constitutionally protected and could not form the basis for disciplinary proceedings. I write separately to highlight what I believe these cases do and do not decide, and to express my concern that disciplinary rules not be utilized to obstruct the distribution of legal services to all those in need of them.
 
-#### I
+##### I
 
 While both of these cases involve application of rules prohibiting attorneys from soliciting business, they could hardly have arisen in more disparate factual settings. The circumstances in which appellant Ohralik initially approached his two clients provide classic examples of "ambulance chasing," fraught with obvious potential for misrepresentation and overreaching. Ohralik, an experienced lawyer in practice for over 25 years, approached two 18-year-old women shortly after they had been in a traumatic car accident. One was in traction in a hospital room; the other had just been released following nearly two weeks of hospital care. Both were in pain and may have been on medication; neither had more than a high school education. Certainly these facts alone would have cautioned hesitation in pressing one's employment on either of these women; any lawyer of ordinary prudence should have carefully considered whether the person was in an appropriate condition to make a decision about legal counsel.
 
@@ -635,31 +635,31 @@ But appellant not only foisted himself upon these clients; he acted in gross dis
 
 What is objectionable about Ohralik's behavior here is not so much that he solicited business for himself, but rather the circumstances in which he performed that solicitation and the means by which he accomplished it. Appropriately, the Court's actual holding in _Ohralik_ is a limited one: that the solicitation of business, under circumstances—such as those found in this record—presenting substantial dangers of harm to society or the client independent of the solicitation itself, may constitutionally be prohibited by the State. In this much of the Court's opinion in _Ohralik_, I join fully.
 
-#### II
+##### II
 
 The facts in _Primus_, by contrast, show a "solicitation" of employment in accordance with the highest standards of the legal profession. Appellant in this case was acting, not for her own pecuniary benefit, but to promote what she perceived to be the legal rights of persons not likely to appreciate or to be able to vindicate their own rights. The obligation of all lawyers, whether or not members of an association committed to a particular point of view, to see that legal aid is available "where the litigant is in need of assistance, or where important issues are involved in the case," has long been established. Indeed, Judge Soper in _Ades_ was able to recite numerous instances in which lawyers, including Alexander Hamilton, Luther Martin, and Clarence Darrow, volunteered their services in aid of indigent persons or important public issues. The American Bar Association Code of Professional Responsibility itself recognizes that the "responsibility for providing legal services for those unable to pay ultimately rests upon the individual lawyer," and further states that "every lawyer, regardless of professional prominence or professional workload, should find time to participate in serving the disadvantaged."
 
 In light of this long tradition of public interest representation by lawyer volunteers, I share my Brother BLACKMUN'S concern with respect to Part VI of the Court's opinion, and believe that the Court has engaged in unnecessary and unfortunate dicta therein. It would be most undesirable to discourage lawyers—so many of whom find time to work only for those clients who can pay their fees—from continuing to volunteer their services in appropriate cases. Moreover, it cannot be too strongly emphasized that, where "political expression and association" are involved,"a State may not, under the guise of prohibiting professional misconduct, ignore constitutional rights." For these reasons, I find particularly troubling the Court's dictum that "a State may insist that lawyers not solicit on behalf of lay organizations that exert control over the actual conduct of any ensuing litigation." This proposition is by no means self-evident, has never been the actual holding of this Court, and is not put in issue by the facts presently before us. Thus, while I agree with much of the Court's opinion in _Primus_, I cannot join in the first paragraph of Part VI.
 
-#### III
+##### III
 
 Our holdings today deal only with situations at opposite poles of the problem of attorney solicitation. In their aftermath, courts and professional associations may reasonably be expected to look to these opinions for guidance in redrafting the disciplinary rules that must apply across a spectrum of activities ranging from clearly protected speech to clearly proscribable conduct. A large number of situations falling between the poles represented by the instant facts will doubtless occur. In considering the wisdom and constitutionality of rules directed at such intermediate situations, our fellow members of the Bench and Bar must be guided not only by today's decisions, but also by our decision last Term in _Bates v. State Bar of Arizona_. There, we held that truthful printed advertising by private practitioners regarding the availability and price of certain legal services was protected by the First Amendment. In that context we rejected many of the general justifications for rules applicable to one intermediate situation not directly addressed by the Court today—the commercial, but otherwise "benign" solicitation of clients by an attorney.
 
 The state bar associations in both of these cases took the position that solicitation itself was an evil that could lawfully be proscribed. While the Court's _Primus_ opinion does suggest that the only justification for nonsolicitation rules is their prophylactic value in preventing such evils as actual fraud, overreaching, deception, and misrepresentation, I think it should be made crystal clear that the State's legitimate interests in this area are limited to prohibiting such substantive evils.
 
-##### A
+###### A
 
 Like rules against advertising, rules against solicitation substantially impede the flow of important information to consumers from those most likely to provide it—the practicing members of the Bar. Many persons with legal problems fail to seek relief through the legal system because they are unaware that they have a legal problem, and, even if they "perceive a need," many "do not obtain counsel because of an inability to locate a competent attorney." Notwithstanding the injurious aspects of Ohralik's conduct, even his case illustrates the potentially useful, information-providing aspects of attorney solicitation: Motivated by the desire for pecuniary gain, but informed with the special training and knowledge of an attorney, Ohralik advised both his clients (apparently correctly) that, although they had been injured by an uninsured motorist, they could nonetheless recover on the McClintocks' insurance policy. The provision of such information about legal rights and remedies is an important function, even where the rights and remedies are of a private and commercial nature involving no constitutional or political overtones.
 
 In view of the similar functions performed by advertising and solicitation by attorneys, I find somewhat disturbing the Court's suggestion in _Ohralik_ that in-person solicitation of business, though entitled to some degree of constitutional protection as "commercial speech," is entitled to less protection under the First Amendment than is "the kind of advertising approved in _Bates_." The First Amendment informational interests served by solicitation, whether or not it occurs in a purely commercial context, are substantial, and they are entitled to as much protection as the interests we found to be protected in _Bates_.
 
-##### B
+###### B
 
 Not only do prohibitions on solicitation interfere with the free flow of information protected by the First Amendment, but by origin and in practice they operate in a discriminatory manner. As we have noted, these constraints developed as rules of "etiquette" and came to rest on the notion that a lawyer's reputation in his community would spread by word of mouth and bring business to the worthy lawyer. The social model on which this conception depends is that of the small, cohesive, and homogeneous community; the anachronistic nature of this model has long been recognized. If ever this conception were more generally true, it is now valid only with respect to those persons who move in the relatively elite social and educational circles in which knowledge about legal problems, legal remedies, and lawyers is widely shared.
 
 The impact of the nonsolicitation rules, moreover, is discriminatory with respect to the suppliers as well as the consumers of legal services. Just as the persons who suffer most from lack of knowledge about lawyers' availability belong to the less privileged classes of society, so the Disciplinary Rules against solicitation fall most heavily on those attorneys engaged in a single-practitioner or small-partnership form of practice—attorneys who typically earn less than their fellow practitioners in larger, corporateoriented firms. Indeed, some scholars have suggested that the rules against solicitation were developed by the professional bar to keep recently immigrated lawyers, who gravitated toward the smaller, personal injury practice, from effective entry into the profession. In light of this history, I am less inclined than the majority appears to be, to weigh favorably in the balance of the State's interests here the longevity of the ban on attorney solicitation.
 
-##### C
+###### C
 
 By discussing the origin and impact of the nonsolicitation rules, I do not mean to belittle those obviously substantial interests that the State has in regulating attorneys to protect the public from fraud, deceit, misrepresentation, overreaching, undue influence, and invasions of privacy. But where honest, unpressured "commercial" solicitation is involved—a situation not presented in either of these cases—I believe it is open to doubt whether the State's interests are sufficiently compelling to warrant the restriction on the free flow of information which results from a sweeping nonsolicitation rule and against which the First Amendment ordinarily protects. While the State's interest in regulating in-person solicitation may be somewhat greater than its interest in regulating printed advertisements, these concededly legitimate interests might well be served by more specific and less restrictive rules than a total ban on pecuniary solicitation. For example, the Justice Department has suggested that the disciplinary rules be reworded "so as to _permit_ all solicitation and advertising except the kinds that are false, misleading, undignified, or champertous."
 
@@ -667,13 +667,13 @@ To the extent that in-person solicitation of business may constitutionally be su
 
 Accordingly, while I concur in the judgments of the Court in both of these cases, I join in the Court's opinions only to the extent and with the exceptions noted above.
 
-### In re Primus, 436 U.S. 412 (1978)
+#### In re Primus, 436 U.S. 412 (1978)
 
-#### MR. JUSTICE POWELL delivered the opinion of the Court.
+##### MR. JUSTICE POWELL delivered the opinion of the Court.
 
 We consider on this appeal whether a State may punish a member of its Bar who, seeking to further political and ideological goals through associational activity, including litigation, advises a lay person of her legal rights and discloses in a subsequent letter that free legal assistance is available from a nonprofit organization with which the lawyer and her associates are affiliated. Appellant, a member of the Bar of South Carolina, received a public reprimand for writing such a letter. The appeal is opposed by the State Attorney General, on behalf of the Board of Commissioners on Grievances and Discipline of the Supreme Court of South Carolina. As this appeal presents a substantial question under the First and Fourteenth Amendments, as interpreted in _NAACP v. Button_, we noted probable jurisdiction.
 
-#### I
+##### I
 
 Appellant, Edna Smith Primus, is a lawyer practicing in Columbia, S. C. During the period in question, she was associated with the "Carolina Community Law Firm," and was an officer of and cooperating lawyer with the Columbia branch of the American Civil Liberties Union (ACLU). She received no compensation for her work on behalf of the ACLU, but was paid a retainer as a legal consultant for the South Carolina Council on Human Relations (Council), a nonprofit organization with offices in Columbia.
 
@@ -689,7 +689,7 @@ After a hearing on January 9, 1976, the full Board approved the panel report and
 
 We now reverse.
 
-#### II
+##### II
 
 This appeal concerns the tension between contending values of considerable moment to the legal profession and to society. Relying upon _NAACP v. Button_ and its progeny, appellant maintains that her activity involved constitutionally protected expression and association. In her view, South Carolina has not shown that the discipline meted out to her advances a subordinating state interest in a manner that avoids unnecessary abridgment of First Amendment freedoms. Appellee counters that appellant's letter to Williams falls outside of the protection of _Button_, and that South Carolina acted lawfully in punishing a member of its Bar for solicitation.
 
@@ -697,7 +697,7 @@ The States enjoy broad power to regulate "the practice of professions within the
 
 Unlike the situation in _Ohralik_, however, appellant's act of solicitation took the form of a letter to a woman with whom appellant had discussed the possibility of seeking redress for an allegedly unconstitutional sterilization. This was not in-person solicitation for pecuniary gain. Appellant was communicating an offer of free assistance by attorneys associated with the ACLU, not an offer predicated on entitlement to a share of any monetary recovery. And her actions were undertaken to express personal political beliefs and to advance the civil-liberties objectives of the ACLU, rather than to derive financial gain. The question presented in this case is whether, in light of the values protected by the First and Fourteenth Amendments, these differences materially affect the scope of state regulation of the conduct of lawyers.
 
-#### III
+##### III
 
 In _NAACP v. Button_, the Supreme Court of Appeals of Virginia had held that the activities of members and staff attorneys of the National Association for the Advancement of Colored People (NAACP) and its affiliate, the Virginia State Conference of NAACP Branches (Conference), constituted "solicitation of legal business" in violation of state law. Although the NAACP representatives and staff attorneys had "a right to peaceably assemble with the members of the branches and other groups to discuss with them and advise them relative to their legal rights in matters concerning racial segregation," the court found no constitutional protection for efforts to "solicit prospective litigants to authorize the filing of suits" by NAACP-compensated attorneys.
 
@@ -707,7 +707,7 @@ Since the Virginia statute sought to regulate expressive and associational condu
 
 Subsequent decisions have interpreted _Button_ as establishing the principle that "collective activity undertaken to obtain meaningful access to the courts is a fundamental right within the protection of the First Amendment." The Court has held that the First and Fourteenth Amendments prevent state proscription of a range of solicitation activities by labor unions seeking to provide low-cost, effective legal representation to their members. And "lawyers accepting employment under [such plans] have a like protection which the State cannot abridge." Without denying the power of the State to take measures to correct the substantive evils of undue influence, overreaching, misrepresentation, invasion of privacy, conflict of interest, and lay interference that potentially are present in solicitation of prospective clients by lawyers, this Court has required that "broad rules framed to protect the public and to preserve respect for the administration of justice" must not work a significant impairment of "the value of associational freedoms."
 
-#### IV
+##### IV
 
 We turn now to the question whether appellant's conduct implicates interests of free expression and association sufficient to justify the level of protection recognized in _Button_ and subsequent cases. The Supreme Court of South Carolina found appellant to have engaged in unethical conduct because she "'solicited a client for a non-profit organization, which, as its primary purpose, renders legal services, where respondent's associate is a staff counsel for the non-profit organization.'" It rejected appellant's First Amendment defenses by distinguishing _Button_ from the case before it. Whereas the NAACP in that case was primarily a "'political'" organization that used "'litigation as an adjunct to the overriding political aims of the organization,'" the ACLU "'has as one of its primary purposes the rendition of legal services.'" The court also intimated that the ACLU's policy of requesting an award of counsel fees indicated that the organization might "'benefit financially in the event of successful prosecution of the suit for money damages.'"
 
@@ -719,17 +719,17 @@ Contrary to appellee's suggestion, the ACLU's policy of requesting an award of c
 
 Appellant's letter of August 30, 1973, to Mrs. Williams thus comes within the generous zone of First Amendment protection reserved for associational freedoms. The ACLU engages in litigation as a vehicle for effective political expression and association, as well as a means of communicating useful information to the public. As _Button_ indicates, and as appellant offered to prove at the disciplinary hearing, the efficacy of litigation as a means of advancing the cause of civil liberties often depends on the ability to make legal assistance available to suitable litigants. "'Free trade in ideas' means free trade in the opportunity to persuade to action, not merely to describe facts." The First and Fourteenth Amendments require a measure of protection for "advocating lawful means of vindicating legal rights," including "advising another that his legal rights have been infringed and referring him to a particular attorney or group of attorneys for assistance".
 
-#### V
+##### V
 
 South Carolina's action in punishing appellant for soliciting a prospective litigant by mail, on behalf of the ACLU, must withstand the "exacting scrutiny applicable to limitations on core First Amendment rights." South Carolina must demonstrate "a subordinating interest which is compelling," and that the means employed in furtherance of that interest are "closely drawn to avoid unnecessary abridgment of associational freedoms."
 
 Appellee contends that the disciplinary action taken in this case is part of a regulatory program aimed at the prevention of undue influence, overreaching, misrepresentation, invasion of privacy, conflict of interest, lay interference, and other evils that are thought to inhere generally in solicitation by lawyers of prospective clients, and to be present on the record before us. We do not dispute the importance of these interests. This Court's decision in _Button_ makes clear, however, that "broad prophylactic rules in the area of free expression are suspect," and that "precision of regulation must be the touchstone in an area so closely touching our most precious freedoms." Because of the danger of censorship through selective enforcement of broad prohibitions, and "because First Amendment freedoms need breathing space to survive, government may regulate in this area only with narrow specificity."
 
-##### A
+###### A
 
 The Disciplinary Rules in question sweep broadly. Under DR 2-103 (D) (5), a lawyer employed by the ACLU or a similar organization may never give unsolicited advice to a lay person that he retain the organization's free services, and it would seem that one who merely assists or maintains a cooperative relationship with the organization also must suppress the giving of such advice if he or anyone associated with the organization will be involved in the ultimate litigation. Notwithstanding appellee's concession in this Court, it is far from clear that a lawyer may communicate the organization's offer of legal assistance at an informational gathering such as the July 1973 meeting in Aiken without breaching the literal terms of the Rule. Moreover, the Disciplinary Rules in question permit punishment for mere solicitation unaccompanied by proof of any of the substantive evils that appellee maintains were present in this case. In sum, the Rules in their present form have a distinct potential for dampening the kind of "cooperative activity that would make advocacy of litigation meaningful," as well as for permitting discretionary enforcement against unpopular causes.
 
-##### B
+###### B
 
 Even if we ignore the breadth of the Disciplinary Rules and the absence of findings in the decision below that support the justifications advanced by appellee in this Court, we think it clear from the record—which appellee does not suggest is inadequately developed—that findings compatible with the First Amendment could not have been made in this case. "Considerations of effective judicial administration require us to review the evidence in the present record to determine whether it could constitutionally support a judgment [against appellant]. This Court's duty is not limited to the elaboration of constitutional principles; we must also in proper cases review the evidence to make certain that those principles [can be] constitutionally applied."
 
@@ -743,7 +743,7 @@ The State's interests in preventing the "stirring up" of frivolous or vexatious 
 
 At bottom, the case against appellant rests on the proposition that a State may regulate in a prophylactic fashion all solicitation activities of lawyers because there may be some potential for overreaching, conflict of interest, or other substantive evils whenever a lawyer gives unsolicited advice and communicates an offer of representation to a layman. Under certain circumstances, that approach is appropriate in the case of speech that simply "proposes a commercial transaction". In the context of political expression and association, however, a State must regulate with significantly greater precision.
 
-#### VI
+##### VI
 
 The State is free to fashion reasonable restrictions with respect to the time, place, and manner of solicitation by members of its Bar. The State's special interest in regulating members of a profession it licenses, and who serve as officers of its courts, amply justifies the application of narrowly drawn rules to proscribe solicitation that in fact is misleading, overbearing, or involves other features of deception or improper influence. As we decide today in _Ohralik_, a State also may forbid in-person solicitation for pecuniary gain under circumstances likely to result in these evils. And a State may insist that lawyers not solicit on behalf of lay organizations that exert control over the actual conduct of any ensuing litigation. Accordingly, nothing in this opinion should be read to foreclose carefully tailored regulation that does not abridge unnecessarily the associational freedom of nonprofit organizations, or their members, having characteristics like those of the NAACP or the ACLU.
 
@@ -751,13 +751,13 @@ We conclude that South Carolina's application of DR 2-103 (D) (5) (a) and (c) an
 
 _Reversed_.
 
-### Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626  (1985)
+#### Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626  (1985)
 
-#### JUSTICE WHITE delivered the opinion of the Court.
+##### JUSTICE WHITE delivered the opinion of the Court.
 
 We have on a number of occasions addressed the constitutionality of restraints on advertising and solicitation by attorneys. This case presents additional unresolved questions regarding the regulation of commercial speech by attorneys: whether a State may discipline an attorney for soliciting business by running newspaper advertisements containing nondeceptive illustrations and legal advice, and whether a State may seek to prevent potential deception of the public by requiring attorneys to disclose in their advertising certain information regarding fee arrangements.
 
-#### I
+##### I
 
 Appellant is an attorney practicing in Columbus, Ohio. Late in 1981, he sought to augment his practice by advertising in local newspapers. His first effort was a modest one: he ran a small advertisement in the Columbus Citizen Journal advising its readers that his law firm would represent defendants in drunken driving cases and that his clients' "full legal fee [would be] refunded if [they were] convicted of DRUNK DRIVING." The advertisement appeared in the Journal for two days; on the second day, Charles Kettlewell, an attorney employed by the Office of Disciplinary Counsel of the Supreme Court of Ohio (appellee) telephoned appellant and informed him that the advertisement appeared to be an offer to represent criminal defendants on a contingent-fee basis, a practice prohibited by Disciplinary Rule 2-106(C) of the Ohio Code of Professional Responsibility. Appellant immediately withdrew the advertisement and in a letter to Kettlewell apologized for running it, also stating in the letter that he would decline to accept employment by persons responding to the ad.
 
@@ -783,13 +783,13 @@ The Supreme Court of Ohio, in turn, adopted the Board's findings that appellant'
 
 Contending that Ohio's Disciplinary Rules violate the First Amendment insofar as they authorize the State to discipline him for the content of his Dalkon Shield advertisement, appellant filed this appeal. Appellant also claims that the manner in which he was disciplined for running his drunken driving advertisement violated his right to due process. We noted probable jurisdiction, 469 U. S. 813 (1984), and now affirm in part and reverse in part.
 
-#### II
+##### II
 
 There is no longer any room to doubt that what has come to be known as "commercial speech" is entitled to the protection of the First Amendment, albeit to protection somewhat less extensive than that afforded "noncommercial speech." More subject to doubt, perhaps, are the precise bounds of the category of expression that may be termed commercial speech, but it is clear enough that the speech at issue in this case---advertising pure and simple---falls within those bounds. Our commercial speech doctrine rests heavily on "the 'common-sense' distinction between speech proposing a commercial transaction and other varieties of speech," and appellant's advertisements undeniably propose a commercial transaction. Whatever else the category of commercial speech may encompass, it must include appellant's advertisements.
 
 Our general approach to restrictions on commercial speech is also by now well settled. The States and the Federal Government are free to prevent the dissemination of commercial speech that is false, deceptive, or misleading, or that proposes an illegal transaction. Commercial speech that is not false or deceptive and does not concern unlawful activities, however, may be restricted only in the service of a substantial governmental interest, and only through means that directly advance that interest. Our application of these principles to the commercial speech of attorneys has led us to conclude that blanket bans on price advertising by attorneys and rules preventing attorneys from using non-deceptive terminology to describe their fields of practice are impermissible, but that rules prohibiting in-person solicitation of clients by attorneys are, at least under some circumstances, permissible. To resolve this appeal, we must apply the teachings of these cases to three separate forms of regulation Ohio has imposed on advertising by its attorneys: prohibitions on soliciting legal business through advertisements containing advice and information regarding specific legal problems; restrictions on the use of illustrations in advertising by lawyers; and disclosure requirements relating to the terms of contingent fees.
 
-#### III
+##### III
 
 We turn first to the Ohio Supreme Court's finding that appellant's Dalkon Shield advertisement (and his acceptance of employment resulting from it) ran afoul of the rules against self-recommendation and accepting employment resulting from unsolicited legal advice. Because all advertising is at least implicitly a plea for its audience's custom, a broad reading of the rules applied by the Ohio court (and particularly the rule against self-recommendation) might suggest that they forbid all advertising by attorneys---a result obviously not in keeping with our decisions in _Bates_ and _In re R. M. J_. But the Ohio court did not purport to give its rules such a broad reading: it held only that the rules forbade soliciting or accepting legal employment through advertisements containing information or advice regarding a specific legal problem.
 
@@ -813,7 +813,7 @@ The State's argument proceeds from the premise that it is intrinsically difficul
 
 Were we to accept the State's argument in this case, we would have little basis for preventing the government from suppressing other forms of truthful and nondeceptive advertising simply to spare itself the trouble of distinguishing such advertising from false or deceptive advertising. The First Amendment protections afforded commercial speech would mean little indeed if such arguments were allowed to prevail. Our recent decisions involving commercial speech have been grounded in the faith that the free flow of commercial information is valuable enough to justify imposing on would-be regulators the costs of distinguishing the truthful from the false, the helpful from the misleading, and the harmless from the harmful. The value of the information presented in appellant's advertising is no less than that contained in other forms of advertising---indeed, insofar as appellant's advertising tended to acquaint persons with their legal rights who might otherwise be shut off from effective access to the legal system, it was undoubtedly more valuable than many other forms of advertising. Prophylactic restraints that would be unacceptable as applied to commercial advertising generally are therefore equally unacceptable as applied to appellant's advertising. An attorney may not be disciplined for soliciting legal business through printed advertising containing truthful and nondeceptive information and advice regarding the legal rights of potential clients.
 
-#### IV
+##### IV
 
 The application of DR 2-101(B)'s restriction on illustrations in advertising by lawyers to appellant's advertisement fails for much the same reasons as does the application of the self-recommendation and solicitation rules. The use of illustrations or pictures in advertisements serves important communicative functions: it attracts the attention of the audience to the advertiser's message, and it may also serve to impart information directly. Accordingly, commercial illustrations are entitled to the First Amendment protections afforded verbal commercial speech: restrictions on the use of visual media of expression in advertising must survive scrutiny under the _Central Hudson_ test. Because the illustration for which appellant was disciplined is an accurate representation of the Dalkon Shield and has no features that are likely to deceive, mislead, or confuse the reader, the burden is on the State to present a substantial governmental interest justifying the restriction as applied to appellant and to demonstrate that the restriction vindicates that interest through the least restrictive available means.
 
@@ -825,7 +825,7 @@ We are not convinced. The State's arguments amount to little more than unsupport
 
 Thus, acceptance of the State's argument would be tantamount to adoption of the principle that a State may prohibit the use of pictures or illustrations in connection with advertising of any product or service simply on the strength of the general argument that the visual content of advertisements may, under some circumstances, be deceptive or manipulative. But as we stated above, broad prophylactic rules may not be so lightly justified if the protections afforded commercial speech are to retain their force. We are not persuaded that identifying deceptive or manipulative uses of visual media in advertising is so intrinsically burden-some that the State is entitled to forgo that task in favor of the more convenient but far more restrictive alternative of a blanket ban on the use of illustrations. The experience of the FTC is, again, instructive. Although that agency has not found the elimination of deceptive uses of visual media in advertising to be a simple task, neither has it found the task an impossible one: in many instances, the agency has succeeded in identifying and suppressing visually deceptive advertising. Given the possibility of policing the use of illustrations in advertisements on a case-by-case basis, the prophylactic approach taken by Ohio cannot stand; hence, appellant may not be disciplined for his use of an accurate and nondeceptive illustration.
 
-#### V
+##### V
 
 Appellant contends that assessing the validity of the Ohio Supreme Court's decision to discipline him for his failure to include in the Dalkon Shield advertisement the information that clients might be liable for significant litigation costs even if their lawsuits were unsuccessful entails precisely the same inquiry as determining the validity of the restrictions on advertising content discussed above. In other words, he suggests that the State must establish either that the advertisement, absent the required disclosure, would be false or deceptive or that the disclosure requirement serves some substantial governmental interest other than preventing deception; moreover, he contends that the State must establish that the disclosure requirement directly advances the relevant governmental interest and that it constitutes the least restrictive means of doing so. Not surprisingly, appellant claims that the State has failed to muster substantial evidentiary support for any of the findings required to support the restriction.
 
@@ -837,26 +837,26 @@ We do not suggest that disclosure requirements do not implicate the advertiser's
 
 The State's application to appellant of the requirement that an attorney advertising his availability on a contingent-fee basis disclose that clients will have to pay costs even if their lawsuits are unsuccessful (assuming that to be the case) easily passes muster under this standard. Appellant's advertisement informed the public that "if there is no recovery, no legal fees are owed by our clients." The advertisement makes no mention of the distinction between "legal fees" and "costs," and to a layman not aware of the meaning of these terms of art, the advertisement would suggest that employing appellant would be a no-lose proposition in that his representation in a losing cause would come entirely free of charge. The assumption that substantial numbers of potential clients would be so misled is hardly a speculative one: it is a commonplace that members of the public are often unaware of the technical meanings of such terms as "fees" and "costs"---terms that, in ordinary usage, might well be virtually interchangeable. When the possibility of deception is as self-evident as it is in this case, we need not require the State to "conduct a survey of the public before it may determine that the advertisement had a tendency to mislead." The State's position that it is deceptive to employ advertising that refers to contingent-fee arrangements without mentioning the client's liability for costs is reasonable enough to support a requirement that information regarding the client's liability for costs be disclosed.
 
-#### VI
+##### VI
 
 Finally, we address appellant's argument that he was denied procedural due process by the manner in which discipline was imposed on him in connection with his drunken driving advertisement. Appellant's contention is that the theory relied on by the Ohio Supreme Court and its Board of Commissioners as to how the advertisement was deceptive was different from the theory asserted by the Office of Disciplinary Counsel in its complaint. We cannot agree that this discrepancy violated the constitutional guarantee of due process.
 
 Under the law of Ohio, bar discipline is the responsibility of the Ohio Supreme Court. Ohio Const., Art. IV, § 2(B)(1)(g). The Board of Commissioners on Grievances and Discipline formally serves only as a body that recommends discipline to the Supreme Court; it has no authority to impose discipline itself. See Govt. Bar Rule V(2), (16)-(20). That the Board of Commissioners chose to make its recommendation of discipline on the basis of reasoning different from that of the Office of Disciplinary Counsel is of little moment: what is important is that the Board's recommendations put appellant on notice of the charges he had to answer to the satisfaction of the Supreme Court of Ohio. Appellant does not contend that he was afforded no opportunity to respond to the Board's recommendation; indeed, the Ohio rules appear to provide ample opportunity for response to Board recommendations, and it appears that appellant availed himself of that opportunity. The notice and opportunity to respond afforded appellant were sufficient to satisfy the demands of due process.
 
-#### VII
+##### VII
 
 The Supreme Court of Ohio issued a public reprimand incorporating by reference its opinion finding that appellant had violated Disciplinary Rules 2-101(A), 2-101(B), 2-101 (B)(15), 2-103(A), and 2-104(A). That judgment is affirmed to the extent that it is based on appellant's advertisement involving his terms of representation in drunken driving cases and on the omission of information regarding his contingent-fee arrangements in his Dalkon Shield advertisement. But insofar as the reprimand was based on appellant's use of an illustration in his advertisement in violation of DR 2-101(B) and his offer of legal advice in his advertisement in violation of DR 2-103(A) and 2-104(A), the judgment is reversed.
 
 
-#### JUSTICE BRENNAN, with whom JUSTICE MARSHALL joins, concurring in part, concurring in the judgment in part, and dissenting in part.
+##### JUSTICE BRENNAN, with whom JUSTICE MARSHALL joins, concurring in part, concurring in the judgment in part, and dissenting in part.
 
 I fully agree with the Court that a State may not discipline attorneys who solicit business by publishing newspaper advertisements that contain "truthful and nondeceptive information and advice regarding the legal rights of potential clients" and "accurate and nondeceptive illustrations." I therefore join Part I-IV of the Court's opinion, and I join the Court's judgment set forth in Part VII to the extent it reverses the Supreme Court of Ohio's public reprimand of the appellant Philip Q. Zauderer for his violations of Disciplinary Rules 2-101(B), 2-103(A), and 2-104(A).
 
 With some qualifications, I also agree with the conclusion in Part V of the Court's opinion that a State may impose commercial-advertising disclosure requirements that are "reasonably related to the State's interest in preventing deception of consumers." _Ante_, at 651. I do not agree, however, that the State of Ohio's vaguely expressed disclosure requirements fully satisfy this standard, and in any event I believe that Ohio's punishment of Zauderer for his alleged infractions of those requirements violated important due process and First Amendment guarantees. In addition, I believe the manner in which Ohio has punished Zauderer for publishing the "drunk driving" advertisement violated fundamental principles of procedural due process. I therefore concur in part and dissent in part from Part V of the Court's opinion, dissent from Part VI, and dissent from the judgment set forth in Part VII insofar as it affirms the Supreme Court of Ohio's public reprimand "based on appellant's advertisement involving his terms of representation in drunken driving cases and on the omission of information regarding his contingent-fee arrangements in his Dalkon Shield advertisement."
 
-#### I
+##### I
 
-##### A
+###### A
 
 The Court concludes that the First Amendment's protection of commercial speech is satisfied so long as a disclosure requirement is "reasonably related" to preventing consumer deception, and it suggests that this standard "might" be violated if a disclosure requirement were "unjustified" or "unduly burdensome." _Ante_, at 651. I agree with the Court's somewhat amorphous "reasonable relationship" inquiry only on the understanding that it comports with the standards more precisely set forth in our previous commercial-speech cases. Under those standards, regulation of commercial speech---whether through an affirmative disclosure requirement or through outright suppression---is "reasonable" only to the extent that a State can demonstrate a legitimate and substantial interest to be achieved by the regulation. Moreover, the regulation must directly advance the state interest and "may extend only as far as the interest it serves." Where the State imposes regulations to guard against "the potential for deception and confusion" in commercial speech, those regulations "may be no broader than reasonably necessary to prevent the deception."
 
@@ -868,7 +868,7 @@ Second, the report and opinion provide that an attorney advertising his availabi
 
 Third, the Supreme Court of Ohio agreed with the Board of Commissioners that Zauderer had acted unethically "by failing _fully_ to disclose the terms of the contingent fee arrangement which was intended to be entered into at the time of publishing the advertisement." The record indicates that Zauderer enters into a comprehensive contract with personal injury clients, one that spells out over several pages the various terms and qualifications of the contingent-fee relationship. If Ohio seriously means to require Zauderer "fully to disclose these terms," this requirement would obviously be so "unduly burdensome" as to violate the First Amendment. _Ante_, at 651. Such a requirement, compelling the publication of detailed fee information that would fill far more space than the advertisement itself, would chill the publication of protected commercial speech and would be entirely out of proportion to the State's legitimate interest in preventing potential deception. Given the Court's explicit endorsement of Ohio's other disclosure provisions, I can only read the Court's telling silence respecting this apparent requirement as an implicit acknowledgment that it could not possibly pass constitutional muster.
 
-##### B
+###### B
 
 Ohio's glaring failure "to specify precisely what disclosures were required," is relevant in another important respect. Even if a State may impose particular disclosure requirements, an advertiser may not be punished for failing to include such disclosures "unless his failure is in violation of valid state statutory or decisional law requiring the advertiser to label or take other precautions to prevent confusion of customers." Whether or not Ohio _may_ properly impose the disclosure requirements discussed above, it failed to provide Zauderer with sufficient notice that he was expected to include such disclosures in his Dalkon Shield advertisement. The State's punishment of Zauderer therefore violated basic due process and First Amendment guarantees.
 
@@ -882,7 +882,7 @@ I do not believe that Zauderer's Dalkon Shield advertisement can be said to be s
 
 The Court appears to concede these serious problems, noting that "it may well be that for Ohio actually to _disbar_ an attorney on the basis of its disclosure requirements as they have been worked out to this point would raise significant due process concerns." The Court "sees no infirmity" in this case, however, because the Supreme Court of Ohio publicly reprimanded Zauderer rather than disbarring him. This distinction is thoroughly unconvincing. When an attorney's constitutional rights have been violated, we have not hesitated in the past to reverse disciplinary sanctions that were even less severe than a public reprimand. Moreover, a public reprimand in Ohio exacts a potentially severe deprivation of liberty and property interests that are fully protected by the Due Process Clause. The reprimand brands Zauderer as an unethical attorney who has violated his solemn oath of office and committed a "willful breach" of the Code of Professional Responsibility, and it has been published in statewide professional journals and the official reports of the Ohio Supreme Court. This Court's casual indifference to the gravity of this injury inflicted on an attorney's good name demeans the entire legal profession. In addition, under Ohio law "a person who has been publicly reprimanded for misconduct, upon being found guilty of subsequent misconduct, shall be suspended for an indefinite period from the practice of law or permanently disbarred." In light of Ohio's vague rules, the governing authorities' refusal to provide clarification and guidance to Zauderer, and the Ohio Supreme Court's "failure to specify precisely what disclosures are required," Zauderer will hereafter publish advertisements mentioning contingent fees only at his peril. No matter what disclaimers he includes, Ohio may decide after the fact that further information should have been included and might, under the force of its rules, attempt to suspend him indefinitely from his livelihood. Such a potential trap for an unwary attorney acting in good faith not only works a significant due process deprivation, but also imposes an intolerable chill upon the exercise of First Amendment rights.
 
-#### II
+##### II
 
 The Office of Disciplinary Counsel charged that Zauderer's drunken driving advertisement was deceptive because it proposed a contingent fee in a criminal case---an unlawful arrangement under Ohio law. Zauderer defended on the ground that the offer of a refund did not constitute a proposed contingent fee. This was the sole issue concerning the drunken driving advertisement that the Office complained of, and the evidence and arguments presented to the Board of Commissioners were limited to this question. The Board, however, did not even mention the contingent-fee issue in its certified report. Instead, it found the advertisement "misleading and deceptive" on the basis of a completely new theory---that as a matter of "general knowledge" as discerned from certain "Municipal Court reports," drunken driving charges are "in many cases reduced and a plea of guilty or no contest to a lesser included offense is entered and received by the court," so that in such circumstances "the legal fee would not be refundable." Although Zauderer argued before the Supreme Court of Ohio that this theory had never been advanced by the Office of Disciplinary Counsel, that he had never had any opportunity to object to the propriety of judicial notice or to present opposing evidence, and that there was no evidence connecting him to the alleged practice, the court adopted the Board's findings without even acknowledging his objections.
 
@@ -892,7 +892,7 @@ The Court acknowledges these guarantees, but argues that the Board's change of t
 
 The court completely ignored these objections. To hold that this sort of procedure constituted a meaningful "chance to be heard in a trial of the issues," is to make a mockery of the due process of law that is guaranteed every citizen accused of wrongdoing.
 
-#### JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE REHNQUIST join, concurring in part, concurring in the judgment in part, and dissenting in part.
+##### JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE REHNQUIST join, concurring in part, concurring in the judgment in part, and dissenting in part.
 
 I join Parts I, II, V, and VI of the Court's opinion, and its judgment except insofar as it reverses the reprimand based on appellant Zauderer's use of unsolicited legal advice in violation of DR 2-103(A) and 2-104(A). I agree that appellant was properly reprimanded for his drunken driving advertisement and for his omission of contingent fee information from his Dalkon Shield advertisement. I also concur in the Court's judgment in Part IV. At least in the context of print media, the task of monitoring illustrations in attorney advertisements is not so unmanageable as to justify Ohio's blanket ban. I dissent from Part III of the Court's opinion. In my view, the use of unsolicited legal advice to entice clients poses enough of a risk of overreaching and undue influence to warrant Ohio's rule.
 
@@ -914,13 +914,13 @@ The State also has a substantial interest in requiring that lawyers consistently
 
 In the face of these substantial and legitimate state concerns, I cannot agree with the majority that Ohio DR 2-104(A) is unnecessary to the achievement of those interests. The Ohio rule may sweep in some advertisements containing helpful legal advice within its general prohibition. Nevertheless, I am not prepared to second-guess Ohio's longstanding and careful balancing of legitimate state interests merely because appellant here can invent a less restrictive rule. As the Iowa Supreme Court recently observed, "the professional disciplinary system would be in chaos if violations could be defended on the ground the lawyer involved could think of a better rule." Because I would defer to the judgment of the States that have chosen to preclude use of unsolicited legal advice to entice clients, I respectfully dissent from Part III of the Court's opinion.
 
-### Shapero v. Kentucky State Bar Assn., 486 U.S. 466 (1988)
+#### Shapero v. Kentucky State Bar Assn., 486 U.S. 466 (1988)
 
-#### JUSTICE BRENNAN announced the judgment of the Court and delivered the opinion of the Court as to Parts I and II and an opinion as to Part III in which JUSTICE MARSHALL, JUSTICE BLACKMUN, and JUSTICE KENNEDY join.
+##### JUSTICE BRENNAN announced the judgment of the Court and delivered the opinion of the Court as to Parts I and II and an opinion as to Part III in which JUSTICE MARSHALL, JUSTICE BLACKMUN, and JUSTICE KENNEDY join.
 
 This case presents the issue whether a State may, consistent with the First and Fourteenth Amendments, categorically prohibit lawyers from soliciting legal business for pecuniary gain by sending truthful and nondeceptive letters to potential clients known to face particular legal problems.
 
-#### I
+##### I
 
 In 1985, petitioner, a member of Kentucky's integrated Bar Association, applied to the Kentucky Attorneys Advertising Commission for approval of a letter that he proposed to send "to potential clients who have had a foreclosure suit filed against them." The proposed letter read as follows:
 
@@ -932,7 +932,7 @@ On review of the Ethics Committee's advisory opinion, the Kentucky Supreme Court
 
 The court did not specify either the precise infirmity in Rule 3.135(5)(b)(i) or how Rule 7.3 cured it. Rule 7.3, like its predecessor, prohibits targeted, direct-mail solicitation by lawyers for pecuniary gain, without a particularized finding that the solicitation is false or misleading. We granted certiorari to resolve whether such a blanket prohibition is consistent with the First Amendment and now reverse.
 
-#### II
+##### II
 
 Lawyer advertising is in the category of constitutionally protected commercial speech. The First Amendment principles governing state regulation of lawyer solicitations for pecuniary gain are by now familiar: "Commercial speech that is not false or deceptive and does not concern unlawful activities may be restricted only in the service of a substantial governmental interest, and only through means that directly advance that interest." Since state regulation of commercial speech "may extend only as far as the interest it serves," state rules that are designed to prevent the "potential for deception and confusion may be no broader than reasonably necessary to prevent the" perceived evil.
 
@@ -958,7 +958,7 @@ But merely because targeted, direct-mail solicitation presents lawyers with oppo
 
 The record before us furnishes no evidence that scrutiny of targeted solicitation letters will be appreciably more burdensome or less reliable than scrutiny of advertisements. As a general matter, evaluating a targeted advertisement does not require specific information about the recipient's identity and legal problems any more than evaluating a newspaper advertisement requires like information about all readers. If the targeted letter specifies facts that relate to particular recipients, the reviewing agency has innumerable options to minimize mistakes. It might, for example, require the lawyer to prove the truth of the fact stated; it could require the lawyer to explain briefly how he or she discovered the fact and verified its accuracy; or it could require the letter to bear a label identifying it as an advertisement, or directing the recipient how to report inaccurate or misleading letters. To be sure, a state agency or bar association that reviews solicitation letters might have more work than one that does not. But "our recent decisions involving commercial speech have been grounded in the faith that the free flow of commercial information is valuable enough to justify imposing on would-be regulators the costs of distinguishing the truthful from the false, the helpful from the misleading, and the harmless from the harmful."
 
-#### III
+##### III
 
 The validity of Rule 7.3 does not turn on whether petitioner's letter itself exhibited any of the evils at which Rule 7.3 was directed. Since, however, the First Amendment overbreadth doctrine does not apply to professional advertising, we address respondent's contentions that petitioner's letter is particularly overreaching, and therefore unworthy of First Amendment protection. In that regard, respondent identifies two features of the letter before us that, in its view, coalesce to convert the proposed letter into "high pressure solicitation, overbearing solicitation," which is not protected. First, respondent asserts that the letter's liberal use of underscored, uppercase letters "fairly shouts at the recipient that he should employ Shapero." Second, respondent objects that the letter contains assertions that "state no affirmative or objective fact," but constitute "pure salesman puffery, enticement for the unsophisticated, which commits Shapero to nothing."
 
@@ -968,16 +968,16 @@ To be sure, a letter may be misleading if it unduly emphasizes trivial or "relat
 
 The judgment of the Supreme Court of Kentucky is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.
 
-#### JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE SCALIA join, dissenting.
+##### JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE SCALIA join, dissenting.
 
 I agree with the Court that the reasoning in _Zauderer_ supports the conclusion reached today. That decision, however, was itself the culmination of a line of cases built on defective premises and flawed reasoning. As today's decision illustrates, the Court has been unable or unwilling to restrain the logic of the underlying analysis within reasonable bounds. The resulting interference with important and valid public policies is so destructive that I believe the analytical framework itself should now be reexamined.
 
-#### I
+##### I
 
 Zauderer held that the First Amendment was violated by a state rule that forbade attorneys to solicit or accept employment through advertisements containing information or advice regarding a specific legal problem. I dissented from this holding because I believed that our precedents permitted, and good judgment required, that we give greater deference to the State's legitimate efforts to regulate advertising by their attorneys. Emphasizing the important differences between professional services and standardized consumer products, I concluded that unsolicited legal advice was not analogous to the free samples that are often used to promote sales in other contexts. First, the quality of legal services is typically more difficult for most laypersons to evaluate, and the consequences of a mistaken evaluation of the "free sample" may be much more serious. For that reason, the practice of offering unsolicited legal advice as a means of enticing potential clients into a professional relationship is much more likely to be misleading than superficially similar practices in the sale of ordinary consumer goods. Second, and more important, an attorney has an obligation to provide clients with complete and disinterested advice. The advice contained in unsolicited "free samples" is likely to be colored by the lawyer's own interest in drumming up business, a result that is sure to undermine the professional standards that States have a substantial interest in maintaining.
 
 
-#### III
+##### III
 
 The roots of the error in our attorney advertising cases are a defective analogy between professional services and standardized consumer products and a correspondingly inappropriate skepticism about the States' justifications for their regulations.
 
@@ -995,13 +995,13 @@ Restrictions on advertising and solicitation by lawyers properly and significant
 
 In my judgment, however, fairly severe constraints on attorney advertising can continue to play an important role in preserving the legal profession as a genuine profession. Whatever may be the exactly appropriate scope of these restrictions at a given time and place, this Court's recent decisions reflect a myopic belief that "consumers," and thus our Nation, will benefit from a constitutional theory that refuses to recognize either the essence of professionalism or its fragile and necessary foundations. In one way or another, time will uncover the folly of this approach. I can only hope that the Court will recognize the danger before it is too late to effect a worthwhile cure.
 
-### DaimlerChrysler Corp. v. Kirkhart, 561 S.E.2d 276 (N.C. App. 2002)
+#### DaimlerChrysler Corp. v. Kirkhart, 561 S.E.2d 276 (N.C. App. 2002)
 
-#### Campbell, J.
+##### Campbell, J.
 
 This appeal arises from the trial court's grant of a preliminary injunction which restricts the manner in which Defendants, a licensed attorney and his law practice, may use information obtained from DaimlerChrysler through discovery in a separate action in which Defendants represented Peter and Frances Pleskach ("the Pleskaches") in a lawsuit against DaimlerChrysler ("the Pleskach case"). Specifically, the trial court's preliminary injunction restrains Defendants from using information obtained through discovery in the Pleskach case to solicit clients and generate further litigation against DaimlerChrysler. Defendants bring forward numerous assignments of error challenging the trial court's findings and conclusions, and also challenging the constitutionality of the preliminary injunction. Upon careful consideration of the briefs, oral argument, transcript, and record, we dissolve the preliminary injunction entered against Defendants.
 
-#### I. Background
+##### I. Background
 
 Defendant H.C. Kirkhart ("Kirkhart") is licensed to practice law in North Carolina and does business as The Law Offices of H.C. Kirkhart. On or about 19 April 1999, Kirkhart, as attorney for the Pleskaches, filed a complaint against DaimlerChrysler ("Plaintiff") asserting that Plaintiff had violated the New Motor Vehicles Warranties Act ("Lemon Law Statute"), by failing to make certain disclosures to the Pleskaches required by [the Lemon Law statute], namely: that the Dodge Caravan ("Caravan") the Pleskaches had purchased from Plaintiff had previously been repurchased by Plaintiff from its original owners as a result of the Caravan's defective condition.[^9e16] Based on this alleged violation of the Lemon Law Statute, the Pleskaches asserted claims for fraud and unfair and deceptive trade practices. On or about 28 April 1999, DaimlerChrysler filed its answer denying the material allegations of the Pleskach complaint.
 
@@ -1029,9 +1029,9 @@ Both sides submitted proposed orders to Judge Bullock reflecting their respectiv
 
 Defendants appealed from the injunction entered on 16 May 2000 and the modification entered on 27 June 2000.
 
-#### IV. Analysis of Plaintiff's Claims
+##### IV. Analysis of Plaintiff's Claims
 
-##### A. Barratry
+###### A. Barratry
 
 Plaintiff alleged that Defendants had committed barratry by willfully, intentionally, and wantonly soliciting or attempting to solicit a large number of claims against Plaintiff in return for forty percent (40%) of the recovery from those claims. At common law, barratry was defined as "'the offense of frequently exciting or stirring up suits and quarrels between his majesty's subjects, either at law or otherwise.'" _State v. Batson_, 17 S.E.2d 511, 512 (N.C. 1941) (quoting 4th Blackstone, p. 134). The common law offense of barratry has also "'been applied independently of statute to one soliciting a large number of claims of the same nature, and charging a fee for his services in connection with the claim contingent on the amount recovered.'". In _Batson_, our Supreme Court held that the common law offense of barratry was still in full force and effect in this State, stating, in pertinent part:
 
@@ -1049,17 +1049,17 @@ Based on our reading of the Supreme Court's decision in _Batson_, and other lear
 
 [^0951]: (n.2 in Opinion) We also note that application of N.C.G.S. § 84–38 to prohibit licensed attorneys from soliciting legal business through targeted, direct-mail solicitations would raise serious constitutional questions in light of the United States Supreme Court's decision in _Shapero v. Kentucky Bar Assn._, 486 U.S. 466 (1988).
 
-#### VI. Conclusion
+##### VI. Conclusion
 
 We conclude that Plaintiff has failed to show a reasonable likelihood of success on the merits of its case, and has failed to show a reasonable probability of substantial injury if the injunction does not stand. Thus, we hold that it was error to grant the preliminary injunction and it is hereby dissolved. Having so concluded, we need not consider the First Amendment arguments advanced by Defendants concerning the nature and scope of the injunctive relief.
 
-### Florida Bar v. Went for It, 515 U.S. 618 (1995)
+#### Florida Bar v. Went for It, 515 U.S. 618 (1995)
 
-#### Justice O'CONNOR delivered the opinion of the Court.
+##### Justice O'CONNOR delivered the opinion of the Court.
 
 Rules of the Florida Bar prohibit personal injury lawyers from sending targeted direct-mail solicitations to victims and their relatives for 30 days following an accident or disaster. This case asks us to consider whether such Rules violate the First and Fourteenth Amendments of the Constitution. We hold that in the circumstances presented here, they do not.
 
-#### I
+##### I
 
 In 1989, the Florida Bar completed a 2-year study of the effects of lawyer advertising on public opinion. After conducting hearings, commissioning surveys, and reviewing extensive public commentary, the Bar determined that several changes to its advertising rules were in order. In late 1990, the Florida Supreme Court adopted the Bar's proposed amendments with some modifications. Two of these amendments are at issue in this case. Rule 4-7.4(b)(1) provides that "a lawyer shall not send, or knowingly permit to be sent, a written communication to a prospective client for the purpose of obtaining professional employment if: (A) the written communication concerns an action for personal injury or wrongful death or otherwise relates to an accident or disaster involving the person to whom the communication is addressed or a relative of that person, unless the accident or disaster occurred more than 30 days prior to the mailing of the communication." Rule 4-7.8(a) states that "a lawyer shall not accept referrals from a lawyer referral service unless the service: (1) engages in no communication with the public and in no direct contact with prospective clients in a manner that would violate the Rules of Professional Conduct if the communication or contact were made by the lawyer." Together, these Rules create a brief 30-day blackout period after an accident during which lawyers may not, directly or indirectly, single out accident victims or their relatives in order to solicit their business.
 
@@ -1069,15 +1069,15 @@ The District Court referred the parties' competing summary judgment motions to a
 
 The District Court rejected the Magistrate Judge's report and recommendations and entered summary judgment for the plaintiffs, relying on _Bates v. State Bar of Ariz._ and subsequent cases. The Eleventh Circuit affirmed on similar grounds. The panel noted, in its conclusion, that it was "disturbed that _Bates_ and its progeny require the decision" that it reached. We granted certiorari, and now reverse.
 
-#### II
+##### II
 
-##### A
+###### A
 
 Nearly two decades of cases have built upon the foundation laid by _Bates_. It is now well established that lawyer advertising is commercial speech and, as such, is accorded a measure of First Amendment protection. Such First Amendment protection, of course, is not absolute. We have always been careful to distinguish commercial speech from speech at the First Amendment's core. "Commercial speech enjoys a limited measure of protection, commensurate with its subordinate position in the scale of First Amendment values, and is subject to modes of regulation that might be impermissible in the realm of noncommercial expression." We have observed that "to require a parity of constitutional protection for commercial and noncommercial speech alike could invite dilution, simply by a leveling process, of the force of the Amendment's guarantee with respect to the latter kind of speech."
 
 Mindful of these concerns, we engage in "intermediate" scrutiny of restrictions on commercial speech, analyzing them under the framework set forth in _Central Hudson_. Under _Central Hudson_, the government may freely regulate commercial speech that concerns unlawful activity or is misleading. Commercial speech that falls into neither of those categories, like the advertising at issue here, may be regulated if the government satisfies a test consisting of three related prongs: First, the government must assert a substantial interest in support of its regulation; second, the government must demonstrate that the restriction on commercial speech directly and materially advances that interest; and third, the regulation must be "narrowly drawn."
 
-##### B
+###### B
 
 The Bar asserts that it has a substantial interest in protecting the privacy and tranquility of personal injury victims and their loved ones against intrusive, unsolicited contact by lawyers. This interest obviously factors into the Bar's paramount (and repeatedly professed) objective of curbing activities that "negatively affect the administration of justice." Because direct-mail solicitations in the wake of accidents are perceived by the public as intrusive, the Bar argues, the reputation of the legal profession in the eyes of Floridians has suffered commensurately. The regulation, then, is an effort to protect the flagging reputations of Florida lawyers by preventing them from engaging in conduct that, the Bar maintains, "is universally regarded as deplorable and beneath common decency because of its intrusion upon the special vulnerability and private grief of victims or their families."
 
@@ -1107,13 +1107,13 @@ We are not persuaded by respondents' allegations of constitutional infirmity. We
 
 Respondents' second point would have force if the Bar's Rule were not limited to a brief period and if there were not many other ways for injured Floridians to learn about the availability of legal representation during that time. Our lawyer advertising cases have afforded lawyers a great deal of leeway to devise innovative ways to attract new business. Florida permits lawyers to advertise on prime-time television and radio as well as in newspapers and other media. They may rent space on billboards. They may send untargeted letters to the general population, or to discrete segments thereof. There are, of course, pages upon pages devoted to lawyers in the Yellow Pages of Florida telephone directories. These listings are organized alphabetically and by area of specialty. These ample alternative channels for receipt of information about the availability of legal representation during the 30-day period following accidents may explain why, despite the ample evidence, testimony, and commentary submitted by those favoring (as well as opposing) unrestricted direct-mail solicitation, respondents have not pointed to—and we have not independently found—a single example of an individual case in which immediate solicitation helped to avoid, or failure to solicit within 30 days brought about, the harms that concern the dissent. In fact, the record contains considerable empirical survey information suggesting that Floridians have little difficulty finding a lawyer when they need one. Finding no basis to question the commonsense conclusion that the many alternative channels for communicating necessary information about attorneys are sufficient, we see no defect in Florida's regulation.
 
-#### III
+##### III
 
 Speech by professionals obviously has many dimensions. There are circumstances in which we will accord speech by attorneys on public issues and matters of legal representation the strongest protection our Constitution has to offer. This case, however, concerns pure commercial advertising, for which we have always reserved a lesser degree of protection under the First Amendment. Particularly because the standards and conduct of state-licensed lawyers have traditionally been subject to extensive regulation by the States, it is all the more appropriate that we limit our scrutiny of state regulations to a level commensurate with the "subordinate position" of commercial speech in the scale of First Amendment values.
 
 We believe that the Bar's 30-day restriction on targeted direct-mail solicitation of accident victims and their relatives withstands scrutiny under the three-pronged Central Hudson test that we have devised for this context. The Bar has substantial interest both in protecting injured Floridians from invasive conduct by lawyers and in preventing the erosion of confidence in the profession that such repeated invasions have engendered. The Bar's proffered study, unrebutted by respondents below, provides evidence indicating that the harms it targets are far from illusory. The palliative devised by the Bar to address these harms is narrow both in scope and in duration. The Constitution, in our view, requires nothing more.
 
-#### Justice Kennedy, with whom Justice Stevens, Justice Souter, and Justice Ginsburg join, dissenting.
+##### Justice Kennedy, with whom Justice Stevens, Justice Souter, and Justice Ginsburg join, dissenting.
 
 Attorneys who communicate their willingness to assist potential clients are engaged in speech protected by the First and Fourteenth Amendments. The Court today undercuts this guarantee in an important class of cases and unsettles leading First Amendment precedents, at the expense of those victims most in need of legal assistance. With all respect for the Court, in my view its solicitude for the privacy of victims and its concern for our profession are misplaced and self-defeating, even upon the Court's own premises.
 
@@ -1121,7 +1121,7 @@ I take it to be uncontroverted that when an accident results in death or injury,
 
 Although I agree with the Court that the case can be resolved by following the three-part inquiry we have identified to assess restrictions on commercial speech, a preliminary observation is in order. Speech has the capacity to convey complex substance, yielding various insights and interpretations depending upon the identity of the listener or the reader and the context of its transmission. It would oversimplify to say that what we consider here is commercial speech and nothing more, for in many instances the banned communications may be vital to the recipients' right to petition the courts for redress of grievances. The complex nature of expression is one reason why even so-called commercial speech has become an essential part of the public discourse the First Amendment secures. If our commercial speech rules are to control this case, then, it is imperative to apply them with exacting care and fidelity to our precedents, for what is at stake is the suppression of information and knowledge that transcends the financial self-interests of the speaker.
 
-#### I
+##### I
 
 As the Court notes, the first of the _Central Hudson_ factors to be considered is whether the interest the State pursues in enacting the speech restriction is a substantial one. The State says two different interests meet this standard. The first is the interest "in protecting the personal privacy and tranquility" of the victim and his or her family. As the Court notes, that interest has recognition in our decisions as a general matter; but it does not follow that the privacy interest in the cases the majority cites is applicable here. The problem the Court confronts, and cannot overcome, is our recent decision in _Shapero_. In assessing the importance of the interest in that solicitation case, we made an explicit distinction between direct, in-person solicitations and direct-mail solicitations. _Shapero_, like this case, involved a direct-mail solicitation, and there the State recited its fears of "overreaching and undue influence." We found, however, no such dangers presented by direct-mail advertising. We reasoned that "a letter, like a printed advertisement (but unlike a lawyer), can readily be put in a drawer to be considered later, ignored, or discarded. We pointed out that "the relevant inquiry is not whether there exist potential clients whose ‘condition' makes them susceptible to undue influence, but whether the mode of communication poses a serious danger that lawyers will exploit any such susceptibility." In assessing the substantiality of the evils to be prevented, we concluded that "the mode of communication makes all the difference." The direct mail in _Shapero_ did not present the justification for regulation of speech presented in _Ohralik_.
 
@@ -1131,13 +1131,13 @@ We have applied this principle to direct-mail cases as well as with respect to g
 
 In the face of these difficulties of logic and precedent, the State and the opinion of the Court turn to a second interest: protecting the reputation and dignity of the legal profession. The argument is, it seems fair to say, that all are demeaned by the crass behavior of a few. The argument takes a further step in the amicus brief filed by the Association of Trial Lawyers of America. There it is said that disrespect for the profession from this sort of solicitation (but presumably from no other sort of solicitation) results in lower jury verdicts. In a sense, of course, these arguments are circular. While disrespect will arise from an unethical or improper practice, the majority begs a most critical question by assuming that direct-mail solicitations constitute such a practice. The fact is, however, that direct solicitation may serve vital purposes and promote the administration of justice, and to the extent the bar seeks to protect lawyers' reputations by preventing them from engaging in speech some deem offensive, the State is doing nothing more (as amicus the Association of Trial Lawyers of America is at least candid enough to admit) than manipulating the public's opinion by suppressing speech that informs us how the legal system works. The disrespect argument thus proceeds from the very assumption it tries to prove, which is to say that solicitations within 30 days serve no legitimate purpose. This, of course, is censorship pure and simple; and censorship is antithetical to the first principles of free expression.
 
-#### II
+##### II
 
 Even were the interests asserted substantial, the regulation here fails the second part of the _Central Hudson_ test, which requires that the dangers the State seeks to eliminate be real and that a speech restriction or ban advance that asserted state interest in a direct and material way. The burden of demonstrating the reality of the asserted harm rests on the State. Slight evidence in this regard does not mean there is sufficient evidence to support the claims. Here, what the State has offered falls well short of demonstrating that the harms it is trying to redress are real, let alone that the regulation directly and materially advances the State's interests. The parties and the Court have used the term "Summary of Record" to describe a document prepared by the Florida Bar (Bar), one of the adverse parties, and submitted to the District Court in this case. This document includes no actual surveys, few indications of sample size or selection procedures, no explanations of methodology, and no discussion of excluded results. There is no description of the statistical universe or scientific framework that permits any productive use of the information the so-called Summary of Record contains. The majority describes this anecdotal matter as "noteworthy for its breadth and detail," but when examined, it is noteworthy for its incompetence. The selective synopses of unvalidated studies deal, for the most part, with television advertising and phone book listings, and not direct-mail solicitations. Although there may be issues common to various kinds of attorney advertising and solicitation, it is not clear what would follow from that limited premise, unless the Court means by its decision to call into question all forms of attorney advertising. The most generous reading of this document permits identification of 34 pages on which direct-mail solicitation is arguably discussed. Of these, only two are even a synopsis of a study of the attitudes of Floridians towards such solicitations. The bulk of the remaining pages include comments by lawyers about direct mail (some of them favorable), excerpts from citizen complaints about such solicitation, and a few excerpts from newspaper articles on the topic. Our cases require something more than a few pages of self-serving and unsupported statements by the State to demonstrate that a regulation directly and materially advances the elimination of a real harm when the State seeks to suppress truthful and nondeceptive speech.
 
 It is telling that the essential thrust of all the material adduced to justify the State's interest is devoted to the reputational concerns of the Bar. It is not at all clear that this regulation advances the interest of protecting persons who are suffering trauma and grief, and we are cited to no material in the record for that claim. Indeed, when asked at oral argument what a "typical injured plaintiff gets in the mail," the Bar's lawyer replied: "That's not in the record, and I don't know the answer to that question." Having declared that the privacy interest is one both substantial and served by the regulation, the Court ought not to be excused from justifying its conclusion.
 
-#### III
+##### III
 
 The insufficiency of the regulation to advance the State's interest is reinforced by the third inquiry necessary in this analysis. Were it appropriate to reach the third part of the _Central Hudson_ test, it would be clear that the relationship between the Bar's interests and the means chosen to serve them is not a reasonable fit. The Bar's rule creates a flat ban that prohibits far more speech than necessary to serve the purported state interest. Even assuming that interest were legitimate, there is a wild disproportion between the harm supposed and the speech ban enforced. It is a disproportion the Court does not bother to discuss, but our speech jurisprudence requires that it do so.
 
@@ -1149,7 +1149,7 @@ Even as to more serious injuries, the State's argument fails, since it must be c
 
 The reasonableness of the State's chosen methods for redressing perceived evils can be evaluated, in part, by a commonsense consideration of other possible means of regulation that have not been tried. Here, the Court neglects the fact that this problem is largely self-policing: Potential clients will not hire lawyers who offend them. And even if a person enters into a contract with an attorney and later regrets it, Florida, like some other States, allows clients to rescind certain contracts with attorneys within a stated time after they are executed. The State's restriction deprives accident victims of information which may be critical to their right to make a claim for compensation for injuries. The telephone book and general advertisements may serve this purpose in part; but the direct solicitation ban will fall on those who most need legal representation: for those with minor injuries, the victims too ill informed to know an attorney may be interested in their cases; for those with serious injuries, the victims too ill informed to know that time is of the essence if counsel is to assemble evidence and warn them not to enter into settlement negotiations or evidentiary discussions with investigators for opposing parties. One survey reports that over a recent 5-year period, 68% of the American population consulted a lawyer. The use of modern communication methods in a timely way is essential if clients who make up this vast demand are to be advised and informed of all of their choices and rights in selecting an attorney. The very fact that some 280,000 direct-mail solicitations are sent to accident victims and their survivors in Florida each year is some indication of the efficacy of this device. Nothing in the Court's opinion demonstrates that these efforts do not serve some beneficial role. A solicitation letter is not a contract. Nothing in the record shows that these communications do not at the least serve the purpose of informing the prospective client that he or she has a number of different attorneys from whom to choose, so that the decision to select counsel, after an interview with one or more interested attorneys, can be deliberate and informed. And if these communications reveal the social costs of the tort system as a whole, then efforts can be directed to reforming the operation of that system, not to suppressing information about how the system works. The Court's approach, however, does not seem to be the proper way to begin elevating the honor of the profession.
 
-#### IV
+##### IV
 
 It is most ironic that, for the first time since _Bates v. State Bar of Arizona_, the Court now orders a major retreat from the constitutional guarantees for commercial speech in order to shield its own profession from public criticism. Obscuring the financial aspect of the legal profession from public discussion through direct-mail solicitation, at the expense of the least sophisticated members of society, is not a laudable constitutional goal. There is no authority for the proposition that the Constitution permits the State to promote the public image of the legal profession by suppressing information about the profession's business aspects. If public respect for the profession erodes because solicitation distorts the idea of the law as most lawyers see it, it must be remembered that real progress begins with more rational speech, not less. I agree that if this amounts to mere "sermonizing," the attempt may be futile. The guiding principle, however, is that full and rational discussion furthers sound regulation and necessary reform. The image of the profession cannot be enhanced without improving the substance of its practice. The objective of the profession is to ensure that "the ethical standards of lawyers are linked to the service and protection of clients."
 
