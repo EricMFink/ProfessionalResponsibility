@@ -234,7 +234,7 @@ The Attorney Grievance Committee moves for an order immediately suspending respo
 
 For the reasons that follow, we conclude that there is uncontroverted evidence that respondent communicated demonstrably false and misleading statements to courts, lawmakers and the public at large in his capacity as lawyer for former President Donald J. Trump and the Trump campaign in connection with Trump's failed effort at reelection in 2020. These false statements were made to improperly bolster respondent's narrative that due to widespread voter fraud, victory in the 2020 United States presidential election was stolen from his client. We conclude that respondent's conduct immediately threatens the public interest and warrants interim suspension from the practice of law, pending further proceedings before the Attorney Grievance Committee (sometimes AGC or Committee).
 
-###### The Nature of this Proceeding
+##### The Nature of this Proceeding
 
 During the course of this ongoing investigation into numerous complaints of respondent's alleged professional misconduct, the AGC seeks respondent's immediate suspension from the practice law in the State of New York. Under certain circumstances, such serious interim relief is available, pending a full formal disciplinary proceeding. Interim suspension is available even where formal charges have not yet been filed.
 
@@ -244,7 +244,7 @@ Each Judicial Department of theAppellate Divisions of the New York Supreme Court
 
 In certain cases, the Committee may, during the pendency of its investigation, make a motion to the Court for an attorney's interim suspension. Interim suspension is a serious remedy, available only in situations where it is immediately necessary to protect the public from the respondent's violation of the Rules. At bar, the AGC is proceeding on the basis that there is uncontroverted evidence of professional misconduct. Importantly, when an attorney is suspended on an interim basis, he or she nonetheless has an opportunity for a post-suspension hearing.
 
-###### Uncontroverted Claims of Misconduct
+##### Uncontroverted Claims of Misconduct
 
 Only uncontroverted claims of professional misconduct may serve as a basis for interim suspension on this motion. In connection with its claim that uncontroverted attorney misconduct has occurred, the AGC relies upon the following provisions of the New York Rules of Professional Conduct: rule 3.3 which provides that: "(a) A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal." rule 4.1 which provides that: "In the course of representing a client, a lawyer shall not knowingly make a false statement of fact or law to a third person," and rule 8.4 "A lawyer or law firm shall not: (c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation, or (h) engage in any other conduct that adversely reflects on the lawyer's fitness as a lawyer."
 
@@ -252,7 +252,7 @@ Under the Rules of Professional Conduct, the prohibition against false statement
 
 In general, the AGC relies upon statements that respondent made following the 2020 election at press conferences, state legislative hearings, radio broadcasts (as both a guest and host), podcasts, television appearances and one court appearance. Respondent concedes that the statements attributed to him in this motion were all made in the context of his representation of Donald J. Trump and/or the Trump campaign.
 
-###### Preliminary Issues
+##### Preliminary Issues
 
 Respondent raises an overarching argument that the AGC's investigation into his conduct violates his First Amendment right of free speech. He does not attack the constitutionality of the particular disciplinary rules; he seemingly claims that they are unconstitutional as applied to him. We reject respondent's argument. This disciplinary proceeding concerns the professional restrictions imposed on respondent as an attorney to not knowingly misrepresent facts and make false statements in connection with his representation of a client. It is long recognized that "speech by an attorney is subject to greater regulation than speech by others". Unlike lay persons, an attorney is "a professional trained in the art of persuasion". As officers of the court, attorneys are "an intimate and trusted and essential part of the machinery of justice". In other words, they are perceived by the public to be in a position of knowledge, and therefore, "a crucial source of information and opinion". This weighty responsibility is reflected in the "ultimate purpose of disciplinary proceedings which is to protect the public in its reliance upon the integrity and responsibility of the legal profession". While there are limits on the extent to which a lawyer's right of free speech may be circumscribed, these limits are not implicated by the circumstances of the knowing misconduct that this Court relies upon in granting interim suspension in this case.
 
@@ -389,7 +389,7 @@ Before Judge Brann in the _Boockvar_ case, respondent himself stated: "I don't k
 
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 
-###### Underlying Facts
+##### Underlying Facts
 
 Respondent is a criminal defense attorney who was formerly employed as an Assistant District Attorney in the Orleans Parish District Attorney's Office. One evening in April 1994, respondent met his close friend and law school classmate, Gerry Deegan, at a bar near the Orleans Parish Criminal District Court. Like respondent, Mr. Deegan had been a prosecutor in the Orleans Parish District Attorney's Office before he "switched sides" in 1987. During their conversation in the bar, Mr. Deegan told respondent that he had that day learned he was dying of colon cancer. In the same conversation, Mr. Deegan confided to respondent that he had suppressed exculpatory blood evidence in a criminal case he prosecuted while at the District Attorney's Office. Respondent recalls that he was "surprised" and "shocked" by his friend's revelation, and that he urged Mr. Deegan to "remedy" the situation. It is undisputed that respondent did not report Mr. Deegan's disclosure to anyone at the time it was made. Mr. Deegan died in July 1994, having done nothing to "remedy" the situation of which he had spoken in the bar.
 
@@ -401,7 +401,7 @@ On September 30, 1999, respondent gave a sworn statement to the ODC in which he 
 
 > I think that under ordinary circumstances, I would have. I really honestly think I'm a very good person. And I think I do the right thing whenever I'm given the opportunity to choose. This was unquestionably the most difficult time of my life. Gerry, who was like a brother to me, was dying. And that was, to say distracting would be quite an understatement. I'd also left my wife just a few months before, with three kids, and was under the care of a psychiatrist, taking antidepressants. My youngest son was then about two and had just recently undergone open-heart surgery. I had a lot on my plate at the time. A great deal of it of my own making; there's no question about it. But, nonetheless, I was very, very distracted, and I simply did not give it the important consideration that it deserved. But it was a very trying time for me. And that's the only explanation I have, because, otherwise, I would have reported it immediately had I been in a better frame of mind.
 
-###### Disciplinary Proceedings
+##### Disciplinary Proceedings
 
 ###### Formal Charges
 
@@ -451,7 +451,7 @@ The board determined that some period of suspension is appropriate for responden
 
 Both respondent and the ODC filed objections to the disciplinary board's recommendation.
 
-###### Discussion
+##### Discussion
 
 In this matter we are presented for the first time with an opportunity to delineate the scope of an attorney's duty under Rule 8.3 to report the professional misconduct of a fellow member of the bar. Therefore, we begin our discussion with a few observations relating to the rule and its history.
 
@@ -477,7 +477,7 @@ Once the lawyer decides that a reportable offense has likely occurred, reporting
 
 Louisiana Rule 8.3(a) requires that the report be made to "a tribunal or other authority empowered to investigate or act upon such violation." The term "tribunal or other authority" is not specifically defined. However, as the comments to Model Rule 8.3(a) explain, the report generally should be made to the bar disciplinary authority. Therefore, a report of misconduct by a lawyer admitted to practice in Louisiana must be made to the Office of Disciplinary Counsel.
 
-###### Determination of Respondent's Misconduct and Appropriate Discipline
+##### Determination of Respondent's Misconduct and Appropriate Discipline
 
 Applying the principles set forth above to the conduct of respondent in the instant case, we find the ODC proved by clear and convincing evidence that respondent violated Rule 8.3(a). First, we find that respondent should have known that a reportable event occurred at the time of his 1994 barroom conversation with Mr. Deegan. Stated another way, respondent's conversation with Mr. Deegan at that time gave him sufficient information that a reasonable lawyer under the circumstances would have formed a firm opinion that the conduct in question more likely than not occurred. Regardless of the actual words Mr. Deegan said that night, and whether they were or were not "equivocal," respondent understood from the conversation that Mr. Deegan had done something wrong. Respondent admitted as much in his affidavit, during the hearing on the motion for new trial in the criminal case, during his sworn statement to the ODC, and during his testimony at the formal hearing. Indeed, during the sworn statement respondent conceded that he would have reported the matter "immediately" were it not for the personal problems he was then experiencing. Respondent also testified that he was surprised and shocked by his friend's revelation, and that he told him to remedy the situation. There would have been no reason for respondent to react in the manner he did had he not formed a firm opinion that the conduct in question more likely than not occurred. The circumstances under which the conversation took place lend further support to this finding. On the same day that he learned he was dying of cancer, Mr. Deegan felt compelled to tell his best friend about something he had done in a trial that took place nine years earlier. It simply defies logic that respondent would now argue that he could not be sure that Mr. Deegan actually withheld Brady evidence because his statements were vague and non-specific.
 
@@ -493,7 +493,7 @@ The only aggravating factor present in this case is respondent's substantial exp
 
 Accordingly, we will reprimand respondent for his actions.
 
-###### Conclusion
+##### Conclusion
 
 Reporting another lawyer's misconduct to disciplinary authorities is an important duty of every lawyer. Lawyers are in the best position to observe professional misconduct and to assist the profession in sanctioning it. While a Louisiana lawyer is subject to discipline for not reporting misconduct, it is our hope that lawyers will comply with their reporting obligation primarily because they are ethical people who want to serve their clients and the public well. Moreover, the lawyer's duty to report professional misconduct is the foundation for the claim that we can be trusted to regulate ourselves as a profession. If we fail in our duty, we forfeit that trust and have no right to enjoy the privilege of self-regulation or the confidence and respect of the public.
 
@@ -545,7 +545,7 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 Paul Raymond Converse appeals a decision of the Nebraska State Bar Commission (Commission) denying his request to take the July 1998 Nebraska bar examination. Converse claims that the decision of the Commission should be reversed because the Commission rested its denial of Converse's application, at least in part, upon conduct protected by the First Amendment to the U.S. Constitution and, in the alternative, that Converse's conduct did not constitute sufficient cause under Nebraska law for denying his application on the ground of deficient moral character. For the reasons that follow, we affirm the decision of the Commission.
 
-###### Factual Background
+##### Factual Background
 
 In 1998, Converse applied for permission to sit for the Nebraska bar examination. On June 29, 1998, Converse was notified by letter that the Commission had denied permission for him to take the July 1998 Nebraska bar examination because it had determined that Converse lacked the requisite moral character for admission upon examination to the Nebraska State Bar Association. On July 7, the Commission received notice that Converse was appealing the Commission's initial determination. Converse's appeal was heard on September 15, after which the Commission reaffirmed its initial determination and notified Converse on December 18 that he would not be allowed to sit for the Nebraska bar examination at that time.
 
@@ -579,11 +579,11 @@ The evidence also revealed that prior to law school, Converse, in his capacity a
 
 After the Commission notified Converse that he would not be allowed to sit for the Nebraska bar examination, Converse appealed the adverse determination to this court.
 
-###### Assignments of Error
+##### Assignments of Error
 
 Converse claims that the Commission erred in basing its decision, in part, upon conduct and speech arguably protected by the First Amendment; not making Converse aware of all of the "charges" against him in the proceedings in violation of the 14th Amendment; and determining that Converse's conduct gave rise to sufficient cause under Nebraska law for the Commission to deny his application to sit for the Nebraska bar examination.
 
-###### Analysis
+##### Analysis
 
 Converse first assigns as error that the Commission's determination should not stand because it is based in large part upon speech that is protected by the First Amendment. Thus, the threshold question we must answer is whether conduct arguably protected by the First Amendment can be considered by the Commission during an investigation into an applicant's moral character and fitness to practice law. We answer this question in the affirmative.
 
@@ -645,13 +645,11 @@ The result might have been different if Converse had exhibited only a "single in
 
 Converse has exhibited a clear lack of self-restraint and lack of judgment, and our de novo review of the record leads us to independently conclude that Converse has exhibited such a pattern of acting in a hostile and disruptive manner as to render him unfit for the practice of law in Nebraska. We conclude that the Commission's determination to deny Converse's application was correct, and Converse's third assignment of error is therefore without merit.
 
-###### Conclusion
+##### Conclusion
 
 The Commission correctly determined that Converse possessed insufficient moral character and was unfit to practice law in the State of Nebraska. This determination was based on an inquiry into Converse's moral character that was both proper and constitutionally permissible. Finding no error in the Commission's determination or the process used to reach that determination, we affirm the Commission's denial of application.
 
 #### In re Roots, 762 A.2d 1161 (RI 2000)
-
-
 
 This case comes before us on an application by the petitioner Roger I. Roots (petitioner or Roots) seeking admission to the bar of the State of Rhode Island. Roots, who was born in October, 1967, is a 1999 graduate of the Roger Williams University School of Law. Following his law-school graduation, he took and passed the Rhode Island bar examination. In accordance with its usual procedures, this Court's Committee on Character and Fitness (committee) examined Roots's record and interviewed him after he had passed the bar examination. Because the committee had serious concerns relating to his character and fitness to become a member of the bar of this state, it conducted a number of hearings to determine whether it would recommend Roots's admission to the bar. [After the hearings, the majority of the committee, with two members dissenting, voted in favor of Roots's admission.] 
 
@@ -731,7 +729,7 @@ The petitioner has stated to the committee and to this Court that he will not on
 
 We are of the opinion, however, that the prior record of the petitioner — including his criminal past and the other conduct referenced above demonstrating his lack of candor and truthfulness — casts such doubt upon the sincerity of Roots's professed willingness to abide by the terms of the oath that he must take as a member of the bar of this state that his application should be denied at this time.
 
-###### Conclusion
+##### Conclusion
 
 For the above reasons, we conclude that Roots's application to the bar should be denied. The record in this case reveals far too many recent and past criminal acts, instances of untruthfulness, and a lingering inability of this candidate to take the requisite attorney's oath in good faith. Thus, we cannot endorse Roots's admission to the bar of this state at this time. Nevertheless, our denial of his application shall not preclude the possibility of Roots reapplying for and obtaining approval of his admission to the bar at some later time, but no sooner than two years from the date of this opinion. Moreover, if Roots reapplies for admission to the bar of this state within three years from the date of this opinion, he shall not be required to retake the bar examination. However, in addition to satisfying the committee's usual criteria, he shall be required to demonstrate to the satisfaction of the committee and, ultimately to this Court, that, during the period between the date of this opinion and his reapplication:
 
@@ -902,7 +900,7 @@ Based on Creasy's appearance at and actions during the sworn statement, the Stat
 
 Creasy, no longer a member of the bar, contests the jurisdiction of this court to regulate the actions of a non-lawyer. He also denies that he practiced law when he examined Dr. Crandall, arguing that actions that constitute the practice of law before a court are not the practice of law when done in the context of a private arbitration proceeding. Finally, he contends that because he was employed by an insurance adjuster licensed under A.R.S. § 20-281 (1990), the Arizona Department of Insurance has sole jurisdiction to regulate his conduct in this matter. We disagree with all three of his submissions.
 
-###### DISCUSSION
+##### DISCUSSION
 
 ###### A. Jurisdiction
 
@@ -956,7 +954,7 @@ Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the leg
 
 But even if we were so persuaded, the legislature's adoption of A.R.S. § 20-281 cannot authorize Creasy to violate our disbarment order by engaging in activities that constitute the practice of law. Section 20-281 is intended to regulate insurance adjusters. The legislature has not purported to, nor can it, authorize non-lawyers or disbarred lawyers to practice law. Whether it is within the legislature's power to authorize one to engage in activities that constitute the practice of law while engaging in the business of insurance adjusting is a question we reserve for the appropriate case, if and when brought.
 
-###### CONCLUSION
+##### CONCLUSION
 
 We hold that Creasy has violated Rule 31(a)(3) and the order of disbarment. We thus find him in contempt and order that he immediately cease and desist from any further activities that constitute the practice of law. In lieu of other penalties that might be imposed, Creasy is ordered to pay the costs incurred by the State Bar, plus reasonable attorneys' fees, the amount to be approved by this court on application by the State Bar.
 

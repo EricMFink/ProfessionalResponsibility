@@ -120,7 +120,7 @@ On this record, the accused enjoyed continued representation within the bounds o
 
 The rule adopted by the Court of Appeals, which seemingly would require an attorney to remain silent while his client committed perjury, is wholly incompatible with the established standards of ethical conduct and the laws of Iowa and contrary to professional standards promulgated by that State. The position advocated by petitioner, on the contrary, is wholly consistent with the Iowa standards of professional conduct and law, with the overwhelming majority of courts, and with codes of professional ethics. Since there has been no breach of any recognized professional duty, it follows that there can be no deprivation of the right to assistance of counsel under the Strickland standard.
 
-###### Conclusion
+##### Conclusion
 
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 

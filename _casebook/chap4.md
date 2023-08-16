@@ -14,7 +14,7 @@ title: Duty of Care
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-_Comment:_
+###### Comment:
 
 _Legal Knowledge and Skill_
 
@@ -575,7 +575,7 @@ A number of practical considerations are important for the application of the st
 
 Although we have discussed the performance component of an ineffectiveness claim prior to the prejudice component, there is no reason for a court deciding an ineffective assistance claim to approach the inquiry in the same order or even to address both components of the inquiry if the defendant makes an insufficient showing on one. In particular, a court need not determine whether counsel's performance was deficient before examining the prejudice suffered by the defendant as a result of the alleged deficiencies. The object of an ineffectiveness claim is not to grade counsel's performance. If it is easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice, which we expect will often be so, that course should be followed. Courts should strive to ensure that ineffectiveness claims not become so burdensome to defense counsel that the entire criminal justice system suffers as a result.
 
-###### V
+##### V
 
 Having articulated general standards for judging ineffectiveness claims, we think it useful to apply those standards to the facts of this case in order to illustrate the meaning of the general principles. 
 
@@ -796,7 +796,7 @@ In addition to undermining finality, the Court's rule will impose significant co
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
-###### Facts
+##### Facts
 
 Psychiatrist Jessy Ang and his wife Editha jointly owned Evergreen Medical Panel, Inc., a company that provided the Washington State Department of Labor and Industries with independent medical examinations of injured workers. As a result of Dr. Ang's contact with a target of a governmental task force investigating social security fraud, Dr. Ang himself became a person of interest. In February 1994, the task force executed a search warrant on Dr. Ang's office and seized copies of two sets of signed tax returns that reported conflicting amounts of income. The Angs were arrested in April 1996, following the execution of a search warrant at their residence. A year later, the Angs were indicted on 18 criminal counts, including conspiracy to defraud the United States, bank and tax fraud, and filing false statements.
 
@@ -812,7 +812,7 @@ The plaintiffs appealed, but the Court of Appeals affirmed. This court granted t
 
 Where a legal malpractice suit stems from the representation of clients in a criminal prosecution, must plaintiffs who were acquitted of the criminal charges prove their actual innocence of the crimes, or does their acquittal satisfy the innocence element of their malpractice action?
 
-###### Analysis
+##### Analysis
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
@@ -846,7 +846,7 @@ In the alternative, the Angs argue that, if a plaintiff's actual guilt or innoce
 
 In sum, we conclude that the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We therefore affirm the Court of Appeals.
 
-###### Conclusion
+##### Conclusion
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
