@@ -1,6 +1,9 @@
 ---
-layout: casebook-contents
-title: Table of Contents
+layout: page
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+permalink: /casebook/contents/
+
 ---
 
 [Preface](../preface)
