@@ -82,11 +82,13 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  gemoji
   jekyll
   jekyll-spaceship
   rake
   rouge
   tufte-pandoc-jekyll
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.14
