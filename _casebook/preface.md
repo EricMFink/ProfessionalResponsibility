@@ -29,9 +29,8 @@ Links to cross-referenced pages or external online material are indicated by red
 
 PDF versions of each chapter are available for downloading from the [Table of Contents](../contents) page. 
 
----
-
-<div class="leftalign">
+<section id="colophon" class="level5">
+<div class="colophon">
 
 Designed and produced by [Eric M. Fink](https://www.emfink.net/ElonLaw/), Associate Professor of Law, [Elon University School of Law](https://www.elon.edu/u/law/), Greensboro, North Carolina. 
 
