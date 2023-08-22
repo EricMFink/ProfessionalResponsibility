@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="casebook">
 
 {% include casebook-header.html %}
 
@@ -8,8 +14,12 @@ layout: default
 
 <div class="casebook">
 
+{% if page.chapter %}
 <p class="chapter-number">Chapter {{ page.chapter}}</p>
 <h1>{{ page.title}}</h1>
+{% else %}
+<h1 class="frontmatter">{{ page.title}}</h1>
+{% endif %}
 
 {{ content }}
 
@@ -18,3 +28,7 @@ layout: default
 </div>
 
 {% include hemline.html %}
+
+</body>
+
+</html>
