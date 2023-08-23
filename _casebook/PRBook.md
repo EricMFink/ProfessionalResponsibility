@@ -18,7 +18,7 @@ affiliation: Elon Law School
 
 <div class="chapter">
 
-# Preface
+<p class="chapter-name">Preface</p>
 
 This casebook presents material for use in a law school Professional Responsibility course. Topics covered include the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others.
 
