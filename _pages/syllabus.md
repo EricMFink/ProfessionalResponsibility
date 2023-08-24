@@ -28,9 +28,13 @@ output:
 
 This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam. 
 
-# Required Materials
+# Materials
+
+## Required 
 
 [Professional Responsibility: An Open-Source Casebook](../casebook) (Fink 2023). The casebook is posted online as part of the course website: [emfink.net/ProfessionalResponsibility](http://www.emfink.net/CivilProcedure). PDF copies of each chapter are available for download on the [Table of Contents](https://www.emfink.net/ProfessionalResponsibility/casebook/contents/) page. 
+
+## Suggested 
 
 Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
