@@ -12,11 +12,11 @@ title: Duty of Care
 
 #### Model Rules of Professional Conduct, Rule 1.1 
 
-<span class="larger-bold">Competence<\span>
+<span class="larger-bold">Competence</span>
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-<span class="large-bold">Comment:<\span>
+<span class="large-bold">Comment:</span>
 
 _Legal Knowledge and Skill_
 
@@ -48,7 +48,7 @@ _Maintaining Competence_
 
 #### Model Rules of Professional Conduct, Rule 1.3 
 
-<span class="larger-bold">Diligence<\span>
+<span class="larger-bold">Diligence</span>
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
@@ -58,7 +58,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 #### Model Rules of Professional Conduct, Rule 1.4 
 
-<span class="larger-bold">Communication<\span>
+<span class="larger-bold">Communication</span>
 
 (a) A lawyer shall:
 
@@ -80,7 +80,7 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 #### Model Rules of Professional Conduct, Rule 2.1 
 
-<span class="larger-bold">Advisor<\span>
+<span class="larger-bold">Advisor</span>
 
 In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
 
@@ -90,7 +90,7 @@ In representing a client, a lawyer shall exercise independent professional judgm
 
 #### Model Rules of Professional Conduct, Rule 2.2 
 
-<span class="larger-bold">Evaluation for Use by Third Persons<\span>
+<span class="larger-bold">Evaluation for Use by Third Persons</span>
 
 (a) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
 
@@ -109,7 +109,7 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 
 #### Rest. (2d) of the Law Governing Lawyers § 48
 
-<span class="larger-bold">Professional Negligence—Elements and Defenses Generally<\span>
+<span class="larger-bold">Professional Negligence—Elements and Defenses Generally</span>
 
 In addition to the other possible bases of civil liability described in §§ 49, 55, and 56, a lawyer is civilly liable for professional negligence to a person to whom the lawyer owes a duty of care within the meaning of § 50 or § 51, if the lawyer fails to exercise care within the meaning of § 52 and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
@@ -119,7 +119,7 @@ In addition to the other possible bases of civil liability described in §§ 49,
 
 #### Rest. (2d) of the Law Governing Lawyers § 49
 
-<span class="larger-bold">Breach of Fiduciary Duty—Generally<\span>
+<span class="larger-bold">Breach of Fiduciary Duty—Generally</span>
 
 In addition to the other possible bases of civil liability described in §§ 48, 55, and 56, a lawyer is civilly liable to a client if the lawyer breaches a fiduciary duty to the client set forth in § 16(3) and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
@@ -129,7 +129,7 @@ In addition to the other possible bases of civil liability described in §§ 48,
 
 #### Rest. (2d) of the Law Governing Lawyers § 50
 
-<span class="larger-bold">Duty of Care to a Client<\span>
+<span class="larger-bold">Duty of Care to a Client</span>
 
 For purposes of liability under § 48, a lawyer owes a client the duty to exercise care within the meaning of § 52 in pursuing the client's lawful objectives in matters covered by the representation.
 
@@ -139,7 +139,7 @@ For purposes of liability under § 48, a lawyer owes a client the duty to exerci
 
 #### Rest. (2d) of the Law Governing Lawyers § 51
 
-<span class="larger-bold">Duty of Care to Certain Nonclients<\span>
+<span class="larger-bold">Duty of Care to Certain Nonclients</span>
 
 For purposes of liability under § 48, a lawyer owes a duty to use care within the meaning of § 52 in each of the following circumstances:
 
@@ -175,7 +175,7 @@ For purposes of liability under § 48, a lawyer owes a duty to use care within t
 
 #### Rest. (2d) of the Law Governing Lawyers § 52
 
-<span class="larger-bold">The Standard of Care<\span>
+<span class="larger-bold">The Standard of Care</span>
 
 (1) For purposes of liability under §§ 48 and 49, a lawyer who owes a duty of care must exercise the competence and diligence normally exercised by lawyers in similar circumstances.
 
@@ -193,7 +193,7 @@ For purposes of liability under § 48, a lawyer owes a duty to use care within t
 
 #### Rest. (2d) of the Law Governing Lawyers § 53
 
-<span class="larger-bold">Causation and Damages<\span>
+<span class="larger-bold">Causation and Damages</span>
 
 A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of care or breach of fiduciary duty was a legal cause of injury, as determined under generally applicable principles of causation and damages.
 
@@ -203,7 +203,7 @@ A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of
 
 #### Rest. (2d) of the Law Governing Lawyers § 54
 
-<span class="larger-bold">Defenses; Prospective Liability Waiver; Settlement with a Client<\span>
+<span class="larger-bold">Defenses; Prospective Liability Waiver; Settlement with a Client</span>
 
 (1) Except as otherwise provided in this Section, liability under §§ 48 and 49 is subject to the defenses available under generally applicable principles of law governing respectively actions for professional negligence and breach of fiduciary duty. A lawyer is not liable under § 48 or § 49 for any action or inaction the lawyer reasonably believed to be required by law, including a professional rule.
 
@@ -229,7 +229,7 @@ without first advising that person in writing that independent representation is
 
 #### Rest. (2d) of the Law Governing Lawyers § 55
 
-<span class="larger-bold">Civil Remedies of a Client Other Than for Malpractice<\span>
+<span class="larger-bold">Civil Remedies of a Client Other Than for Malpractice</span>
 
 (1) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
 
@@ -241,7 +241,7 @@ without first advising that person in writing that independent representation is
 
 #### Rest. (2d) of the Law Governing Lawyers § 56
 
-<span class="larger-bold">Liability to a Client or Nonclient Under General Law<\span>
+<span class="larger-bold">Liability to a Client or Nonclient Under General Law</span>
 
 Except as provided in § 57 and in addition to liability under §§ 48-55, a lawyer is subject to liability to a client or nonclient when a nonlawyer would be in similar circumstances.
 
@@ -251,7 +251,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 #### Rest. (2d) of the Law Governing Lawyers § 57
 
-<span class="larger-bold">Nonclient Claims—Certain Defenses and Exceptions to Liability<\span>
+<span class="larger-bold">Nonclient Claims—Certain Defenses and Exceptions to Liability</span>
 
 (1) In addition to other absolute or conditional privileges, a lawyer is absolutely privileged to publish matter concerning a nonclient if:
 
@@ -271,7 +271,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 #### Rest. (2d) of the Law Governing Lawyers § 58
 
-<span class="larger-bold">Vicarious Liability<\span>
+<span class="larger-bold">Vicarious Liability</span>
 
 (1) A law firm is subject to civil liability for injury legally caused to a person by any wrongful act or omission of any principal or employee of the firm who was acting in the ordinary course of the firm's business or with actual or apparent authority.
 
@@ -291,7 +291,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 #### Model Rules of Professional Conduct, Rule 1.8 
 
-<span class="larger-bold">Current Clients: Specific Rules<\span>
+<span class="larger-bold">Current Clients: Specific Rules</span>
 
 (h) A lawyer shall not:
 
@@ -304,7 +304,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 #### Marker v. Greenberg, 313 N.W.2d 4 (Minn. 1981)
 
-<span class="larger-bold">SCOTT, Justice.<\span>
+<span class="larger-bold">SCOTT, Justice.</span>
 
 This is an appeal from an order of the Hennepin County District Court in a legal malpractice action brought by the surviving joint tenant against the attorney who drafted the deed. By that order the trial court granted respondent Robert Greenberg's motion for summary judgment on the grounds that plaintiff could not bring the action absent an attorney-client relationship and that the six-year statute of limitations barred the action since the statutory period began to run in 1973 when the alleged negligence occurred. We affirm.
 
@@ -339,7 +339,7 @@ In the case before us, the objective of the deed was to transfer ownership of th
 
 #### Ishmael v. Millington, 241 Cal.App.2d 520 (Cal. Ct. App. 1966)
 
-<span class="larger-bold">FRIEDMAN, J.<\span>
+<span class="larger-bold">FRIEDMAN, J.</span>
 
 This is a legal malpractice action in which the plaintiff-client appeals from a summary judgment granted the defendant-attorney. The factual narrative will possess heightened significance against a backdrop of general doctrine:
 
@@ -374,7 +374,7 @@ Thus, notwithstanding the lack of conflict in the evidence, the summary judgment
 
 #### Equitania Ins. v. Slone & Garrett, 191 S.W.3d 552 (Ky. 2006)
 
-<span class="larger-bold">Wintersheimer, Justice<\span>
+<span class="larger-bold">Wintersheimer, Justice</span>
 
 This appeal is from an opinion of the Court of Appeals which affirmed a judgment of the circuit court based on a summary judgment/jury verdict that rejected the claim of the Equitania Insurance Company and its Vimont shareholder group for legal malpractice against Garrett and her law firm.
 
@@ -386,7 +386,7 @@ Laurel Garrett and the law firm of Slone & Garrett represented the Vimont group 
 
 This case is a complex legal malpractice claim brought by Vimont against Garrett alleging that she negligently advised them during the midst of the shareholder dispute. They claim that Garrett negligently failed to properly advise them as to how to retain control of the corporation; that the methods she advised violated the insurance code; violated a fiduciary duty to shareholders; was unethical, and was substantially more expensive. The circuit judge granted Garrett a partial summary judgment based on his interpretation of the contract which was different from the interpretation made by the circuit judge in the earlier civil case. The other portion of the claim was resolved in favor of Garrett by a jury verdict. The Court of Appeals upheld the decision of the circuit court, and this Court granted discretionary review.
 
-<span class="larger-bold">I. Jury Instructions<\span>
+<span class="larger-bold">I. Jury Instructions</span>
 
 Correct instructions are absolutely essential to an accurate jury verdict. The fundamental function of instructions is to tell the jury what it must believe from the evidence in order to resolve each dispositive factual issue in favor of the party who has the burden of proof on that issue.
 
@@ -416,7 +416,7 @@ Consequently, under the circumstances regarding the instructions, this matter is
 
 #### Daugherty v. Runner, 581 S.W.2d 12 (Ky. Ct. App. 1978)
 
-<span class="larger-bold">HAYES, Judge.<\span>
+<span class="larger-bold">HAYES, Judge.</span>
 
 This appeal is from a judgment entered pursuant to a jury verdict which exonerated the appellee, an attorney, from the charges of legal malpractice. The charges of the legal malpractice claim arose from a medical malpractice cause of action on behalf of the deceased, Lula Daugherty Roach. This type of action is commonly referred to as a "suit within a suit." The basis for the legal malpractice claim is that appellee Runner, while representing the deceased Roach for injuries sustained in an automobile accident, failed to pursue a medical malpractice claim by the estate of Roach against the hospital where Roach was treated for her injuries after her accident and against the doctors who treated her, until her claim was barred by the statute of limitations.
 
@@ -501,7 +501,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
 
 #### TIG Ins. v. Giffin, Winning, Cohen & Bodewes, 444 F.3d 587 (7th Cir. 2006)
 
-<span class="larger-bold">Evans, Circuit Judge<\span>
+<span class="larger-bold">Evans, Circuit Judge</span>
 
 TIG Insurance Company appeals the dismissal of its malpractice case against the Giffin Winning law firm and one of its attorneys, Carol Hansen Posegate.
 
@@ -565,13 +565,13 @@ What is foreseeable as a result of a failure to produce documents is the reasona
 
 #### Strickland v. Washington, 466 U.S. 668 (1984)
 
-<span class="larger-bold">JUSTICE O'CONNOR delivered the opinion of the Court.<\span>
+<span class="larger-bold">JUSTICE O'CONNOR delivered the opinion of the Court.</span>
 
 This case requires us to consider the proper standards for judging a criminal defendant's contention that the Constitution requires a conviction or death sentence to be set aside because counsel's assistance at the trial or sentencing was ineffective.
 
-<span class="larger-bold">I<\span>
+<span class="larger-bold">I</span>
 
-<span class="larger-italic">A<\span>
+<span class="larger-italic">A</span>
 
 During a 10-day period in September 1976, respondent planned and committed three groups of crimes, which included three brutal stabbing murders, torture, kidnapping, severe assaults, attempted murders, attempted extortion, and theft. After his two accomplices were arrested, respondent surrendered to police and voluntarily gave a lengthy statement confessing to the third of the criminal episodes. The State of Florida indicted respondent for kidnapping and murder and appointed an experienced criminal lawyer to represent him.
 
@@ -591,13 +591,13 @@ At the sentencing hearing, counsel's strategy was based primarily on the trial j
 
 The trial judge found numerous aggravating circumstances and no (or a single comparatively insignificant) mitigating circumstance. With respect to each of the three convictions for capital murder, the trial judge concluded: "A careful consideration of all matters presented to the court impels the conclusion that there are insufficient mitigating circumstances to outweigh the aggravating circumstances." He therefore sentenced respondent to death on each of the three counts of murder and to prison terms for the other crimes. The Florida Supreme Court upheld the convictions and sentences on direct appeal.
 
-<span class="larger-italic">B<\span>
+<span class="larger-italic">B</span>
 
 Respondent subsequently sought collateral relief in state court on numerous grounds, among them that counsel had rendered ineffective assistance at the sentencing proceeding. Respondent challenged counsel's assistance in six respects. He asserted that counsel was ineffective because he failed to move for a continuance to prepare for sentencing, to request a psychiatric report, to investigate and present character witnesses, to seek a presentence investigation report, to present meaningful arguments to the sentencing judge, and to investigate the medical examiner's reports or cross-examine the medical experts.
 
 [Strickland unsuccessfully challenged the conviction in state court, based on ineffective assistance of counsel. He then brought a habeas corpus action in federal court, again based on ineffective assistance of counsel. The Supreme Court "granted certiorari to consider the standards by which to judge a contention that the Constitution requires that a criminal judgment be overturned because of the actual ineffective assistance of counsel."]
 
-<span class="larger-bold">II<\span>
+<span class="larger-bold">II</span>
 
 In a long line of cases this Court has recognized that the Sixth Amendment right to counsel exists, and is needed, in order to protect the fundamental right to a fair trial. The Constitution guarantees a fair trial through the Due Process Clauses, but it defines the basic elements of a fair trial largely through the several provisions of the Sixth Amendment, including the Counsel Clause:
 
@@ -611,11 +611,11 @@ For that reason, the Court has recognized that "the right to counsel is the righ
 
 The Court has not elaborated on the meaning of the constitutional requirement of effective assistance in the latter class of cases---that is, those presenting claims of "actual ineffectiveness." In giving meaning to the requirement, however, we must take its purpose---to ensure a fair trial---as the guide. The benchmark for judging any claim of ineffectiveness must be whether counsel's conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result.
 
-<span class="larger-bold">III<\span>
+<span class="larger-bold">III</span>
 
 A convicted defendant's claim that counsel's assistance was so defective as to require reversal of a conviction or death sentence has two components. First, the defendant must show that counsel's performance was deficient. This requires showing that counsel made errors so serious that counsel was not functioning as the "counsel" guaranteed the defendant by the Sixth Amendment. Second, the defendant must show that the deficient performance prejudiced the defense. This requires showing that counsel's errors were so serious as to deprive the defendant of a fair trial, a trial whose result is reliable. Unless a defendant makes both showings, it cannot be said that the conviction or death sentence resulted from a breakdown in the adversary process that renders the result unreliable.
 
-<span class="larger-italic">A<\span>
+<span class="larger-italic">A</span>
 
 As all the Federal Courts of Appeals have now held, the proper standard for attorney performance is that of reasonably effective assistance. When a convicted defendant complains of the ineffectiveness of counsel's assistance, the defendant must show that counsel's representation fell below an objective standard of reasonableness.
 
@@ -635,7 +635,7 @@ These standards require no special amplification in order to define counsel's du
 
 The reasonableness of counsel's actions may be determined or substantially influenced by the defendant's own statements or actions. Counsel's actions are usually based, quite properly, on informed strategic choices made by the defendant and on information supplied by the defendant. In particular, what investigation decisions are reasonable depends critically on such information. For example, when the facts that support a certain potential line of defense are generally known to counsel because of what the defendant has said, the need for further investigation may be considerably diminished or eliminated altogether. And when a defendant has given counsel reason to believe that pursuing certain investigations would be fruitless or even harmful, counsel's failure to pursue those investigations may not later be challenged as unreasonable. In short, inquiry into counsel's conversations with the defendant may be critical to a proper assessment of counsel's investigation decisions, just as it may be critical to a proper assessment of counsel's other litigation decisions.
 
-<span class="larger-italic">B<\span>
+<span class="larger-italic">B</span>
 
 An error by counsel, even if professionally unreasonable, does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment. The purpose of the Sixth Amendment guarantee of counsel is to ensure that a defendant has the assistance necessary to justify reliance on the outcome of the proceeding. Accordingly, any deficiencies in counsel's performance must be prejudicial to the defense in order to constitute ineffective assistance under the Constitution.
 
@@ -659,13 +659,13 @@ The governing legal standard plays a critical role in defining the question to b
 
 In making this determination, a court hearing an ineffectiveness claim must consider the totality of the evidence before the judge or jury. Some of the factual findings will have been unaffected by the errors, and factual findings that were affected will have been affected in different ways. Some errors will have had a pervasive effect on the inferences to be drawn from the evidence, altering the entire evidentiary picture, and some will have had an isolated, trivial effect. Moreover, a verdict or conclusion only weakly supported by the record is more likely to have been affected by errors than one with overwhelming record support. Taking the unaffected findings as a given, and taking due account of the effect of the errors on the remaining findings, a court making the prejudice inquiry must ask if the defendant has met the burden of showing that the decision reached would reasonably likely have been different absent the errors.
 
-<span class="larger-bold">IV<\span>
+<span class="larger-bold">IV</span>
 
 A number of practical considerations are important for the application of the standards we have outlined. Most important, in adjudicating a claim of actual ineffectiveness of counsel, a court should keep in mind that the principles we have stated do not establish mechanical rules. Although those principles should guide the process of decision, the ultimate focus of inquiry must be on the fundamental fairness of the proceeding whose result is being challenged. In every case the court should be concerned with whether, despite the strong presumption of reliability, the result of the particular proceeding is unreliable because of a breakdown in the adversarial process that our system counts on to produce just results.
 
 Although we have discussed the performance component of an ineffectiveness claim prior to the prejudice component, there is no reason for a court deciding an ineffective assistance claim to approach the inquiry in the same order or even to address both components of the inquiry if the defendant makes an insufficient showing on one. In particular, a court need not determine whether counsel's performance was deficient before examining the prejudice suffered by the defendant as a result of the alleged deficiencies. The object of an ineffectiveness claim is not to grade counsel's performance. If it is easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice, which we expect will often be so, that course should be followed. Courts should strive to ensure that ineffectiveness claims not become so burdensome to defense counsel that the entire criminal justice system suffers as a result.
 
-<span class="larger-bold">V<\span>
+<span class="larger-bold">V</span>
 
 Having articulated general standards for judging ineffectiveness claims, we think it useful to apply those standards to the facts of this case in order to illustrate the meaning of the general principles. 
 
@@ -682,11 +682,11 @@ Failure to make the required showing of either deficient performance or sufficie
 
 #### Knowles v. Mirzayance, 556 U.S. 111 (2009)
 
-<span class="larger-bold">Justice THOMAS delivered the opinion of the Court.<\span>
+<span class="larger-bold">Justice THOMAS delivered the opinion of the Court.</span>
 
 In this case, respondent Alexandre Mirzayance claimed ineffective assistance of counsel because his attorney recommended withdrawing his insanity defense. The California courts rejected this claim on state postconviction review. We must decide whether this decision was contrary to or an unreasonable application of clearly established federal law. We hold that it was not. Mirzayance failed to establish that his counsel's performance was ineffective.
 
-<span class="larger-bold">I<\span>
+<span class="larger-bold">I</span>
 
 Mirzayance confessed that he stabbed his 19-year-old cousin nine times with a hunting knife and then shot her four times. At trial, he entered pleas of not guilty and not guilty by reason of insanity (NGI). Under California law, when both of these pleas are entered, the court must hold a bifurcated trial, with guilt determined during the first phase and the viability of the defendant's NGI plea during the second. During the guilt phase of Mirzayance's trial, he sought to avoid a conviction for first-degree murder by obtaining a verdict on the lesser included offense of second-degree murder. To that end, he presented medical testimony that he was insane at the time of the crime and was, therefore, incapable of the premeditation or deliberation necessary for a first-degree murder conviction. The jury nevertheless convicted Mirzayance of first-degree murder.
 
@@ -722,7 +722,7 @@ Furthermore, even though it had suggested that the District Court unnecessarily 
 
 We granted the petition for writ of certiorari.
 
-<span class="larger-bold">III<\span>
+<span class="larger-bold">III</span>
 
 Even if Mirzayance's ineffective-assistance-of-counsel claim were eligible for de novo review, it would still fail. _Strickland_ requires a defendant to establish deficient performance and prejudice. Mirzayance can establish neither.
 
@@ -748,20 +748,20 @@ In light of the Magistrate Judge's factual findings, the state court's rejection
 
 In addition, Mirzayance has not demonstrated that he suffered prejudice from his counsel's performance. To establish prejudice, "the defendant must show that there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome." To prevail on his ineffective-assistance claim, Mirzayance must show, therefore, that there is a "reasonable probability" that he would have prevailed on his insanity defense had he pursued it. This Mirzayance cannot do. It was highly improbable that a jury, which had just rejected testimony about Mirzayance's mental condition when the State bore the burden of proof, would have reached a different result when Mirzayance presented similar evidence at the NGI phase.
 
-<span class="larger-bold">IV<\span>
+<span class="larger-bold">IV</span>
 
 Mirzayance has not shown that the state court's conclusion that there was no ineffective assistance of counsel "was contrary to, or involved an unreasonable application of, clearly established Federal law." In fact, he has not shown ineffective assistance at all. The judgment of the Court of Appeals is reversed, and the case is remanded with instructions to deny the petition.
 
 
 #### Lee v. United States, 137 S.Ct. 1958 (2017)
 
-<span class="larger-bold">Chief Justice ROBERTS delivered the opinion of the Court.<\span>
+<span class="larger-bold">Chief Justice ROBERTS delivered the opinion of the Court.</span>
 
 Petitioner Jae Lee was indicted on one count of possessing ecstasy with intent to distribute. Although he has lived in this country for most of his life, Lee is not a United States citizen, and he feared that a criminal conviction might affect his status as a lawful permanent resident. His attorney assured him there was nothing to worry about---the Government would not deport him if he pleaded guilty. So Lee, who had no real defense to the charge, opted to accept a plea that carried a lesser prison sentence than he would have faced at trial.
 
 Lee's attorney was wrong: The conviction meant that Lee was subject to mandatory deportation from this country. Lee seeks to vacate his conviction on the ground that, in accepting the plea, he received ineffective assistance of counsel in violation of the Sixth Amendment. Everyone agrees that Lee received objectively unreasonable representation. The question presented is whether he can show he was prejudiced as a result.
 
-<span class="larger-bold">I<\span>
+<span class="larger-bold">I</span>
 
 Jae Lee moved to the United States from South Korea in 1982. He was 13 at the time. His parents settled the family in New York City, where they opened a small coffee shop. After graduating from a business high school in Manhattan, Lee set out on his own to Memphis, Tennessee, where he started working at a restaurant. After three years, Lee decided to try his hand at running a business. With some assistance from his family, Lee opened the Mandarin Palace Chinese Restaurant in a Memphis suburb. The Mandarin was a success, and Lee eventually opened a second restaurant nearby. In the 35 years he has spent in the country, Lee has never returned to South Korea. He did not become a United States citizen, living instead as a lawful permanent resident.
 
@@ -777,11 +777,11 @@ The District Court, however, denied relief. Applying our two-part test for ineff
 
 The Court of Appeals for the Sixth Circuit affirmed the denial of relief. On appeal, the Government conceded that the performance of Lee's attorney had been deficient. To establish that he was prejudiced by that deficient performance, the court explained, Lee was required to show "a reasonable probability that, but for counsel's errors, he would not have pleaded guilty and would have insisted on going to trial." Lee had "no bona fide defense, not even a weak one," so he "stood to gain nothing from going to trial but more prison time." Relying on Circuit precedent holding that "no rational defendant charged with a deportable offense and facing overwhelming evidence of guilt would proceed to trial rather than take a plea deal with a shorter prison sentence," the Court of Appeals concluded that Lee could not show prejudice. We granted certiorari.
 
-<span class="larger-bold">II<\span>
+<span class="larger-bold">II</span>
 
 The Sixth Amendment guarantees a defendant the effective assistance of counsel at "critical stages of a criminal proceeding," including when he enters a guilty plea. To demonstrate that counsel was constitutionally ineffective, a defendant must show that counsel's representation "fell below an objective standard of reasonableness" and that he was prejudiced as a result. The first requirement is not at issue in today's case: The Government concedes that Lee's plea-stage counsel provided inadequate representation when he assured Lee that he would not be deported if he pleaded guilty. The question is whether Lee can show he was prejudiced by that erroneous advice.
 
-<span class="larger-italic">A<\span>
+<span class="larger-italic">A</span>
 
 A claim of ineffective assistance of counsel will often involve a claim of attorney error "during the course of a legal proceeding"---for example, that counsel failed to raise an objection at trial or to present an argument on appeal. A defendant raising such a claim can demonstrate prejudice by showing "a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different."
 
@@ -795,7 +795,7 @@ Not all errors, however, are of that sort. Here Lee knew, correctly, that his pr
 
 Lee, on the other hand, argues he can establish prejudice under Hill because he never would have accepted a guilty plea had he known that he would be deported as a result. Lee insists he would have gambled on trial, risking more jail time for whatever small chance there might be of an acquittal that would let him remain in the United States. The Government responds that, since Lee had no viable defense at trial, he would almost certainly have lost and found himself still subject to deportation, with a lengthier prison sentence to boot. Lee, the Government contends, cannot show prejudice from accepting a plea where his only hope at trial was that something unexpected and unpredictable might occur that would lead to an acquittal.
 
-<span class="larger-italic">B<\span>
+<span class="larger-italic">B</span>
 
 The Government asks that we, like the Court of Appeals below, adopt a per se rule that a defendant with no viable defense cannot show prejudice from the denial of his right to trial. As a general matter, it makes sense that a defendant who has no realistic defense to a charge supported by sufficient evidence will be unable to carry his burden of showing prejudice from accepting a guilty plea. But in elevating this general proposition to a per se rule, the Government makes two errors. First, it forgets that categorical rules are ill suited to an inquiry that we have emphasized demands a "case-by-case examination" of the "totality of the evidence." And, more fundamentally, the Government overlooks that the inquiry we prescribed in _Hill v. Lockhart_ focuses on a defendant's decisionmaking, which may not turn solely on the likelihood of conviction after trial.
 
@@ -805,7 +805,7 @@ But common sense (not to mention our precedent) recognizes that there is more to
 
 The Government urges that, in such circumstances, the possibility of an acquittal after trial is "irrelevant to the prejudice inquiry," pointing to our statement in _Strickland_ that "a defendant has no entitlement to the luck of a lawless decisionmaker." That statement, however, was made in the context of discussing the presumption of reliability we apply to judicial proceedings. As we have explained, that presumption has no place where, as here, a defendant was deprived of a proceeding altogether. In a presumptively reliable proceeding, "the possibility of arbitrariness, whimsy, caprice, ‘nullification,' and the like" must by definition be ignored. But where we are instead asking what an individual defendant would have done, the possibility of even a highly improbable result may be pertinent to the extent it would have affected his decisionmaking.
 
-<span class="larger-italic">C<\span>
+<span class="larger-italic">C</span>
 
 "Surmounting Strickland's high bar is never an easy task," and the strong societal interest in finality has "special force with respect to convictions based on guilty pleas." Courts should not upset a plea solely because of post hoc assertions from a defendant about how he would have pleaded but for his attorney's deficiencies. Judges should instead look to contemporaneous evidence to substantiate a defendant's expressed preferences.
 
@@ -822,13 +822,13 @@ We cannot agree that it would be irrational for a defendant in Lee's position to
 Lee's claim that he would not have accepted a plea had he known it would lead to deportation is backed by substantial and uncontroverted evidence. Accordingly we conclude Lee has demonstrated a "reasonable probability that, but for his counsel's errors, he would not have pleaded guilty and would have insisted on going to trial.
 
 
-<span class="larger-bold">Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.<\span>
+<span class="larger-bold">Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.</span>
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
 
-<span class="larger-bold">I<\span>
+<span class="larger-bold">I</span>
 
-<span class="larger-italic">A<\span>
+<span class="larger-italic">A</span>
 
 The Court and both of the parties agree that the prejudice inquiry in this context is governed by _Strickland v. Washington_. The Court in _Strickland_ held that a defendant may establish a claim of ineffective assistance of counsel by showing that his "counsel's representation fell below an objective standard of reasonableness" and, as relevant here, that the representation prejudiced the defendant by "actually having an adverse effect on the defense."
 
@@ -848,7 +848,7 @@ Finally, the Court's decision in _Lafler v. Cooper_ is to the same effect. In th
 
 These precedents are consistent with our cases governing the right to effective assistance of counsel in other contexts. This Court has held that the right to effective counsel applies to all "critical stages of the criminal proceedings." Those stages include not only "the entry of a guilty plea," but also "arraignments, postindictment interrogation, and postindictment lineups." In those circumstances, the Court has not held that the prejudice inquiry focuses on whether that stage of the proceeding would have ended differently. It instead has made clear that the prejudice inquiry is the same as in _Strickland_, which requires a defendant to establish that he would have been better off in the end had his counsel not erred.
 
-<span class="larger-italic">B<\span>
+<span class="larger-italic">B</span>
 
 The majority misapplies this Court's precedents when it concludes that a defendant may establish prejudice by showing only that "he would not have pleaded guilty and would have insisted on going to trial," without showing that "the result of that trial would have been different than the result of the plea bargain." In reaching this conclusion, the Court relies almost exclusively on the single line from _Hill_ that "the defendant must show that there is a reasonable probability that, but for counsel's errors, he would not have pleaded guilty and would have insisted on going to trial." For the reasons explained above, that sentence prescribes the threshold showing a defendant must make to establish _Strickland_ prejudice where a defendant has accepted a guilty plea. In _Hill_, the Court concluded that the defendant had not made that showing, so it rejected his claim. The Court did not, however, further hold that a defendant can establish prejudice by making that showing alone.
 
@@ -864,13 +864,13 @@ Finally, the majority does not dispute that the prejudice inquiry in _Frye_ and 
 
 The majority today abandons any pretense of applying _Strickland_ to claims of ineffective assistance of counsel that arise at the plea stage. It instead concludes that one standard applies when a defendant goes to trial (_Strickland_); another standard applies when a defendant accepts a plea (_Hill_); and yet another standard applies when counsel does not apprise the defendant of an available plea or when the defendant rejects a plea (_Frye_ and _Lafler_). That approach leaves little doubt that the Court has "opened a whole new field of constitutionalized criminal procedure"---"plea-bargaining law"---despite its repeated assurances that it has been applying the same _Strickland_ standard all along. In my view, we should take the Court's precedents at their word and conclude that "an error by counsel does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment."
 
-<span class="larger-bold">III<\span>
+<span class="larger-bold">III</span>
 
 Applying the ordinary _Strickland_ standard in this case, I do not think a defendant in petitioner's circumstances could show a reasonable probability that the result of his criminal proceeding would have been different had he not pleaded guilty. Petitioner does not dispute that he possessed large quantities of illegal drugs or that the Government had secured a witness who had purchased the drugs directly from him. In light of this "overwhelming evidence of guilt," the Court of Appeals concluded that petitioner had "no bona fide defense, not even a weak one." His only chance of succeeding would have been to "throw a ‘Hail Mary' at trial." As I have explained, however, the Court in _Strickland_ expressly foreclosed relying on the possibility of a "Hail Mary" to establish prejudice. _Strickland_ made clear that the prejudice assessment should "proceed on the assumption that the decisionmaker is reasonably, conscientiously, and impartially applying the standards that govern the decision."
 
 In the face of overwhelming evidence of guilt and in the absence of a bona fide defense, a reasonable court or jury applying the law to the facts of this case would find the defendant guilty. There is no reasonable probability of any other verdict. A defendant in petitioner's shoes, therefore, would have suffered the same deportation consequences regardless of whether he accepted a plea or went to trial. He is thus plainly better off for having accepted his plea: had he gone to trial, he not only would have faced the same deportation consequences, he also likely would have received a higher prison sentence. Finding that petitioner has established prejudice in these circumstances turns _Strickland_ on its head.
 
-<span class="larger-bold">IV<\span>
+<span class="larger-bold">IV</span>
 
 The Court's decision today will have pernicious consequences for the criminal justice system. This Court has shown special solicitude for the plea process, which brings "stability" and "certainty" to "the criminal justice system." The Court has warned that "the prospect of collateral challenges" threatens to undermine these important values. And we have explained that "prosecutors must have assurance that a plea will not be undone years later," lest they "forgo plea bargains that would benefit defendants," which would be "a result favorable to no one."
 
@@ -882,11 +882,11 @@ In addition to undermining finality, the Court's rule will impose significant co
 
 #### Ang v. Martin, 114 P.3d 637 (Wash. 2005)
 
-<span class="larger-bold">Owens, J.<\span>
+<span class="larger-bold">Owens, J.</span>
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
-<span class="larger-bold">Facts<\span>
+<span class="larger-bold">Facts</span>
 
 Psychiatrist Jessy Ang and his wife Editha jointly owned Evergreen Medical Panel, Inc., a company that provided the Washington State Department of Labor and Industries with independent medical examinations of injured workers. As a result of Dr. Ang's contact with a target of a governmental task force investigating social security fraud, Dr. Ang himself became a person of interest. In February 1994, the task force executed a search warrant on Dr. Ang's office and seized copies of two sets of signed tax returns that reported conflicting amounts of income. The Angs were arrested in April 1996, following the execution of a search warrant at their residence. A year later, the Angs were indicted on 18 criminal counts, including conspiracy to defraud the United States, bank and tax fraud, and filing false statements.
 
@@ -898,11 +898,11 @@ The Angs, along with Evergreen Medical, filed the present legal malpractice acti
 
 The plaintiffs appealed, but the Court of Appeals affirmed. This court granted the plaintiffs' petition for review.
 
-<span class="larger-bold">Issues<\span>
+<span class="larger-bold">Issues</span>
 
 Where a legal malpractice suit stems from the representation of clients in a criminal prosecution, must plaintiffs who were acquitted of the criminal charges prove their actual innocence of the crimes, or does their acquittal satisfy the innocence element of their malpractice action?
 
-<span class="larger-bold">Analysis<\span>
+<span class="larger-bold">Analysis</span>
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
@@ -936,12 +936,12 @@ In the alternative, the Angs argue that, if a plaintiff's actual guilt or innoce
 
 In sum, we conclude that the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We therefore affirm the Court of Appeals.
 
-<span class="larger-bold">Conclusion<\span>
+<span class="larger-bold">Conclusion</span>
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
 
-<span class="larger-bold">SANDERS, J. (dissenting).<\span>
+<span class="larger-bold">SANDERS, J. (dissenting).</span>
 
 I dissent because the malpractice standard for criminal cases should be the same as civil. There is no reason to invite malpractice in criminal cases by heightening the plaintiff's burden to prove postconviction relief and actual innocence. In every situation a client should rightfully expect competent legal representation.
 
@@ -962,14 +962,14 @@ Legal causation is a subsequent inquiry, asking as a matter of law whether liabi
 Here the Angs's defense attorneys, Michael Martin and Richard Hansen, recommended a particular plea agreement. The Angs initially agreed but later withdrew the plea on recommendation from new counsel and were acquitted on all charges at a subsequent trial. They sued their former defense attorneys and a jury found that Martin alone was negligent even though it found the Angs had not proved their innocence by a preponderance of the evidence. Since the latter consideration should be irrelevant, Martin should bear the responsibility for his negligence. I would reverse as to Martin, and remand for a trial on damages.
 
 
-<span class="larger-bold">ALEXANDER, C.J. (concurring in dissent).<\span>
+<span class="larger-bold">ALEXANDER, C.J. (concurring in dissent).</span>
 
 I agree with Justice Sanders that the trial court erred in instructing the jury that Jessy and Editha Ang had to prove that they were actually innocent of the crime charged in order to prevail in their legal malpractice claim against attorneys Richard Hansen and Michael Martin. For that reason, we should reverse the Court of Appeals and remand to the trial court for a new trial on the Angs' claim against Martin.
 
 I write separately because, in my view, we should not stop with a determination that the trial court erred but should go further to indicate that the defendant attorney may raise the issue of the plaintiff's actual guilt in the criminal case as an affirmative defense. That was the position taken by the Supreme Court of Alaska in a similar case, _Shaw v. Department of Administration_. There, the court said that because plaintiffs in such actions must already bear the burden of proving that they have obtained postconviction relief from their criminal convictions, they should not have to prove their "actual innocence." The court went on to indicate, however, that the defendant may raise the issue of the plaintiff's "actual guilt" as an affirmative defense and seek to establish it by a preponderance of the evidence. Although the Alaska court did not engage in an extensive discussion of its reasons for placing the burden on the defendant to establish this affirmative defense, it did indicate that putting the burden there is consistent with the requirement that defendants establish traditional affirmative defenses that look to plaintiffs' actions such as contributory/comparative negligence and assumption of the risk. The Alaska rule makes perfect sense to me for that reason and for the additional reason that it is consonant with the traditional notion that one is presumed innocent until proven guilty beyond a reasonable doubt. Furthermore, shifting the burden to the defendant relieves the plaintiff of the almost impossible burden of proving innocence while at the same time addressing the policy concern noted by the majority, that criminals should not benefit from "their own bad acts."
 
 
-<span class="larger-bold">CHAMBERS, J. (concurring in dissent).<\span>
+<span class="larger-bold">CHAMBERS, J. (concurring in dissent).</span>
 
 I concur in Justice Sanders' dissent but write separately to express my indignation that this court, based upon the policy of protecting lawyers, would carve out a special protection for criminal defense attorneys whose acts of professional negligence are harmful to their clients. Under this logic, it is not enough for the injured client to prove actual harm from the attorney's failure to meet professional standards; the injured client must also prove that her hands were always clean. Under this logic, why not give immunity to accountants for professional negligence unless the accountant's client can prove he or she never understated income or requested an unavailable deduction, even when the accountants' bad acts caused actual harm to their clients or society? Surely tax dodgers should not profit from their misdeeds. Under this logic, why not give immunity to health care providers who harm their patients unless the patient can prove perfect good health but for the negligence of the provider? Surely the unhealthy should not profit from their illness.
 
