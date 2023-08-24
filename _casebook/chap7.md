@@ -4,13 +4,13 @@ chapter: 7
 title: Duties in Litigation
 ---
 
-# Integrity of the Proceedings 
+## Integrity of the Proceedings 
 
-## Truthfulness
+### Truthfulness
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.3: Candor Toward the Tribunal
+#### Model Rules of Professional Conduct, Rule 3.3: Candor Toward the Tribunal
 
 (a) A lawyer shall not knowingly:
 
@@ -28,9 +28,9 @@ title: Duties in Litigation
 
 </div>
 
-### Nix v. Whiteside, 475 U.S. 157 (1986)
+#### Nix v. Whiteside, 475 U.S. 157 (1986)
 
-#### CHIEF JUSTICE BURGER delivered the opinion of the Court.
+<span class="larger-bold">CHIEF JUSTICE BURGER delivered the opinion of the Court.<\span>
 
 We granted certiorari to decide whether the Sixth Amendment right of a criminal defendant to assistance of counsel is violated when an attorney refuses to cooperate with the defendant in presenting perjured testimony at his trial.
 
@@ -58,13 +58,13 @@ Whiteside then petitioned for a writ of habeas corpus in the United States Distr
 
 The United States Court of Appeals for the Eighth Circuit reversed and directed that the writ of habeas corpus be granted. The Court of Appeals accepted the findings of the trial judge, affirmed by the Iowa Supreme Court, that trial counsel believed with good cause that Whiteside would testify falsely and acknowledged that under _Harris v. New York_, a criminal defendant's privilege to testify in his own behalf does not include a right to commit perjury. Nevertheless, the court reasoned that an intent to commit perjury, communicated to counsel, does not alter a defendant's right to effective assistance of counsel and that Robinson's admonition to Whiteside that he would inform the court of Whiteside's perjury constituted a threat to violate the attorney's duty to preserve client confidences. According to the Court of Appeals, this threatened violation of client confidences breached the standards of effective representation set down in _Strickland v. Washington_. The court also concluded that _Strickland_'s prejudice requirement was satisfied by an implication of prejudice from the conflict between Robinson's duty of loyalty to his client and his ethical duties. A petition for rehearing en banc was denied. We granted certiorari and we reverse.
 
-##### A
+<span class="larger-italic">A<\span>
 
 The right of an accused to testify in his defense is of relatively recent origin. Until the latter part of the preceding century, criminal defendants in this country, as at common law, were considered to be disqualified from giving sworn testimony at their own trial by reason of their interest as a party to the case. Iowa was among the states that adhered to this rule of disqualification.
 
 By the end of the 19th century, however, the disqualification was finally abolished by statute in most states and in the federal courts. Although this Court has never explicitly held that a criminal defendant has a due process right to testify in his own behalf, cases in several Circuits have so held, and the right has long been assumed. We have also suggested that such a right exists as a corollary to the Fifth Amendment privilege against compelled testimony.
 
-##### B
+<span class="larger-italic">B<\span>
 
 We turn next to the question presented: the definition of the range of "reasonable professional" responses to a criminal defendant client who informs counsel that he will perjure himself on the stand. We must determine whether, in this setting, Robinson's conduct fell within the wide range of professional responses to threatened client perjury acceptable under the Sixth Amendment.
 
@@ -118,14 +118,13 @@ On this record, the accused enjoyed continued representation within the bounds o
 
 The rule adopted by the Court of Appeals, which seemingly would require an attorney to remain silent while his client committed perjury, is wholly incompatible with the established standards of ethical conduct and the laws of Iowa and contrary to professional standards promulgated by that State. The position advocated by petitioner, on the contrary, is wholly consistent with the Iowa standards of professional conduct and law, with the overwhelming majority of courts, and with codes of professional ethics. Since there has been no breach of any recognized professional duty, it follows that there can be no deprivation of the right to assistance of counsel under the Strickland standard.
 
-#### Conclusion
+<span class="larger-bold">Conclusion<\span>
 
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 
+#### People v. DePallo, 754 N.E.2d 751 (NY 2001)
 
-### People v. DePallo, 754 N.E.2d 751 (NY 2001)
-
-#### Wesley, J.
+<span class="larger-bold">Wesley, J.<\span>
 
 This case calls upon us to clarify a defense attorney's responsibilities when confronted with the dilemma that a client intends to commit perjury.
 
@@ -157,14 +156,13 @@ In this case, defendant was allowed to present his testimony in narrative form t
 
 Accordingly, the order of the Appellate Division should be affirmed.
 
+#### State v. Hischke, 639 N.W.2d 6 (Iowa 2002)
 
-### State v. Hischke, 639 N.W.2d 6 (Iowa 2002)
-
-#### Streit, J.
+<span class="larger-bold">Streit, J.<\span>
 
 Mark Hischke made an eleventh-hour decision to deny possession of marijuana after previously admitting to the police and his lawyer the marijuana belonged to him. Hischke's trial counsel, John Bishop, informed the court Hischke intended to commit perjury. After a jury trial, the court convicted Hischke of possession of marijuana. Hischke appeals contending he was denied effective assistance of counsel when his trial lawyer alerted the court to his "personal belief" Hischke planned to present perjured testimony. Because we find Bishop had good cause to believe Hischke's proposed testimony would be deliberately untruthful, we affirm.
 
-#### I. Facts
+<span class="larger-bold">I. Facts<\span>
 
 On December 5, 1999, Waterloo police officers executed an arrest warrant on Eric Twesme at his apartment. When the officers arrived, Twesme and Mark Hischke were present in the apartment. Twesme answered the door and permitted the officers to enter. In the apartment, the officers saw syringes, spoons, and cotton. The officers asked Hischke to wait in the hallway where he consented to a search of his person. The officer discovered a syringe in Hischke's shirt pocket. Before going to the police station, Twesme asked the officers for a jacket. One of the officers saw a leather jacket in the apartment draped over the back of the chair where Hischke had been sitting. The officer asked Twesme if the jacket was his and Twesme said it did not belong to him. Hischke admitted ownership of the jacket but said he was not responsible for anything in the pockets. During a consent search, the police officer found a small bag of marijuana in the jacket.
 
@@ -179,7 +177,7 @@ On appeal, Hischke contends he was denied effective assistance of counsel when B
 The State contends an attorney need only have a "firm factual basis" for believing a client plans to lie before taking any measures designed to prevent such perjury. The State argues Bishop satisfied this standard.
 
 
-#### III. Ineffective Assistance of Counsel
+<span class="larger-bold">III. Ineffective Assistance of Counsel<\span>
 
 To prevail on a claim of ineffective assistance of counsel, Hischke must demonstrate both ineffective assistance and prejudice. Both elements must be proven by a preponderance of the evidence. If a claim lacks one of the elements of an ineffective assistance of counsel claim, it is not necessary for us to address the other element.
 
@@ -205,12 +203,12 @@ We decline to adopt the standard of "actual knowledge" suggested by Hischke. Suc
 
 In finding Bishop's performance was within the normal range of competence we are not stating Bishop was required to take the particular course of action he chose to pursue. This has not been presented to us. We recognize when counsel is faced with the situation of client perjury, he or she has competing interests at stake. Counsel must contend with duties of zealous advocacy, confidentiality, and loyalty to the client. On the other hand, these interests are counter-balanced by duties of accountability to the courts and justice. In order to accommodate these competing interests, there are various appropriate options a lawyer may choose among to decide how to handle such a situation.
 
-#### IV. Conclusion
+<span class="larger-bold">IV. Conclusion<\span>
 
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
 
-#### CARTER, Justice (concurring specially)
+<span class="larger-bold">CARTER, Justice (concurring specially)<\span>
 
 I concur in affirming defendant's conviction.
 
@@ -220,10 +218,9 @@ This case does not discuss, because the issue is not raised, whether the action 
 
 Counsel who reach the conclusion that a client is about to testify falsely should first attempt to dissuade the client from giving the offending testimony. If unsuccessful, counsel should attempt a quiet withdrawal from the representation. The reasons set forth in the application to withdraw should only identify the existence of an unspecified attorney-client disagreement that might compromise the attorney's ethical responsibilities. At no time should the matter of impending perjury be disclosed. If the attempt to withdraw fails, then counsel should proceed with the case and conduct any questioning of the witness so as not to invite the suspected perjury. If the suspected perjury nonetheless occurs, counsel should make no reference of it in arguing the case to the trier of fact. I believe that if a lawyer proceeds in this manner, he or she may fully satisfy the lawyer's ethical obligation to prevent perjury without the necessity of advising the court as to the client's intent to testify falsely.
 
+#### U.S. v. Long, 857 F. 2d 436 (8th Cir. 1988)
 
-### U.S. v. Long, 857 F. 2d 436 (8th Cir. 1988)
-
-#### Heaney, Circuit Judge
+<span class="larger-bold">Heaney, Circuit Judge<\span>
 
 Thaddeus Adonis Long and Edward Larry Jackson appeal from their convictions on a number of counts for their involvement in a check forging and bank fraud scheme. We affirm their convictions on all counts.
 
@@ -249,7 +246,7 @@ Long was indicted on five counts. He was found guilty of all counts and was sent
 
 Long and Jackson claim a number of errors.
 
-##### D. Ineffective Assistance of Counsel
+<span class="larger-italic">D. Ineffective Assistance of Counsel<\span>
 
 Jackson contends his trial counsel was ineffective. To prevail on an ineffective assistance of counsel claim, a defendant must show that his or her attorney's performance "fell below an objective standard of reasonableness," and that, but for this ineffective assistance, there is a reasonable probability that the outcome of the trial would have been different.
 
@@ -303,7 +300,7 @@ The trial judge here acted primarily with these concerns in mind. The judge disc
 
 Under such a procedure, the chance for violations of the defendant's constitutional rights will be reduced, the revelation of further client confidences will be prevented, and the defendant can make a knowing waiver of her constitutional right to testify and to counsel. It will also be necessary to establish that the waiver was voluntary and that the defendant's rights were not violated prior to the waiver. Such inquiries, however, are best made at an evidentiary hearing.
 
-#### CONCLUSION
+<span class="larger-bold">CONCLUSION<\span>
 
 The most weighty decision in a case of possible client perjury is made by the lawyer who decides to inform the court, and perhaps incidentally his adversary and the jury, of his client's possible perjury. This occurs when the lawyer makes a motion for withdrawal (usually for unstated reasons) or allows his client to testify in narrative form without questioning from counsel. Once this has been done, the die is cast. The prejudice will have occurred. At a minimum, the trial court will know of the defendant's potential perjury. For this reason, defense counsel must use extreme caution before revealing a belief of impending perjury. It is, as Justice Blackmun noted, "the rarest of cases" where an attorney should take such action.
 
@@ -315,13 +312,9 @@ The determination whether the prejudice was undue must occur at an evidentiary h
 
 We therefore affirm the judgment of the district court but without prejudice to Jackson to claim in a section 2255 proceeding an infringement of his rights to effective assistance of counsel and to testify.
 
-## Fairness & Impartiality
+### Fairness & Impartiality
 
-### Model Rules of Professional Conduct, 
-
-<div class="legal-code">
-
-### Model Rules of Professional Conduct, Rule 3.1: Meritorious Claims & Defenses 
+#### Model Rules of Professional Conduct, Rule 3.1: Meritorious Claims & Defenses 
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
@@ -329,7 +322,7 @@ A lawyer shall not bring or defend a proceeding, or assert or controvert an issu
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.2: Expediting Litigation 
+#### Model Rules of Professional Conduct, Rule 3.2: Expediting Litigation 
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
@@ -337,7 +330,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.4: Fairness to Opposing Party & Counsel
+#### Model Rules of Professional Conduct, Rule 3.4: Fairness to Opposing Party & Counsel
 
 A lawyer shall not:
 
@@ -361,7 +354,7 @@ A lawyer shall not:
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.5: Impartiality and Decorum of the Tribunal
+#### Model Rules of Professional Conduct, Rule 3.5: Impartiality and Decorum of the Tribunal
 
 A lawyer shall not:
 
@@ -383,7 +376,7 @@ A lawyer shall not:
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.7: Lawyer as Witness
+#### Model Rules of Professional Conduct, Rule 3.7: Lawyer as Witness
 
 (a) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 
@@ -397,17 +390,11 @@ A lawyer shall not:
 
 </div>
 
-## Extrajudicial Statements 
-
-### Model Rules of Professional Conduct, 
-
-<div class="legal-code">
-
-</div>
+### Extrajudicial Statements 
 
 <div class="legal-code> 
 
-### Model Rules of Professional Conduct, Rule 3.6: Trial Publicity
+#### Model Rules of Professional Conduct, Rule 3.6: Trial Publicity
 
 (a) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 
@@ -441,7 +428,7 @@ A lawyer shall not:
 
 </div>
 
-### In re Litz, 721 N.E.2d 258 (Ind. 1999)
+#### In re Litz, 721 N.E.2d 258 (Ind. 1999)
 
 The respondent, Steven C. Litz, defended a woman accused of neglect of a dependent. While a retrial of that case proceeded, the respondent caused to be published in several newspapers a letter which stated his client had committed no crime, criticized the prosecutor's decision to retry the case, and mentioned that his client had passed a lie detector test. For that, we find today that the respondent violated Ind. Professional Conduct Rule 3.6(a), which forbids attorneys from making extrajudicial statements which they know or reasonably should have known a substantial likelihood of materially prejudicing an adjudicative proceeding.
 
@@ -463,13 +450,13 @@ The parties agree that the appropriate sanction for the misconduct is a public r
 
 We view the respondent's actions as a purposeful attempt to gain an unfair advantage in retrial of his client's case. Although the respondent had no real selfish motive (and instead apparently sought only to advocate zealously his client's cause), he nonetheless was bound to do so only within the bounds of our ethical rules. His public comments were inappropriate because they threatened or in fact impinged the prospect of a fair trial for his client. Whether extrajudicial statements of this sort warrant reprimand or suspension is fact sensitive. Here, we take into account the fact that the respondent's primary motivation appears to have been the welfare of his client. We are also cognizant while assessing the proposed sanction of our policy of encouraging agreed resolution of disciplinary cases. We find that, in this case, the agreed sanction of a public reprimand is appropriate.
 
-# Prosecutorial Misconduct
+## Prosecutorial Misconduct
 
-### MRPC Rule 3.8
+<div class="legal-code">
 
-</div class="legal-code">
+#### Model Rules of Professional Conduct, Rule 3.8
 
-#### Special Responsibilities of a Prosecutor
+<span class="larger-bold">Special Responsibilities of a Prosecutor<\span>
 
 The prosecutor in a criminal case shall:
 
@@ -504,7 +491,7 @@ The prosecutor in a criminal case shall:
 
 (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
-##### Comments
+<span class="large-bold">Comments<\span>
 
 [1] A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice, that guilt is decided upon the basis of sufficient evidence, and that special precautions are taken to prevent and to rectify the conviction of innocent persons. The extent of mandated remedial action is a matter of debate and varies in different jurisdictions. Many jurisdictions have adopted the ABA Standards of Criminal Justice Relating to the Prosecution Function, which are the product of prolonged and careful deliberation by lawyers experienced in both criminal prosecution and defense. Competent representation of the sovereignty may require a prosecutor to undertake some procedural and remedial measures as a matter of obligation. Applicable law may require other measures by the prosecutor and knowing disregard of those obligations or a systematic abuse of prosecutorial discretion could constitute a violation of Rule 8.4.
 
@@ -516,11 +503,11 @@ The prosecutor in a criminal case shall:
 
 </div>
 
-### ABA Criminal Justice Standards for the Prosecution Function (2017)
-
 <class="legal-code">
 
-#### Standard 3-1.2: Functions and Duties of the Prosecutor
+#### ABA Criminal Justice Standards for the Prosecution Function (2017)
+
+<span class="larger-bold">Standard 3-1.2: Functions and Duties of the Prosecutor<\span>
 
 (a) The prosecutor is an administrator of justice, a zealous advocate, and an officer of the court. The prosecutor's office should exercise sound discretion and independent judgment in the performance of the prosecution function.
 
@@ -534,11 +521,11 @@ The prosecutor in a criminal case shall:
 
 (f) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
 
-#### Standard 3-1.3: The Client of the Prosecutor
+<span class="larger-bold">Standard 3-1.3: The Client of the Prosecutor<\span>
 
 The prosecutor generally serves the public and not any particular government agency, law enforcement officer or unit, witness or victim. When investigating or prosecuting a criminal matter, the prosecutor does not represent law enforcement personnel who have worked on the matter and such law enforcement personnel are not the prosecutor's clients. The public's interests and views should be determined by the chief prosecutor and designated assistants in the jurisdiction.
 
-#### Standard 3-1.4: The Prosecutor's Heightened Duty of Candor
+<span class="larger-bold">Standard 3-1.4: The Prosecutor's Heightened Duty of Candor<\span>
 
 (a) In light of the prosecutor's public responsibilities, broad authority and discretion, the prosecutor has a heightened duty of candor to the courts and in fulfilling other professional obligations. However, the prosecutor should be circumspect in publicly commenting on specific cases or aspects of the business of the office.
 
@@ -546,13 +533,13 @@ The prosecutor generally serves the public and not any particular government age
 
 (c) The prosecutor should disclose to a court legal authority in the controlling jurisdiction known to the prosecutor to be directly adverse to the prosecution's position and not disclosed by others.
 
-#### Standard 3-1.6: Improper Bias Prohibited
+<span class="larger-bold">Standard 3-1.6: Improper Bias Prohibited<\span>
 
 (a) The prosecutor should not manifest or exercise, by words or conduct, bias or prejudice based upon race, sex, religion, national origin, disability, age, sexual orientation, gender identity, or socioeconomic status. A prosecutor should not use other improper considerations, such as partisan or political or personal considerations, in exercising prosecutorial discretion. A prosecutor should strive to eliminate implicit biases, and act to mitigate any improper bias or prejudice when credibly informed that it exists within the scope of the prosecutor's authority.
 
 (b) A prosecutor's office should be proactive in efforts to detect, investigate, and eliminate improper biases, with particular attention to historically persistent biases like race, in all of its work. A prosecutor's office should regularly assess the potential for biased or unfairly disparate impacts of its policies on communities within the prosecutor's jurisdiction, and eliminate those impacts that cannot be properly justified.
 
-#### Standard 3-1.12: Duty to Report and Respond to Prosecutorial Misconduct
+<span class="larger-bold">Standard 3-1.12: Duty to Report and Respond to Prosecutorial Misconduct<\span>
 
 (a) The prosecutor's office should adopt policies to address allegations of professional misconduct, including violations of law, by prosecutors. At a minimum such policies should require internal reporting of reasonably suspected misconduct to supervisory staff within the office, and authorize supervisory staff to quickly address the allegations. Investigations of allegations of professional misconduct within the prosecutor's office should be handled in an independent and conflict-free manner.
 
@@ -562,9 +549,9 @@ The prosecutor generally serves the public and not any particular government age
 
 </div>
 
-### Berger v. United States, 295 U.S. 78 (1935)
+#### Berger v. United States, 295 U.S. 78 (1935)
 
-#### MR. JUSTICE SUTHERLAND delivered the opinion of the Court.
+<span class="larger-bold">MR. JUSTICE SUTHERLAND delivered the opinion of the Court.<\span>
 
 Petitioner was indicted in a federal district court charged with having conspired with seven other persons named in the indictment to utter counterfeit notes purporting to be issued by designated federal reserve banks, with knowledge that they had been counterfeited. The indictment contained eight additional counts alleging substantive offenses. Among the persons named in the indictment were Katz, Rice and Jones. Rice and Jones were convicted by the jury upon two of the substantive counts and the conspiracy count. Petitioner was convicted upon the conspiracy count only. Katz pleaded guilty to the conspiracy count, and testified for the government upon an arrangement that a _nolle prosequi_ as to the substantive counts would be entered. It is not necessary now to refer to the evidence further than to say that it tended to establish not a single conspiracy as charged but two conspiracies — one between Rice and Katz and another between Berger, Jones and Katz. The only connecting link between the two was that Katz was in both conspiracies and the same counterfeit money had to do with both. There was no evidence that Berger was a party to the conspiracy between Rice and Katz. During the trial, the United States attorney who prosecuted the case for the government was guilty of misconduct, both in connection with his cross-examination of witnesses and in his argument to the jury.
 
@@ -586,13 +573,13 @@ It is fair to say that the average jury, in a greater or less degree, has confid
 
 In these circumstances prejudice to the cause of the accused is so highly probable that we are not justified in assuming its non-existence. If the case against Berger had been strong, or, as some courts have said, the evidence of his guilt "overwhelming," a different conclusion might be reached. Moreover, we have not here a case where the misconduct of the prosecuting attorney was slight or confined to a single instance, but one where such misconduct was pronounced and persistent, with a probable cumulative effect upon the jury which cannot be disregarded as inconsequential. A new trial must be awarded.
 
-### Taylor v. Kavanagh, 640 F. 2d 450 (2d Cir. 1981)
+#### Taylor v. Kavanagh, 640 F. 2d 450 (2d Cir. 1981)
 
-#### IRVING R. KAUFMAN, Circuit Judge
+<span class="larger-bold">IRVING R. KAUFMAN, Circuit Judge<\span>
 
 Plaintiff Rodney Taylor, _pro se_, instituted this action against Michael Kavanagh, an Assistant District Attorney for Ulster County, New York. Claiming that Kavanagh lied to him during plea negotiations and violated the terms of the negotiated plea agreement, Taylor seeks to set aside a criminal conviction resulting from his guilty plea. He also requests compensatory and punitive damages amounting to $5.5 million.
 
-#### I.
+<span class="larger-bold">I.<\span>
 
 Taylor was arrested in Kingston, New York, in October 1974, and on December 20, 1974, he was indicted and charged with third degree burglary and attempted grand larceny. He was taken into custody again on August 14, 1975, and charged with third degree burglary and criminal possession of a controlled substance in the seventh degree.
 
@@ -606,7 +593,7 @@ Taylor filed the instant action in October 1978, claiming he was induced to plea
 
 The defendant moved for judgment on the pleadings, which Judge Griesa granted in July 1980. He reasoned that because a prosecutor does not have custody over a convicted prisoner, Kavanagh was not a proper defendant in the suit to set aside Taylor's conviction. Extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities. Judge Griesa also held that Kavanagh was immune from liability, and dismissed the action. We affirm.
 
-#### II.
+<span class="larger-bold">II.<\span>
 
 We note at the outset that when a prisoner is challenging his imprisonment in state facilities, his sole federal remedy is a writ of habeas corpus. Taylor followed this approach in September 1979, seeking a writ in the United States District Court for the Northern District of New York. Judge Port dismissed the petition and denied a certificate of probable cause. Taylor did not appeal this order. Accordingly, we hold that he cannot raise this request to be set free in the instant civil rights action.
 
@@ -622,7 +609,7 @@ Decisions to engage in conduct of this character are not directly related to the
 
 This functional approach requires us to evaluate plea bargaining in light of the general purpose of the absolute immunity doctrine. Judge Griesa properly recognized that the purpose of the doctrine "is to insure that a prosecutor will perform his difficult function with complete vigor and independence, undeterred by the spectre of liability for damages with respect to his activities." Learned Hand has told us that the doctrine we apply today supports the just administration of the criminal law, for we all would suffer if prosecutors "who try to do their duty were subject to the constant dread of retaliation." The threat of § 1983 liability would inhibit prosecutors from exercising independent judgment and would divert their attention from the immediate matters at hand.
 
-#### III.
+<span class="larger-bold">III.<\span>
 
 We are satisfied that a prosecutor's activities in the plea bargaining context merit the protection of absolute immunity. The plea negotiation is an "essential component" of our system of criminal justice. It is at this stage that the prosecutor evaluates the evidence before him, determines the strength of the Government's case, and considers the societal interest in disposing of the case by a negotiated guilty plea. The effective negotiation of guilty pleas would be severely chilled if a prosecutor were constantly concerned with the possibility of ruinous personal liability for judgments and decisions made at this critical stage of the criminal process.
 
@@ -631,15 +618,15 @@ Moreover, reference to the type of harm suffered from the alleged misconduct dur
 Finally, we note that by extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities, we do not condone Kavanagh's alleged misconduct. Prosecutorial abuses can and should be remedied at the trial and appellate levels, as well as by state and federal post-conviction collateral procedures. Relief for misconduct committed during a plea negotiation includes the setting aside of the plea or ordering specific performance of the agreement. In this case, Taylor raised vigorous objections to Kavanagh's conduct in state court. He also employed the federal habeas corpus procedure, without success. His failure to prevail in both the state and federal forums cannot justify the creation of another remedy, one which would impose a tremendous burden on society by severely undercutting prosecutorial independence and morale.
 
 
-### In re Jordan, 913 So. 2d 775 (La. 2005)
+#### In re Jordan, 913 So. 2d 775 (La. 2005)
 
-#### TRAYLOR, J.
+<span class="larger-bold">TRAYLOR, J.<\span>
 
 This attorney disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel against respondent, Roger W. Jordan, Jr., a former Orleans Parish prosecutor.
 
 On April 22, 2003, the ODC filed one count of formal charges against respondent, alleging that he violated Rules 3.8(d) and 8.4(a) of the Rules of Professional Conduct by failing to timely disclose to the defense evidence tending to negate the guilt of the accused or mitigate the offense. The formal charges against respondent arise from the capital prosecution of Shareef Cousin and respondent's undisputed failure to turn over an eyewitness's statement to the defense.
 
-#### Facts and Procedural History of _State v. Cousin_:
+<span class="larger-bold">Facts and Procedural History of _State v. Cousin_:<\span>
 
 Before addressing the merits of the case, it is necessary to discuss, in some detail, the underlying facts and procedural history of Shareef Cousin's criminal case.
 
@@ -667,19 +654,19 @@ Several days after the completion of the guilt phase of the trial but before the
 
 Following this court's decision in _Cousin_, the Orleans Parish District Attorney's Office elected not to retry Mr. Cousin for the murder of Michael Gerardi.
 
-#### Disciplinary Proceedings
+<span class="larger-bold">Disciplinary Proceedings<\span>
 
-##### Disciplinary Complaint
+<span class="larger-italic">Disciplinary Complaint<\span>
 
 In May 1998, Mr. Cousin and his sister, Tonya Cropper, filed a complaint against respondent with the ODC, alleging, among other things, that respondent wrongfully suppressed _Brady_ evidence by failing to disclose Ms. Babin's second statement. In his July 1998 response to the complaint, respondent asserted his belief that the witness's statement at issue was more inculpatory than exculpatory, and his determination that disclosure of the statement was not required by _Brady_. Respondent reiterated this assertion in his sworn statement taken by the ODC on June 16, 1999.
 
 Following its investigation, the ODC dismissed the complaint against respondent. Ms. Cropper appealed the dismissal, but the hearing committee found that the ODC did not abuse its discretion in dismissing the complaint. Subsequently, the disciplinary board remanded the matter to the ODC with instructions to file formal charges against respondent.
 
-##### Formal Hearing
+<span class="larger-italic">Formal Hearing<\span>
 
 The hearing committee conducted a formal hearing on the charges. ODC called several witnesses in its case in chief, including respondent, Shareef Cousin's defense attorney, and the complainant, Tonya Cropper. Respondent presented character testimony from several members of the bench and bar.
 
-##### Hearing Committee Recommendation
+<span class="larger-italic">Hearing Committee Recommendation<\span>
 
 In a split decision, the chair and the public member of the committee found that the ODC did not prove a violation of Rules 3.8(d) and 8.4(a) as charged, and recommended that the formal charges against respondent be dismissed. In a nineteen page report, the majority found respondent's testimony credible regarding the nature of the _Brady_ material. The committee acknowledged that respondent was in possession of the statement yet failed to disclose the second statement to the defense. However, the committee found no violation of Rule 3.8, as the committee determined that respondent reasonably believed that Ms. Babin's statement was inculpatory rather than exculpatory. The committee concluded that the defense was aware of the second statement and that it did not believe that the prosecution had an obligation "to help out the defense" by providing the statement. Based on these factual determinations, the majority of the committee concluded that respondent did not violate the Rules of Professional Conduct.
 
@@ -687,7 +674,7 @@ The lawyer member of the committee dissented, noting her objection to the majori
 
 The ODC filed an objection to the hearing committee's report and recommendation.
 
-##### Ruling of the Disciplinary Board
+<span class="larger-italic">Ruling of the Disciplinary Board<\span>
 
 The disciplinary board determined that respondent technically violated the Rules of Professional Conduct, but found that no discipline was appropriate and dismissed the formal charges against respondent. While the board adopted the hearing committee's factual findings, it rejected the committee's legal conclusions and application of the Rules of Professional Conduct. The board determined that the committee erred in its finding that respondent did not violate either _Brady_ or Rule 3.8(d) when he failed to produce Ms. Babin's second statement. The board concluded that respondent was ethically bound to voluntarily disclose Statement 2, which tended to negate the guilt of the accused by calling into question Ms. Babin's positive identification of Cousin as the perpetrator of the crime. By failing to do so, respondent violated Rule 3.8(d).
 
@@ -699,7 +686,7 @@ Based on this reasoning, the formal charges against respondent were dismissed.
 
 The ODC sought review of the board's ruling in this Court. We ordered the parties to submit briefs addressing the issue of whether the record supports the disciplinary board's report. After reviewing the briefs filed by both parties, we docketed the matter for oral argument.
 
-#### Discussion
+<span class="larger-bold">Discussion<\span>
 
 In our system of justice, we entrust vast discretion to a prosecutor. Because a prosecutor is given such great power and discretion, he is also charged with a high ethical standard. A prosecutor stands as the representative of the people of the State of Louisiana. He is entrusted with upholding the integrity of the criminal justice system by ensuring that justice is served for both the victims of crimes and the accused. "Society wins not only when the guilty are convicted but when criminal trials are fair; our system of the administration of justice suffers when any accused is treated unfairly." The actions, or inactions in this case, of the prosecutor are paramount to a fair administration of justice; and the people of this state must have confidence in a prosecutor's integrity in performing his duty to disclose exculpatory evidence in order for the system to be just. Any intentional deviation from the principle of the fair administration of justice will be dealt with harshly by this Court.
 
@@ -717,7 +704,7 @@ Exculpatory evidence includes evidence which impeaches the testimony of a witnes
 
 Accordingly, we agree with the factual findings of the disciplinary board that respondent violated Rule 3.8(d) by failing to disclose the second statement of Ms. Babin to the defendant.
 
-#### Sanctions
+<span class="larger-bold">Sanctions<\span>
 
 In considering the issue of sanctions, we are mindful that disciplinary proceedings are designed to maintain high standards of conduct, protect the public, preserve the integrity of the profession, and deter future misconduct. The discipline to be imposed depends upon the facts of each case and the seriousness of the offenses involved, considered in light of any aggravating and mitigating circumstances. Thus, we must consider the facts as they are presented herein in deciding the type of discipline to impose on respondent.
 
@@ -739,7 +726,7 @@ As to the issue of aggravating and mitigating factors, we find the only aggravat
 
 As stated above, the issue of discipline against a prosecutor for his violation of Rule 3.8 is _res nova_ in the State of Louisiana. While this Court has the benefit of Rule XIX considerations, we have no prior case law on the issue. However, Louisiana is not the first jurisdiction to address the issue of a prosecutor's failure to disclose evidence to a defendant. Our brethren in North Carolina, Kansas, South Carolina, Ohio and Iowa have imposed discipline against an attorney who fails to disclose evidence pursuant to Brady. Thus, we find some guidance in their decisions. The sanctions imposed in other jurisdictions range from public reprimand or censure to a six-month suspension from the practice of law. Based upon the facts of this case, we conclude the appropriate baseline sanction for respondent's misconduct is a three-month suspension from the practice of law. However, in light of the mitigating factors, we will defer this suspension in its entirety, subject to the condition that any misconduct during a one-year period following the finality of this judgment may be grounds for making the deferred suspension executory, or imposing additional discipline, as appropriate.
 
-#### JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.
+<span class="larger-bold">JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.<\span>
 
 I concur in the majority's opinion that respondent knowingly withheld _Brady_ evidence, that respondent's experience as a prosecutor was an aggravating factor, that the Court's actions in reversing defendant's conviction failed to invalidate the potential injury to the criminal justice system, or to defendant, and that respondent's behavior warrants discipline by this Court. However, because of the actual injury caused by respondent's prosecutorial misconduct, I dissent from the majority's conclusion that respondent's suspension should be deferred.
 
@@ -755,13 +742,13 @@ In 1976, the United States Supreme Court held that individual prosecutors have a
 
 In determining whether respondent caused an actual injury pursuant to Louisiana's Supreme Court Rule XIX, § 10(c), our focus should be on the unnecessary and unlawful suffering of the wrongfully convicted as a result of the prosecutorial misconduct, not just the reversal of the wrongfully imposed sentence. Because, in my view, loss of a liberty interest is more valuable than financial loss or injury to one's credit, I would impose an actual period of suspension.
 
-### Hillman v. Nueces County, 579 S.W.3d 354 (Tex. 2019)
+#### Hillman v. Nueces County, 579 S.W.3d 354 (Tex. 2019)
 
-#### JEFFREY S. BOYD, Justice.
+<span class="larger-bold">JEFFREY S. BOYD, Justice.<\span>
 
 A former assistant district attorney filed this suit alleging that the county wrongfully terminated his employment because he refused his supervisor's order to withhold exculpatory evidence from a criminal defendant. The trial court dismissed the suit for lack of jurisdiction, and the court of appeals affirmed. Because we agree with those courts that governmental immunity bars the suit, we also affirm.
 
-#### I. Background
+<span class="larger-bold">I. Background<\span>
 
 Eric Hillman served as an assistant district attorney in Nueces County for two years. While preparing to prosecute a defendant charged with intoxicated assault and leaving the scene of an accident, Hillman discovered and interviewed a witness who said she was with the defendant the night of the incident and he was not intoxicated. Because the police report did not identify this witness, Hillman told his supervisor that he needed to disclose the witness to the defendant's attorney. The supervisor disagreed and instructed Hillman not to disclose the witness. Believing that he was legally required to disclose the witness, Hillman called the State Bar Ethics Hotline and the Texas Center for Legal Ethics for advice. Both told him he should disclose the information.
 
@@ -769,13 +756,13 @@ Three days before the defendant's trial, the victim confirmed to Hillman that th
 
 Hillman sued the County, the District Attorney's Office, and then-District Attorney Mark Skurka, in his official capacity, seeking actual damages for lost wages and benefits, mental anguish, pain and suffering, and loss of earning capacity, and exemplary damages. The County moved to dismiss on the ground that governmental immunity bars Hillman's claims. The trial court agreed and dismissed the case, and the court of appeals affirmed.
 
-#### II. Governmental Immunity
+<span class="larger-bold">II. Governmental Immunity<\span>
 
 Sovereign immunity—usually called governmental immunity when referring to political subdivisions—protects governmental entities against suits and legal liabilities. The County pleaded immunity from both suit and liability in this case, but only immunity from suit implicates the courts' jurisdiction. Because the trial court dismissed this case for lack of jurisdiction, we focus here solely on governmental immunity from suit. Because Hillman filed suit seeking money damages against a county and its department and official, governmental immunity bars this suit unless immunity has been waived.
 
 Like every court of appeals that has addressed the issue, the court of appeals concluded here that governmental immunity applies to Hillman's wrongful-termination claim and has not been waived. Presenting three alternative grounds for reversal, Hillman argues that (1) this Court abrogated or waived the County's immunity from this type of suit in _Sabine Pilot Service, Inc. v. Hauck_, in which we recognized a cause of action for wrongful termination of an at-will employee for refusal to perform an illegal act, (2) the Texas legislature waived the County's immunity through the Michael Morton Act, or (3) we should abrogate or waive the County's immunity from such suits today. Although Hillman and his supporting amici bolster these grounds with serious and important policy concerns, we ultimately find the grounds themselves unconvincing.
 
-##### A. Sabine Pilot
+<span class="larger-italic">A. Sabine Pilot<\span>
 
 Texas—"steadfastly an at-will employment state"—generally permits both employers and employees to terminate their relationship at any time for any reason unless they contractually agree otherwise. The law recognizes, however, a number of exceptions to this rule. One "very narrow exception to the employment-at-will doctrine," which we adopted in _Sabine Pilot_, prohibits employers from terminating at-will employees "for the sole reason that the employee refused to perform an illegal act." An employer who terminates an employee solely for that reason is liable to the employee for all resulting "reasonable tort damages, including punitive damages."
 
@@ -787,7 +774,7 @@ Governmental immunity protects all governmental entities against suits and liabi
 
 Instead of creating or imposing duties, the statutes waive the immunity that would otherwise protect the government, removing the barrier that precludes suits or liability for breach of those preexisting common-law duties. So although we can say that the common-law-tort duty we recognized in _Sabine Pilot_ applies to all Texas employers, Hillman still cannot pursue this suit for the County's alleged breach of that duty unless the legislature has waived the County's governmental immunity. Because _Sabine Pilot_ did not involve a governmental defendant and did not address governmental immunity or its waiver, it does not support Hillman's argument that the trial court had jurisdiction over his claim.
 
-##### B. The Michael Morton Act
+<span class="larger-italic">B. The Michael Morton Act<\span>
 
 More than fifty-five years ago, the United States Supreme Court held that the Constitution's due-process clause prohibits criminal prosecutors from suppressing material evidence that is "favorable to an accused." Just over five years ago, the Texas legislature statutorily addressed "Brady violations" by passing the Michael Morton Act. The Michael Morton Act expressly requires prosecutors to
 
@@ -817,7 +804,7 @@ Of course, the legislature could always do more to ensure that prosecutors discl
 
 Nothing in the Michael Morton Act indicates a legislative intent to waive governmental immunity from a wrongful-termination suit under _Sabine Pilot_. No explicit language or even ambiguous language indicates such an intent. We hold that the Michael Morton Act does not waive the County's governmental immunity from this suit.
 
-##### C. Judicial Abrogation of Immunity
+<span class="larger-italic">C. Judicial Abrogation of Immunity<\span>
 
 Alternatively, Hillman urges us to abolish the "ancient and antiquated" doctrine of governmental immunity altogether, or at least modify it to allow for _Sabine Pilot_ claims against governmental entities. He notes that sovereign immunity developed and exists as a common-law doctrine, and "it remains the judiciary's responsibility to define the boundaries of the common-law doctrine and to determine under what circumstances sovereign immunity exists in the first instance." But in fulfilling that responsibility, we must respect both our precedent and our limitations under the constitutional separation of powers.
 
@@ -829,11 +816,11 @@ We in no way discount the serious policy concerns that Hillman, his supporting a
 
 As we have repeatedly confirmed, "it is the Legislature's sole province to waive or abrogate sovereign immunity." That the legislature has recently revised the Michael Morton Act to strengthen its protections illustrates its continuing awareness of the Act and its importance, as well as its willingness to take steps to improve it. Whether waiving immunity from _Sabine Pilot_ claims should be the next step in that process is up to the legislature, and we must defer to it to "protect its policymaking function."
 
-#### III. Conclusion
+<span class="larger-bold">III. Conclusion<\span>
 
 "Sovereign immunity from suit defeats a trial court's subject matter jurisdiction." When, as here, a claim falls within the realm of governmental immunity, courts have no jurisdiction to hear the case unless immunity has been waived. We hold that neither _Sabine Pilot_ nor the Michael Morton Act waives the County's governmental immunity from Hillman's wrongful-termination claim, and we defer to the legislature to decide whether such a waiver would be appropriate as a matter of public policy. We affirm the trial court's judgment granting the County's plea to the jurisdiction and dismissing the case.
 
-#### Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.
+<span class="larger-bold">Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.<\span>
 
 > _No tyranny is more cruel than the one practiced in the shadow of the laws and under color of justice._[^4852]
 
@@ -851,7 +838,7 @@ The tragic story of Michael Morton and Debra Baker compelled the Legislature to 
 
 As this case sadly demonstrates, however, unacceptable gaps remain. When one good man refuses to stay silent, refuses to "just follow orders," and refuses to do the wrong thing under the misguided belief that it's for the greater good, he should not lose his job. While Hillman might have had a viable _ultra vires_ claim, had he chosen to pursue one, the limited remedies available under that theory are manifestly inadequate to ensure accountability in matters of the highest constitutional dimension. The law must—but currently does not—afford a remedy that advances the Legislature's calculated efforts to secure our constitutional guarantees.
 
-#### I
+<span class="larger-bold">I<\span>
 
 > _Injustice anywhere is a threat to justice everywhere._[^4677]
 
@@ -867,7 +854,7 @@ Hillman sued the County, District Attorney Skurka, and the District Attorney's O
 
 I concur in today's judgment and join in much of the Court's reasoning. The gravamen of this case is governmental immunity: whether the County is immune from a wrongful-termination suit alleging a prosecutor was fired because he insisted on doing what the law requires. Under our immunity jurisprudence, this case is fairly straightforward, and the Court's analysis is sound. First, we did not abrogate governmental immunity in _Sabine Pilot_. The employer in that case was not a governmental entity, so the issue of governmental immunity was not before us and cannot be inferred _sub silentio_. Second, immunity has not been waived. We defer to the Legislature to waive immunity, and I agree with the Court that the Morton Act contains no such waiver because no "clear and unambiguous language" expresses that intent. Third, we should not abrogate immunity here. Although we have the power to abrogate immunity, we have rarely done so, and even then we limited it to offset claims rather than allowing unlimited recovery of monetary damages. Sanctioning the recovery of monetary damages—without any legislatively considered limitations like those in the Texas Tort Claims Act—would have significant public-fisc implications that raise separation-of-powers concerns. Finally, though Hillman arguably has a viable _ultra vires_ claim, he has disclaimed any intent to assert one. Accordingly, I agree with the Court that the County is immune from suit in this case and that remand is not appropriate. I write separately, however, to highlight a lacuna in the legislative scheme that neuters the Legislature's efforts to forestall prosecutorial misconduct that could lead to wrongful convictions.
 
-#### II
+<span class="larger-bold">II<\span>
 
 > _If impunity is not demolished, all efforts to bring an end to corruption are in vain._[^b22e]
 

@@ -45,9 +45,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <div class="chapter">
 
-<p class="chapter-number">Chapter 1</p>
-<p class="chapter-name">Law as a Regulated Profession</p>
-
 {% include_relative chap1.md %}
 
 </div>
@@ -55,9 +52,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <!-- CHAPTER 2 -->
 <div class="chapter">
-
-<p class="chapter-number">Chapter 2</p>
-<p class="chapter-name">Advertising & Solicitation</p>
 
 {% include_relative chap2.md %}
 
@@ -67,9 +61,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 3 -->
 <div class="chapter">
 
-<p class="chapter-number">Chapter 3</p>
-<p class="chapter-name">The Attorney-Client Relationship</p>
-
 {% include_relative chap3.md %}
 
 </div>
@@ -77,9 +68,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <!-- CHAPTER 4 -->
 <div class="chapter">
-
-<p class="chapter-number">Chapter 4</p>
-<p class="chapter-name">The Duty of Care</p>
 
 {% include_relative chap4.md %}
 
@@ -89,9 +77,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 5 -->
 <div class="chapter">
 
-<p class="chapter-number">Chapter 5</p>
-<p class="chapter-name">Confidentiality & Privileges</p>
-
 {% include_relative chap5.md %}
 
 </div>
@@ -99,9 +84,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <!-- CHAPTER 6 -->
 <div class="chapter">
-
-<p class="chapter-number">Chapter 6</p>
-<p class="chapter-name">Conflicts of Interest</p>
 
 {% include_relative chap6.md %}
 
@@ -111,9 +93,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 7 -->
 <div class="chapter">
 
-<p class="chapter-number">Chapter 7</p>
-<p class="chapter-name">Duties in Litigation</p>
-
 {% include_relative chap7.md %}
 
 </div>
@@ -121,9 +100,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <!-- CHAPTER 8 -->
 <div class="chapter">
-
-<p class="chapter-number">Chapter 8</p>
-<p class="chapter-name">Interactions with Non-Clients</p>
 
 {% include_relative chap8.md %}
 
