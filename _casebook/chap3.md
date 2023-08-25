@@ -12,7 +12,7 @@ title: The Attorney-Client Relationship
 
 #### Rest. (2d) of the Law Governing Lawyers § 14
 
-<span class="larger-bold">Formation of a Client-Lawyer Relationship</span>
+<p class="larger-bold">Formation of a Client-Lawyer Relationship</p>
 
 A relationship of client and lawyer arises when:
 
@@ -30,7 +30,7 @@ A relationship of client and lawyer arises when:
 
 #### Model Rules of Professional Conduct, Rule 6.2 
 
-<span class="larger-bold">Accepting Appointments</span>
+<p class="larger-bold">Accepting Appointments</p>
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
@@ -125,7 +125,7 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 #### Ferranti Intern. PLC v. Clark, 767 F. Supp. 670 (E.D. Pa. 1991)
 
-<span class="larger-bold">Ludwig, District Judge</span>
+<p class="larger-bold">Ludwig, District Judge</p>
 
 Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 
@@ -153,7 +153,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 #### Model Rules of Professional Conduct, Rule 1.18 
 
-<span class="larger-bold">Duties to Prospective Client</span>
+<p class="larger-bold">Duties to Prospective Client</p>
 
 (a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 
@@ -175,11 +175,11 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 #### Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co., 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
-<span class="larger-bold">Anita Brody, District Judge</span>
+<p class="larger-bold">Anita Brody, District Judge</p>
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
-<span class="larger-bold">I. Factual Background</span>
+<p class="larger-bold">I. Factual Background</p>
 
 On April 14, 2000, Clark Capital filed a complaint against Annuity alleging trademark infringement. Attorneys with the firm of Woodcock Washburn Kurtz Mackiewicz & Norris LLP have represented Clark Capital from day one of this case. In the fall of 2000, Annuity retained Donald E. Frechette with the firm of Edwards & Angell LLP.
 
@@ -201,7 +201,7 @@ Frechette's second affidavit was submitted in response to Biemer's affidavit. In
 
 Annuity never retained Dilworth. On June 11, 2001, Friedman, a Dilworth attorney, entered an appearance on behalf of Clark Capital.
 
-<span class="larger-bold">II. Discussion</span>
+<p class="larger-bold">II. Discussion</p>
 
 Annuity asserts that these several telephone conversations between Frechette and Biemer rose to the level of an attorney-client relationship between Annuity and Biemer, such that Friedman is in violation of the Rules of Professional Conduct. This District has adopted the Pennsylvania Rules of Professional Conduct. These Rules provide that:
 
@@ -239,7 +239,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 #### Model Rules of Professional Conduct, Rule 1.16 
 
-<span class="larger-bold">Declining or Terminating Representation</span>
+<p class="larger-bold">Declining or Terminating Representation</p>
 
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
@@ -275,7 +275,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 #### Rest. (2d) of the Law Governing Lawyers § 31
 
-<span class="larger-bold">Termination of a Lawyer's Authority</span>
+<p class="larger-bold">Termination of a Lawyer's Authority</p>
 
 (1) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with an order of a tribunal requiring the representation to continue.
 
@@ -299,7 +299,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 #### Rest. (2d) of the Law Governing Lawyers § 32
 
-<span class="larger-bold">Discharge by a Client and Withdrawal by a Lawyer</span>
+<p class="larger-bold">Discharge by a Client and Withdrawal by a Lawyer</p>
 
 (1) Subject to Subsection (5), a client may discharge a lawyer at any time.
 
@@ -341,7 +341,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 #### Rest. (2d) of the Law Governing Lawyers § 33
 
-<span class="larger-bold">A Lawyer's Duties When a Representation Terminates</span>
+<p class="larger-bold">A Lawyer's Duties When a Representation Terminates</p>
 
 (1) In terminating a representation, a lawyer must take steps to the extent reasonably practicable to protect the client's interests, such as giving notice to the client of the termination, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled, and refunding any advance payment of fee the lawyer has not earned.
 
@@ -359,7 +359,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 #### Demov, Morris, Levine & Shein v. Glantz, 53 N.Y.2d 553 (N.Y. 1981)
 
-<span class="larger-bold">Wachtler, J.</span>
+<p class="larger-bold">Wachtler, J.</p>
 
 The question on this appeal is whether an attorney may recover upon a cause of action against a former client for fraudulently inducing the attorney to enter into a retainer agreement. The Appellate Division held the cause of action is insufficient as a matter of law and we agree.
 
@@ -444,7 +444,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 #### Model Rules of Professional Conduct, Rule 1.13 
 
-<span class="larger-bold">Organization as Client</span>
+<p class="larger-bold">Organization as Client</p>
 
 (a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
@@ -470,7 +470,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 #### Rest. (2d) of the Law Governing Lawyers § 96
 
-<span class="larger-bold">Representing an Organization as Client</span>
+<p class="larger-bold">Representing an Organization as Client</p>
 
 (1) When a lawyer is employed or retained to represent an organization:
 
@@ -488,7 +488,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 #### Rest. (2d) of the Law Governing Lawyers § 97
 
-<span class="larger-bold">Representing a Governmental Client</span>
+<p class="larger-bold">Representing a Governmental Client</p>
 
 A lawyer representing a governmental client must proceed in the representation as stated in § 96, except that the lawyer:
 
@@ -523,7 +523,7 @@ This court concurs with the findings of the disciplinary board that Silva exerci
 
 #### Brennan v. Ruffner, 640 So.2d 143 (Fla. 1994)
 
-<span class="larger-bold">Pariente, J.</span>
+<p class="larger-bold">Pariente, J.</p>
 
 We affirm a final summary judgment entered in favor of a lawyer and against a disgruntled minority shareholder of a closely held corporation. We find that an attorney/client relationship did not exist between the individual shareholder and the attorney representing the corporation. Consequently, there is no basis for a legal malpractice action. We further reject the other theories of liability asserted by appellant.
 
@@ -544,11 +544,11 @@ Finally, even assuming arguendo that a duty existed based on an attorney/client 
 
 #### In re Grand Jury Subpoena: Under Seal, 415 F.3d 334 (4th Cir. 2005)
 
-<span class="larger-bold">Wilson, District Judge (sitting by designation)</span>
+<p class="larger-bold">Wilson, District Judge (sitting by designation)</p>
 
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court argued that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
-<span class="larger-bold">I.</span>
+<p class="larger-bold">I.</p>
 
 In March of 2001, AOL began an internal investigation into its relationship with PurchasePro, Inc. AOL retained the law firm of Wilmer, Cutler & Pickering to assist in the investigation. Over the next several months, AOL's general counsel and counsel from Wilmer Cutler interviewed appellants, AOL employees Kent Wakeford, John Doe 1, and John Doe 2.
 
@@ -570,7 +570,7 @@ The district court denied John Doe 1's and John Doe 2's motions because it found
 
 The court initially granted Wakeford's motion to quash because it found that his communications with the investigating attorneys were privileged under the common interest agreement between counsel for Wakeford and counsel for AOL. Following a motion for reconsideration, the court reversed its earlier ruling and held that the subpoenaed documents relating to Wakeford's interviews were not privileged because it found that Wakeford's common interest agreement with AOL postdated the March-June 2001 interviews. In addition, the court held that Wakeford failed to prove that he was a client of the investigating attorneys at the time the interviews took place. The court based its conclusion on its findings that: (1) none of the investigating attorneys understood that Wakeford was seeking personal legal advice; (2) the investigating attorneys did not provide any personal legal advice to him; and (3) the investigating attorneys believed they represented AOL and not Wakeford. This appeal followed.
 
-<span class="larger-bold">II.</span>
+<p class="larger-bold">II.</p>
 
 Appellants argue that because they believed that the investigating attorneys who conducted the interviews were representing them personally, their communications are privileged. However, we agree with the district court that essential touchstones for the formation of an attorney-client relationship between the investigating attorneys and the appellants were missing at the time of the interviews. There is no evidence of an objectively reasonable, mutual understanding that the appellants were seeking legal advice from the investigating attorneys or that the investigating attorneys were rendering personal legal advice. Nor, in light of the investigating attorneys' disclosure that they represented AOL and that the privilege and the right to waive it were AOL's alone, do we find investigating counsel's hypothetical pronouncement that they could represent appellants sufficient to establish the reasonable understanding that they were representing appellants. Accordingly, we find no fault with the district court's opinion that no individual attorney-client privilege attached to the appellants' communications with AOL's attorneys.
 
@@ -587,13 +587,13 @@ We note, however, that our opinion should not be read as an implicit acceptance 
 
 #### U.S. v. Stein, 463 F. Supp.2d 459 (S.D.N.Y. 2006)
 
-<span class="larger-bold">Kaplan, District Judge</span>
+<p class="larger-bold">Kaplan, District Judge</p>
 
 Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest accounting firms. She was questioned in the course of an IRS investigation by attorneys hired by KPMG. When that investigation gave way to a threatened indictment of KPMG, the firm, in an effort to curry favor with prosecutors and avoid prosecution, waived its attorney-client privilege and gave the government documents embodying the substance of the attorneys' communications with Ms. Warley. Warley contends that the attorneys were representing her as well as KPMG, that her attorney-client privilege was compromised by the actions of the government and KPMG, and that the evidence should be suppressed. She thus raises a troublesome question that arises whenever an employee of a business organization consults with counsel retained by the entity about matters involving both the employee and the entity---when does the lawyer represent the employee as well as the entity?
 
 This problem could be avoided if counsel in these situations routinely made clear to employees that they represent the employer alone and that the employee has no attorney-client privilege with respect to his or her communications with employer-retained counsel. Indeed, the Second Circuit advised that they do so years before the communications here in question. But there is no evidence that the attorneys who spoke to Ms. Warley followed that course.
 
-<span class="larger-bold">Facts</span>
+<p class="larger-bold">Facts</p>
 
 Ms. Warley was a partner of KPMG at all relevant times. In 2003, the IRS was investigating KPMG's tax shelter activities, including some in which clients of Warley had participated. In the course of the investigation, Warley communicated with KPMG's in-house counsel and with two law firms retained by KPMG, Kronish Lieb Weiner & Hellman LLP and King & Spalding LLP. Warley does not recall having been told that the attorneys represented only KPMG or that any privilege belonged solely to the firm and could be waived by the firm without her consent.
 
@@ -605,9 +605,9 @@ The second allegedly privileged communication is an email exchange in January an
 
 Both parties point to the substance of the communications to support their respective claims that privilege did or did not attach. Warley further relies upon KPMG's 2003 partnership agreement, which provided that "the General Counsel shall act on behalf of all Members, except where a dispute arises between an individual Member and the Firm." Finally, Warley alleges that counsel retained by KPMG jointly represented KPMG and her personally in two lawsuits prior to the events at issue here.
 
-<span class="larger-bold">Discussion</span>
+<p class="larger-bold">Discussion</p>
 
-<span class="larger-italic">A. Scope of Privilege</span>
+<p class="larger-italic">A. Scope of Privilege</p>
 
 The question whether employee communications with counsel retained by the employer about matters relating to the employment are privileged vis-a-vis the employee---in other words, whether the employee has a personal attorney-client privilege that only the employee may waive---is troublesome because competing interests are at play.
 
@@ -631,7 +631,7 @@ The First Circuit adopted the Tenth Circuit's interpretation and discussed its a
 
 The Tenth and First Circuits thus have argued persuasively that communications implicating personal liability for acts within the scope of an individual's employment may be protected by individual attorney-client privilege, at least in some circumstances. It is an open question whether such communications involve "personal matters" within the meaning of Teamsters. But it is unnecessary to resolve that issue here. As discussed below, and particularly in light of the fact that the burden of proof lies with the party asserting privilege, Warley fails to meet any standard.
 
-<span class="larger-italic">B. Warley's Claims</span>
+<p class="larger-italic">B. Warley's Claims</p>
 
 To begin with, there is no evidence that Warley was deceived by KPMG or its attorneys about the nature of her relationship with counsel. Although she claims to have "understood that counsel were representing her personally as a partner in the firm," her subjective belief alone does not support a conclusion that KPMG's acts were responsible for that belief. Accordingly, the analysis of her claims rests on whether the communications involved "personal matters."
 
@@ -645,7 +645,7 @@ To begin with, the occasions on which Warley and KPMG were jointly represented o
 
 Nor has Warley offered any evidence that she in fact subjectively relied either upon the language in the partnership agreement or the previous litigation experience in concluding that Kronish, King & Spalding, or Gremminger was representing her individually.
 
-<span class="larger-bold">Conclusion</span>
+<p class="larger-bold">Conclusion</p>
 
 In the end, Warley's showings amount merely to a claim of her subjective belief which, without more, is insufficient to meet her burden of proving privilege. For the foregoing reasons, Warley's motion for relief from the government's alleged violation of her attorney-client privilege is denied.
 
@@ -657,7 +657,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 #### Model Rules of Professional Conduct, Rule 1.2 
 
-<span class="larger-bold">Scope of Representation & Allocation of Authority Between Client & Lawyer</span>
+<p class="larger-bold">Scope of Representation & Allocation of Authority Between Client & Lawyer</p>
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
 
@@ -673,7 +673,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 #### Model Rules of Professional Conduct, Rule 1.8 
 
-<span class="larger-bold">Current Clients: Specific Rules</span>
+<p class="larger-bold">Current Clients: Specific Rules</p>
 
 (g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
@@ -683,7 +683,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 #### Rest. (2d) of the Law Governing Lawyers § 21
 
-<span class="larger-bold">Allocating the Authority to Decide Between a Client and a Lawyer</span>
+<p class="larger-bold">Allocating the Authority to Decide Between a Client and a Lawyer</p>
 
 As between client and lawyer:
 
@@ -701,7 +701,7 @@ As between client and lawyer:
 
 #### Rest. (2d) of the Law Governing Lawyers § 22
 
-<span class="larger-bold">Authority Reserved to a Client</span>
+<p class="larger-bold">Authority Reserved to a Client</p>
 
 (1) As between client and lawyer, subject to Subsection (2) and § 23, the following and comparable decisions are reserved to the client except when the client has validly authorized the lawyer to make the particular decision: whether and on what terms to settle a claim; how a criminal defendant should plead; whether a criminal defendant should waive jury trial; whether a criminal defendant should testify; and whether to appeal in a civil proceeding or criminal prosecution.
 
@@ -715,7 +715,7 @@ As between client and lawyer:
 
 #### Rest. (2d) of the Law Governing Lawyers § 23
 
-<span class="larger-bold">Authority Reserved to a Lawyer</span>
+<p class="larger-bold">Authority Reserved to a Lawyer</p>
 
 As between client and lawyer, a lawyer retains authority that may not be overridden by a contract with or an instruction from the client:
 
@@ -729,7 +729,7 @@ As between client and lawyer, a lawyer retains authority that may not be overrid
 
 #### Rest. (2d) of the Law Governing Lawyers § 25
 
-<span class="larger-bold">Appearance Before a Tribunal</span>
+<p class="larger-bold">Appearance Before a Tribunal</p>
 
 A lawyer who enters an appearance before a tribunal on behalf of a person is presumed to represent that person as a client. The presumption may be rebutted.
 
@@ -739,7 +739,7 @@ A lawyer who enters an appearance before a tribunal on behalf of a person is pre
 
 #### Rest. (2d) of the Law Governing Lawyers § 26
 
-<span class="larger-bold">A Lawyer's Actual Authority</span>
+<p class="larger-bold">A Lawyer's Actual Authority</p>
 
 A lawyer's act is considered to be that of a client in proceedings before a tribunal or in dealings with third persons when:
 
@@ -755,7 +755,7 @@ A lawyer's act is considered to be that of a client in proceedings before a trib
 
 #### Rest. (2d) of the Law Governing Lawyers § 27
 
-<span class="larger-bold">A Lawyer's Apparent Authority</span>
+<p class="larger-bold">A Lawyer's Apparent Authority</p>
 
 A lawyer's act is considered to be that of the client in proceedings before a tribunal or in dealings with a third person if the tribunal or third person reasonably assumes that the lawyer is authorized to do the act on the basis of the client's (and not the lawyer's) manifestations of such authorization.
 
@@ -763,7 +763,7 @@ A lawyer's act is considered to be that of the client in proceedings before a tr
 
 #### Makins v. District of Columbia, 861 A.2d 590 (D.C. 2004)
 
-<span class="larger-bold">Nebeker, Senior Judge</span>
+<p class="larger-bold">Nebeker, Senior Judge</p>
 
 The United States Court of Appeals for the District of Columbia Circuit has certified the following question to this court:
 
@@ -806,7 +806,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Model Rules of Professional Conduct, Rule 1.14 
 
-<span class="larger-bold">Clients with Diminished Capacity </span>
+<p class="larger-bold">Clients with Diminished Capacity </p>
 
 (a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 
@@ -820,7 +820,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Rest. (2d) of the Law Governing Lawyers § 24
 
-<span class="larger-bold">A Client with Diminished Capacity</span>
+<p class="larger-bold">A Client with Diminished Capacity</p>
 
 (1) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
 
@@ -842,7 +842,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Model Rules of Professional Conduct, Rule 1.5 
 
-<span class="larger-bold">Fees</span>
+<p class="larger-bold">Fees</p>
 
 (a) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 
@@ -886,7 +886,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Model Rules of Professional Conduct, Rule 1.8 
 
-<span class="larger-bold">Current Clients: Specific Rules</span>
+<p class="larger-bold">Current Clients: Specific Rules</p>
 
 (f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
@@ -900,11 +900,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 #### Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
 
-<span class="larger-bold">Bellicosa, J.</span>
+<p class="larger-bold">Bellicosa, J.</p>
 
 The issue in this appeal is whether the appellant attorney violated the Code of Professional Responsibility by repeatedly using special nonrefundable retainer fee agreements with his clients. Essentially, such arrangements are marked by the payment of a nonrefundable fee for specific services, in advance and irrespective of whether any professional services are actually rendered. The local Grievance Committee twice warned the lawyer that he should not use these agreements. After a third complaint and completion of prescribed grievance proceedings, the Appellate Division suspended the lawyer from practice for two years. It held that the particular agreements were per se violative of public policy. We affirm the order of the Appellate Division.
 
-<span class="larger-bold">I.</span>
+<p class="larger-bold">I.</p>
 
 In 1990, the petitioner, Grievance Committee for the Tenth Judicial District, initiated a disciplinary proceeding charging attorney Cooperman with 15 specifications of professional misconduct. They relate to his use of three special nonrefundable retainer fee agreements.
 
@@ -918,7 +918,7 @@ Cooperman's persistent refusals to refund any portion of the fees sparked at lea
 
 After an extensive hearing, the Referee made findings supporting violations on all 15 charges. On appropriate motion, the Appellate Division confirmed the Referee's report with respect to charges 2 through 5, 7 through 10, and 12 through 15. The Court disaffirmed the report as to charges 1, 6 and 11, which alleged that the retainer agreements constituted deceit and misrepresentation. In sustaining the remaining charges, the Court held that these retainer agreements were unethical and unconscionable and "violative of an attorney's obligations under the Code of Professional Responsibility to refund unearned fees upon his or her discharge." The Court also concluded that Cooperman's fees were excessive. The Court suspended him from the practice of law for a period of two years but did not order restitution.
 
-<span class="larger-bold">II.</span>
+<p class="larger-bold">II.</p>
 
 Whether special nonrefundable retainer fee agreements are against public policy is a question we left open in _Jacobson v. Sassower_, a fee dispute case. We agree with the Appellate Division in this disciplinary matter that special nonrefundable retainer fee agreements clash with public policy and transgress provisions of the Code of Professional Responsibility, essentially because these fee agreements compromise the client's absolute right to terminate the unique fiduciary attorney-client relationship.
 
@@ -957,7 +957,7 @@ The Court is also mindful of the arguments of some of the amici curiae concerned
 
 #### In the Matter of Fordham, 423 Mass. 481 (1996)
 
-<span class="larger-bold">O'Connor J.</span>
+<p class="larger-bold">O'Connor J.</p>
 
 On March 4, 1989, the Acton police department arrested Timothy, then twenty-one years old, and charged him with OUI, operating a motor vehicle after suspension, speeding, and operating an unregistered motor vehicle. At the time of the arrest, the police discovered a partially full quart of vodka in the vehicle. After failing a field sobriety test, Timothy was taken to the Acton police station where he submitted to two breathalyzer tests which registered .10 and .12 respectively.
 
@@ -1048,7 +1048,7 @@ In charging a clearly excessive fee, Fordham departed substantially from the obl
 
 Connie Daniel Cole seeks review of a judgment of the court of appeal affirming an award of attorney's fees to his former counsel. For the reasons that follow, we reverse the judgment of the court of appeal.
 
-<span class="larger-bold">Facts and Procedural History</span>
+<p class="larger-bold">Facts and Procedural History</p>
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
@@ -1066,7 +1066,7 @@ Judge Caraway dissented. He recognized that a contingent fee contract existed in
 
 Upon Mr. Cole's application, we granted certiorari to review the correctness of the court of appeal's ruling.
 
-<span class="larger-bold">Discussion</span>
+<p class="larger-bold">Discussion</p>
 
 As a threshold matter, we note the trial court made a finding of fact that a contingent fee contract existed between Mr. Cole and Mr. Culpepper. Based on our review of the record, we find no manifest error in this determination.
 
@@ -1086,7 +1086,7 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 #### Model Rules of Professional Conduct, Rule 1.15 
 
-<span class="larger-bold">Safekeeping property</span>
+<p class="larger-bold">Safekeeping property</p>
 
 (a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
 

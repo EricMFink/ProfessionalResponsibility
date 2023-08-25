@@ -12,7 +12,7 @@ title: Law as a Regulated Profession
 
 #### Model Rules of Professional Conduct, Preamble & Scope
 
-<span class="larger-bold">Preamble: A Lawyer's Responsibilities</span>
+<p class="larger-bold">Preamble: A Lawyer's Responsibilities</p>
 
 [1] A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system and a public citizen having special responsibility for the quality of justice.
 
@@ -40,7 +40,7 @@ title: Law as a Regulated Profession
 
 [13] Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
 
-<span class="larger-bold">Scope</span>
+<p class="larger-bold">Scope</p>
 
 [14] The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the Rules are imperatives, cast in the terms "shall" or "shall not." These define proper conduct for purposes of professional discipline. Others, generally cast in the term "may," are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary and partly constitutive and descriptive in that they define a lawyer's professional role. Many of the Comments use the term "should." Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
 
@@ -64,7 +64,7 @@ title: Law as a Regulated Profession
 
 #### Model Rules of Professional Conduct, Rule 1.0
 
-<span class="larger-bold">Terminology</span>
+<p class="larger-bold">Terminology</p>
 
 (a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
@@ -102,7 +102,7 @@ title: Law as a Regulated Profession
 
 #### Model Rules of Professional Conduct, Rule 8.2
 
-<span class="larger-bold">Judicial & Legal Officials</span>
+<p class="larger-bold">Judicial & Legal Officials</p>
 
 (a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 
@@ -114,7 +114,7 @@ title: Law as a Regulated Profession
 
 #### Model Rules of Professional Conduct, Rule 8.3
 
-<span class="larger-bold">Reporting Professional Misconduct</span>
+<p class="larger-bold">Reporting Professional Misconduct</p>
 
 (a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 
@@ -128,7 +128,7 @@ title: Law as a Regulated Profession
 
 #### Model Rules of Professional Conduct, Rule 8.4
 
-<span class="larger-bold">Misconduct</span>
+<p class="larger-bold">Misconduct</p>
 
 It is professional misconduct for a lawyer to:
 
@@ -152,7 +152,7 @@ It is professional misconduct for a lawyer to:
 
 #### Model Rules of Professional Conduct, Rule 8.5
 
-<span class="larger-bold">Disciplinary Authority; Choice of Law</span>
+<p class="larger-bold">Disciplinary Authority; Choice of Law</p>
 
 (a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
 
@@ -168,7 +168,7 @@ It is professional misconduct for a lawyer to:
 
 #### N.C. Gen. Stat. § 84-28
 
-<span class="larger-bold">Discipline and disbarment.</span>
+<p class="larger-bold">Discipline and disbarment.</p>
 
 (a) Any attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
 
@@ -216,7 +216,7 @@ The senior regular resident judge of the superior court of any district wherein 
 
 #### Neal v. Clinton, No. CIV 2000–5677 (Ark. Cir. Ct. Jan. 19, 2001)
 
-<span class="larger-bold">Agreed Order of Discipline</span>
+<p class="larger-bold">Agreed Order of Discipline</p>
 
 Come now the parties hereto and agree to the following Order of this Court in settlement of the pending action:
 
@@ -257,7 +257,7 @@ The Attorney Grievance Committee moves for an order immediately suspending respo
 
 For the reasons that follow, we conclude that there is uncontroverted evidence that respondent communicated demonstrably false and misleading statements to courts, lawmakers and the public at large in his capacity as lawyer for former President Donald J. Trump and the Trump campaign in connection with Trump's failed effort at reelection in 2020. These false statements were made to improperly bolster respondent's narrative that due to widespread voter fraud, victory in the 2020 United States presidential election was stolen from his client. We conclude that respondent's conduct immediately threatens the public interest and warrants interim suspension from the practice of law, pending further proceedings before the Attorney Grievance Committee (sometimes AGC or Committee).
 
-<span class="larger-bold">The Nature of this Proceeding</span>
+<p class="larger-bold">The Nature of this Proceeding</p>
 
 During the course of this ongoing investigation into numerous complaints of respondent's alleged professional misconduct, the AGC seeks respondent's immediate suspension from the practice law in the State of New York. Under certain circumstances, such serious interim relief is available, pending a full formal disciplinary proceeding. Interim suspension is available even where formal charges have not yet been filed.
 
@@ -267,7 +267,7 @@ Each Judicial Department of theAppellate Divisions of the New York Supreme Court
 
 In certain cases, the Committee may, during the pendency of its investigation, make a motion to the Court for an attorney's interim suspension. Interim suspension is a serious remedy, available only in situations where it is immediately necessary to protect the public from the respondent's violation of the Rules. At bar, the AGC is proceeding on the basis that there is uncontroverted evidence of professional misconduct. Importantly, when an attorney is suspended on an interim basis, he or she nonetheless has an opportunity for a post-suspension hearing.
 
-<span class="larger-bold">Uncontroverted Claims of Misconduct</span>
+<p class="larger-bold">Uncontroverted Claims of Misconduct</p>
 
 Only uncontroverted claims of professional misconduct may serve as a basis for interim suspension on this motion. In connection with its claim that uncontroverted attorney misconduct has occurred, the AGC relies upon the following provisions of the New York Rules of Professional Conduct: rule 3.3 which provides that: "(a) A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal." rule 4.1 which provides that: "In the course of representing a client, a lawyer shall not knowingly make a false statement of fact or law to a third person," and rule 8.4 "A lawyer or law firm shall not: (c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation, or (h) engage in any other conduct that adversely reflects on the lawyer's fitness as a lawyer."
 
@@ -275,7 +275,7 @@ Under the Rules of Professional Conduct, the prohibition against false statement
 
 In general, the AGC relies upon statements that respondent made following the 2020 election at press conferences, state legislative hearings, radio broadcasts (as both a guest and host), podcasts, television appearances and one court appearance. Respondent concedes that the statements attributed to him in this motion were all made in the context of his representation of Donald J. Trump and/or the Trump campaign.
 
-<span class="larger-bold">Preliminary Issues</span>
+<p class="larger-bold">Preliminary Issues</p>
 
 Respondent raises an overarching argument that the AGC's investigation into his conduct violates his First Amendment right of free speech. He does not attack the constitutionality of the particular disciplinary rules; he seemingly claims that they are unconstitutional as applied to him. We reject respondent's argument. This disciplinary proceeding concerns the professional restrictions imposed on respondent as an attorney to not knowingly misrepresent facts and make false statements in connection with his representation of a client. It is long recognized that "speech by an attorney is subject to greater regulation than speech by others". Unlike lay persons, an attorney is "a professional trained in the art of persuasion". As officers of the court, attorneys are "an intimate and trusted and essential part of the machinery of justice". In other words, they are perceived by the public to be in a position of knowledge, and therefore, "a crucial source of information and opinion". This weighty responsibility is reflected in the "ultimate purpose of disciplinary proceedings which is to protect the public in its reliance upon the integrity and responsibility of the legal profession". While there are limits on the extent to which a lawyer's right of free speech may be circumscribed, these limits are not implicated by the circumstances of the knowing misconduct that this Court relies upon in granting interim suspension in this case.
 
@@ -283,7 +283,7 @@ Respondent also raises lack or absence of knowledge as a general defense, statin
 
 On this motion, whenever the AGC has sustained its burden of proving that respondent made knowing false and misleading factual statements to support his claim that the presidential election was stolen from his client, respondent must then demonstrate that there is some legitimate dispute about whether the statement is false or whether the statement was made by him without knowledge it was false. Conclusory or vague arguments will not create a controverted issue as to whether there has been misconduct. Consequently, once the AGC has established its prima facie case, respondent's references to affidavits he has not provided, or sources of information he has not disclosed or other nebulous unspecified information, will not prevent the Court from concluding that misconduct has occurred. Respondent cannot create a controverted issue of misconduct based upon what he does not submit to this Court. Nor will offers to provide information at a later time, or only if the Court requests it, suffice.
 
-<span class="larger-bold">Instances of Attorney Misconduct</span>
+<p class="larger-bold">Instances of Attorney Misconduct</p>
 
 In making this motion, the AGC primarily relies on claims that respondent made false and misleading factual statements to cast doubt on the reliability of the results of the 2020 presidential election, in which Joseph R. Biden was constitutionally certified and then inaugurated as the 46th President of the United States. We find that the following false statements made by respondent constitute uncontroverted proof of respondent's professional misconduct.
 
@@ -387,7 +387,7 @@ _We find that all of these acts of misconduct, when considered separately or tak
 
 We recognize that the AGC has identified other instances of respondent's misconduct. We make no substantive decision on those additional claims at this time because the record is insufficiently developed on those claims in this motion for interim relief. The additional claims may be part of any formal charges that the AGC will interpose in the full disciplinary proceeding that will follow this interim suspension. We find, nonetheless, that the incidents we have identified in this decision satisfy the requirement of uncontroverted misconduct required for an interim suspension.
 
-<span class="larger-bold">Immediate Threat to the Public Interest</span>
+<p class="larger-bold">Immediate Threat to the Public Interest</p>
 
 Uncontroverted claims of misconduct alone will not provide a basis for interim suspension, unless there is a concomitant showing of an immediate threat to the public interest. We recognize that this case presents unique circumstances. Nonetheless, there are certain factors we generally consider in connection with whether an immediate threat of harm to the public has been established.
 
@@ -412,7 +412,7 @@ Before Judge Brann in the _Boockvar_ case, respondent himself stated: "I don't k
 
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 
-<span class="larger-bold">Underlying Facts</span>
+<p class="larger-bold">Underlying Facts</p>
 
 Respondent is a criminal defense attorney who was formerly employed as an Assistant District Attorney in the Orleans Parish District Attorney's Office. One evening in April 1994, respondent met his close friend and law school classmate, Gerry Deegan, at a bar near the Orleans Parish Criminal District Court. Like respondent, Mr. Deegan had been a prosecutor in the Orleans Parish District Attorney's Office before he "switched sides" in 1987. During their conversation in the bar, Mr. Deegan told respondent that he had that day learned he was dying of colon cancer. In the same conversation, Mr. Deegan confided to respondent that he had suppressed exculpatory blood evidence in a criminal case he prosecuted while at the District Attorney's Office. Respondent recalls that he was "surprised" and "shocked" by his friend's revelation, and that he urged Mr. Deegan to "remedy" the situation. It is undisputed that respondent did not report Mr. Deegan's disclosure to anyone at the time it was made. Mr. Deegan died in July 1994, having done nothing to "remedy" the situation of which he had spoken in the bar.
 
@@ -424,19 +424,19 @@ On September 30, 1999, respondent gave a sworn statement to the ODC in which he 
 
 > I think that under ordinary circumstances, I would have. I really honestly think I'm a very good person. And I think I do the right thing whenever I'm given the opportunity to choose. This was unquestionably the most difficult time of my life. Gerry, who was like a brother to me, was dying. And that was, to say distracting would be quite an understatement. I'd also left my wife just a few months before, with three kids, and was under the care of a psychiatrist, taking antidepressants. My youngest son was then about two and had just recently undergone open-heart surgery. I had a lot on my plate at the time. A great deal of it of my own making; there's no question about it. But, nonetheless, I was very, very distracted, and I simply did not give it the important consideration that it deserved. But it was a very trying time for me. And that's the only explanation I have, because, otherwise, I would have reported it immediately had I been in a better frame of mind.
 
-<span class="larger-bold">Disciplinary Proceedings</span>
+<p class="larger-bold">Disciplinary Proceedings</p>
 
-<span class="larger-italic">Formal Charges</span>
+<p class="larger-italic">Formal Charges</p>
 
 On January 4, 2001, the ODC filed one count of formal charges against respondent, alleging that his failure to report his unprivileged knowledge of Mr. Deegan's prosecutorial misconduct violated Rules 8.3(a) (reporting professional misconduct), 8.4(c) (engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation), and 8.4(d) (engaging in conduct prejudicial to the administration of justice) of the Rules of Professional Conduct. The ODC subsequently amended the formal charges to delete the alleged violation of Rule 8.4(c).
 
 On March 5, 2002, respondent answered the amended formal charges and admitted some of the factual allegations therein, but denied that his conduct violated the Rules of Professional Conduct. Specifically, respondent asserted that Rule 8.3(a) "merely requires that an attorney possessing unprivileged knowledge of a violation of this Code shall report such knowledge to the authority empowered to investigate such acts. It is undisputed that respondent did report his knowledge of Deegan's statements to Thompson's attorneys, with the clear understanding that this information would be reported to the District Attorney and the Court, undeniably authorities empowered to investigate Deegan's conduct."
 
-<span class="larger-italic">Formal Hearing</span>
+<p class="larger-italic">Formal Hearing</p>
 
 When this matter proceeded to a formal hearing before the committee, respondent testified that his best recollection of his conversation with Mr. Deegan in 1994 "is that he told me that he did not turn over evidence to his opponents that might have exculpated the defendant." Nevertheless, when asked whether he recognized during the barroom conversation that Mr. Deegan had violated his ethical duties, respondent replied, "Well, certainly." Respondent admitted that he gave the conversation no further thought after he left the bar because he was "distracted" by his own personal problems.
 
-<span class="larger-italic">Hearing Committee Recommendation</span>
+<p class="larger-italic">Hearing Committee Recommendation</p>
 
 In its report filed with the disciplinary board, the hearing committee concluded that respondent did not violate Rule 8.3(a), but that he should be publicly reprimanded for his violation of Rule 8.4(d).
 
@@ -452,7 +452,7 @@ In light of the mitigating factors present, and finding that a suspension would 
 
 Both respondent and the ODC filed objections to the hearing committee's recommendation.
 
-<span class="larger-italic">Disciplinary Board Recommendation</span>
+<p class="larger-italic">Disciplinary Board Recommendation</p>
 
 The disciplinary board adopted the hearing committee's factual findings but rejected its application of Rule 8.3(a) of the Rules of Professional Conduct. The board determined that a finding of a violation of Rule 8.3(a) requires clear and convincing evidence that an attorney (1) possessed unprivileged knowledge of an ethical violation and (2) failed to report such knowledge to a tribunal or other authority empowered to investigate or act upon such violation. Concerning the knowledge requirement, the board considered various legal authorities interpreting both Louisiana Rule 8.3(a) and Model Rule 8.3(a), and determined that a lawyer's duty to report professional misconduct is triggered when, under the circumstances, a reasonable lawyer would have "a firm opinion that the conduct in question more likely than not occurred." The board explained that the requisite knowledge under Rule 8.3(a) is "more than a mere suspicion, but less than absolute or moral certainty."
 
@@ -474,7 +474,7 @@ The board determined that some period of suspension is appropriate for responden
 
 Both respondent and the ODC filed objections to the disciplinary board's recommendation.
 
-<span class="larger-bold">Discussion</span>
+<p class="larger-bold">Discussion</p>
 
 In this matter we are presented for the first time with an opportunity to delineate the scope of an attorney's duty under Rule 8.3 to report the professional misconduct of a fellow member of the bar. Therefore, we begin our discussion with a few observations relating to the rule and its history.
 
@@ -488,19 +488,19 @@ We now turn to a more in-depth examination of the reporting requirement in Louis
 
 Thus, the rule has three distinct requirements: (1) the lawyer must possess unprivileged knowledge of a violation of the Rules of Professional Conduct; (2) the lawyer must report that knowledge; and (3) the report must be made to a tribunal or other authority empowered to investigate or act on the violation. We will discuss each requirement in turn.
 
-<span class="larger-italic">Knowledge</span>
+<p class="larger-italic">Knowledge</p>
 
 In its recommendation in this case, the disciplinary board did excellent work in collecting and analyzing the cases and legal commentary interpreting the knowledge requirement of Rule 8.3(a). We need not repeat that analysis here. Considering those authorities, it is clear that absolute certainty of ethical misconduct is not required before the reporting requirement is triggered. The lawyer is not required to conduct an investigation and make a definitive decision that a violation has occurred before reporting; that responsibility belongs to the disciplinary system and this court. On the other hand, knowledge requires more than a mere suspicion of ethical misconduct. We hold that a lawyer will be found to have knowledge of reportable misconduct, and thus reporting is required, where the supporting evidence is such that a reasonable lawyer under the circumstances would form a firm belief that the conduct in question had more likely than not occurred. As such, knowledge is measured by an objective standard that is not tied to the subjective beliefs of the lawyer in question.
 
-<span class="larger-italic">When to Report</span>
+<p class="larger-italic">When to Report</p>
 
 Once the lawyer decides that a reportable offense has likely occurred, reporting should be made promptly. The need for prompt reporting flows from the need to safeguard the public and the profession against future wrongdoing by the offending lawyer. This purpose is not served unless Rule 8.3(a) is read to require timely reporting under the circumstances presented.
 
-<span class="larger-italic">Appropriate Authority</span>
+<p class="larger-italic">Appropriate Authority</p>
 
 Louisiana Rule 8.3(a) requires that the report be made to "a tribunal or other authority empowered to investigate or act upon such violation." The term "tribunal or other authority" is not specifically defined. However, as the comments to Model Rule 8.3(a) explain, the report generally should be made to the bar disciplinary authority. Therefore, a report of misconduct by a lawyer admitted to practice in Louisiana must be made to the Office of Disciplinary Counsel.
 
-<span class="larger-bold">Determination of Respondent's Misconduct and Appropriate Discipline</span>
+<p class="larger-bold">Determination of Respondent's Misconduct and Appropriate Discipline</p>
 
 Applying the principles set forth above to the conduct of respondent in the instant case, we find the ODC proved by clear and convincing evidence that respondent violated Rule 8.3(a). First, we find that respondent should have known that a reportable event occurred at the time of his 1994 barroom conversation with Mr. Deegan. Stated another way, respondent's conversation with Mr. Deegan at that time gave him sufficient information that a reasonable lawyer under the circumstances would have formed a firm opinion that the conduct in question more likely than not occurred. Regardless of the actual words Mr. Deegan said that night, and whether they were or were not "equivocal," respondent understood from the conversation that Mr. Deegan had done something wrong. Respondent admitted as much in his affidavit, during the hearing on the motion for new trial in the criminal case, during his sworn statement to the ODC, and during his testimony at the formal hearing. Indeed, during the sworn statement respondent conceded that he would have reported the matter "immediately" were it not for the personal problems he was then experiencing. Respondent also testified that he was surprised and shocked by his friend's revelation, and that he told him to remedy the situation. There would have been no reason for respondent to react in the manner he did had he not formed a firm opinion that the conduct in question more likely than not occurred. The circumstances under which the conversation took place lend further support to this finding. On the same day that he learned he was dying of cancer, Mr. Deegan felt compelled to tell his best friend about something he had done in a trial that took place nine years earlier. It simply defies logic that respondent would now argue that he could not be sure that Mr. Deegan actually withheld Brady evidence because his statements were vague and non-specific.
 
@@ -516,7 +516,7 @@ The only aggravating factor present in this case is respondent's substantial exp
 
 Accordingly, we will reprimand respondent for his actions.
 
-<span class="larger-bold">Conclusion</span>
+<p class="larger-bold">Conclusion</p>
 
 Reporting another lawyer's misconduct to disciplinary authorities is an important duty of every lawyer. Lawyers are in the best position to observe professional misconduct and to assist the profession in sanctioning it. While a Louisiana lawyer is subject to discipline for not reporting misconduct, it is our hope that lawyers will comply with their reporting obligation primarily because they are ethical people who want to serve their clients and the public well. Moreover, the lawyer's duty to report professional misconduct is the foundation for the claim that we can be trusted to regulate ourselves as a profession. If we fail in our duty, we forfeit that trust and have no right to enjoy the privilege of self-regulation or the confidence and respect of the public.
 
@@ -551,7 +551,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 #### Model Rules of Professional Conduct, Rule 8.1
 
-<span class="larger-bold">Bar Admission & Disciplinary Matters</span>
+<p class="larger-bold">Bar Admission & Disciplinary Matters</p>
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
@@ -565,7 +565,7 @@ An applicant for admission to the bar, or a lawyer in connection with a bar admi
 
 Paul Raymond Converse appeals a decision of the Nebraska State Bar Commission (Commission) denying his request to take the July 1998 Nebraska bar examination. Converse claims that the decision of the Commission should be reversed because the Commission rested its denial of Converse's application, at least in part, upon conduct protected by the First Amendment to the U.S. Constitution and, in the alternative, that Converse's conduct did not constitute sufficient cause under Nebraska law for denying his application on the ground of deficient moral character. For the reasons that follow, we affirm the decision of the Commission.
 
-<span class="larger-bold">Factual Background</span>
+<p class="larger-bold">Factual Background</p>
 
 In 1998, Converse applied for permission to sit for the Nebraska bar examination. On June 29, 1998, Converse was notified by letter that the Commission had denied permission for him to take the July 1998 Nebraska bar examination because it had determined that Converse lacked the requisite moral character for admission upon examination to the Nebraska State Bar Association. On July 7, the Commission received notice that Converse was appealing the Commission's initial determination. Converse's appeal was heard on September 15, after which the Commission reaffirmed its initial determination and notified Converse on December 18 that he would not be allowed to sit for the Nebraska bar examination at that time.
 
@@ -599,11 +599,11 @@ The evidence also revealed that prior to law school, Converse, in his capacity a
 
 After the Commission notified Converse that he would not be allowed to sit for the Nebraska bar examination, Converse appealed the adverse determination to this court.
 
-<span class="larger-bold">Assignments of Error</span>
+<p class="larger-bold">Assignments of Error</p>
 
 Converse claims that the Commission erred in basing its decision, in part, upon conduct and speech arguably protected by the First Amendment; not making Converse aware of all of the "charges" against him in the proceedings in violation of the 14th Amendment; and determining that Converse's conduct gave rise to sufficient cause under Nebraska law for the Commission to deny his application to sit for the Nebraska bar examination.
 
-<span class="larger-bold">Analysis</span>
+<p class="larger-bold">Analysis</p>
 
 Converse first assigns as error that the Commission's determination should not stand because it is based in large part upon speech that is protected by the First Amendment. Thus, the threshold question we must answer is whether conduct arguably protected by the First Amendment can be considered by the Commission during an investigation into an applicant's moral character and fitness to practice law. We answer this question in the affirmative.
 
@@ -665,7 +665,7 @@ The result might have been different if Converse had exhibited only a "single in
 
 Converse has exhibited a clear lack of self-restraint and lack of judgment, and our de novo review of the record leads us to independently conclude that Converse has exhibited such a pattern of acting in a hostile and disruptive manner as to render him unfit for the practice of law in Nebraska. We conclude that the Commission's determination to deny Converse's application was correct, and Converse's third assignment of error is therefore without merit.
 
-<span class="larger-bold">Conclusion</span>
+<p class="larger-bold">Conclusion</p>
 
 The Commission correctly determined that Converse possessed insufficient moral character and was unfit to practice law in the State of Nebraska. This determination was based on an inquiry into Converse's moral character that was both proper and constitutionally permissible. Finding no error in the Commission's determination or the process used to reach that determination, we affirm the Commission's denial of application.
 
@@ -679,9 +679,9 @@ Through its hearings and by examining the material submitted in support of and i
 
 We are of the opinion that Roots's application should be denied without prejudice to Roots reapplying at some later date after he has proven that he has truly rehabilitated himself.
 
-<span class="larger-bold">I</span>
+<p class="larger-bold">I</p>
 
-<span class="larger-italic">Petitioner's Criminal Record</span>
+<p class="larger-italic">Petitioner's Criminal Record</p>
 
 In 1985, when he was eighteen years old, Roots was charged with and convicted of shoplifting in the State of Florida. He had relocated there after leaving his home in Montana during his freshman year in high school. In his bar application, Roots admitted that, following his arrest for this crime, he "failed to appear at his scheduled hearing on the matter." He conceded that he was aware that he needed to attend the hearing but claims that his immaturity at the time caused him to disregard the court's order. Within two months, however, the Orlando police rearrested him on the same charge. He was then detained until he could be presented to a judge. And even though the court still treated him with leniency, Roots shirked his responsibility to abide by the terms of his probation when he failed to perform the community-service condition of his sentence. (He admitted in his application to the bar that he just "left Orlando without performing the community service.")
 
@@ -711,9 +711,9 @@ We recognize that Roots has not been convicted of violating any criminal laws si
 
 Notwithstanding these more recent positive factors, it is our belief that we have not yet had enough opportunity to conclude that Roots has totally rehabilitated himself, especially because his conduct during the years leading up to and including the filing of his bar application raises further questions about the depth, scope, and extent of his alleged rehabilitation. Indeed, his probationary status on the federal-weapons conviction expired only a mere four years ago, after which he then enrolled in law school and continued to engage in activities that cast doubt on his candor, truthfulness, and ability to take the attorney's oath in good faith.
 
-<span class="larger-bold">II</span>
+<p class="larger-bold">II</p>
 
-<span class="larger-italic">The Petitioner's Lack of Candor and Truthfulness</span>
+<p class="larger-italic">The Petitioner's Lack of Candor and Truthfulness</p>
 
 It has been established that the petitioner was not truthful in applying for the purchase of firearms. It also has been established that petitioner was not truthful in answering a question on the bar application about the use of aliases, although he did admit to having used three aliases: Carl Davis, Rodger Roop, and Roger Bell. He indicated on his application that these aliases were used for the purpose of attending school, writing, and telephone fundraising. In his testimony before the committee, however, he admitted that the use of the alias Carl Davis was to help him evade the law after he was indicted for the weapons charge in Montana. When he assisted in a senatorial campaign, he also used another alias, Roger Bell, in order to hide his true identity when salary payments were made to him. The minority report that Chairman McInnis submitted concluded that Roots's lack of candor in this respect would not be consistent with allowing petitioner to practice law.
 
@@ -731,9 +731,9 @@ Moreover, as mentioned above, Roots already had been convicted criminally of pro
 
 In sum, then, we agree with the minority report that this applicant's lack of candor is inconsistent with admitting him to practice law at this time.
 
-<span class="larger-bold">III</span>
+<p class="larger-bold">III</p>
 
-<span class="larger-italic">Ability to Abide by the Attorney's Oath</span>
+<p class="larger-italic">Ability to Abide by the Attorney's Oath</p>
 
 Pursuant to Article II, Rule 8 of the Supreme Court Rules, "every person who is admitted as attorney and counselor at law shall take in open court the following engagement:"
 
@@ -749,7 +749,7 @@ The petitioner has stated to the committee and to this Court that he will not on
 
 We are of the opinion, however, that the prior record of the petitioner — including his criminal past and the other conduct referenced above demonstrating his lack of candor and truthfulness — casts such doubt upon the sincerity of Roots's professed willingness to abide by the terms of the oath that he must take as a member of the bar of this state that his application should be denied at this time.
 
-<span class="larger-bold">Conclusion</span>
+<p class="larger-bold">Conclusion</p>
 
 For the above reasons, we conclude that Roots's application to the bar should be denied. The record in this case reveals far too many recent and past criminal acts, instances of untruthfulness, and a lingering inability of this candidate to take the requisite attorney's oath in good faith. Thus, we cannot endorse Roots's admission to the bar of this state at this time. Nevertheless, our denial of his application shall not preclude the possibility of Roots reapplying for and obtaining approval of his admission to the bar at some later time, but no sooner than two years from the date of this opinion. Moreover, if Roots reapplies for admission to the bar of this state within three years from the date of this opinion, he shall not be required to retake the bar examination. However, in addition to satisfying the committee's usual criteria, he shall be required to demonstrate to the satisfaction of the committee and, ultimately to this Court, that, during the period between the date of this opinion and his reapplication:
 
@@ -781,7 +781,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 #### People v. Alfani, 125 A. 671 (N.Y. 1919)
 
-<span class="larger-bold">Crane, J.</span>
+<p class="larger-bold">Crane, J.</p>
 
 The defendant was convicted by the Special Sessions of the city of New York, borough of Brooklyn, of violating section 270 of the Penal Law. He was not an attorney and counselor-at-law, but had for a long period of time drawn legal papers and instruments for hire and  held himself out to the public as being in that business. His conviction was reversed by the Appellate Division on the ground that such acts did not constitute practicing law and, therefore, were in nowise contrary to the statute.
 
@@ -825,7 +825,7 @@ We recognize that by section 270 and also 271 a person, not a lawyer, may appear
 
 We must, therefore, in harmony with these views, reverse the judgment of the Appellate Division and affirm that of the Special Sessions.
 
-<span class="larger-bold">McLAUGHLIN, J. (dissenting).</span>
+<p class="larger-bold">McLAUGHLIN, J. (dissenting).</p>
 
 The defendant was convicted of violating section 270 of the Penal Law. [On appeal], the judgment of conviction was reversed and he was discharged. The People, by permission, appeal to this court.
 
@@ -852,7 +852,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 #### Model Rules of Professional Conduct, Rule 5.5
 
-<span class="larger-bold">Unauthorized Practice of Law; Multijurisdictional Practiceof Law</span>
+<p class="larger-bold">Unauthorized Practice of Law; Multijurisdictional Practiceof Law</p>
 
 (a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
 
@@ -891,7 +891,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 #### N.C. Gen. Stat. § 84-2.1
 
-<span class="larger-bold">"Practice law" defined.</span>
+<p class="larger-bold">"Practice law" defined.</p>
 
 (a) The phrase "practice law" as used in this Chapter is defined to be performing any legal service for any other person, firm or corporation, with or without compensation, specifically including the preparation or aiding in the preparation of deeds, mortgages, wills, trust instruments, inventories, accounts or reports of guardians, trustees, administrators or executors, or preparing or aiding in the preparation of any petitions or orders in any probate or court proceeding; abstracting or passing upon titles, the preparation and filing of petitions for use in any court, including administrative tribunals and other judicial or quasi-judicial bodies, or assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation: Provided, that the above reference to particular acts which are specifically included within the definition of the phrase "practice law" shall not be construed to limit the foregoing general definition of the term, but shall be construed to include the foregoing particular acts, as well as all other acts within the general definition.
 
@@ -907,7 +907,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 #### In re Creasey, 12 P.3d 214 (Ariz. 2000)
 
-<span class="larger-bold">Feldman, Justice</span>
+<p class="larger-bold">Feldman, Justice</p>
 
 This court disbarred Frederick C. Creasy, Jr. on September 16, 1996, for a number of violations of the Code of Professional Conduct and other Rules of the Supreme Court. The most serious involved failure to properly maintain client funds entrusted to him on two separate occasions, failure to adequately supervise a non-lawyer, and failure to assist in the State Bar's investigation of these matters. In the eleven years prior to his disbarment, Creasy received six informal reprimands from the State Bar.
 
@@ -919,9 +919,9 @@ Based on Creasy's appearance at and actions during the sworn statement, the Stat
 
 Creasy, no longer a member of the bar, contests the jurisdiction of this court to regulate the actions of a non-lawyer. He also denies that he practiced law when he examined Dr. Crandall, arguing that actions that constitute the practice of law before a court are not the practice of law when done in the context of a private arbitration proceeding. Finally, he contends that because he was employed by an insurance adjuster licensed under A.R.S. § 20-281 (1990), the Arizona Department of Insurance has sole jurisdiction to regulate his conduct in this matter. We disagree with all three of his submissions.
 
-<span class="larger-bold">DISCUSSION</span>
+<p class="larger-bold">DISCUSSION</p>
 
-<span class="larger-italic">A. Jurisdiction</span>
+<p class="larger-italic">A. Jurisdiction</p>
 
 We first address Creasy's argument that this court lacks jurisdiction over him because he is a non-lawyer. The argument is without merit. As we have previously said:
 
@@ -941,7 +941,7 @@ We see no reason why we would have jurisdiction over lawyers and not over disbar
 
 Given our authority over the practice of law and those who have been admitted to the bar, we conclude that we have continuing jurisdiction to prevent Creasy from resuming the practice of law. We turn, then, to the question of whether he was engaged in the practice of law.
 
-<span class="larger-italic">B. The practice of law</span>
+<p class="larger-italic">B. The practice of law</p>
 
 Creasy argues that his actions during the private arbitration proceeding— unconnected to any pending judicial matter— do not constitute the practice of law. We long ago defined the practice of law as
 
@@ -963,7 +963,7 @@ Of course, unlike Illinois, which had no statute authorizing adjusters to invest
 
 The Kansas Supreme Court reached a similar result in a case in which a suspended lawyer continued all his activities except court appearances, finding that his activities were not permissible just because they could have been performed by non-lawyers. The court's rationale was that "some actions which may be taken with impunity by persons who have never been admitted to the practice of law, will be found to be in contempt if undertaken by a suspended or disbarred attorney." Applying this reasoning to our facts, we believe Creasy, who acted as a representative for his client by examining a witness in an adversarial setting, cannot now claim to have merely engaged in insurance adjusting under A.R.S. § 20-281.
 
-<span class="larger-italic">C. Legislative authority to license private insurance adjusters</span>
+<p class="larger-italic">C. Legislative authority to license private insurance adjusters</p>
 
 Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the legislature has authorized the licensing of private insurance adjusters and that he is therefore subject only to the jurisdiction of the Department of Insurance. This argument is also without merit. In defining adjuster and setting out licensing requirements in A.R.S. §§ 20-281 and 20-312, the legislature has undertaken the regulation of insurance adjusters. Section 20-281(A) defines an adjuster as
 
@@ -973,11 +973,11 @@ Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the leg
 
 But even if we were so persuaded, the legislature's adoption of A.R.S. § 20-281 cannot authorize Creasy to violate our disbarment order by engaging in activities that constitute the practice of law. Section 20-281 is intended to regulate insurance adjusters. The legislature has not purported to, nor can it, authorize non-lawyers or disbarred lawyers to practice law. Whether it is within the legislature's power to authorize one to engage in activities that constitute the practice of law while engaging in the business of insurance adjusting is a question we reserve for the appropriate case, if and when brought.
 
-<span class="larger-bold">CONCLUSION</span>
+<p class="larger-bold">CONCLUSION</p>
 
 We hold that Creasy has violated Rule 31(a)(3) and the order of disbarment. We thus find him in contempt and order that he immediately cease and desist from any further activities that constitute the practice of law. In lieu of other penalties that might be imposed, Creasy is ordered to pay the costs incurred by the State Bar, plus reasonable attorneys' fees, the amount to be approved by this court on application by the State Bar.
 
-<span class="larger-bold">MARTONE, Justice, concurring.</span>
+<p class="larger-bold">MARTONE, Justice, concurring.</p>
 
 I join the holding that this court has jurisdiction over disbarred lawyers pursuant to the order of disbarment and Rule 31(a)(3). Creasy is a disbarred lawyer. This case, therefore, affords us no opportunity to address the quite separate question of whether this court has jurisdiction over persons who were never lawyers and whose activities are not part of, or ancillary to, Judicial Department institutions within the meaning of Article VI, § 1 of the Arizona Constitution.
 
@@ -992,7 +992,7 @@ The question of jurisdiction over non-lawyers for activities outside of Article 
 
 #### Model Rules of Professional Conduct, Rule 5.5
 
-<span class="larger-bold">Unauthorized Practice of Law; Multijurisdictional Practice of Law</span>
+<p class="larger-bold">Unauthorized Practice of Law; Multijurisdictional Practice of Law</p>
 
 (c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
 
@@ -1008,7 +1008,7 @@ The question of jurisdiction over non-lawyers for activities outside of Article 
 
 #### Page v. Oath, Inc., C.A. No. S20C-07-030 CAK (Del. Super. Jan. 11, 2021)
 
-<span class="larger-bold">Karsnitz, J.</span>
+<p class="larger-bold">Karsnitz, J.</p>
 
 Several weeks ago, I issued a Rule to Show Cause why the approval I had given to L. Lin Wood, Esquire to practice before this Court in this case should not be revoked. Mr. Wood is not licensed to practice law in Delaware. Practicing _pro hac vice_ is a privilege and not a right. I respect the desire of litigants to select counsel of their choice. When out of state counsel is selected, however, I am required to ensure the appropriate level of integrity and competence.
 
@@ -1050,7 +1050,7 @@ I am revoking my order granting Lin Wood, Esquire the privilege of representing 
 
 #### Model Rules of Professional Conduct, Rule 5.1
 
-<span class="larger-bold">Responsibilities of a Partner or Supervisory Lawyer</span>
+<p class="larger-bold">Responsibilities of a Partner or Supervisory Lawyer</p>
 
 (a) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
 
@@ -1068,7 +1068,7 @@ I am revoking my order granting Lin Wood, Esquire the privilege of representing 
 
 #### Model Rules of Professional Conduct, Rule 5.2
 
-<span class="larger-bold">Responsibilities of a Subordinate Lawyer</span>
+<p class="larger-bold">Responsibilities of a Subordinate Lawyer</p>
 
 (a) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 
@@ -1080,7 +1080,7 @@ I am revoking my order granting Lin Wood, Esquire the privilege of representing 
 
 #### Model Rules of Professional Conduct, Rule 5.3
 
-<span class="larger-bold">Responsibilities Regarding Nonlawyer Assistance</span>
+<p class="larger-bold">Responsibilities Regarding Nonlawyer Assistance</p>
 
 With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
@@ -1101,7 +1101,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 #### Model Rules of Professional Conduct, Rule 5.4
 
-<span class="larger-bold">Professional Independence of a Lawyer</span>
+<p class="larger-bold">Professional Independence of a Lawyer</p>
 
 (a) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 
@@ -1131,7 +1131,7 @@ With respect to a nonlawyer employed or retained by or associated with a lawyer:
 
 #### Model Rules of Professional Conduct, Rule 5.6
 
-<span class="larger-bold">Restrictions on Rights to Practice</span>
+<p class="larger-bold">Restrictions on Rights to Practice</p>
 
 A lawyer shall not participate in offering or making:
 
@@ -1145,7 +1145,7 @@ A lawyer shall not participate in offering or making:
 
 #### Model Rules of Professional Conduct, Rule 5.7
 
-<span class="larger-bold">Responsibilities Regarding Law-related Services</span>
+<p class="larger-bold">Responsibilities Regarding Law-related Services</p>
 
 (a) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 
