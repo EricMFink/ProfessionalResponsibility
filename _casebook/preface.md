@@ -9,7 +9,7 @@ Most of the materials reproduced here are in the public domain; excerpts from co
 
 [^Preface1]: _See_ Jack Metzler, [Cleaning Up Quotations](https://lawrepository.ualr.edu/cgi/viewcontent.cgi?article=1405&context=appellatepracticeprocess), 18 J. App. Prac. & Process 143, 154 (2017) (proposing "cleaned up" parenthetical for quotations from judicial opinions, to indicate the author “has removed extraneous, non-substantive material like brackets, quotation marks, ellipses, footnote reference numbers, and internal citations; may have changed capitalization without using brackets to indicate that change; and affirmatively represents that the alterations were made solely to enhance readability and that the quotation otherwise faithfully reproduces the quoted text.”) 
 
-<p class="large-italic">Page Navigation</p>
+<p class="case-h4">Page Navigation</p>
 
 At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of the page contents, and clicking on an item will scroll to the appropriate location on the page. On mobile devices, click on the menu icon (<img src="../img/menu.png" width="16">) to reveal the Page Navigation menu.
 
@@ -22,15 +22,14 @@ Following the typographical style of [Edward Tufte](https://www.edwardtufte.com/
 [^marginnote]: 
   {-} This is an example of a margin note. 
 
-<p class="large-italic">Links </p>
+<p class="case-h4">Links </p>
 
 Links to cross-referenced pages or external online material are indicated by red-colored text, e.g. [U.S. Department of Labor](https://www.dol.gov/). 
 
-<p class="large-italic">PDF Version </p>
+<p class="case-h4">PDF Version </p>
 
 A PDF version of this casebook is available for downloading from the [Table of Contents](../contents) page. The PDF file includes embedded links as described above. 
 
-<section id="colophon" class="level4">
 <div class="colophon">
 
 Designed and produced by [Eric M. Fink](https://www.emfink.net/ElonLaw/), Associate Professor of Law, [Elon University School of Law](https://www.elon.edu/u/law/), Greensboro, North Carolina. 
@@ -47,4 +46,3 @@ Designed and produced by [Eric M. Fink](https://www.emfink.net/ElonLaw/), Associ
 version {{ site.coursebook.version }} ({{ site.coursebook.date }})
 
 </div>
-</section>
