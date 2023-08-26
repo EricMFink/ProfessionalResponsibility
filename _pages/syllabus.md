@@ -60,26 +60,45 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
 
+
+\pagebreak
+
 # Schedule & Assignments 
 
  **Date** | **Topic**  | **Assignment**
 --|---|--
- August 28 | The Legal Profession & Regulation of Lawyers | Giesel, Chap. 1; Casebook, Chap. 1
- August 30 & September 6 | Professional Gatekeeping | Giesel, Chap. 2, 3, 38-44, 47-49; Casebook, Chap. 2
- September 11 | Advertising & Solicitation | Giesel, Chap. 45 & 46; Casebook, Chap. 3
- September 13 | The Attorney-Client Relationship | Giesel, Chap. 4, 11, & 12; Casebook, Chap. 4
- September 18 | Attorney as Agent, Client as Principal |  Giesel, Chap. 8 & 14; Casebook, Chap. 5
- September 20 | Organizational Clients | Giesel, Chap. 13; Casebook, Chap. 6
- September 27 | Attorney Fees & Client Property | Giesel, Chap. 9 & 10; Casebook, Chap. 7
- October 2 & 4 | Competence, Diligence, & Communication| Giesel, Chap. 5-7, 24; Casebook, Chap. 8
- October 9 & 11 | Duty of Confidentialty | Giesel, Chap. 15; Casebook, Chap. 9
- October 16 | Attorney-Client Privilege & Work-Product | Giesel, Chap. 16; Casebook, Chap. 10
- October 18 & 23 | Concurrent Client Conflicts | Giesel, Chap. 17 & 18; Casebook, Chap. 11, § 1
- October 25 | Conflicts Involving the Lawyer's Interests | Giesel, Chap. 21; Casebook, Chap. 11, § 2 
- October 30 & November 1| Former Client Conflicts & Imputation | Giesel, Chap. 19, 20, 22, & 23; Casebook, Chap. 11, §§ 3 & 4
- November 6 & 8 | Duties in Litigation | Giesel, Chap. 26-32; Casebook, Chap. 12
- November 13 | Prosecutorial Misconduct | Giesel, Chap. 33; Casebook, Chap. 13
- November 15| Duties to Non-Clients | Giesel, Chap. 35-37; Casebook, Chap. 14 
+    | **Part I: The Legal Profession & Regulation of Lawyers** |   
+ August 28 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
+ August 30 & September 6 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
+    |    |   
+    | **Part II: Advertising & Solicitation** |   
+ September 11 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 
+    |    |   
+    | **Part III: The Attorney-Client Privilege** |   
+ September 13 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12
+ September 18 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14
+ September 20 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13
+ September 27 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10
+    |    |   
+    | **Part IV: The Duty of Care** |   
+ October 2 & 4 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24
+    |    |   
+    | **Part V: Confidentiality & Privileges** |   
+ October 9 & 11 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15
+ October 16 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16
+    |    |   
+    | **Part VI: Conflicts of Interest** |   
+ October 18 & 23 | Concurrent Client Conflicts | Casebook, Chap. 6, § 1; Giesel, Chap. 17 & 18
+ October 25 | Conflicts Involving the Lawyer's Interests | Casebook, Chap. 6, § 2; Giesel, Chap. 21 
+ October 30 & November 1| Former Client Conflicts & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23
+    |    |   
+    | **Part VII: Duties in Litigation** |   
+ November 6 & 8 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32
+ November 13 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33
+    |    |   
+    | **Part VIII: Interactions with Non-Clients** |   
+ November 15| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37
+    |    |   
  November 20  | Final Review |  &nbsp;
  December 1 | Final Exam | &nbsp;
  

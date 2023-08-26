@@ -1,16 +1,7 @@
 ---
 layout: book
-
-term: Fall Term 2023
 title: Professional Responsibility
-subtitle: An Open-Source Casebook
-repo: CivilProcedure
-
-version: "Version 2.0"
-published: August 2023
-
-author: Eric M. Fink
-affiliation: Elon Law School
+toc: true
 
 ---
 

@@ -4,6 +4,10 @@ chapter: 5
 title: Confidentiality & Privileges
 ---
 
+<p class="chapter-number">Chapter 5</p>
+
+# Confidentiality & Privileges 
+
 ## Duty of Confidentiality
 
 ### Scope of Protection

@@ -4,6 +4,10 @@ chapter: 1
 title: Law as a Regulated Profession
 ---
 
+<p class="chapter-number">Chapter 1</p>
+
+# Law as a Regulated Profession 
+
 ## Regulatory Authorities
 
 ### Professional Self-Regulation 

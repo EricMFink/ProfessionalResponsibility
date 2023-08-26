@@ -4,6 +4,10 @@ chapter: 7
 title: Duties in Litigation
 ---
 
+<p class="chapter-number">Chapter 7</p>
+
+# Duties in Litigation 
+
 ## Integrity of the Proceedings 
 
 ### Truthfulness

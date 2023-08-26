@@ -4,6 +4,10 @@ chapter: 8
 title: Interactions with Non-Clients
 ---
 
+<p class="chapter-number">Chapter 8</p>
+
+# Interactions with Non-Clients 
+
 ## Truthfulness & Fairness 
 
 <div class="legal-code">

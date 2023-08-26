@@ -4,6 +4,10 @@ chapter: 6
 title: Conflicts of Interest 
 ---
 
+<p class="chapter-number">Chapter61</p>
+
+# Conflicts of Interest
+
 ## Conflicts Between Current Clients
 
 ### Identifying Conflicts 
