@@ -6,7 +6,7 @@ permalink: /casebook/contents/
 
 ---
 
-<a href='{{ site.baseurl }}/casebook/pdf/PRBook.pdf'><button class='button syllabus smaller'>PDF</button></a>
+<a href='{{ site.baseurl }}/assets/pdf/PRBook.pdf'><button class='button syllabus smaller'>PDF</button></a>
 
 [Preface](../preface)
 
