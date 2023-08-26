@@ -44,7 +44,7 @@ In representing a client, a lawyer shall not communicate about the subject of th
 
 #### N.C. State Bar v. Weckworth, No. COA18-866 (N.C, Ct. App. June 4, 2019)
 
-<p class="case-h1">HAMPSON, Judge. </p>
+<p class="case-h1">HAMPSON, Judge.</p>
 
 <p class="case-h1">Factual and Procedural Background</p>
 
@@ -96,7 +96,7 @@ The DHC entered additional findings regarding discipline, noting Defendant's pri
 
 <p class="case-h1">Analysis</p>
 
-<p class="case-h1">I. Violations of the Rules of Professional Conduct</p>
+<p class="case-h1">I. Violations of the Rules of Professional Conduct</p>
 
 In his first argument, Defendant contends the DHC's decision "was unsupported and contrary to the evidence, contrary to existing law, did not have a rational basis in the evidence, and was completely arbitrary and unsupported by reason." We disagree.
 
@@ -194,7 +194,7 @@ I agree with part one of Justice Sanders' concurrence. This court currently has 
 
 The majority holds that self-represented lawyers are "representing a client" under RPC 4.2(a) and therefore may not contact a represented party. But it refrains from sanctioning Haley, implicitly holding that the scope of RPC 4.2(a) is ambiguous. I concur only in the result, because the majority incorrectly construes RPC 4.2(a). The plain language of RPC 4.2(a) exempts self-represented lawyers. And the rule of lenity requires strict and narrow construction of an ambiguous penal statute. We must apply RPC 4.2(a) prospectively just as we apply it today.
 
-<p class="case-h1">I. The Plain Language of RPC 4.2(A) Permits Self-Represented Lawyers to Contact Represented Parties</p>
+<p class="case-h1">I. The Plain Language of RPC 4.2(A) Permits Self-Represented Lawyers to Contact Represented Parties</p>
 
 Court rules like the Code of Professional Responsibility "are subject to the same principles of construction as are statutes." Thus, when interpreting a rule we give "the words their ordinary meaning, reading the language as a whole and seeking to give effect to all of it." If the plain language of the rule is unambiguous, additional interpretation is unnecessary.
 
@@ -208,7 +208,7 @@ The majority's claim to follow an emerging majority rule is unavailing. Indeed, 
 
 Likewise, the majority's reliance on the "purpose" of RPC 4.2(a) is misplaced. As the author of the court rules, we are "in a position to reveal the actual meaning which was sought to be conveyed." But in the interest of certainty and consistency, we approach them "as though they had been drafted by the Legislature." Whatever the purpose of RPC 4.2(a), it cannot extend to persons and actions its plain language excludes. We may not expand the scope of a rule by fiat. If we conclude that self-represented lawyers should not contact represented parties, we should simply rewrite the rule to clearly prohibit that conduct. Other states have already done so. Lawyers should not have to read slip opinions to divine their professional obligations.
 
-<p class="case-h1">II. The Rule of Lenity Requires a Construction of RPC 4.2(A) Exempting Self-Represented Lawyers</p>
+<p class="case-h1">II. The Rule of Lenity Requires a Construction of RPC 4.2(A) Exempting Self-Represented Lawyers</p>
 
 Even assuming that the plain language of RPC 4.2(a) is somehow ambiguous, the rule of lenity requires a strict and narrow construction exempting self-represented lawyers. The rule of lenity is a venerable canon of statutory interpretation, requiring courts "to interpret ambiguous criminal statutes in the defendant's favor." While the Rules of Professional Conduct are only "quasi-criminal," the rule of lenity applies to both criminal and quasi-criminal statutes. The deciding factor is the nature of the sanction imposed.
 
@@ -224,7 +224,7 @@ A statute is ambiguous if it "refers to P, P can alternatively encompass either 
 
 Courts routinely apply the rule of lenity to ambiguous statutes. And the rule of lenity is peculiarly appropriate to the Rules of Professional Conduct. We have recognized that "in a disciplinary proceeding, all doubts should be resolved in favor of the attorney." Because lawyers "are subject to professional discipline only for acts that are described as prohibited in an applicable lawyer code, statute, or rule of court," courts "should be circumspect in avoiding overbroad readings or resorting to standards other than those fairly encompassed within an applicable lawyer code." Application of the rule of lenity reflects that caution. It demands that we adopt the stricter, narrower construction, excluding self-represented lawyers.
 
-<p class="case-h1">III. Conclusion</p>
+<p class="case-h1">III. Conclusion</p>
 
 The majority objects to the plain language of RPC 4.2(a) only because it believes that permitting self-represented lawyers to contact represented parties would violate the "purpose" of the rule. But the putative "spirit and intent" of a rule can trump only a "strained and unlikely" interpretation. And the plain language of RPC 4.2(a) is neither strained nor unlikely. It prohibits a lawyer representing a client---but not a self-represented lawyer---from contacting a represented party. As the majority concedes, several commentators and courts have found the plain language of essentially identical rules entirely unambiguous. We must not manufacture ambiguity and rely on legal fictions to arrive at a preferred result. Especially when we may simply write that result into law.
 

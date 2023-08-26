@@ -162,7 +162,7 @@ Accordingly, the order of the Appellate Division should be affirmed.
 
 Mark Hischke made an eleventh-hour decision to deny possession of marijuana after previously admitting to the police and his lawyer the marijuana belonged to him. Hischke's trial counsel, John Bishop, informed the court Hischke intended to commit perjury. After a jury trial, the court convicted Hischke of possession of marijuana. Hischke appeals contending he was denied effective assistance of counsel when his trial lawyer alerted the court to his "personal belief" Hischke planned to present perjured testimony. Because we find Bishop had good cause to believe Hischke's proposed testimony would be deliberately untruthful, we affirm.
 
-<p class="case-h1">I. Facts</p>
+<p class="case-h1">I. Facts</p>
 
 On December 5, 1999, Waterloo police officers executed an arrest warrant on Eric Twesme at his apartment. When the officers arrived, Twesme and Mark Hischke were present in the apartment. Twesme answered the door and permitted the officers to enter. In the apartment, the officers saw syringes, spoons, and cotton. The officers asked Hischke to wait in the hallway where he consented to a search of his person. The officer discovered a syringe in Hischke's shirt pocket. Before going to the police station, Twesme asked the officers for a jacket. One of the officers saw a leather jacket in the apartment draped over the back of the chair where Hischke had been sitting. The officer asked Twesme if the jacket was his and Twesme said it did not belong to him. Hischke admitted ownership of the jacket but said he was not responsible for anything in the pockets. During a consent search, the police officer found a small bag of marijuana in the jacket.
 
@@ -177,7 +177,7 @@ On appeal, Hischke contends he was denied effective assistance of counsel when B
 The State contends an attorney need only have a "firm factual basis" for believing a client plans to lie before taking any measures designed to prevent such perjury. The State argues Bishop satisfied this standard.
 
 
-<p class="case-h1">III. Ineffective Assistance of Counsel</p>
+<p class="case-h1">III. Ineffective Assistance of Counsel</p>
 
 To prevail on a claim of ineffective assistance of counsel, Hischke must demonstrate both ineffective assistance and prejudice. Both elements must be proven by a preponderance of the evidence. If a claim lacks one of the elements of an ineffective assistance of counsel claim, it is not necessary for us to address the other element.
 
@@ -203,7 +203,7 @@ We decline to adopt the standard of "actual knowledge" suggested by Hischke. Suc
 
 In finding Bishop's performance was within the normal range of competence we are not stating Bishop was required to take the particular course of action he chose to pursue. This has not been presented to us. We recognize when counsel is faced with the situation of client perjury, he or she has competing interests at stake. Counsel must contend with duties of zealous advocacy, confidentiality, and loyalty to the client. On the other hand, these interests are counter-balanced by duties of accountability to the courts and justice. In order to accommodate these competing interests, there are various appropriate options a lawyer may choose among to decide how to handle such a situation.
 
-<p class="case-h1">IV. Conclusion</p>
+<p class="case-h1">IV. Conclusion</p>
 
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
@@ -748,7 +748,7 @@ In determining whether respondent caused an actual injury pursuant to Louisiana'
 
 A former assistant district attorney filed this suit alleging that the county wrongfully terminated his employment because he refused his supervisor's order to withhold exculpatory evidence from a criminal defendant. The trial court dismissed the suit for lack of jurisdiction, and the court of appeals affirmed. Because we agree with those courts that governmental immunity bars the suit, we also affirm.
 
-<p class="case-h1">I. Background</p>
+<p class="case-h1">I. Background</p>
 
 Eric Hillman served as an assistant district attorney in Nueces County for two years. While preparing to prosecute a defendant charged with intoxicated assault and leaving the scene of an accident, Hillman discovered and interviewed a witness who said she was with the defendant the night of the incident and he was not intoxicated. Because the police report did not identify this witness, Hillman told his supervisor that he needed to disclose the witness to the defendant's attorney. The supervisor disagreed and instructed Hillman not to disclose the witness. Believing that he was legally required to disclose the witness, Hillman called the State Bar Ethics Hotline and the Texas Center for Legal Ethics for advice. Both told him he should disclose the information.
 
@@ -756,7 +756,7 @@ Three days before the defendant's trial, the victim confirmed to Hillman that th
 
 Hillman sued the County, the District Attorney's Office, and then-District Attorney Mark Skurka, in his official capacity, seeking actual damages for lost wages and benefits, mental anguish, pain and suffering, and loss of earning capacity, and exemplary damages. The County moved to dismiss on the ground that governmental immunity bars Hillman's claims. The trial court agreed and dismissed the case, and the court of appeals affirmed.
 
-<p class="case-h1">II. Governmental Immunity</p>
+<p class="case-h1">II. Governmental Immunity</p>
 
 Sovereign immunity—usually called governmental immunity when referring to political subdivisions—protects governmental entities against suits and legal liabilities. The County pleaded immunity from both suit and liability in this case, but only immunity from suit implicates the courts' jurisdiction. Because the trial court dismissed this case for lack of jurisdiction, we focus here solely on governmental immunity from suit. Because Hillman filed suit seeking money damages against a county and its department and official, governmental immunity bars this suit unless immunity has been waived.
 
@@ -816,7 +816,7 @@ We in no way discount the serious policy concerns that Hillman, his supporting a
 
 As we have repeatedly confirmed, "it is the Legislature's sole province to waive or abrogate sovereign immunity." That the legislature has recently revised the Michael Morton Act to strengthen its protections illustrates its continuing awareness of the Act and its importance, as well as its willingness to take steps to improve it. Whether waiving immunity from _Sabine Pilot_ claims should be the next step in that process is up to the legislature, and we must defer to it to "protect its policymaking function."
 
-<p class="case-h1">III. Conclusion</p>
+<p class="case-h1">III. Conclusion</p>
 
 "Sovereign immunity from suit defeats a trial court's subject matter jurisdiction." When, as here, a claim falls within the realm of governmental immunity, courts have no jurisdiction to hear the case unless immunity has been waived. We hold that neither _Sabine Pilot_ nor the Michael Morton Act waives the County's governmental immunity from Hillman's wrongful-termination claim, and we defer to the legislature to decide whether such a waiver would be appropriate as a matter of public policy. We affirm the trial court's judgment granting the County's plea to the jurisdiction and dismissing the case.
 

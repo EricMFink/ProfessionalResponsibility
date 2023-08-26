@@ -386,7 +386,7 @@ Laurel Garrett and the law firm of Slone & Garrett represented the Vimont group 
 
 This case is a complex legal malpractice claim brought by Vimont against Garrett alleging that she negligently advised them during the midst of the shareholder dispute. They claim that Garrett negligently failed to properly advise them as to how to retain control of the corporation; that the methods she advised violated the insurance code; violated a fiduciary duty to shareholders; was unethical, and was substantially more expensive. The circuit judge granted Garrett a partial summary judgment based on his interpretation of the contract which was different from the interpretation made by the circuit judge in the earlier civil case. The other portion of the claim was resolved in favor of Garrett by a jury verdict. The Court of Appeals upheld the decision of the circuit court, and this Court granted discretionary review.
 
-<p class="case-h1">I. Jury Instructions</p>
+<p class="case-h1">I. Jury Instructions</p>
 
 Correct instructions are absolutely essential to an accurate jury verdict. The fundamental function of instructions is to tell the jury what it must believe from the evidence in order to resolve each dispositive factual issue in favor of the party who has the burden of proof on that issue.
 

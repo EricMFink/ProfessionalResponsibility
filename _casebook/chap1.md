@@ -963,7 +963,7 @@ Of course, unlike Illinois, which had no statute authorizing adjusters to invest
 
 The Kansas Supreme Court reached a similar result in a case in which a suspended lawyer continued all his activities except court appearances, finding that his activities were not permissible just because they could have been performed by non-lawyers. The court's rationale was that "some actions which may be taken with impunity by persons who have never been admitted to the practice of law, will be found to be in contempt if undertaken by a suspended or disbarred attorney." Applying this reasoning to our facts, we believe Creasy, who acted as a representative for his client by examining a witness in an adversarial setting, cannot now claim to have merely engaged in insurance adjusting under A.R.S. § 20-281.
 
-<p class="case-h2">C. Legislative authority to license private insurance adjusters</p>
+<p class="case-h2">C. Legislative authority to license private insurance adjusters</p>
 
 Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the legislature has authorized the licensing of private insurance adjusters and that he is therefore subject only to the jurisdiction of the Department of Insurance. This argument is also without merit. In defining adjuster and setting out licensing requirements in A.R.S. §§ 20-281 and 20-312, the legislature has undertaken the regulation of insurance adjusters. Section 20-281(A) defines an adjuster as
 

@@ -179,7 +179,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
-<p class="case-h1">I. Factual Background</p>
+<p class="case-h1">I. Factual Background</p>
 
 On April 14, 2000, Clark Capital filed a complaint against Annuity alleging trademark infringement. Attorneys with the firm of Woodcock Washburn Kurtz Mackiewicz & Norris LLP have represented Clark Capital from day one of this case. In the fall of 2000, Annuity retained Donald E. Frechette with the firm of Edwards & Angell LLP.
 
@@ -201,7 +201,7 @@ Frechette's second affidavit was submitted in response to Biemer's affidavit. In
 
 Annuity never retained Dilworth. On June 11, 2001, Friedman, a Dilworth attorney, entered an appearance on behalf of Clark Capital.
 
-<p class="case-h1">II. Discussion</p>
+<p class="case-h1">II. Discussion</p>
 
 Annuity asserts that these several telephone conversations between Frechette and Biemer rose to the level of an attorney-client relationship between Annuity and Biemer, such that Friedman is in violation of the Rules of Professional Conduct. This District has adopted the Pennsylvania Rules of Professional Conduct. These Rules provide that:
 
@@ -502,7 +502,7 @@ A lawyer representing a governmental client must proceed in the representation a
 
 </div>
 
-#### In the Matter of Silva, 636 A.2d 316 (R.I. 1994)
+#### In the Matter of Silva, 636 A.2d 316 (R.I. 1994)
 
 The respondent, Daniel J. Silva, appeared before this court on December 2, 1993, pursuant to an order to show cause why discipline should not be imposed. The Disciplinary Board conducted an evidentiary hearing and received legal memoranda from the respondent and disciplinary counsel. The board has filed with us its decision and a concurring opinion signed by three members of the board.
 
