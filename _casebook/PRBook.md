@@ -1,7 +1,8 @@
 ---
 layout: book
 title: Professional Responsibility
-toc: true
+subtitle: An Open-Source Casebook 
+author: Eric M. Fink
 
 ---
 
