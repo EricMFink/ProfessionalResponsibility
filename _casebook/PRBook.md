@@ -5,6 +5,8 @@ subtitle: An Open-Source Casebook
 author: Eric M. Fink 
 affiliation: Elon Law School 
 term: Fall 2023 
+version: 2.1
+term: Fall 2023
 
 ---
 
