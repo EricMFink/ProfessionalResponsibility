@@ -2,7 +2,9 @@
 layout: book
 title: Professional Responsibility
 subtitle: An Open-Source Casebook 
-author: Eric M. Fink
+author: Eric M. Fink 
+affiliation: Elon Law School 
+term: Fall 2023 
 
 ---
 
