@@ -1,18 +1,14 @@
 ---
-date: Winter Term 2023
+date: Fall Term 2023
 title: Employment Law
-subtitle: Cases & Materials 
-repo: EmploymentCasebook
+subtitle: An Open-Source Casebook
+repo: ProfessionalResponsibility
 
-version: "Version 1.01"
-published: January 2023
+version: "Version 2.1"
+published: August 2023
 
 author: Eric M. Fink
 affiliation: Elon Law School
-
-epigraph: Workin' 9 to 5, what a way to make a livin' \newline Barely gettin' by, it's all takin' and no givin' \newline They just use your mind and they never give you credit \newline It's enough to drive you crazy if you let it \newline 9 to 5, for service and devotion \newline You would think that I would deserve a fair promotion \newline Want to move ahead but the boss won't seem to let me \newline I swear sometimes that man is out to get me
-epigraph-author: Dolly Parton
-epigraph-source: 9 to 5
 
 casebook: true 
 
@@ -25,47 +21,16 @@ output:
 
 ---
 
-\chapter{Preface}
+\chapter{Law as a Regulated Profession}
 
-@import "preface.md"
+## Professional Gatekeeping 
 
-\chapter{Foundations of Employment Law}
+### Misconduct & Discipline 
 
-@import "chap1.md"
+#### Neal v. Clinton, No. CIV 2000–5677 (Ark. Cir. Ct. Jan. 19, 2001)
 
-\chapter{Establishing an Employment Relationship}
+_Agreed Order of Discipline_
 
-@import "chap2.md"
+Come now the parties hereto and agree to the following Order of this Court in settlement of the pending action:
 
-\chapter{Scope \& Limits of Employer Control}
-
-@import "chap3.md"
-
-\chapter{Employee Duties to Employers}
-
-@import "chap4.md"
-
-\chapter{Wages \& Hours}
-
-@import "chap5.md"
-
-\chapter{Employee Health \& Safety}
-
-@import "chap6.md"
-
-\chapter{Terminating Employment}
-
-@import "chap7.md"
-
-\chapter{Enforcing Employee Rights}
-
-@import "chap8.md"
-
-\chapter{Recent Developments}
-
-@import "chap9.md"
-
-\chapter{Colophon}
-
-@import "colophon.md"
-
+The formal charges of misconduct upon which this Order is based arose out of information referred to the Committee on Professional Conduct ("the Committee") by the Honorable Susan Webber Wright, Chief United States District Judge for the Eastern District of Arkansas. The information pertained to William Jefferson Clinton's deposition testimony in a civil case brought by Ms. Paula Jones in which he was a defendant, _Jones v. Clinton_.
