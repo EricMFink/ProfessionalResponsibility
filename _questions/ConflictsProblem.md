@@ -25,6 +25,6 @@ Meanwhile, Enrique Cesares is laid off from his job, and he asks Álvaro whether
 >   
 > He concluded, “I don't think there's the slightest chance they'll accept the appeal."
 
-Was Álvaro's conduct proper under Rules 1.7 & 1.8? 
+_Was Álvaro's conduct proper under Rules 1.7 & 1.8? _
 
-Does Álvaro's conduct breach any other obligations under the Model Rules? 
+_Does Álvaro's conduct breach any other obligations under the Model Rules? _

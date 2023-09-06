@@ -4,6 +4,14 @@ title: Questions
 permalink: /questions/
 ---
 
-[Law Firms & Unauthorized Practice](http://www.emfink.net/ProfessionalResponsibility/questions/LawFirms_UAP)
+[Integrity of the Profession](http://www.emfink.net/ProfessionalResponsibility/questions/Integrity)
 
 [Advertising & Solicitation](http://www.emfink.net/ProfessionalResponsibility/questions/Advertising)
+
+[Fees & Client Property](http://www.emfink.net/ProfessionalResponsibility/questions/Fees)
+
+[Confidentiality & Evidentiary Privileges](http://www.emfink.net/ProfessionalResponsibility/questions/Confidentiality)
+
+[Conflicts of Interest](http://www.emfink.net/ProfessionalResponsibility/questions/Conflicts)
+
+[Attorney as Advocate](http://www.emfink.net/ProfessionalResponsibility/questions/Advocate)

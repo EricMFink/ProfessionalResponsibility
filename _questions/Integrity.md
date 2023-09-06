@@ -1,12 +1,91 @@
----
+﻿---
 layout: page
 
 course: Professional Responsibility
-title: 'Law Firms & Unauthorized Practice of Law'
-    
+title: 'Maintaining the Integrity of the Profession'
+
 ---
 
-### Question 1
+### Question 1 
+
+Greene is an attorney in a small town. Greene has recently been disturbed by the behavior of another lawyer, Ulysses. Greene has noticed that Ulysses has repeatedly missed deadlines in cases they have together, and Ulysses also failed to appear on time for the last two status conferences they were to have with the court. Yesterday, Marvin appeared in court with Greene, but Ulysses appeared to be intoxicated. Greene smelled alcohol on Ulysses's breath before the hearing. This is not the first time recently when Greene has seen Ulysses intoxicated at the courthouse. Which of the following statements most accurately states Greene's responsibilities under the Model Rules of Professional Conduct? 
+
+a. Greene may report Ulysses's apparent impairment to the appropriate professional authorities because it raises a substantial question as to Ulysses's fitness to practice law. 
+
+b. Greene must report Ulysses's apparent impairment to the appropriate professional authorities because Ulysses's failure to withdraw from representing clients raises a substantial question as to Ulysses's fitness to practice law. 
+
+c. Greene may not report Ulysses's apparent impairment to the appropriate professional authorities because Ulysses has not violated a rule of professional conduct. 
+
+d. Greene need not report Ulysses's apparent impairment to the appropriate professional authorities if Greene reports it to an approved lawyers assistance program. 
+
+
+### Question 2 
+
+Professor Prudence is a member of the bar but does not practice law. The dean of the law school, Larsen, is also a non-practicing member of the same bar. Prudence has learned that Dean Larsen has been embezzling law school funds, which is a crime in their jurisdiction. Although Prudence believes that the matter can be handled quietly within the school, she is considering whether she must report Dean Larsen to the appropriate professional authorities. Which of the following statements most accurately states Prudence's responsibilities under the Model Rules of Professional Conduct? 
+
+a. Prudence need not report Dean Larsen's conduct because the commission of a crime unrelated to the practice of law is not misconduct under the Rules of Professional Conduct. 
+
+b. Prudence need not report Dean Larsen's conduct because he does not practice law. 
+
+c. Prudence need not report Dean Larsen's conduct because she is a non-practicing lawyer.
+
+d. Prudence must report Dean Larsen's conduct because his criminal activity is a violation of the Rules of Professional Conduct that reflects adversely on Larsen's honesty, trustworthiness, or fitness as a lawyer. 
+
+
+### Question 3 
+
+McGill is an attorney who is representing a client in a civil lawsuit against the client's former business partner. During the discovery process, McGill receives evidence from an anonymous source that his opposing counsel, Goodman, deliberately destroyed important discoverable evidence. Such an act is criminal obstruction of justice in their state. McGill is disturbed by this but is about to settle the case and fears taking any action that would disrupt the settlement. Which of the following statements most accurately describes McGill's options under the Model Rules of Professional Conduct? 
+
+a. McGill must report Goodman's misconduct to the bar because it is a violation of the rules that reflects adversely on Goodman's honesty, trustworthiness, or fitness as a lawyer. 
+
+b. McGill may but need not report Goodman's misconduct to the bar because it is a violation of the rules that reflects adversely on Goodman's honesty, trustworthiness, or fitness as a lawyer. 
+
+c. McGill may not report Goodman's misconduct to the bar because it is information relating to the representation of his client. 
+
+d. McGill may report Goodman's misconduct to the bar only if he obtains his client's informed consent to do so. 
+
+
+### Question 4
+
+Goodman is an attorney who tried without success to destroy evidence in a bitter divorce case. Goodman "erased” and “deleted” a number of incriminating e-mails that his client had sent, for the purpose of making sure that those messages would not be available to her husband at trial. Unbeknownst to Goodman, however, it is extremely difficult to "erase” e-mail, and a forensic computer specialist was able to retrieve the messages and testify about Goodman's amateurish attempts to "destroy" them. Because he failed, Goodman did not violate the state obstruction of justice statute. Which of the following statements most accurately describes the propriety of Goodman's conduct under the Model Rules of Professional Conduct? 
+
+a. Goodman did not commit misconduct because he failed to destroy the evidence. 
+
+b. Goodman did not commit misconduct because he did not commit a crime. 
+
+c. Goodman committed misconduct because he attempted to violate a rule of professional conduct. 
+
+d. Goodman committed misconduct because he attempted to commit a criminal act that would have reflected adversely on his honesty, trustworthiness, or fitness as a lawyer. 
+
+
+### Question 5
+
+Wexler is an attorney who recently went into a state adjacent to the state where she is licensed and, while providing temporary legal services there, engaged in actions that constitute misconduct in both states. Assume that both states have adopted the Model Rules of Professional Conduct. Under the Model Rules of Professional Conduct, in which state or states is Wexler subject to discipline? 
+
+a. Wexler is subject to discipline in both states. 
+
+b. Wexler is subject to discipline only in the state where the conduct occurred. 
+
+c. Wexler is subject to discipline only in the state where the predominant effect of the misconduct occurred. 
+
+d. Wexler is subject to discipline only in the state where she is licensed.
+
+### Question 6
+
+Hamlin is a lawyer whose former law partner, McGill, began several years ago to display signs of dementia. As the symptoms grew worse, the firm instituted policies and procedures to make sure that no client matters were neglected, and Hamlin believes that those procedures were successful. McGill has now left the firm and opened his own law office. Hamlin has no reason to believe that the safeguards the firm had in place will be in place at McGill's new office. Several of Hamlin's clients have discharged Hamlin and retained McGill instead. Hamlin fears that McGill's deteriorating mental condition will cause harm to those former clients. Must Hamlin tell them about the problem? 
+
+
+### Question 8
+
+Schweikart is an attorney in a case about mortgage fraud. He learns that his opposing counsel assisted the opposing party in the fraud. Schweikart would like to threaten to reveal that information to the bar during negotiations to resolve the case. Under the Model Rules of Professional Conduct, would it be a permissible negotiation strategy for Schweikart to threaten to reveal to the bar the other lawyer's assistance in a fraud? 
+
+
+### Question 9
+
+Professor Fink has long dreamed of becoming an appellate judge. He learns that his rival on the faculty, Professor Armijo, is being considered for appointment to the court of appeals. Fink receives a call from a newspaper reporter, who asks about Armijo's judicial temperament. Under the Model Rules of Professional Conduct, what constraints are there on what Fink may say about Armijo? 
+
+
+### Question 10
 
 Attorney Applebaum is recognized as an expert in securities regulation law. Corporation retained Applebaum's law firm to qualify Corporation's stock for public sale. After accepting the matter, Applebaum decided that he preferred to spend his time on cases with larger fee potential, so he assigned responsibility for the Corporation matter to Attorney Becker, an associate in Applebaum's office who had recently been admitted to the bar. Becker protested to Applebaum that he, Becker, knew nothing about securities regulation law and that he had too little time to prepare himself to handle the Corp matter competently without substantial help from Applebaum. Applebaum responded, “I don't have time to help you. Everyone has to start somewhere." Applebaum directed Becker to proceed. Was Applebaum's conduct proper in this matter?
 
@@ -18,7 +97,7 @@ c. No, because Applebaum knew Becker was not competent to handle the matter, and
 
 d. No, because Corporation had not given Applebaum permission to assign Becker to work on the matter.
 
-### Question 2
+### Question 11
 
 Attorney places Associate, recently admitted to the bar, in complete charge of the work of the paralegals in Attorney's office. That work consisted of searching titles to real property, an area in which Associate had no familiarity. Attorney instructed Associate to review the searches prepared by the paralegals, and thereafter to sign Attorney's name to the required certifications of title if Associate was satisfied that the search accurately reflected the condition of the title. This arrangement enabled Attorney to lower office operating expenses. Attorney told Associate that Associate should resolve any legal questions that might arise and not to bother Attorney because Attorney was too busy handling major litigation. Is it proper for Attorney to assign Associate this responsibility?
 
@@ -30,7 +109,7 @@ c. No, unless it enables Attorney to charge lower fees for title certification.
 
 d. No, because Attorney is not adequately supervising the work of Associate.
 
-### Question 3
+### Question 12
 
 Applebaum & Becker, a general partnership, is a litigation firm that hires new law school graduates as associates. These new lawyers are largely left to their own resources to practice law. Applebaum & Becker accepts many small cases and assigns them to associates for training purposes. No senior partners are assigned to supervise this work. Client retained Applebaum & Becker to pursue a claim for breach of contract against City. Associate, a first year associate, was assigned Client's case. Associate failed to comply with the applicable 30-day notice requirement for filing a claim against City, and thus Client lost the chance to recover $5,000. Which of the following statements are  correct?
 
@@ -42,13 +121,13 @@ c. Associate is subject to discipline for incompetent representation.
 
 d. The partners and Associate are subject to civil liability for Client's loss.
 
-### Question 4
+### Question 13
 
 Associate was recently hired by the Smith Law Firm. Applebaum, a partner at the Smith Law Firm, has asked Associate to draft a complaint in a new case. Associate, who has researched the potential claims for the complaint, concluded that the claims may be frivolous. Applebaum has thoroughly reviewed Associate's research and determined that, although the claims are weak, they are not frivolous. Thus, Applebaum instructs Associate to file the complaint. 
 
 If it turns out that the claims were frivolous, would Associate be subject to discipline? Would Applebaum be subject to discipline?
 
-### Question 5
+### Question 14
 
 An attorney has a highly efficient staff of paraprofessional legal assistants, all of whom are graduates of recognized legal assistant educational programs. Recently, the statute of limitations ran against a claim of a client of the attorney's when a legal assistant negligently misplaced the client's file and suit was not filed within the time permitted by law. Which of the following is correct?
 
@@ -60,7 +139,7 @@ c. The attorney is subject to civil liability but is NOT subject to discipline u
 
 d. The attorney is NOT subject to civil liability and is NOT subject to discipline if the attorney personally was not negligent.
 
-### Question 6
+### Question 15
 
 Law Firm hires Adele, a non-lawyer, to supervision all routine administrative and financial matters for the firm. Adele reports to the firm's managing partner, who is also responsible for supervising the firm's associates. In addition to a monthly salary, Adele receives an annual bonus bonus based on a percentage of the firm's net income from fees. Is this arrangement proper?
 
@@ -72,7 +151,7 @@ c. No, because the law firm is sharing legal fees with a nonlawyer.
 
 d. No, because the law firm is assisting a nonlawyer in the unauthorized practice of law.
 
-### Question 7
+### Question 16
 
 Law Firm, a professional corporation with five lawyer shareholders, employs 25 additional lawyers. Which of the following are proper?
 
@@ -86,7 +165,7 @@ d. All of the above.
 
 e. None of the above. 
 
-### Question 8
+### Question 17
 
 Acton, a certified public accountant, has proposed to Attorney, a recognized specialist in the field of tax law, that Acton and Attorney form a partnership for the purpose of providing clients with tax-related legal and accounting services. Both Acton and Attorney have deserved reputations for being competent, honest, and trustworthy. Acton further proposes that the announcement of the proposed partnership, the firm stationery, and all public directory listings clearly state that Acton is a certified public accountant and that Attorney is a lawyer. Is Attorney subject to discipline if he enters into the proposed partnership with Acton?
 
@@ -95,11 +174,11 @@ b. Yes, because Attorney would be receiving fees paid for other than legal servi
 c. No, because the partnership will assure to the public high-quality services in the fields of tax law and accounting.
 d. No, if Attorney is the only person in the partnership who gives advice on legal matters.
 
-### Question 9
+### Question 18
 
 Same facts as previous question, but the partnership will be providing only accounting services. Is Attorney subject to discipline? 
 
-### Question 10
+### Question 19
 
 Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum's spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. 
 
@@ -113,7 +192,7 @@ c. No, because Dewey is a salaried employee and not a member or shareholder of t
 
 d. No, if Wickersham does not participate in any decision regarding a client or a client's case.
 
-### Question 11
+### Question 20
 
 Attorney has recently started her own law firm with four other lawyers as associates. The law firm has moved into an office in a new building which is owned by Bank. Attorney has borrowed heavily from Bank to finance her new law firm. In addition, Bank provides the law firm with accounting services through its computer. At Bank's suggestion, an employee of Bank, who is not a lawyer, serves as a part-time office manager for the law firm without compensation from the firm. The duties of the office manager are to advise the firm generally on fees and time charges, program matters for the computer services, and consult with Attorney on accounting and billing practices to ensure solvency. 
 
@@ -127,13 +206,13 @@ c. No, because a nonlawyer will be advising the law firm on fees and time charge
 
 d. No, because Bank's employee is involved in management of the law firm, without supervision by the firm's attorneys.
 
-### Question 12
+### Question 21
 
 Attorney is a member of the bar and a salaried employee of the trust department of Bank. As part of his duties, he prepares a monthly newsletter concerning wills and taxes which Bank sends to all of its customers. The newsletter contains a recommendation to the customer to review his or her will in light of information contained therein and, if the customer has any questions, to bring the will to Bank's trust department where a non-lawyer trust officer will answer any questions without charge. If the trust officer is unable to answer the customer's questions, the trust officer refers the customer to Attorney. 
 
 Is Attorney subject to discipline?
 
-### Question 13
+### Question 22
 
 Plaintiff, who is not a lawyer, is representing himself in small claims court in an action to recover his security deposit from his former landlord. Plaintiff told Attorney, a close friend who lived nearby him, about this case, but did not ask Attorney for any advice. Attorney said, “I'll give you some free advice. It would help your case if the new tenants would testify that the apartment was in good shape when they moved in, and, contrary to the allegation of your former landlord, it was not, in fact, repainted for them." Plaintiff followed Attorney's advice and won his case. 
 
@@ -148,7 +227,7 @@ c. No, because Plaintiff was representing himself in the
 
 d. No, because Attorney was not compensated for his advice.
 
-### Question 14
+### Question 23
 
 Attorney Adelman represents the wife in a marriage dissolution proceeding that involves bitterly contested issues of property division and child custody. The husband is represented by another lawyer, Lehrer. After one day of trial, the husband, through Lehrer, made a settlement offer. Because of the husband's intense dislike for Adelman, the proposed settlement requires that Adelman agree not to represent the wife in any subsequent proceeding, brought by either party, to modify or enforce the provisions of the decree. The wife wants to accept the offer, and Adelman believes that the settlement offer made by the husband is better than any award the wife would get if the case went to judgment. 
 
@@ -162,20 +241,20 @@ c. No, because the proposed settlement would restrict Adelman's right to represe
 
 d. No, unless Adelman believes that the wife's interests can be adequately protected by another lawyer in the future.
 
-### Question 15
+### Question 24
 
 Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year."
 
 - Is Applebaum subject to discipline if she requires Darrow to sign the contract?
 - Is Dewey subject to discipline if he signs the contract?
 
-### Question 16
+### Question 25
 
 Applebaum & Becker is a law firm specializing in real estate transactions. For years, Applebaum & Becker has used independent title insurance companies for its clients' real estate closings. The firm is considering starting its own title insurance company, which will be incorporated separately from the law firm but will be housed in the same building. 
 
 May the firm do so and what steps should it take to avoid violation of Rule 5.7?
 
-### Question 17
+### Question 26
 
 The Applebaum Law Firm's estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
 

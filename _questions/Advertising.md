@@ -2,9 +2,11 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Review Questions: Information About Legal Services'
+title: 'Advertising & Solicitation'
 
 ---
+
+## Questions
 
 ### Question 1. 
 
