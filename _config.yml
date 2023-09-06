@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /ProfessionalResponsibility
 title: Professional Responsibility
 
-last_updated: 28 August 2023  # leave blank if you don't want to display last updated
+last_updated: 6 September 2023  # leave blank if you don't want to display last updated
 
 author:
   name:  Eric M. Fink
@@ -32,6 +32,8 @@ coursebook:
 
 collections:
   casebook:
+    output: true
+  questions:
     output: true
 
 
