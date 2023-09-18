@@ -10,7 +10,6 @@ title: Duty of Care
 
 ## Competence, Diligence, & Communication
 
-</div>
 
 <div class="legal-code"> 
 
