@@ -1,3 +1,63 @@
+﻿---
+layout: page
+
+course: Professional Responsibility
+title: 'Attorney-Client Relationship'
+
+---
+
+### Question 1
+
+Father was extremely wealthy. When Father's son was arrested for selling drugs, Father wanted to hire the best lawyers in town to represent the son. Father therefore went to Lawyer's firm, a prestigious law firm that practiced almost exclusively in the areas of securities and banking law. For which of the following reasons may Lawyer's firm properly decline to represent Father's son? Select all that apply: 
+ 
+1. Father is not one of Lawyer's firm's regular clients. 
+2. The firm is not experienced in criminal litigation. 
+3. The firm does not want to devote time and resources to a potentially high-profile case that might distract from its current client matters. 
+4. Lawyer never liked Father and does not want to help him. 
+5. Lawyer avoids criminal defense because he believes all drug dealers are scum and do not deserve the "coddling" they receive in the criminal justice system. 
+
+
+
+### Question 2
+
+When Lawyer moved to her small town after law school, she opened a solo practice focusing on family law and real estate law. Many of Lawyer's clients worked at the local prison, a major employer in this small town. Despite working long hours, Lawyer was barely making ends meet. One day, the local Superior Court judge asked Lawyer to serve as court-appointed counsel in a civil rights claim filed by an inmate at the local prison alleging abuse by prison guards and neglect by the Warden. The judge believed that the inmate's hand-written complaint had enough merit to proceed, and the judge did not want the inmate to proceed pro se. The judge told Lawyer, "If you win, you'll be entitled to attorney's fees." The judge acknowledged, however, that the case could take months or even years to litigate. For which of the following reasons may Lawyer properly refuse the appointment from the judge? Select all that apply: 
+
+1. Lawyer may decline the case if she believes that representing the inmate may harm her professional reputation in this community. 
+2. Lawyer may decline the case if she in good faith believes she cannot take the financial risk involved in this representation. 
+3. Lawyer may decline the case because she is not an expert in civil rights matters. 
+4. Lawyer may decline the case if Lawyer does not like criminals and believes they deserve what they get in prison. 
+
+
+
+### Question 3
+
+Lawyer was retained by the officers of the Industrial Workers Union to draft new bylaws for the local chapter. Lawyer strongly disagreed with one of the bylaw provisions that the officers wanted to include. This provision would prevent the local chapter from voting on some issues that involve the expenditure of union funds. Lawyer believes that the provision was lawful and would support the interests of the national union, but would severely undermine the interests of the local chapter. Lawyer expressed her disagreement to the union, but the officers insisted on including this provision. If the union can obtain other counsel without harm to its interests, may Lawyer withdraw from representing the local chapter? 
+1. Yes, but only if she obtains the consent of her client. 
+2. Yes, because her client insisted on a course of action with which Lawyer fundamentally disagreed. 
+3. No, because once Lawyer accepted the representation, she was obliged to pursue her client's objectives. 
+4. No, unless the client has breached the agreement under which Lawyer accepted the representation. 
+
+### Question 4
+
+Lawyer represented Client in a series of loan applications with banks. Lawyer discovered that Client had falsified information in previous loan applications. Moreover, when Lawyer confronted Client about the problem, Client made clear he would submit false loan applications in the future. Which response most accurately satisfies Lawyer's professional responsibility? 
+
+1. Lawyer properly may withdraw from the representation. 
+2. Lawyer may not withdraw from the representation if Client's objectives would be frustrated by Lawyer's withdrawal in the middle of pending loan applications. 
+3. Lawyer may continue to represent Client if Lawyer decides the financial benefits of this representation outweigh the costs of Client's fraudulent loan applications. 
+4. Lawyer must withdraw from representing client. 
+
+
+### Question 5
+
+Lawyer consulted with Plaintiff about forming a lawyer-client relationship in a potential personal injury claim. Plaintiff disclosed sensitive information about the claim to Lawyer during this consultation. Lawyer decided not to represent Plaintiff, and Plaintiff proceeded with a different lawyer. Later, Defendant, the person whom Plaintiff sued, sought to retain Lawyer's firm represent Defendant against Plaintiff's claim. May Lawyer's firm properly represent Defendant in this matter? 
+
+1. Yes, because Lawyer never represented Plaintiff. 
+2. No, because Lawyer obtained information from Plaintiff about this matter when consulting with Plaintiff. 
+3. Yes, if Lawyer is timely and adequately screened from the matter and another lawyer in Lawyer's firm represents Defendant. 
+4. Yes, if Lawyer obtains informed consent waiving this conflict from Defendant. 
+
+### Question 6
+
 Lawyer represented Client in a criminal matter. The case went to trial, and Client decided he wanted to testify. Client also wanted to call his girlfriend as an alibi witness. Lawyer did not want to call either Client or the girlfriend as witnesses, believing that the testimony would hurt Client's case more than help it. Which response most accurately describes Lawyer's professional responsibility in deciding whether to call Client and his girlfriend as trial witnesses? 
 1. Lawyer may decide, after consultation with Client, whether to call Client and his girlfriend as witnesses. 
 Client retains ultiamete decisional authority over whether to testify in a criminal matter. See Model Rule 1.2(a). 
@@ -8,6 +68,7 @@ See Model Rule 1.2(a) and comment 2.
 The girlfriend's testimony typically would be treated as a means of representation, so the lawyer would be responsible for this decision, following consultation with the client and competent and diligent assessment of the case. See Model Rule 1.2, comment 2. 
 4. Lawyer must defer to Client's wishes, because Lawyer worked as an agent to Client, who was the principal in this relationship. A lawyer does not operate solely as the client's agent. See e.g., Model Rules 1.2 and 2.1. 
 
+### Question 7
 
 Lawyer represented Client in a criminal drug case. The prosecutor telephoned Lawyer and communicated a "now or never" two-year plea offer for Client. Lawyer did not tell Client about the offer, because Lawyer thought the offer was a lousy deal and Client should go to trial. Several months later as trial was about to begin, the prosecutor mentioned the previous plea offer in court. Client turned to Lawyer and said, "Why didn't you tell me? I might take that offer." The prosecutor indicated that the offer actually remained available if Client accepted it before the trial began. Lawyer consulted with Client, and advised Client, "I have investigated this case thoroughly. We have a strong defense. You face only three years if convicted after trial. I think you should go to trial and reject this offer." Client followed Lawyer's advice and went to trial. Is Lawyer subject to discipline for not telling Client about the plea offer for several months? 
 1. No, because Client learned of the plea offer ultimately at a time when he still could accept it, so Client was not prejudiced. 
@@ -22,7 +83,7 @@ Lawyer's duty to communicate this plea offer did not depnd on Client's request f
 5. No, because Client ultimately rejected the plea offer. 
 See Model Rule 1.4, comment 2.
 
-
+### Question 8
 
 Client was injured when a physician's assistant improperly treated Client when he was in the hospital for a heart condition. Client consulted with Lawyer about suing the hospital. Lawyer never had handled a medical malpractice case previously, but was confident in her abilities because she had experience in plaintiff's work and in trying civil cases, and planned to educate herself about medical malpractice claims. Accordingly, Lawyer accepted the representation. The case ultimately went to trial, and Lawyer lost the case. Client sued Lawyer for malpractice. Which of the following circumstances likely would demonstrate Lawyer's breach of her duty of competence to Client? Select all that apply: 
 1. Lawyer accepting a medical malpractice for the first time. 
@@ -39,7 +100,7 @@ Lawyer here failed to prepare thoroughly on a question that a reasonably lawyer 
 5. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment. 
 Lawyer here failed to prepare thoroughly on a question that a reasonably lawyer should have investigated. See Model Rule 1.1, comment 5.
 
-
+### Question 6
 
 Lawyer worked with Manager, the office manager at Lawyer's firm. Lawyer's firm had grown increasingly profitable over the years, in part due to Manager's efficient and reliable management of the office. Lawyer therefore wanted to recognize Manager's contribution's to her firm's success. Which of the following decisions most likely would violate the Model Rules? Select all that apply: 
 1. Lawyer adjusting Manager's compensation and retirement plans to include profit-sharing. 

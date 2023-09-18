@@ -62,3 +62,17 @@ B. Agreeing to represent Corporation, provided Corporation consents to the assoc
 C. Agreeing to represent Corporation, and then subcontracting the legal work to a lawyer with experience in government contract law.
 
 D. Agreeing to represent Corporation, intending to master the field of government contract law with reasonable speed and efficiency.
+
+### Question 7
+
+Client was injured when a physician's assistant improperly treated Client when he was in the hospital for a heart condition. Client consulted with Lawyer about suing the hospital. Lawyer never had handled a medical malpractice case previously, but was confident in her abilities because she had experience in plaintiff's work and in trying civil cases, and planned to educate herself about medical malpractice claims. Accordingly, Lawyer accepted the representation. The case ultimately went to trial, and Lawyer lost the case. Client sued Lawyer for malpractice. Which of the following circumstances likely would demonstrate Lawyer's breach of her duty of competence to Client? Select all that apply: 
+
+1. Lawyer accepting a medical malpractice for the first time. 
+
+2. Lawyer decided to call only one of expert medical witnesses with whom she had consulted as trial witnesses, when Client believed that the jury would be more impressed if Lawyer called multiple experts. 
+
+3. Lawyer did not investigate whether any other staff at the hospital witnessed the alleged improper treatment of Client. 
+
+4. Lawyer did not discover a published regulation governing required staff-to-patient ratios at the hospital. 
+
+5. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment. .
