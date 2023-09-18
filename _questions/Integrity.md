@@ -2,9 +2,12 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Maintaining the Integrity of the Profession'
+title: Review Questions
+
 
 ---
+
+## Maintaining the Integrity of the Profession
 
 ### Question 1 
 

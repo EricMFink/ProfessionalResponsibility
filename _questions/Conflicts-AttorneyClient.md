@@ -2,9 +2,11 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Attorney-Client Conflicts'
+title: Review Questions
 
 ---
+
+## Attorney-Client Conflicts
 
 ### Question
 

@@ -2,9 +2,11 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Conflicts'
+title: Review Questions
 
 ---
+
+## Conflicts of Interest
 
 ### Question 1
 

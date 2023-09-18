@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Attorney-Client Relationship'
+title: "Attorney-Client Relationship"
 
 ---
 

@@ -10,8 +10,6 @@ permalink: /questions/
 
 [Attorney-Client Relationship](http://www.emfink.net/ProfessionalResponsibility/questions/Attorney-Client)
 
-[Attorney-Client Relationship](http://www.emfink.net/ProfessionalResponsibility/questions/Attorney-Client)
-
 [Competence](http://www.emfink.net/ProfessionalResponsibility/questions/Competence)
 
 [Fees & Client Property](http://www.emfink.net/ProfessionalResponsibility/questions/Fees)

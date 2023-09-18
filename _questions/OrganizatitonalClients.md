@@ -2,9 +2,11 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Organizational Clients'
+title: Review Questions
 
 ---
+
+## Organizational Clients
 
 ### Question 1
 

@@ -2,11 +2,11 @@
 layout: page
 
 course: Professional Responsibility
-title: 'Advertising & Solicitation'
+title: Review Questions
 
 ---
 
-## Questions
+## Advertising & Solicitation
 
 ### Question 1. 
 
