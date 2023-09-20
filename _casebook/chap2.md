@@ -263,7 +263,7 @@ We disapprove the referee's finding that the television commercial at issue is c
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). 
 
-![](img/Pitbull2.jpg)
+![](../img/Pitbull2.jpg)
 
 In his answer(https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a reprimand(https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
 
