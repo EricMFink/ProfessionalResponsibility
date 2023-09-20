@@ -4,7 +4,7 @@ chapter: 6
 title: Conflicts of Interest 
 ---
 
-<p class="chapter-number">Chapter61</p>
+<p class="chapter-number">Chapter6</p>
 
 # Conflicts of Interest
 
@@ -875,8 +875,6 @@ These additional requirements will protect the public far more effectively than 
 While I agree with much of the majority opinion and agree that the significant conditions attached to Sarver's suspension, specifically probation, will help protect the public more effectively than the board's previously recommended discipline-by-consent agreement, I believe that a longer actual suspension of Sarver's Ohio law license is warranted. Therefore, I concur in part and dissent in part.
 
 I hope that in the future, this court will more often utilize probation, as was done in this case, as a means of protecting the citizens of Ohio from attorney misconduct.
-
-*** 
 
 <div class="comment">
 

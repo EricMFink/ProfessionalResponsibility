@@ -256,7 +256,6 @@ The pit bull logo and "1-800-PIT-BULL" phone number are in marked contrast to th
 
 We disapprove the referee's finding that the television commercial at issue is constitutionally protected speech that does not violate our attorney advertising rules. We find John Robert Pape and Marc Andrew Chandler guilty of violating the Rules Regulating the Florida Bar. We order that each attorney receive a public reprimand, which shall be administered by the Board of Governors of The Florida Bar upon proper notice to appear. We also direct Pape and Chandler to attend and complete the Florida Bar Advertising Workshop within six months of the date of this opinion.
 
-*** 
 <div class="comment">
 
 <p class="case-h1">Note on Pape</p>
