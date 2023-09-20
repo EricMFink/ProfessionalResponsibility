@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Attorney as Advocate
 
 ---
-
-## Attorney as Advocate
 
 ### Question 1
 

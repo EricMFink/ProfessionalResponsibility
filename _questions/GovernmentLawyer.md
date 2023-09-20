@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Government Lawyers & Prosecutors
 
 ---
-
-## Government Lawyers & Prosecutors
 
 ### Question 1
 

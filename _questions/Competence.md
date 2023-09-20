@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Competence, Diligence, & Communication
 
 ---
-
-## Competence, Diligence, & Communication
 
 ### Question 1
 

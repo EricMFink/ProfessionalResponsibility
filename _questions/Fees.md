@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Attorney Fees & Client Property
 
 ---
-
-## Attorney Fees & Client Property
 
 ### Question 1
 

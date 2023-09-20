@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Confidentiality & Evidentiary Privileges
 
 ---
-
-## Confidentiality & Evidentiary Privileges
 
 ### Question 1
 

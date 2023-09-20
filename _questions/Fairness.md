@@ -2,11 +2,9 @@
 layout: page
 
 course: Professional Responsibility
-title: Review Questions
+title: Duties to Courts, Opposing Parties, & Others
 
 ---
-
-## Duties to Courts, Opposing Parties, & Others
 
 ### Question 1
 

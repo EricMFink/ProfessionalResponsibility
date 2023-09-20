@@ -837,7 +837,7 @@ So much of the section of the Penal Law under which the conviction was obtained 
 
 The defendant, at the time stated in the information, was a notary public, living at 475 Park avenue, Brooklyn, in the basement of which he had a small office for the transaction of business. Over the entrance of the office was the following sign:
 
-\includegraphics[width=0.75\columnwidth]{../assets/img/Alfani.png}
+![](../assets/img/Alfani.png)
 
 On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment. His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
 
