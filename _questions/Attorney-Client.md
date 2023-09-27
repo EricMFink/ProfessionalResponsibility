@@ -1,8 +1,8 @@
-﻿---
+---
 layout: page
 
 course: Professional Responsibility
-title: Attorney-Client Relationship
+title: "Attorney-Client Relationship"
 
 ---
 
@@ -176,4 +176,3 @@ Attorney is representing Defendant on charges of drug trafficking. The judge in 
 ### Question 15
 
 Attorney has been asked by his client, the owner of a rare book store, to give the client's bank a legal opinion that the client is in compliance with various loan covenants. As Attorney proceeds with the investigation, it becomes clear that the client has no intention of  ating and giving Attorney all the documentation that Attorney needs. It seems clear to Attorney that if he presses for more information, he will be fired. Under the Model Rules of Professional Conduct, what advice should Attorney give to his client about the legal opinion he will have to give under these circumstances?  
-
