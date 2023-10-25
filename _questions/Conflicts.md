@@ -156,49 +156,12 @@ L is a partner in the Smith Law Firm. While at the Smith Law Firm, L represents 
 
 ### Question 3.1
 
-A lawyer represents a client in a divorce and child custody case. The client tells the lawyer that her husband is very protective of his elderly parents and that, if the lawyer will subpoena the parents for depositions, the husband is much more likely to be reasonable in negotiations. The lawyer knows that the parents do have relevant, discoverable information regarding custody issues, but the lawyer firmly believes that the depositions would do more harm (to the parents and to the negotiation process) than good. Which of the following statements most accurately describes the lawyer's obligations and/or options under the Model Rules of Professional Conduct? 
+An attorney regularly represents clients in divorce cases. The attorney has fallen in love with a client in the midst of a case, and the two of them are discussing whether it would be appropriate to begin a sexual relationship. Which of the following most accurately describes the lawyer's options under the Model Rules of Professional Conduct? 
 
-a. The lawyer must consult with the client about the benefits and detriments of taking the depositions but then may seek to withdraw if the lawyer has a fundamental disagreement with the client's instructions. 
-b. The lawyer must consult with the client about the benefits and detriments of taking the depositions but then has the authority to decide whether or not he should take them. 
-c. The lawyer must exercise his independent professional judgment about whether it would be in his client's interests to take the depositions. 
-d. The lawyer must consult with the client about the benefits and detriments of taking the depositions but then must follow the client's instructions regarding whether or not to take them. 
-
-### Question 3.2
-
-A lawyer is representing a defendant in an employment discrimination case. The lawyer receives a settlement demand from the plaintiff. The lawyer believes that the settlement demand is excessive and expects her client to reject it. Which of the following most accurately states the lawyer's obligations under the Model Rules of Professional Conduct? 
-
-a. The lawyer must communicate the demand to her client unless the client has previously indicated that such a demand would be excessive. 
-b. The lawyer must communicate the demand to the client and give the client the benefit of her professional judgment and candid advice about the excessiveness of the demand. 
-c. The lawyer must communicate the demand to the client and give the client the benefit of her professional judgment and candid advice about the excessiveness of the demand, unless the client has previously indicated that such a demand would be excessive. 
-d. The lawyer must communicate the demand to her client. 
-
-### Question 3.3
-
-A lawyer who specializes in criminal defense work is approached by a prospective client who has been indicted for money laundering. The lawyer has handled many such cases and his customary flat fee is $50,000, which is equal to the prevailing market rate in his community for defense of complex crimes. The client, however, only has about $50,000 in liquid assets, and the trial is not expected to be complete for many months. The client cannot find work because of the pendency of the charges. Which of the following statements most accurately describes the lawyer's options under the Model Rules of Professional Conduct? 
-
-a. The lawyer may accept the case on a contingent basis and charge more than the standard $50,000. 
-b. The lawyer may charge the standard $50,000 but then loan the money back to the client to allow the client to have money to live on. 
-c. The lawyer may decline the case because the client cannot afford his usual fee. 
-d. The lawyer must accept the client's case for a reduced fee unless doing so would cause the lawyer to suffer an unreasonable financial burden. 
-
-
-### Question 3.4
-
-The law firm of A & K has office in many cities in the United States. Lawyers in its Dallas office represent Hanafil, Inc. in connection with that company's efforts to purchase the assets of another company. Lawyers in the Seattle office of the firm have been asked to represent a new client in connection with a lawsuit that this client wishes to file against Hanafil, Inc. Which of the following statements most accurately describes the law firm's options under the Model Rules of Professional Conduct? 
-
-a. The firm may undertake the new representation because the matters are unrelated. 
-b. The firm may not undertake the new matter. 
-c. The firm may not undertake the new matter without the informed consent of Hanafil and the new Seattle client. 
-d. The firm may undertake the new representation because the matters are being handled by offices in different cities. 
-
-### Question 3.5
-
-A female attorney regularly represents men in divorce cases. The attorney has fallen in love with a client in the midst of a case, and the two of them are discussing whether it would be appropriate to begin a sexual relationship. Which of the following most accurately describes the lawyer's options under the Model Rules of Professional Conduct? 
-
-a. The lawyer may commence a consensual sexual relationship with her client. 
-b. The lawyer may not commence a sexual relationship with her client while he is a client. 
-c. The lawyer may commence a sexual relationship with her client as long as by doing so she  is not unfairly exploiting her fiduciary role and using her client's trust to his disadvantage. 
-d. The lawyer may commence a sexual relationship with her client as long as she obtains the  client's informed consent, confirmed in writing, to the conflict of interest that is created by the sexual relationship. 
+a. The lawyer may commence a consensual sexual relationship with the client. 
+b. The lawyer may not commence a sexual relationship with the client until the representation is concluded. 
+c. The lawyer may commence a sexual relationship with the client as long as by doing so the lawyer is not unfairly exploiting the lawyer's fiduciary role and taking advantage of the client's trust.
+d. The lawyer may commence a sexual relationship with the client if the client gives informed consent, confirmed in writing. 
 
 ### Question 3.6
 
