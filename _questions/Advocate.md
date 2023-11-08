@@ -6,184 +6,211 @@ title: Attorney as Advocate
 
 ---
 
-### Question 1
+## 1. Meritorious Claims and Defenses 
 
-Cody Caldwell is an attorney who is representing the plaintiff in litigation over a breached contract. Under the applicable law, the plaintiff is entitled to recover reasonable attorney's fees as part of the remedy for the breach. Cody is the only person who can testify from personal knowledge about the hours spent on the case and the necessity for the work. Which of the following most accurately states Cody's options under the Model Rules of Professional Conduct? 
+### Question 1.1 
 
-a. Cody may testify about attorney's fees and still serve as his client's advocate. 
-b. Cody must withdraw from his role as advocate because he is a necessary witness in the case, but another lawyer in Cody's firm may act as advocate in the case for the client. 
-c. Cody must withdraw from his role as advocate because he is a necessary witness in the case, and no lawyer in Cody's firm may act as advocate for the plaintiff in the case. 
-d. Cody may not testify because he is the advocate for the plaintiff.
+Client believes that a city ordinance violates the state constitution and consults with Lawyer about bringing a suit to challenge the ordinance. Lawyer explains that, in a similar case ten years ago, the state Supreme Court held that the ordinance is constitutional. Client neverless wants to pursue a new challenge and asks if Lawyer will file the suit. Which of the following statements most accurately describes Gerald's options under the Model Rules of Professional Conduct? 
 
-
-### Question 2
-
-Emily Halpert is a criminal defense attorney. She recently held a press conference in which she told the press that one of her clients, Georgia Jackson, has been wrongfully accused of murder in the death of Georgia's boyfriend. Emily described the tests that her office had done on Georgia's car and stated that Georgia's car contained no fibers that matched the rug in which the boyfriend was wrapped when his body was found. Which of the following statements most accurately describes the propriety of Emily's statement under the Model Rules of Professional Conduct? 
-
-a. Emily's statement is permitted because it is protected by the First Amendment to the United 
-States Constitution. 
-b. Emily's statement is permitted because it is within the “safe harbor" of permitted statements 
-by defense counsel. 
-c. Emily's statement is not permitted because it relates to a case in which she represents one 
-of the parties. 
-d. Emily's statement is not permitted because it reveals the result of a test on physical evidence in the case.
+a. Lawyer may file the case as long as he believes that he will prevail. 
+b. Lawyer may not file the case because it is frivolous. 
+c. Lawyer may file the case only if a reasonable attorney would conclude that there is a reasonable chance that the state Supreme Court will overturn the existing precedent. 
+d. Lawyer may file the case as long as he has a good faith argument to reverse the existing precedent. 
 
 
-### Question 3
+### Question 1.2
 
-Dale Lambert is an attorney who represents Advanced Avionics, Inc. (AAI), a corporation that has been sued for defrauding the United States Government in connection with a contract to provide certain aircraft systems to the Air Force. Dale has just tracked down and interviewed a retired former employee of AAI, and this employee's testimony would not be helpful to AAI. The former employee, however, is living on his pension from the company and is loyal to AAI's interests. The former employee has nothing to gain from talking to the lawyers for the plaintiff. Dale secures an agreement from the former employee not to speak informally with the lawyers for the plaintiff in the case. Which of the following statements most accurately describes the propriety of Dale's actions under the Model Rules of Professional Conduct? 
+Attorney represents Client, whose son attempted suicide after being “cyber-bullied” on FaceBook. Attorney intends to file a civil suit against the cyber-bullies to recover damages allegedly caused by their actions. No court in the jurisdiction has ever considered whether there is a civil cause of action for cyber-bullying. May Attorney file this case, consistent with her responsibilities under the Model Rules of Professional Conduct? 
 
-a. Dale violated the Rules because he asked a former employee not to talk to the plaintiff's lawyers. 
-b. Dale violated the Rules because lawyers may not ask witnesses to refrain from voluntarily giving information to another party. 
-c. Dale did not violate the Rules because the former employee's interests will not be adversely affected by refraining from giving information to plaintiff's counsel. 
-d. Dale did not violate the Rules because the witness is a former employee of Dale's client.
+### Question 1.3
 
+Attorney represents Doctor, who believes that Insurance Company has been manipulating the coding of medical procedures to deny payments for covered medical procedures. Attorney concludes that there is a non-frivilous legal and factual basis for the claim, but that the chances of success are extremely low. Attorney explains this to Doctor, who replies "I don't really care about winning, the money isn't important to me. But I'm hoping a suit will expose the health insurance companies' unscrupulous practices and build support for replacing private insurance with a "Medicare for All" single-payer national health insurance program." If Attorney files the suit, is Attorney subject to discipline under the Model Rules of Professional Conduct? 
 
-### Question 4
+## 2. Expediting Litigation 
 
-Vickie Pickard is an attorney who is representing Earl Siebert in a criminal case. Earl wants Vickie to call his girlfriend as an alibi witness. Vickie does not know, but she reasonably suspects, that the girlfriend will be presenting false evidence. Which of the following statements most accurately describes Vickie's options under the Model Rules of Professional Conduct? 
+### Question 2.1 
 
-a. Vickie must call the witness because she does not know that the testimony will be false, and her client has instructed her to call the witness. 
-b. Vickie must withdraw from the case because to continue will require her to violate the Rules of Professional Conduct. 
-c. Vickie has the option to call the witness or to refuse to call the witness. 
-d. Vickie may not call the witness because Vickie reasonably believes that the witness will be presenting false evidence. 
+Attorney has a case set for trial next week. Attorney has just learned that his father is in the hospital with a serious infection. As it happens, Attorney's client would benefit financially from a delay in the trial. Which of the following statements most accurately describes Attorney's options under the Model Rules of Professional Conduct? 
 
-
-### Question 5
-
-Deborah Laney is an attorney who is representing a client in a civil case. The case has gone well, and the parties are awaiting the jury's verdict. Deborah learns from her client that the opposing party in the case threatened a witness just before the witness testified on behalf of Deborah's client. To make such a threat is a crime in Deborah's jurisdiction. Which of the following statements most accurately describes Deborah's options under the Model Rules of Professional Conduct? 
-
-a. Deborah must take reasonable remedial measures including, if necessary, disclosure of the threat to the tribunal. 
-b. Deborah may disclose the threat to the tribunal only with the informed consent of her client because the making of the threat is information relating to the representation and thus is confidential. 
-c. Deborah need not disclose the threat to the tribunal because it was made by someone other than her client or her client's agents. 
-d. Deborah may but need not disclose the threat to the tribunal, since the witness apparently was not affected by the threat. 
+a. Attorney may not seek a continuance of the trial because his client will benefit financially from the delay. 
+b. Attorney may not seek to delay the trial because lawyers have an obligation to expedite litigation. 
+c. Attorney may seek continuance of the trial because he has a substantial purpose other than delay. 
+d. Attorney may seek continuance of the trial because doing so is consistent with the financial interests of the client. 
 
 
-### Question 6
+## 3. Candor Toward the Tribunal 
 
-Amy Simon is an attorney whose client, Fred Birmingham, has been sued by his brother for exercising undue influence over his mother when his mother signed her last will and testament. Fred asks Amy whether it would be all right for him to destroy the letters that he exchanged with his mother during her last years because, he says, they are private and he does not want anyone to see them. With respect to advising Fred about the destruction of the letters, which of the following statements most accurately sets forth Amy's obligations under the Model Rules of Professional Conduct? 
+### Question 3.1
 
-a. Amy must not allow Fred to destroy the letters because they have potential evidentiary value. 
-b. Amy must first determine if the destruction of the letters would be unlawful. 
-c. Amy may allow Fred to destroy the letters as long as they have not been subpoenaed or 
-requested by Fred's brother in the litigation. 
-d. Amy may advise Fred that he has the right to destroy the letters but Amy must not 
-personally participate in their destruction. 
+Attorney is preparing to file a brief in opposition to a motion for summary judgment. The suit is in North Carolina state court and the claims are governed by North Carolina law. Attorney has found an opinion from the North Carolina Supreme Court, in which the holding is directly contrary to Attorney's arguments against summary judgment. Opposing counsel cited the case in their brief, but did not discuss it in any detail. Which of the following statements most accurately describes Justin's options under the Model Rules of Professional Conduct? 
 
-
-### Question 7
-
-Sophie Wasserman is an attorney who, to her great surprise and disappointment, has just lost a jury trial. She wants to investigate whether there was juror misconduct that would give her a basis for a motion for new trial. As part of her investigation, Sophie wants to interview the jurors who served during her trial. Which of the following statements most accurately reflects Sophie's obligations under the Model Rules of Professional Conduct? 
-
-a. The lawyer may communicate with the jurors unless doing so would violate a court rule or a court order. 
-b. The lawyer may communicate with the jurors unless the communication would involve coercion, misrepresentation, duress, or harassment. 
-c. The lawyer may not communicate with the jurors. 
-d. The lawyer may not communicate with a juror who has made known to the lawyer a desire not to communicate with the lawyer. 
+a. Attorney need not cite the case, because opposing counsel disclosed it. 
+b. Attorney must cite the case, because it is directly on point. 
+c. Attorney must cite the case, because it is from the highest appellate court in the state. 
+d. Attorney must not cite the case, because it would violate Attorney's duty of zealous advocacy for their client. 
 
 
-### Question 8
+### Question 3.2
 
-Gerald Redmond is an attorney who has been asked by a client to file suit to have the state's Defense of Marriage Act (DOMA) held unconstitutional under the state's Constitution. Fifteen years ago, the state Supreme Court held squarely that the DOMA is constitutional under the state Constitution. Which of the following statements most accurately describes Gerald's options under the Model Rules of Professional Conduct? 
+Attorney represents Defendant in a criminal case. Defendant wants Attorney to call Walker as an alibi witness. Attorney does not know, but reasonably suspects, that Walker's testimony will be false. Which of the following statements most accurately describes Attorney's options under the Model Rules of Professional Conduct? 
 
-a. Gerald may file the case as long as he believes that he will prevail. 
-b. Gerald may not file the case because it is frivolous. 
-c. Gerald may file the case only if a reasonable attorney would conclude that there is a reasonable chance that the state Supreme Court will overturn the existing precedent. 
-d. Gerald may file the case as long as he has a good faith argument to reverse the existing precedent. 
+a. Attorney must call the witness as requested by Defendant, because Attorney does not know that the testimony will be false. 
+b. Attorney must withdraw from the case, because continuing to represent Defendant will require Attorney to violate the Rules of Professional Conduct. 
+c. Attorney has the option to call the witness or to refuse to call the witness. 
+d. Attorney may not call the witness, because Attorney reasonably believes that the witness's testimony will be false. 
 
+### Question 3.3
+
+Attorney has just learned from a former client that the client lied at a court appearance in the client's case, which concluded a month ago. Which of the following statements most accurately describes Attorney's duties under the Model Rules of Professional Conduct? 
+
+a. Attorney must seek to have the former client correct his testimony but, if that effort fails, inform the court that the former client lied. 
+b. Attorney may not reveal the former client's false testimony because to do so would violate Attorney's duty of confidentiality. 
+c. Attorney must reveal the former client's false testimony because the former client perpetrated a fraud on the court. 
+d. Attorney has no duty to reveal the former client's false testimony because the proceeding is concluded. 
+
+
+### Question 3.4
+
+Attorney represents Client at a deposition. Client testifies to something that Attorney knows is false. What duties, if any, does Attorney have under the Model Rules of Professional Conduct? 
+
+
+### Question 3.5
+
+Attorney represents Plaintiff in a lawsuit. During the trial, Attorney introduced a document into evidence. After the case is submitted to the jury, but before the jury comes back with a verdict, Attorney learns that Plaintiff altered the date of the document to defeat the defendant's argument that Plaintiff's suit is barred by the statute of limitations. What is Attorney's duty under the Model Rules of Professional Conduct? 
+
+
+## 4 Fairness to Opposing Party & Counsel
+
+### Question 4.1
+
+Attorney represents Advanced Avionics, Inc. (AAI), a corporation that has been sued for defrauding the United States Government in connection with a contract to provide certain aircraft systems to the Air Force. Attorney has just tracked down and interviewed a retired former employee of AAI and concluded that their testimony would not be helpful to AAI. The former employee is living on a pension from the company and is loyal to AAI's interests. The former employee has nothing to gain from talking to the lawyers for the plaintiff. Attorney secures an agreement from the former employee not to speak informally with the lawyers for the plaintiff in the case. Which of the following statements most accurately describes the propriety of Attorney's actions under the Model Rules of Professional Conduct? 
+
+a. Attorney violated the Rules by asking their client's former employee not to talk to the plaintiff's lawyers. 
+b. Attorney violated the Rules because lawyers may not ask anyone to refrain from voluntarily giving information to another party. 
+c. Attorney did not violate the Rules if the former employee's interests will not be adversely affected by refraining from giving information to plaintiff's counsel. 
+d. Attorney did not violate the Rules because the witness is a former employee of Attorney's client.
+
+
+### Question 4.2
+
+Attorney represents Client, who has been sued by Client's brother for exercising undue influence over their mother when she signed her last will and testament. Client asks Attorney whether it would be all right to destroy letters he exchanged with his mother during her last years. Client explains that the letters are private and he does not want anyone to see them. Which of the following statements most accurately sets forth Attorney's obligations under the Model Rules of Professional Conduct? 
+
+a. Attorney must not allow Client to destroy the letters if they have potential evidentiary value. 
+b. Attorney must first determine if the destruction of the letters would be unlawful. 
+c. Attorney may allow Client to destroy the letters as long as they have not been subpoenaed or requested by Client's brother in the litigation. 
+d. Attorney may advise Client that he has the right to destroy the letters but Attorney must not personally participate in their destruction. 
+
+
+
+## 5. Impartiality and Decorum of the Tribunal 
+
+### Question 5.1
+
+Attorney represents Client in a civil case. The case has gone well, and the parties are awaiting the jury's verdict. Attorney learns from Client that the opposing party in the case threatened a witness just before the witness testified on behalf of Client. Threatening a witness is a crime. Which of the following statements most accurately describes Attorney's options under the Model Rules of Professional Conduct? 
+
+a. Attorney must take reasonable remedial measures including, if necessary, disclosure of the threat to the tribunal. 
+b. Attorney may disclose the threat to the tribunal only with the informed consent of Client because the making of the threat is information relating to the representation and thus is confidential. 
+c. Attorney need not disclose the threat to the tribunal because it was made by someone other than Client or Client's agents. 
+d. Attorney may but need not disclose the threat to the tribunal, since the witness apparently was not affected by the threat. 
+
+### Question 5.2
+
+Attorney just lost a jury trial and suspects the verdict was tainted by juror misconduct that would provide a basis for a motion for new trial. Attorney wants to interview the jurors who served during her trial. Which of the following statements most accurately reflects Attorney's obligations under the Model Rules of Professional Conduct? 
+
+a. Attorney may communicate with the jurors unless doing so would violate a court rule or a court order. 
+b. Attorney may communicate with the jurors unless the communication would involve coercion, misrepresentation, duress, or harassment. 
+c. Attorney may not communicate with the jurors. 
+d. Attorney may not communicate with a juror who has made known to the lawyer a desire not to communicate with Attorney. 
+
+
+### Question 5.3
+
+Attorney represents the defendant in a products liability case. During a break in the trial, Attorney and one of the jurors in the case are both riding in the same elevator. Which of the following statements most accurately describes Attorney's obligations under the Model Rules of Professional Conduct? 
+
+a. Attorney may communicate with the juror if the conversation is limited to ordinary social pleasantries. 
+b. Attorney may communicate with the juror, but must report the conversation immediately to the court and the plaintiff's counsel. 
+c. Attorney may communicate with the juror, unless the juror made known to the lawyer that she does not wish to communicate with Attorney. 
+d. Attorney may not communicate with the juror, unless the communication is authorized by law or court order. 
+
+## 6. Trial Publicity
+
+### Question 6.1
+
+Attorney represents Defendant, who is charged with murdering Victim. Attorney held a press conference during which Attorney made the following statements: 
+
+- "Defendant is innocent and had nothing at all to do with Victim's death." 
+- "Victim's body was discovered wrapped in a rug. Tests of Defendant's car showed no no fibers matching that rug." 
  
-### Question 9
+Which of the following statements most accurately describes the propriety of Attorney's statement under the Model Rules of Professional Conduct? 
 
-Chad Timson is an attorney who has a case set for trial next week. Chad has just learned that his father is in the hospital with a serious infection. As it happens, Chad's client would benefit financially from a delay in the trial. Which of the following statements most accurately describes Chad's options under the Model Rules of Professional Conduct? 
-
-a. Chad may not seek a continuance of the trial because his client will benefit financially from the delay. 
-b. Chad may not seek to delay the trial because lawyers have an obligation to expedite litigation. 
-c. Chad may seek continuance of the trial because he has a substantial purpose other than delay. 
-d. Chad may seek continuance of the trial because doing so is consistent with the financial interests of the client. 
+a. Attorney's statement is permitted because it is protected by the First Amendment to the United States Constitution. 
+b. Attorney's statement is permitted because it is within the “safe harbor" of permitted statements by defense counsel. 
+c. Attorney's statement is not permitted because it relates to a case in which Attorney represents a party. 
+d. Attorney's statement is not permitted because it reveals the result of a test on physical evidence in the case.
 
 
-### Question 10
+## 7 Lawyer as Witness
 
-Samuel Graham is an attorney who is in trial in a products liability case. During a break in the trial, he finds himself in an elevator with one of the jurors. Which of the following statements most accurately describes Samuel's obligations under the Model Rules of Professional Conduct? 
+### Question 7.1
 
-a. He may communicate with the juror as long as he limits his conversation to ordinary social pleasantries. 
-b. He may communicate with the juror as long as he reports the conversation immediately to the court and his opposing party. 
-c. He may communicate with the juror as long as the juror has not made known to the lawyer that she does not wish to communicate with him. 
-d. He may not communicate with the juror unless he has been authorized by law or by court order to do so. 
+Attorney represents the plaintiff in an employment discrimination suit. Under the applicable law, a prevailing plaintiff is entitled to recover reasonable attorney's fees as part of the remedy. Attorney is the only person who can testify from personal knowledge about the hours spent on the case and the necessity for the work. Which of the following most accurately states Attorney's options under the Model Rules of Professional Conduct? 
 
-
-### Question 11
-
-Justin Braswell is an attorney who is preparing to file a brief in opposition to a motion for summary judgment. Justin has located a case directly on point from his state's highest appellate court, the Supreme Court, but unfortunately the holding of the case is very harmful to Justin's arguments against summary judgment. Opposing counsel cited the case but did not realize how helpful it would have been to her motion. Which of the fo statements most accurately describes Justin's options under the Model Rules of Professional Conduct? 
-
-a. Justin need not cite the case because opposing counsel disclosed it. 
-b. Justin must cite the case because it is directly on point. 
-c. Justin must cite the case because it is from the highest appellate court in the state. 
-d. Justin must not cite the case because it would violate his duty to be a zealous advocate for 
-his client. 
+a. Attorney may testify about attorney's fees and still represent the client in the litigation. 
+b. Attorney must withdraw from representing the client in the litigation, because Attorney is a necessary witness in the case, but another lawyer in Attorney's firm may represent the client in the litigation. 
+c. Attorney must withdraw from representing the client in the litigation, because Attorney is a necessary witness in the case, and no other lawyer in Attorney's firm may represent the client in the litigation. 
+d. Attorney may not testify because Attorney is representing the client in the litigation.
 
 
-### Question 12
+## 8. Special Responsibilities of Prosecutors
 
-Glen Bogue is an attorney who is preparing his opening statement in a tort case that is about to go to trial. He wants to tell the jury about a theory of the case that will be supported by admissible evidence only if a test performed by his expert witness is deemed by the judge to be admissible. He is unsure whether the test will be admitted into evidence and therefore uncertain about whether to mention the conclusion it supports in his opening statement. Which of the following statements most accurately describes Glen's obligations under the Model Rules of Professional Conduct? 
-a. Glen may mention the conclusion in his opening statement as long as he reasonably believes that the supporting evidence will be admitted. 
-b. Glen may mention the conclusion in his opening statement as long as he has a good faith 
-belief that the test will be admitted into evidence. 
-c. Glen must not mention the conclusion in his opening statement unless he has obtained a 
-prior ruling from the court that the supporting evidence will be admitted. 
-d. Glen may mention the conclusion in his opening statement as long as he has a nonfrivolous 
-argument for the admissibility of the supporting evidence. 
+### Question 8.1
 
+Defendant is charged with murder. The crime scene investigation unit collected DNA samples from the crime scene and had them tested. None of the samples matched Defendant's DNA, but did match another person who had been a suspect. Despite requests by defense counsel, Prosecutor failed to disclose the DNA test results. Is Prosecutor subject to discipline?
 
+### Question 8.2
 
-### Question 13
+Prosecutor plans to run for reelection in 6 months. Last year two teenage girls were kidnapped from a shopping center. The community was in an uproar and demanded a conviction. Four months ago, Defendant was arrested and charged with the kidnapping. The trial is scheduled for next week. Prosecutor met with the police chief last week and learned for the first time that, before they were interviewed, the two victims had been tape-recorded discussing the case. Reviewing the tape, Prosecutor realized that the girls' descriptions of the kidnapper differed significantly. When officially interviewed, however, their descriptions matched perfectly. Defendant's counsel, who had the right to request access to the prosecution's investigative file, failed to do so. Prosecutor reasonably believes Defendant committed the crimes, so Prosecutor did not reveal the existence of the tape to defense counsel. 
 
-Jane Peters is a prosecutor. Ten years ago, she obtained the conviction of Charles Storey for the rape and murder of a young girl. Jane has now received DNA test results that provide clear and convincing evidence that Charles is innocent of the crimes for which he was convicted. Which of the following statements most accurately describes Jane's obligations under the Model Rules of Professional Conduct? 
+- Is Prosecutor subject to discipline?
+- Is Defendant's counsel subject to discipline?
 
-a. Jane has no obligation to do anything about the new evidence. 
-b. Jane must seek to remedy the conviction. 
-c. Jane must promptly disclose the evidence to the defendant and undertake further investigation. 
-d. Jane must promptly disclose the evidence to the court in which the conviction was obtained. 
+### Question 8.3
+
+Defendant is charged with robbery of a convenience store. Defendant denied any involvement, contending that he was home watching television with his mother on the night in question. During the trial, Prosecutor calls Customer, who was in the convenience store during the robbery, as a witness. Customer testified that he had identified Defendant in a police line-up and provided other testimony connecting Defendant to the crime. Prosecutor also entered into evidence a poor-quality surveillance camera recording of the robbery. The jury convicted Defendant of the robbery. Unknown to Defendant's lawyer, Customer had first identified another person in the police lineup and selected Defendant only after encouragement by the detective conducting the lineup. Prosecutor was aware of these facts but did not notify Defendant's counsel, who made no pretrial discovery request to obtain this information. 
+
+Is Prosecutor subject to discipline?
 
 
-### Question 14
+a. Yes, unless the jury could make its own identification of Deft from the videotape.
 
-Curt Gillespie is prosecuting Lucille Lemieux for the murder of Lucille's probation officer. The prosecution is seeking the death penalty. Curt has gathered unprivileged information in the course of his investigation that shows what an unspeakably horrible childhood Lucille had. Curt knows that this information would be significant mitigation evidence at the sentencing phase of trial. Which of the following statements most accurately reflects Curt's options under the Model Rules of Professional Conduct? 
+b. Yes, because this information tended to negate Defendant's guilt.
 
-a. Curt must make timely disclosure of the evidence to the defense. 
-b. Curt need not disclose the evidence to the defense because it does not relate to the defendant's guilt. 
-c. Curt need not disclose the evidence to the defense because it is attorney work product. 
-d. Curt must disclose the evidence to the defense if and when the defense requests it.
+c. No, because Defendant's counsel made no pretrial discovery request to obtain this information.
 
+d. No, unless it is likely that the jury would have acquitted Defendant had it known that Witness first identified someone else.
 
-### Question 15
+### Question 8.4
 
-Stephen Carroll is an attorney who has just learned from a former client that the client lied at a court appearance in the client's case, which concluded a month ago. Which of the following statements most accurately describes Stephen's duties under the Model Rules of Professional Conduct? 
+Five year ago, Defendant was convicted of armed robbery in Green County and sentenced to imprisonment for 10 years. Two years ago, Lawyer is elected District Attorney for Green County. Last week, Lawyer was presented with convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
 
-a. Stephen must seek to have the former client correct his testimony but, if that effort fails, inform the court that the former client lied. 
-b. Stephen may not reveal the former client's false testimony because to do so would violate Benjamin's duty of confidentiality. 
-c. Stephen must reveal the former client's false testimony because the former client perpetrated a fraud on the court. 
-d. Stephen has no duty to reveal the former client's false testimony because the proceeding is concluded. 
+What are Lawyer's ethical obligations?
 
 
-### Question 16
+### Question 8.5
 
-Shelley Henderson is an attorney who is representing her client at a deposition. The client testifies to something that Shelley knows is false. What duties, if any, does Shelley have because she knows her client is testifying to something that is false? 
+Ten years ago, Prosecutor obtained the conviction of Defendant for murder of a young girl. Prosecutor has now received DNA test results that provide clear and convincing evidence that Defendant is innocent of the crime. Which of the following statements most accurately describes Prosecutor's obligations under the Model Rules of Professional Conduct? 
 
-### Question 17
-
-Victor Stroman is a young associate at a law firm. His superior tells Victor to tell a prospective expert witness that, if the expert will testify for the firm's client and if the client wins, the firm will ask the expert to testify in numerous other similar cases. Under what circumstances, if any, 
-may Victor do as instructed? 
-
-### Question 18
-
-Michelle Dumars is an attorney whose client has just delivered to her a gun that, the police believe, was used by the client to commit a murder. The client claims that he did not commit the murder. Michelle intends to turn the gun over to the police. Under the Model Rules of Professional Conduct, what should Michelle be concerned about before having the gun tested before turning it over to the police? 
+a. Prosecutor has no obligation to do anything about the new evidence. 
+b. Prosecutor must seek to remedy the conviction. 
+c. Prosecutor must promptly disclose the evidence to the defendant and undertake further investigation. 
+d. Prosecutor must promptly disclose the evidence to the court in which the conviction was obtained. 
 
 
-### Question 19
+### Question 8.6
 
-Linda Oliva is an attorney who represents a man whose son attempted suicide after the son was “cyber-bullied” on FaceBook. Linda intends to file a civil suit against the cyber-bullies to recover damages allegedly caused by their actions. No court in Linda's jurisdiction has ever considered whether there is a civil cause of action for "cyber-bullying.” May Linda file this case, consistent with her responsibilities under the Model Rules of Professional Conduct? 
+Defendant is on trial for murder. Prosecutor is seeking the death penalty. Prosecutor has obtained unprivileged information showing that Defendant suffered extreme abuse and neglect as as a child. Prosecutor knows that this information would be significant mitigation evidence at the sentencing phase of trial. Which of the following statements most accurately reflects Prosecutor 's options under the Model Rules of Professional Conduct? 
 
-
-### Question 20
-
-Penny Lapp is an attorney who has just learned that her client changed the date on a crucial document in order to help defeat an argument that the client's claim is barred by the applicable statute of limitations. The document was admitted into evidence during the trial. The case has been submitted to the jury. What obligation, if any, does Penny have with respect to the falsified document? 
+a. Prosecutor must make timely disclosure of the evidence to the defense. 
+b. Prosecutor need not disclose the evidence to the defense because it does not relate to the defendant's guilt. 
+c. Prosecutor need not disclose the evidence to the defense because it is attorney work product. 
+d. Prosecutor must disclose the evidence to the defense if and when the defense requests it.

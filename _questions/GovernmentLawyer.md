@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: Government Lawyers & Prosecutors
+title: Government Lawyer Conflicts
 
 ---
 
@@ -60,38 +60,7 @@ Altman, a lawyer for the SEC, supervised an investigation and litigation against
 
 Prior to his election as City Attorney, Herrera represented Cobra Solutions, Inc. in various matters, including dealings with the City. Following an investigation, which began under the direction of Herrera's predecessor in office, the City sued Cobra for fraud in connection with a city contract. 
 
-- Is Herrera disqualified from representing the City in the suit against Cobra? Yes, based on the duties of confidentiality and loyalty, because the suit was substantially related to the subject of Herrera's prior representation of Cobra
-- Is the disqualification imputed to the rest of the City Attorney's office? Yes. “Public perception that a city attorney and his deputies might be influenced by the city attorney's previous representations of the client, at the expense of the best interests of the city, would insidiously undermine public confidence in the integrity of municipal government and its city attorney's office."
+- Is Herrera disqualified from representing the City in the suit against Cobra? 
 
-### Question 9
-
-A, B, and C are charged with raping X. Immediately after the alleged rape, X was treated at a local emergency room. While in the hospital, the nurse completed a “rape kit," which included material that could be tested for DNA. When Prosecutor sent the rape kit to the lab for testing, the DNA of several men were found on the X's body and undergarments. None of the DNA tests, however, matched A, B, or C. Despite requests by defense counsel, Prosecutor failed to disclose the DNA matches of the other men in the rape kit. 
-
-Is Prosecutor subject to discipline?
-
-### Question 10
-
-Prosecutor plans to run for reelection in 6 months. Last year two teenage girls were kidnapped from a shopping center and sexually assaulted. The community was in an uproar and demanded a conviction. Four months ago, Defendant was arrested and charged with the crimes. The trial is scheduled for next week. Prosecutor met with the police chief last week and learned for the first time that, before they were interviewed, the two victims had been tape-recorded discussing the case. Reviewing the tape, Prosecutor realized that the girls' descriptions of the assailant differed significantly. When officially interviewed, however, their descriptions matched perfectly. Defendant's counsel, who had the right to request access to the prosecution's investigative file, failed to do so because of her busy schedule. Prosecutor reasonably believes Defendant committed the crimes, so Prosecutor did not reveal the existence of the tape to defense counsel. 
-
-- Is Prosecutor subject to discipline?
-- Is Defendant's counsel subject to discipline?
-
-### Question 11
-
-Prosecutor was assigned to try a criminal case against Defendant, who was charged with robbery of a convenience store. Defndant denied any involvement, contending that he was home watching television with his mother on the night in question. At the trial, Witness, a customer at the convenience store, testified that he had identified Defendant in a police line-up and provided other testimony connecting Defendant to the crime. In addition, Prosecutor entered into evidence a poor-quality videotape of the robbery as recorded by the store surveillance camera. The jury convicted Defendant of the crime charged. Unknown to Defendant's court-appointed lawyer, Witness had first identified another person in the police line-up and selected Defendant only after encouragement by the detective. Prosecutor was aware of these facts but did not notify Defendant's counsel who made no pretrial discovery request to obtain this information. 
-
-Is Prosecutor subject to discipline?
-
-a. Yes, unless the jury could make its own identification of Deft from the videotape.
-
-b. Yes, because this information tended to negate Defendant's guilt.
-
-c. No, because Defendant's counsel made no pretrial discovery request to obtain this information.
-
-d. No, unless it is likely that the jury would have acquitted Defendant had it known that Witness first identified someone else.
-
-### Question 12
-
-Five year ago, Defendant was convicted of armed robbery in Green County and sentenced to imprisonment for 10 years. Two years ago, Lawyer is elected District Attorney for Green County. Last week, Lawyer was presented with convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
-
-What are Lawyer's ethical obligations?
+- Is the disqualification imputed to the rest of the City Attorney's office? 
+ 
