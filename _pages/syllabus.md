@@ -100,6 +100,6 @@ The Law School honor code applies to all activities related to your law school s
  November 15| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37
     |    |   
  November 20  | Final Review |  &nbsp;
- December 1 | Final Exam | &nbsp;
+ November 30 | Final Exam | &nbsp;
  
 _Note: This class will not meet on Sept. 4 and 25._

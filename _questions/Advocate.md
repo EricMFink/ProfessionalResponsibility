@@ -139,7 +139,7 @@ d. Attorney may not communicate with the juror, unless the communication is auth
 Attorney represents Defendant, who is charged with murdering Victim. Attorney held a press conference during which Attorney made the following statements: 
 
 - "Defendant is innocent and had nothing at all to do with Victim's death." 
-- "Victim's body was discovered wrapped in a rug. Tests of Defendant's car showed no no fibers matching that rug." 
+- "Victim's body was discovered wrapped in a rug. Tests of Defendant's car showed no fibers matching that rug." 
  
 Which of the following statements most accurately describes the propriety of Attorney's statement under the Model Rules of Professional Conduct? 
 
@@ -169,48 +169,39 @@ Defendant is charged with murder. The crime scene investigation unit collected D
 
 ### Question 8.2
 
-Prosecutor plans to run for reelection in 6 months. Last year two teenage girls were kidnapped from a shopping center. The community was in an uproar and demanded a conviction. Four months ago, Defendant was arrested and charged with the kidnapping. The trial is scheduled for next week. Prosecutor met with the police chief last week and learned for the first time that, before they were interviewed, the two victims had been tape-recorded discussing the case. Reviewing the tape, Prosecutor realized that the girls' descriptions of the kidnapper differed significantly. When officially interviewed, however, their descriptions matched perfectly. Defendant's counsel, who had the right to request access to the prosecution's investigative file, failed to do so. Prosecutor reasonably believes Defendant committed the crimes, so Prosecutor did not reveal the existence of the tape to defense counsel. 
+Prosecutor plans to run for reelection in 6 months. Last year two teenage girls were kidnapped from a shopping center. The community was in an uproar and demanded a conviction. Four months ago, Defendant was arrested and charged with the kidnapping. The trial is scheduled for next week. Prosecutor met with the police chief last week and learned for the first time that, before they were interviewed, the two victims had been tape-recorded discussing the case. Reviewing the tape, Prosecutor realized that the girls' descriptions of the kidnapper differed significantly. When officially interviewed, however, their descriptions matched perfectly. Defendant's lawyer, who had the right to request access to the prosecution's investigative file, failed to do so. Prosecutor reasonably believes Defendant committed the crimes and did not reveal the existence of the tape to defense counsel. 
 
 - Is Prosecutor subject to discipline?
-- Is Defendant's counsel subject to discipline?
+- Is Defendant's lawyer subject to discipline?
 
 ### Question 8.3
 
-Defendant is charged with robbery of a convenience store. Defendant denied any involvement, contending that he was home watching television with his mother on the night in question. During the trial, Prosecutor calls Customer, who was in the convenience store during the robbery, as a witness. Customer testified that he had identified Defendant in a police line-up and provided other testimony connecting Defendant to the crime. Prosecutor also entered into evidence a poor-quality surveillance camera recording of the robbery. The jury convicted Defendant of the robbery. Unknown to Defendant's lawyer, Customer had first identified another person in the police lineup and selected Defendant only after encouragement by the detective conducting the lineup. Prosecutor was aware of these facts but did not notify Defendant's counsel, who made no pretrial discovery request to obtain this information. 
+Ada was the prosecutor in the trial of a defendant charged with robbery of a convenience store. The defendant denied any involvement, contending that he was home watching television with his mother on the night in question. During the trial, Ada called a witness who was in the convenience store during the robbery. The witness testified that he had identified Defendant in a police line-up and provided other testimony connecting Defendant to the crime. Ada also introduced into evidence a poor-quality surveillance camera recording of the robbery. The jury convicted the defendant of the robbery. Unknown to the defendant's lawyer, the witness had first identified another person in the police lineup and selected the defendant only after encouragement by the detective conducting the lineup. Ada was aware of these facts but did not notify the defendant's counsel, who made no pretrial discovery request to obtain this information. 
 
-Is Prosecutor subject to discipline?
+Is Ada subject to discipline?
 
 
-a. Yes, unless the jury could make its own identification of Deft from the videotape.
+a. Yes, unless the jury could make its own identification of the defendant from the videotape.
 
-b. Yes, because this information tended to negate Defendant's guilt.
+b. Yes, because this information tended to negate the defendant's guilt.
 
-c. No, because Defendant's counsel made no pretrial discovery request to obtain this information.
+c. No, because the defendant's counsel made no pretrial discovery request to obtain this information.
 
-d. No, unless it is likely that the jury would have acquitted Defendant had it known that Witness first identified someone else.
+d. No, unless it is likely that the jury would have acquitted the defendant had it known the witness first identified someone else.
 
 ### Question 8.4
 
-Five year ago, Defendant was convicted of armed robbery in Green County and sentenced to imprisonment for 10 years. Two years ago, Lawyer is elected District Attorney for Green County. Last week, Lawyer was presented with convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
+Five year ago, Defendant was convicted of armed robbery in Guilford County and sentenced to imprisonment for 10 years. Two years ago, Lawyer was elected District Attorney for Guilford County. Last week, Lawyer received convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
 
 What are Lawyer's ethical obligations?
 
 
 ### Question 8.5
 
-Ten years ago, Prosecutor obtained the conviction of Defendant for murder of a young girl. Prosecutor has now received DNA test results that provide clear and convincing evidence that Defendant is innocent of the crime. Which of the following statements most accurately describes Prosecutor's obligations under the Model Rules of Professional Conduct? 
+Ten years ago, Prosecutor obtained the conviction of Defendant for murder. Prosecutor has now received DNA test results that provide clear and convincing evidence that Defendant is innocent of the crime. Which of the following statements most accurately describes Prosecutor's obligations under the Model Rules of Professional Conduct? 
 
 a. Prosecutor has no obligation to do anything about the new evidence. 
 b. Prosecutor must seek to remedy the conviction. 
 c. Prosecutor must promptly disclose the evidence to the defendant and undertake further investigation. 
 d. Prosecutor must promptly disclose the evidence to the court in which the conviction was obtained. 
 
-
-### Question 8.6
-
-Defendant is on trial for murder. Prosecutor is seeking the death penalty. Prosecutor has obtained unprivileged information showing that Defendant suffered extreme abuse and neglect as as a child. Prosecutor knows that this information would be significant mitigation evidence at the sentencing phase of trial. Which of the following statements most accurately reflects Prosecutor 's options under the Model Rules of Professional Conduct? 
-
-a. Prosecutor must make timely disclosure of the evidence to the defense. 
-b. Prosecutor need not disclose the evidence to the defense because it does not relate to the defendant's guilt. 
-c. Prosecutor need not disclose the evidence to the defense because it is attorney work product. 
-d. Prosecutor must disclose the evidence to the defense if and when the defense requests it.
