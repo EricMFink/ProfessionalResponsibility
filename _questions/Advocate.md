@@ -180,7 +180,6 @@ Ada was the prosecutor in the trial of a defendant charged with robbery of a con
 
 Is Ada subject to discipline?
 
-
 a. Yes, unless the jury could make its own identification of the defendant from the videotape.
 
 b. Yes, because this information tended to negate the defendant's guilt.
@@ -191,7 +190,7 @@ d. No, unless it is likely that the jury would have acquitted the defendant had 
 
 ### Question 8.4
 
-Five year ago, Defendant was convicted of armed robbery in Guilford County and sentenced to imprisonment for 10 years. Two years ago, Lawyer was elected District Attorney for Guilford County. Last week, Lawyer received convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
+Five years ago, Defendant was convicted of armed robbery in Guilford County and sentenced to imprisonment for 10 years. Two years ago, Lawyer was elected District Attorney for Guilford County. Last week, Lawyer received convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
 
 What are Lawyer's ethical obligations?
 

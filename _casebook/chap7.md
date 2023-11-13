@@ -318,21 +318,17 @@ We therefore affirm the judgment of the district court but without prejudice to 
 
 ### Fairness & Impartiality
 
+
+<div class="legal-code"> 
+
 #### Model Rules of Professional Conduct, Rule 3.1: Meritorious Claims & Defenses 
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
-</div>
-
-<div class="legal-code"> 
 
 #### Model Rules of Professional Conduct, Rule 3.2: Expediting Litigation 
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
-
-</div>
-
-<div class="legal-code"> 
 
 #### Model Rules of Professional Conduct, Rule 3.4: Fairness to Opposing Party & Counsel
 
@@ -354,9 +350,6 @@ A lawyer shall not:
 
 > (2) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
-</div>
-
-<div class="legal-code"> 
 
 #### Model Rules of Professional Conduct, Rule 3.5: Impartiality and Decorum of the Tribunal
 
@@ -375,10 +368,6 @@ A lawyer shall not:
 > (3) the communication involves misrepresentation, coercion, duress or harassment; or
 
 (d) engage in conduct intended to disrupt a tribunal.
-
-</div>
-
-<div class="legal-code"> 
 
 #### Model Rules of Professional Conduct, Rule 3.7: Lawyer as Witness
 
@@ -505,9 +494,7 @@ The prosecutor in a criminal case shall:
 
 [9] A prosecutor’s independent judgment, made in good faith, that the new evidence is not of such nature as to trigger the obligations of sections (g) and (h), though subsequently determined to have been erroneous, does not constitute a violation of this Rule.
 
-</div>
 
-<class="legal-code">
 
 #### ABA Criminal Justice Standards for the Prosecution Function (2017)
 
