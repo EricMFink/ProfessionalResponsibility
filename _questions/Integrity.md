@@ -2,8 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: Maintaining the Integrity of the Profession
-
+title: Integrity of the Profession
 
 ---
 

@@ -480,7 +480,7 @@ The prosecutor in a criminal case shall:
 
 > > (i) promptly disclose that evidence to the defendant unless a court authorizes delay, and
 
-> (ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
+> > (ii) undertake further investigation, or make reasonable efforts to cause an investigation, to determine whether the defendant was convicted of an offense that the defendant did not commit.
 
 (h) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
