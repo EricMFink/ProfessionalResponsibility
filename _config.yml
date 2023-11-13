@@ -43,11 +43,12 @@ collections:
 
 # Build settings
 
+
 # deployment
 host: localhost
 port: 4000
 
-remote_theme: EricMFink/akademicky
+remote_theme: EricMFink/Akademicky
 
 gems:
   - jekyll-pandoc
@@ -64,7 +65,7 @@ permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock', admin, .admin]
+exclude: ['Gemfile']
 keep_files: [.admin]
 post:
   template: _post.txt
