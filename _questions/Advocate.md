@@ -202,5 +202,4 @@ Ten years ago, Prosecutor obtained the conviction of Defendant for murder. Prose
 a. Prosecutor has no obligation to do anything about the new evidence. 
 b. Prosecutor must seek to remedy the conviction. 
 c. Prosecutor must promptly disclose the evidence to the defendant and undertake further investigation. 
-d. Prosecutor must promptly disclose the evidence to the court in which the conviction was obtained. 
-
+d. Prosecutor must promptly disclose the evidence to the court in which the conviction was obtained.
