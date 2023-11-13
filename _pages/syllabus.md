@@ -3,7 +3,6 @@ layout: syllabus
 title: Syllabus
 permalink: /syllabus/
 
-syllabus: true
 course: Professional Responsibility
 author: Eric M. Fink
 affiliation: Elon Law School
@@ -16,6 +15,8 @@ days: 'Monday & Wednesday 9:45–10:45 am'
 room: 'Room 207'
 ta: Elizabeth Kwon
 ta-email: ekwon@elon.edu
+
+syllabus: true
 
 output:
   pdf_document:
