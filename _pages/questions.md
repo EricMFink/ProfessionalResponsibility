@@ -6,6 +6,9 @@ permalink: /questions/
 
 [Bar Admission & Discipline](http://www.emfink.net/ProfessionalResponsibility/questions/Gatekeeping)
 
+[Duties Within Law Firms](http://www.emfink.net/ProfessionalResponsibility/questions/Firms)
+
+
 [Advertising & Solicitation](http://www.emfink.net/ProfessionalResponsibility/questions/Advertising)
 
 [Attorney-Client Relationship](http://www.emfink.net/ProfessionalResponsibility/questions/Attorney-Client)
