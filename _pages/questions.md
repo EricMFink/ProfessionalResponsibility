@@ -4,7 +4,7 @@ title: Questions
 permalink: /questions/
 ---
 
-[Integrity of the Profession](http://www.emfink.net/ProfessionalResponsibility/questions/Gatekeeping)
+[Bar Admission & Discipline](http://www.emfink.net/ProfessionalResponsibility/questions/Gatekeeping)
 
 [Advertising & Solicitation](http://www.emfink.net/ProfessionalResponsibility/questions/Advertising)
 
@@ -18,4 +18,4 @@ permalink: /questions/
 
 [Conflicts of Interest](http://www.emfink.net/ProfessionalResponsibility/questions/Conflicts)
 
-[Attorney as Advocate](http://www.emfink.net/ProfessionalResponsibility/questions/Advocacy)
+[Duties in Litigation](http://www.emfink.net/ProfessionalResponsibility/questions/Advocacy)

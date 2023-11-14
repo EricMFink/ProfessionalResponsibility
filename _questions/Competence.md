@@ -31,37 +31,37 @@ Anderson is an associate with the law firm of Peterson & Paulson. Peterson & Pau
 
 Which of the lawyers, if any, may be subject to discipline for breach of the duty of competence under MRPC Rule 1.1? 
 
-A. Anderson only
+a. Anderson only
 
-B. Anderson and Peterson, but not Paulson
+b. Anderson and Peterson, but not Paulson
 
-C. Anderson, Peterson, & Paulson.
+c. Anderson, Peterson, & Paulson.
 
-D. None.
+d. None.
 
 ### Question 5 
 
 Same facts as the previous question. Which of the lawyers, if any, may be liable to Company for malpractice? 
 
-A. Anderson only
+a. Anderson only
 
-B. Anderson and Peterson, but not Paulson
+b. Anderson and Peterson, but not Paulson
 
-C. Anderson, Peterson, & Paulson.
+c. Anderson, Peterson, & Paulson.
 
-D. None.
+d. None.
 
 ### Question 6 
 
 For many years Attorney has done all of the routine business law work for Corporation. Now Corporation has asked Attorney to represent it in negotiating a contract to supply electronic components to the federal government. Attorney knows nothing about government contract law except that it is a highly specialized field governed by a mass of technical regulations. For which of the following would Attorney be subject to discipline under the MRPC?
 
-A. Declining to represent Corporation, and to charge Carmondy a nominal fee for finding Carmondy a lawyer who specializes in government contract law.
+a. Declining to represent Corporation, and to charge Carmondy a nominal fee for finding Carmondy a lawyer who specializes in government contract law.
 
-B. Agreeing to represent Corporation, provided Corporation consents to the association of a lawyer with experience in government contract law.
+b. Agreeing to represent Corporation, provided Corporation consents to the association of a lawyer with experience in government contract law.
 
-C. Agreeing to represent Corporation, and then subcontracting the legal work to a lawyer with experience in government contract law.
+c. Agreeing to represent Corporation, and then subcontracting the legal work to a lawyer with experience in government contract law.
 
-D. Agreeing to represent Corporation, intending to master the field of government contract law with reasonable speed and efficiency.
+d. Agreeing to represent Corporation, intending to master the field of government contract law with reasonable speed and efficiency.
 
 ### Question 7
 
