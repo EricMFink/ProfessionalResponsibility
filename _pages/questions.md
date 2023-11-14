@@ -22,3 +22,5 @@ permalink: /questions/
 [Conflicts of Interest](http://www.emfink.net/ProfessionalResponsibility/questions/Conflicts)
 
 [Duties in Litigation](http://www.emfink.net/ProfessionalResponsibility/questions/Advocacy)
+
+[Dealing with Non-Clients](http://www.emfink.net/ProfessionalResponsibility/questions/Nonclients)
