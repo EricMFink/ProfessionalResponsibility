@@ -4,8 +4,6 @@ chapter: 2
 title: Advertising & Solicitation
 ---
 
-<p class="chapter-number">Chapter 2</p>
-
 # Advertising & Solicitation 
 
 ## Advertising

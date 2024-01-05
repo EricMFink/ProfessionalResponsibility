@@ -4,8 +4,6 @@ chapter: 4
 title: Duty of Care
 ---
 
-<p class="chapter-number">Chapter 4</p>
-
 # The Duty of Care
 
 ## Competence, Diligence, & Communication

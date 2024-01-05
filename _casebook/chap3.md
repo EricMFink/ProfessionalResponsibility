@@ -4,8 +4,6 @@ chapter: 3
 title: The Attorney-Client Relationship
 ---
 
-<p class="chapter-number">Chapter 3</p>
-
 # The Attorney-Client Relationship
 
 ## Establishing and Ending the Relationship 
